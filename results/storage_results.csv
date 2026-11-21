@@ -1,0 +1,25 @@
+market,year,store,net_rs_t,april_rs_t,gain_rs_t
+Gujarat,2023,Ventilated,7591.5607,7591.5607,0.0000
+Gujarat,2023,Cold,17444.6846,7591.5607,9853.1240
+Gujarat,2023,"Cold, 5% loss",12041.2918,7591.5607,4449.7312
+Gujarat,2023,"Cold, double cost",10414.2903,7591.5607,2822.7297
+Gujarat,2024,Ventilated,12006.4767,12006.4767,0.0000
+Gujarat,2024,Cold,22221.9929,12006.4767,10215.5162
+Gujarat,2024,"Cold, 5% loss",18730.3930,12006.4767,6723.9163
+Gujarat,2024,"Cold, double cost",19229.5859,12006.4767,7223.1092
+Lasalgaon (NHRDF),2017,Ventilated,4090.0000,4090.0000,0.0000
+Lasalgaon (NHRDF),2017,Cold,4090.0000,4090.0000,0.0000
+Lasalgaon (NHRDF),2017,"Cold, 5% loss",4090.0000,4090.0000,0.0000
+Lasalgaon (NHRDF),2017,"Cold, double cost",4090.0000,4090.0000,0.0000
+Lasalgaon (NHRDF),2018,Ventilated,6700.0000,6700.0000,0.0000
+Lasalgaon (NHRDF),2018,Cold,6700.0000,6700.0000,0.0000
+Lasalgaon (NHRDF),2018,"Cold, 5% loss",6700.0000,6700.0000,0.0000
+Lasalgaon (NHRDF),2018,"Cold, double cost",6700.0000,6700.0000,0.0000
+Maharashtra,2023,Ventilated,5935.0405,5935.0405,0.0000
+Maharashtra,2023,Cold,16668.4848,5935.0405,10733.4443
+Maharashtra,2023,"Cold, 5% loss",13482.0487,5935.0405,7547.0082
+Maharashtra,2023,"Cold, double cost",13676.0778,5935.0405,7741.0373
+Maharashtra,2024,Ventilated,11586.8579,11586.8579,0.0000
+Maharashtra,2024,Cold,20813.2630,11586.8579,9226.4051
+Maharashtra,2024,"Cold, 5% loss",17014.5868,11586.8579,5427.7289
+Maharashtra,2024,"Cold, double cost",17685.2424,11586.8579,6098.3845

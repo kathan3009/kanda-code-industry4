@@ -1,0 +1,4 @@
+market,months,min_rs_q,max_rs_q,april_index,lowest_month,peak_month,peak_index,selected_model,arrivals_beta,hac_p
+Gujarat,132,404.3312,6276.3954,0.5821,4,11,1.4543,Trend and month effects,-0.0154,0.8737
+Lasalgaon (NHRDF),282,140.0000,4593.0000,0.6080,4,10,1.4612,Last price,,
+Maharashtra,132,451.0649,5055.7127,0.5527,4,11,1.5461,Trend and month effects,-0.4420,0.0131

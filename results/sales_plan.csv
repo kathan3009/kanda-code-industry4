@@ -1,0 +1,217 @@
+market,month,store,sold_t,end_stock_t
+Gujarat,2023-04,Ventilated,1000.0000,-0.0000
+Gujarat,2023-05,Ventilated,0.0000,-0.0000
+Gujarat,2023-06,Ventilated,0.0000,-0.0000
+Gujarat,2023-07,Ventilated,0.0000,-0.0000
+Gujarat,2023-08,Ventilated,0.0000,-0.0000
+Gujarat,2023-09,Ventilated,0.0000,-0.0000
+Gujarat,2023-10,Ventilated,0.0000,0.0000
+Gujarat,2023-11,Ventilated,-0.0000,-0.0000
+Gujarat,2023-12,Ventilated,0.0000,0.0000
+Gujarat,2023-04,Cold,300.0000,700.0000
+Gujarat,2023-05,Cold,0.0000,687.1558
+Gujarat,2023-06,Cold,0.0000,674.5473
+Gujarat,2023-07,Cold,0.0000,662.1701
+Gujarat,2023-08,Cold,21.5610,628.4590
+Gujarat,2023-09,Cold,0.0000,616.9275
+Gujarat,2023-10,Cold,300.0000,305.6076
+Gujarat,2023-11,Cold,300.0000,0.0000
+Gujarat,2023-12,Cold,-0.0000,0.0000
+Gujarat,2023-04,"Cold, 5% loss",300.0000,700.0000
+Gujarat,2023-05,"Cold, 5% loss",0.0000,665.0000
+Gujarat,2023-06,"Cold, 5% loss",0.0000,631.7500
+Gujarat,2023-07,"Cold, 5% loss",0.0000,600.1625
+Gujarat,2023-08,"Cold, 5% loss",237.7444,332.4100
+Gujarat,2023-09,"Cold, 5% loss",0.0000,315.7895
+Gujarat,2023-10,"Cold, 5% loss",300.0000,-0.0000
+Gujarat,2023-11,"Cold, 5% loss",0.0000,0.0000
+Gujarat,2023-12,"Cold, 5% loss",-0.0000,0.0000
+Gujarat,2023-04,"Cold, double cost",300.0000,700.0000
+Gujarat,2023-05,"Cold, double cost",0.0000,687.1558
+Gujarat,2023-06,"Cold, double cost",300.0000,374.5473
+Gujarat,2023-07,"Cold, double cost",0.0000,367.6747
+Gujarat,2023-08,"Cold, double cost",49.6084,311.3199
+Gujarat,2023-09,"Cold, double cost",0.0000,305.6076
+Gujarat,2023-10,"Cold, double cost",300.0000,-0.0000
+Gujarat,2023-11,"Cold, double cost",0.0000,0.0000
+Gujarat,2023-12,"Cold, double cost",-0.0000,0.0000
+Gujarat,2024-04,Ventilated,1000.0000,-0.0000
+Gujarat,2024-05,Ventilated,0.0000,-0.0000
+Gujarat,2024-06,Ventilated,0.0000,-0.0000
+Gujarat,2024-07,Ventilated,0.0000,-0.0000
+Gujarat,2024-08,Ventilated,0.0000,-0.0000
+Gujarat,2024-09,Ventilated,0.0000,-0.0000
+Gujarat,2024-10,Ventilated,0.0000,0.0000
+Gujarat,2024-11,Ventilated,-0.0000,-0.0000
+Gujarat,2024-12,Ventilated,0.0000,0.0000
+Gujarat,2024-04,Cold,300.0000,700.0000
+Gujarat,2024-05,Cold,0.0000,687.1558
+Gujarat,2024-06,Cold,0.0000,674.5473
+Gujarat,2024-07,Cold,0.0000,662.1701
+Gujarat,2024-08,Cold,21.5610,628.4590
+Gujarat,2024-09,Cold,0.0000,616.9275
+Gujarat,2024-10,Cold,300.0000,305.6076
+Gujarat,2024-11,Cold,300.0000,0.0000
+Gujarat,2024-12,Cold,-0.0000,0.0000
+Gujarat,2024-04,"Cold, 5% loss",300.0000,700.0000
+Gujarat,2024-05,"Cold, 5% loss",0.0000,665.0000
+Gujarat,2024-06,"Cold, 5% loss",0.0000,631.7500
+Gujarat,2024-07,"Cold, 5% loss",0.0000,600.1625
+Gujarat,2024-08,"Cold, 5% loss",0.0000,570.1544
+Gujarat,2024-09,"Cold, 5% loss",0.0000,541.6467
+Gujarat,2024-10,"Cold, 5% loss",300.0000,214.5643
+Gujarat,2024-11,"Cold, 5% loss",203.8361,0.0000
+Gujarat,2024-12,"Cold, 5% loss",-0.0000,0.0000
+Gujarat,2024-04,"Cold, double cost",300.0000,700.0000
+Gujarat,2024-05,"Cold, double cost",0.0000,687.1558
+Gujarat,2024-06,"Cold, double cost",0.0000,674.5473
+Gujarat,2024-07,"Cold, double cost",0.0000,662.1701
+Gujarat,2024-08,"Cold, double cost",21.5610,628.4590
+Gujarat,2024-09,"Cold, double cost",0.0000,616.9275
+Gujarat,2024-10,"Cold, double cost",300.0000,305.6076
+Gujarat,2024-11,"Cold, double cost",300.0000,0.0000
+Gujarat,2024-12,"Cold, double cost",-0.0000,0.0000
+Lasalgaon (NHRDF),2017-04,Ventilated,1000.0000,-0.0000
+Lasalgaon (NHRDF),2017-05,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-06,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-07,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-08,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-09,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-10,Ventilated,0.0000,0.0000
+Lasalgaon (NHRDF),2017-11,Ventilated,-0.0000,-0.0000
+Lasalgaon (NHRDF),2017-12,Ventilated,0.0000,0.0000
+Lasalgaon (NHRDF),2017-04,Cold,1000.0000,-0.0000
+Lasalgaon (NHRDF),2017-05,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-06,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-07,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-08,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-09,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-10,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2017-11,Cold,0.0000,0.0000
+Lasalgaon (NHRDF),2017-12,Cold,-0.0000,0.0000
+Lasalgaon (NHRDF),2017-04,"Cold, 5% loss",1000.0000,-0.0000
+Lasalgaon (NHRDF),2017-05,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-06,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-07,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-08,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-09,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-10,"Cold, 5% loss",0.0000,0.0000
+Lasalgaon (NHRDF),2017-11,"Cold, 5% loss",-0.0000,-0.0000
+Lasalgaon (NHRDF),2017-12,"Cold, 5% loss",0.0000,0.0000
+Lasalgaon (NHRDF),2017-04,"Cold, double cost",1000.0000,-0.0000
+Lasalgaon (NHRDF),2017-05,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-06,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-07,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-08,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-09,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-10,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2017-11,"Cold, double cost",0.0000,0.0000
+Lasalgaon (NHRDF),2017-12,"Cold, double cost",-0.0000,0.0000
+Lasalgaon (NHRDF),2018-04,Ventilated,1000.0000,-0.0000
+Lasalgaon (NHRDF),2018-05,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-06,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-07,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-08,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-09,Ventilated,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-10,Ventilated,0.0000,0.0000
+Lasalgaon (NHRDF),2018-11,Ventilated,-0.0000,-0.0000
+Lasalgaon (NHRDF),2018-12,Ventilated,0.0000,0.0000
+Lasalgaon (NHRDF),2018-04,Cold,1000.0000,-0.0000
+Lasalgaon (NHRDF),2018-05,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-06,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-07,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-08,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-09,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-10,Cold,0.0000,-0.0000
+Lasalgaon (NHRDF),2018-11,Cold,0.0000,0.0000
+Lasalgaon (NHRDF),2018-12,Cold,-0.0000,0.0000
+Lasalgaon (NHRDF),2018-04,"Cold, 5% loss",1000.0000,-0.0000
+Lasalgaon (NHRDF),2018-05,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-06,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-07,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-08,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-09,"Cold, 5% loss",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-10,"Cold, 5% loss",0.0000,0.0000
+Lasalgaon (NHRDF),2018-11,"Cold, 5% loss",-0.0000,-0.0000
+Lasalgaon (NHRDF),2018-12,"Cold, 5% loss",0.0000,0.0000
+Lasalgaon (NHRDF),2018-04,"Cold, double cost",1000.0000,-0.0000
+Lasalgaon (NHRDF),2018-05,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-06,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-07,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-08,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-09,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-10,"Cold, double cost",0.0000,-0.0000
+Lasalgaon (NHRDF),2018-11,"Cold, double cost",0.0000,0.0000
+Lasalgaon (NHRDF),2018-12,"Cold, double cost",-0.0000,0.0000
+Maharashtra,2023-04,Ventilated,1000.0000,-0.0000
+Maharashtra,2023-05,Ventilated,0.0000,-0.0000
+Maharashtra,2023-06,Ventilated,0.0000,-0.0000
+Maharashtra,2023-07,Ventilated,0.0000,-0.0000
+Maharashtra,2023-08,Ventilated,0.0000,-0.0000
+Maharashtra,2023-09,Ventilated,0.0000,-0.0000
+Maharashtra,2023-10,Ventilated,0.0000,0.0000
+Maharashtra,2023-11,Ventilated,-0.0000,-0.0000
+Maharashtra,2023-12,Ventilated,0.0000,0.0000
+Maharashtra,2023-04,Cold,300.0000,700.0000
+Maharashtra,2023-05,Cold,0.0000,687.1558
+Maharashtra,2023-06,Cold,0.0000,674.5473
+Maharashtra,2023-07,Cold,0.0000,662.1701
+Maharashtra,2023-08,Cold,21.5610,628.4590
+Maharashtra,2023-09,Cold,0.0000,616.9275
+Maharashtra,2023-10,Cold,300.0000,305.6076
+Maharashtra,2023-11,Cold,300.0000,0.0000
+Maharashtra,2023-12,Cold,-0.0000,0.0000
+Maharashtra,2023-04,"Cold, 5% loss",300.0000,700.0000
+Maharashtra,2023-05,"Cold, 5% loss",0.0000,665.0000
+Maharashtra,2023-06,"Cold, 5% loss",0.0000,631.7500
+Maharashtra,2023-07,"Cold, 5% loss",0.0000,600.1625
+Maharashtra,2023-08,"Cold, 5% loss",0.0000,570.1544
+Maharashtra,2023-09,"Cold, 5% loss",0.0000,541.6467
+Maharashtra,2023-10,"Cold, 5% loss",300.0000,214.5643
+Maharashtra,2023-11,"Cold, 5% loss",203.8361,0.0000
+Maharashtra,2023-12,"Cold, 5% loss",-0.0000,0.0000
+Maharashtra,2023-04,"Cold, double cost",300.0000,700.0000
+Maharashtra,2023-05,"Cold, double cost",0.0000,687.1558
+Maharashtra,2023-06,"Cold, double cost",0.0000,674.5473
+Maharashtra,2023-07,"Cold, double cost",0.0000,662.1701
+Maharashtra,2023-08,"Cold, double cost",21.5610,628.4590
+Maharashtra,2023-09,"Cold, double cost",0.0000,616.9275
+Maharashtra,2023-10,"Cold, double cost",300.0000,305.6076
+Maharashtra,2023-11,"Cold, double cost",300.0000,0.0000
+Maharashtra,2023-12,"Cold, double cost",-0.0000,0.0000
+Maharashtra,2024-04,Ventilated,1000.0000,-0.0000
+Maharashtra,2024-05,Ventilated,0.0000,-0.0000
+Maharashtra,2024-06,Ventilated,0.0000,-0.0000
+Maharashtra,2024-07,Ventilated,0.0000,-0.0000
+Maharashtra,2024-08,Ventilated,0.0000,-0.0000
+Maharashtra,2024-09,Ventilated,0.0000,-0.0000
+Maharashtra,2024-10,Ventilated,0.0000,0.0000
+Maharashtra,2024-11,Ventilated,-0.0000,-0.0000
+Maharashtra,2024-12,Ventilated,0.0000,0.0000
+Maharashtra,2024-04,Cold,300.0000,700.0000
+Maharashtra,2024-05,Cold,0.0000,687.1558
+Maharashtra,2024-06,Cold,0.0000,674.5473
+Maharashtra,2024-07,Cold,0.0000,662.1701
+Maharashtra,2024-08,Cold,0.0000,650.0200
+Maharashtra,2024-09,Cold,21.1654,616.9275
+Maharashtra,2024-10,Cold,300.0000,305.6076
+Maharashtra,2024-11,Cold,300.0000,0.0000
+Maharashtra,2024-12,Cold,-0.0000,0.0000
+Maharashtra,2024-04,"Cold, 5% loss",300.0000,700.0000
+Maharashtra,2024-05,"Cold, 5% loss",0.0000,665.0000
+Maharashtra,2024-06,"Cold, 5% loss",0.0000,631.7500
+Maharashtra,2024-07,"Cold, 5% loss",0.0000,600.1625
+Maharashtra,2024-08,"Cold, 5% loss",0.0000,570.1544
+Maharashtra,2024-09,"Cold, 5% loss",0.0000,541.6467
+Maharashtra,2024-10,"Cold, 5% loss",300.0000,214.5643
+Maharashtra,2024-11,"Cold, 5% loss",203.8361,0.0000
+Maharashtra,2024-12,"Cold, 5% loss",-0.0000,0.0000
+Maharashtra,2024-04,"Cold, double cost",300.0000,700.0000
+Maharashtra,2024-05,"Cold, double cost",0.0000,687.1558
+Maharashtra,2024-06,"Cold, double cost",0.0000,674.5473
+Maharashtra,2024-07,"Cold, double cost",0.0000,662.1701
+Maharashtra,2024-08,"Cold, double cost",21.5610,628.4590
+Maharashtra,2024-09,"Cold, double cost",0.0000,616.9275
+Maharashtra,2024-10,"Cold, double cost",300.0000,305.6076
+Maharashtra,2024-11,"Cold, double cost",300.0000,0.0000
+Maharashtra,2024-12,"Cold, double cost",-0.0000,0.0000

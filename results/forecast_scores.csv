@@ -1,0 +1,19 @@
+market,method,mae_rs_q,mape_pct,split
+Gujarat,Last price,776.4095,38.6384,validation
+Gujarat,Same month last year,810.7187,42.1984,validation
+Gujarat,Trend and month effects,716.2846,37.1164,validation
+Gujarat,Last price,1055.7440,40.9768,test
+Gujarat,Same month last year,738.8059,31.0090,test
+Gujarat,Trend and month effects,636.1044,24.8083,test
+Lasalgaon (NHRDF),Last price,829.0278,34.9449,validation
+Lasalgaon (NHRDF),Same month last year,1377.6667,110.2923,validation
+Lasalgaon (NHRDF),Trend and month effects,949.0923,59.4711,validation
+Lasalgaon (NHRDF),Last price,599.7778,34.7046,test
+Lasalgaon (NHRDF),Same month last year,939.3333,84.8023,test
+Lasalgaon (NHRDF),Trend and month effects,533.5846,56.2167,test
+Maharashtra,Last price,818.3289,44.4400,validation
+Maharashtra,Same month last year,785.8021,42.0576,validation
+Maharashtra,Trend and month effects,695.9852,36.9412,validation
+Maharashtra,Last price,1125.3343,45.6171,test
+Maharashtra,Same month last year,740.4096,34.8434,test
+Maharashtra,Trend and month effects,660.4832,29.5039,test
