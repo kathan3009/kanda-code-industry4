@@ -1,0 +1,129 @@
+region,state,year,model,store,observed_months,gain_rs_t
+East,Bihar,2023,Calendar + arrivals + weather,Ventilated,8,
+East,Bihar,2023,Calendar + arrivals + weather,Cold,8,
+East,Bihar,2023,Calendar + arrivals + weather,"Cold, 5% loss",8,
+East,Bihar,2023,Calendar + arrivals + weather,"Cold, double cost",8,
+East,Bihar,2023,Pooled seasonality,Ventilated,8,
+East,Bihar,2023,Pooled seasonality,Cold,8,
+East,Bihar,2023,Pooled seasonality,"Cold, 5% loss",8,
+East,Bihar,2023,Pooled seasonality,"Cold, double cost",8,
+East,Bihar,2024,Calendar + arrivals + weather,Ventilated,9,0.000000
+East,Bihar,2024,Calendar + arrivals + weather,Cold,9,9927.087758
+East,Bihar,2024,Calendar + arrivals + weather,"Cold, 5% loss",9,4289.306823
+East,Bihar,2024,Calendar + arrivals + weather,"Cold, double cost",9,6934.680758
+East,Bihar,2024,Pooled seasonality,Ventilated,9,0.000000
+East,Bihar,2024,Pooled seasonality,Cold,9,9925.954884
+East,Bihar,2024,Pooled seasonality,"Cold, 5% loss",9,4881.100859
+East,Bihar,2024,Pooled seasonality,"Cold, double cost",9,7373.469179
+East,West Bengal,2023,Calendar + arrivals + weather,Ventilated,9,0.000000
+East,West Bengal,2023,Calendar + arrivals + weather,Cold,9,12599.060932
+East,West Bengal,2023,Calendar + arrivals + weather,"Cold, 5% loss",9,4046.080298
+East,West Bengal,2023,Calendar + arrivals + weather,"Cold, double cost",9,4984.438426
+East,West Bengal,2023,Pooled seasonality,Ventilated,9,0.000000
+East,West Bengal,2023,Pooled seasonality,Cold,9,7146.324839
+East,West Bengal,2023,Pooled seasonality,"Cold, 5% loss",9,3108.030909
+East,West Bengal,2023,Pooled seasonality,"Cold, double cost",9,2321.969970
+East,West Bengal,2024,Calendar + arrivals + weather,Ventilated,9,0.000000
+East,West Bengal,2024,Calendar + arrivals + weather,Cold,9,15161.124247
+East,West Bengal,2024,Calendar + arrivals + weather,"Cold, 5% loss",9,9495.700073
+East,West Bengal,2024,Calendar + arrivals + weather,"Cold, double cost",9,12168.717248
+East,West Bengal,2024,Pooled seasonality,Ventilated,9,0.000000
+East,West Bengal,2024,Pooled seasonality,Cold,9,13504.493364
+East,West Bengal,2024,Pooled seasonality,"Cold, 5% loss",9,8685.365087
+East,West Bengal,2024,Pooled seasonality,"Cold, double cost",9,10952.007659
+North,Haryana,2023,Calendar + arrivals + weather,Ventilated,9,0.000000
+North,Haryana,2023,Calendar + arrivals + weather,Cold,9,6403.464857
+North,Haryana,2023,Calendar + arrivals + weather,"Cold, 5% loss",9,1277.442662
+North,Haryana,2023,Calendar + arrivals + weather,"Cold, double cost",9,0.000000
+North,Haryana,2023,Pooled seasonality,Ventilated,9,0.000000
+North,Haryana,2023,Pooled seasonality,Cold,9,2735.808084
+North,Haryana,2023,Pooled seasonality,"Cold, 5% loss",9,1277.442662
+North,Haryana,2023,Pooled seasonality,"Cold, double cost",9,0.000000
+North,Haryana,2024,Calendar + arrivals + weather,Ventilated,9,0.000000
+North,Haryana,2024,Calendar + arrivals + weather,Cold,9,7396.832219
+North,Haryana,2024,Calendar + arrivals + weather,"Cold, 5% loss",9,3944.514413
+North,Haryana,2024,Calendar + arrivals + weather,"Cold, double cost",9,2784.676410
+North,Haryana,2024,Pooled seasonality,Ventilated,9,0.000000
+North,Haryana,2024,Pooled seasonality,Cold,9,8497.428500
+North,Haryana,2024,Pooled seasonality,"Cold, 5% loss",9,3944.514413
+North,Haryana,2024,Pooled seasonality,"Cold, double cost",9,5944.942795
+North,Rajasthan,2023,Calendar + arrivals + weather,Ventilated,9,0.000000
+North,Rajasthan,2023,Calendar + arrivals + weather,Cold,9,3846.394764
+North,Rajasthan,2023,Calendar + arrivals + weather,"Cold, 5% loss",9,473.765706
+North,Rajasthan,2023,Calendar + arrivals + weather,"Cold, double cost",9,0.000000
+North,Rajasthan,2023,Pooled seasonality,Ventilated,9,0.000000
+North,Rajasthan,2023,Pooled seasonality,Cold,9,2391.181432
+North,Rajasthan,2023,Pooled seasonality,"Cold, 5% loss",9,0.000000
+North,Rajasthan,2023,Pooled seasonality,"Cold, double cost",9,0.000000
+North,Rajasthan,2024,Calendar + arrivals + weather,Ventilated,9,0.000000
+North,Rajasthan,2024,Calendar + arrivals + weather,Cold,9,9247.843005
+North,Rajasthan,2024,Calendar + arrivals + weather,"Cold, 5% loss",9,7132.862761
+North,Rajasthan,2024,Calendar + arrivals + weather,"Cold, double cost",9,0.000000
+North,Rajasthan,2024,Pooled seasonality,Ventilated,9,0.000000
+North,Rajasthan,2024,Pooled seasonality,Cold,9,10719.924219
+North,Rajasthan,2024,Pooled seasonality,"Cold, 5% loss",9,7132.862761
+North,Rajasthan,2024,Pooled seasonality,"Cold, double cost",9,7743.452462
+South,Andhra Pradesh,2023,Calendar + arrivals + weather,Ventilated,8,
+South,Andhra Pradesh,2023,Calendar + arrivals + weather,Cold,8,
+South,Andhra Pradesh,2023,Calendar + arrivals + weather,"Cold, 5% loss",8,
+South,Andhra Pradesh,2023,Calendar + arrivals + weather,"Cold, double cost",8,
+South,Andhra Pradesh,2023,Pooled seasonality,Ventilated,8,
+South,Andhra Pradesh,2023,Pooled seasonality,Cold,8,
+South,Andhra Pradesh,2023,Pooled seasonality,"Cold, 5% loss",8,
+South,Andhra Pradesh,2023,Pooled seasonality,"Cold, double cost",8,
+South,Andhra Pradesh,2024,Calendar + arrivals + weather,Ventilated,9,0.000000
+South,Andhra Pradesh,2024,Calendar + arrivals + weather,Cold,9,14602.035020
+South,Andhra Pradesh,2024,Calendar + arrivals + weather,"Cold, 5% loss",9,12383.738414
+South,Andhra Pradesh,2024,Calendar + arrivals + weather,"Cold, double cost",9,6502.527038
+South,Andhra Pradesh,2024,Pooled seasonality,Ventilated,9,0.000000
+South,Andhra Pradesh,2024,Pooled seasonality,Cold,9,19189.155258
+South,Andhra Pradesh,2024,Pooled seasonality,"Cold, 5% loss",9,12158.350373
+South,Andhra Pradesh,2024,Pooled seasonality,"Cold, double cost",9,13716.118950
+South,Karnataka,2023,Calendar + arrivals + weather,Ventilated,9,0.000000
+South,Karnataka,2023,Calendar + arrivals + weather,Cold,9,9687.613538
+South,Karnataka,2023,Calendar + arrivals + weather,"Cold, 5% loss",9,884.706150
+South,Karnataka,2023,Calendar + arrivals + weather,"Cold, double cost",9,0.000000
+South,Karnataka,2023,Pooled seasonality,Ventilated,9,0.000000
+South,Karnataka,2023,Pooled seasonality,Cold,9,5010.324098
+South,Karnataka,2023,Pooled seasonality,"Cold, 5% loss",9,3372.747625
+South,Karnataka,2023,Pooled seasonality,"Cold, double cost",9,0.000000
+South,Karnataka,2024,Calendar + arrivals + weather,Ventilated,9,0.000000
+South,Karnataka,2024,Calendar + arrivals + weather,Cold,9,5979.458089
+South,Karnataka,2024,Calendar + arrivals + weather,"Cold, 5% loss",9,4253.020738
+South,Karnataka,2024,Calendar + arrivals + weather,"Cold, double cost",9,0.000000
+South,Karnataka,2024,Pooled seasonality,Ventilated,9,0.000000
+South,Karnataka,2024,Pooled seasonality,Cold,9,7246.980214
+South,Karnataka,2024,Pooled seasonality,"Cold, 5% loss",9,3931.703734
+South,Karnataka,2024,Pooled seasonality,"Cold, double cost",9,4542.042556
+West,Gujarat,2023,Calendar + arrivals + weather,Ventilated,9,0.000000
+West,Gujarat,2023,Calendar + arrivals + weather,Cold,9,9853.124000
+West,Gujarat,2023,Calendar + arrivals + weather,"Cold, 5% loss",9,4449.731184
+West,Gujarat,2023,Calendar + arrivals + weather,"Cold, double cost",9,0.000000
+West,Gujarat,2023,Pooled seasonality,Ventilated,9,0.000000
+West,Gujarat,2023,Pooled seasonality,Cold,9,5015.361907
+West,Gujarat,2023,Pooled seasonality,"Cold, 5% loss",9,3398.026274
+West,Gujarat,2023,Pooled seasonality,"Cold, double cost",9,0.000000
+West,Gujarat,2024,Calendar + arrivals + weather,Ventilated,9,0.000000
+West,Gujarat,2024,Calendar + arrivals + weather,Cold,9,10215.516218
+West,Gujarat,2024,Calendar + arrivals + weather,"Cold, 5% loss",9,7542.391381
+West,Gujarat,2024,Calendar + arrivals + weather,"Cold, double cost",9,4569.528932
+West,Gujarat,2024,Pooled seasonality,Ventilated,9,0.000000
+West,Gujarat,2024,Pooled seasonality,Cold,9,12381.199690
+West,Gujarat,2024,Pooled seasonality,"Cold, 5% loss",9,7542.391381
+West,Gujarat,2024,Pooled seasonality,"Cold, double cost",9,8302.439500
+West,Maharashtra,2023,Calendar + arrivals + weather,Ventilated,9,0.000000
+West,Maharashtra,2023,Calendar + arrivals + weather,Cold,9,10733.444341
+West,Maharashtra,2023,Calendar + arrivals + weather,"Cold, 5% loss",9,4834.362434
+West,Maharashtra,2023,Calendar + arrivals + weather,"Cold, double cost",9,0.000000
+West,Maharashtra,2023,Pooled seasonality,Ventilated,9,0.000000
+West,Maharashtra,2023,Pooled seasonality,Cold,9,4561.926080
+West,Maharashtra,2023,Pooled seasonality,"Cold, 5% loss",9,0.000000
+West,Maharashtra,2023,Pooled seasonality,"Cold, double cost",9,0.000000
+West,Maharashtra,2024,Calendar + arrivals + weather,Ventilated,9,0.000000
+West,Maharashtra,2024,Calendar + arrivals + weather,Cold,9,9090.791516
+West,Maharashtra,2024,Calendar + arrivals + weather,"Cold, 5% loss",9,5897.044904
+West,Maharashtra,2024,Calendar + arrivals + weather,"Cold, double cost",9,0.000000
+West,Maharashtra,2024,Pooled seasonality,Ventilated,9,0.000000
+West,Maharashtra,2024,Pooled seasonality,Cold,9,10701.638792
+West,Maharashtra,2024,Pooled seasonality,"Cold, 5% loss",9,5897.044904
+West,Maharashtra,2024,Pooled seasonality,"Cold, double cost",9,6657.204250

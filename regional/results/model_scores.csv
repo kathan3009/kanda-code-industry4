@@ -1,0 +1,13 @@
+split,model,mape_pct,mae_rs_q
+test,Calendar + arrivals,34.379931,1019.407908
+test,Calendar + arrivals + weather,33.927150,975.365141
+test,Calendar ridge,34.361164,1019.256163
+test,March price,41.755178,1232.260155
+test,Pooled seasonality,28.596813,805.793669
+test,Recent seasonality,25.276633,683.172423
+validation,Calendar + arrivals,28.960512,338.555779
+validation,Calendar + arrivals + weather,15.556759,180.262415
+validation,Calendar ridge,28.969115,338.688041
+validation,March price,25.242727,302.077106
+validation,Pooled seasonality,53.400347,697.257615
+validation,Recent seasonality,77.140966,1069.143459

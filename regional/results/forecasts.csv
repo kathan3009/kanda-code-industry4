@@ -1,0 +1,1297 @@
+state,year,target,actual,model,forecast,region,production_2023_24_kt,split,balanced
+Andhra Pradesh,2022,4,684.123753,March price,1052.618111,South,512.790000,validation,True
+Andhra Pradesh,2022,5,578.151677,March price,1052.618111,South,512.790000,validation,True
+Andhra Pradesh,2022,6,908.358356,March price,1052.618111,South,512.790000,validation,True
+Andhra Pradesh,2022,7,894.787426,March price,1052.618111,South,512.790000,validation,True
+Andhra Pradesh,2022,8,818.382823,March price,1052.618111,South,512.790000,validation,True
+Andhra Pradesh,2022,9,738.155174,March price,1052.618111,South,512.790000,validation,True
+Andhra Pradesh,2022,10,836.153584,March price,1052.618111,South,512.790000,validation,True
+Andhra Pradesh,2022,11,1024.842781,March price,1052.618111,South,512.790000,validation,True
+Andhra Pradesh,2022,12,1057.590186,March price,1052.618111,South,512.790000,validation,True
+Bihar,2022,4,1286.986569,March price,2010.585111,East,1387.760000,validation,True
+Bihar,2022,5,1227.834028,March price,2010.585111,East,1387.760000,validation,True
+Bihar,2022,6,1383.821233,March price,2010.585111,East,1387.760000,validation,True
+Bihar,2022,7,1501.677001,March price,2010.585111,East,1387.760000,validation,True
+Bihar,2022,8,1506.546450,March price,2010.585111,East,1387.760000,validation,True
+Bihar,2022,9,1442.482423,March price,2010.585111,East,1387.760000,validation,True
+Bihar,2022,10,1736.943975,March price,2010.585111,East,1387.760000,validation,True
+Bihar,2022,11,1961.689377,March price,2010.585111,East,1387.760000,validation,True
+Bihar,2022,12,1714.033727,March price,2010.585111,East,1387.760000,validation,True
+Gujarat,2022,4,791.439084,March price,1125.159890,West,2057.000000,validation,True
+Gujarat,2022,5,885.734625,March price,1125.159890,West,2057.000000,validation,True
+Gujarat,2022,6,1077.387199,March price,1125.159890,West,2057.000000,validation,True
+Gujarat,2022,7,1112.557357,March price,1125.159890,West,2057.000000,validation,True
+Gujarat,2022,8,998.155437,March price,1125.159890,West,2057.000000,validation,True
+Gujarat,2022,9,962.844461,March price,1125.159890,West,2057.000000,validation,True
+Gujarat,2022,10,1446.646189,March price,1125.159890,West,2057.000000,validation,True
+Gujarat,2022,11,1521.941475,March price,1125.159890,West,2057.000000,validation,True
+Gujarat,2022,12,1137.359468,March price,1125.159890,West,2057.000000,validation,True
+Haryana,2022,4,1160.475116,March price,1625.971575,North,541.000000,validation,True
+Haryana,2022,5,924.278920,March price,1625.971575,North,541.000000,validation,True
+Haryana,2022,6,1105.185120,March price,1625.971575,North,541.000000,validation,True
+Haryana,2022,7,1345.300347,March price,1625.971575,North,541.000000,validation,True
+Haryana,2022,8,1360.326172,March price,1625.971575,North,541.000000,validation,True
+Haryana,2022,9,1378.577994,March price,1625.971575,North,541.000000,validation,True
+Haryana,2022,10,1508.178860,March price,1625.971575,North,541.000000,validation,True
+Haryana,2022,11,1534.211873,March price,1625.971575,North,541.000000,validation,True
+Haryana,2022,12,1345.375412,March price,1625.971575,North,541.000000,validation,True
+Karnataka,2022,4,1017.419415,March price,1276.510499,South,1637.890000,validation,True
+Karnataka,2022,5,965.872506,March price,1276.510499,South,1637.890000,validation,True
+Karnataka,2022,6,1211.571665,March price,1276.510499,South,1637.890000,validation,True
+Karnataka,2022,7,1292.489921,March price,1276.510499,South,1637.890000,validation,True
+Karnataka,2022,8,1116.166535,March price,1276.510499,South,1637.890000,validation,True
+Karnataka,2022,9,1094.333712,March price,1276.510499,South,1637.890000,validation,True
+Karnataka,2022,10,1446.293966,March price,1276.510499,South,1637.890000,validation,True
+Karnataka,2022,11,1813.334027,March price,1276.510499,South,1637.890000,validation,True
+Karnataka,2022,12,1458.736204,March price,1276.510499,South,1637.890000,validation,True
+Maharashtra,2022,4,796.227793,March price,1118.106444,West,8602.000000,validation,True
+Maharashtra,2022,5,809.431390,March price,1118.106444,West,8602.000000,validation,True
+Maharashtra,2022,6,1108.205208,March price,1118.106444,West,8602.000000,validation,True
+Maharashtra,2022,7,1111.824739,March price,1118.106444,West,8602.000000,validation,True
+Maharashtra,2022,8,1078.746196,March price,1118.106444,West,8602.000000,validation,True
+Maharashtra,2022,9,1083.418180,March price,1118.106444,West,8602.000000,validation,True
+Maharashtra,2022,10,1725.806937,March price,1118.106444,West,8602.000000,validation,True
+Maharashtra,2022,11,1764.106292,March price,1118.106444,West,8602.000000,validation,True
+Maharashtra,2022,12,1305.374933,March price,1118.106444,West,8602.000000,validation,True
+Rajasthan,2022,4,692.107611,March price,1128.919857,North,1630.500000,validation,True
+Rajasthan,2022,5,684.459116,March price,1128.919857,North,1630.500000,validation,True
+Rajasthan,2022,6,991.131127,March price,1128.919857,North,1630.500000,validation,True
+Rajasthan,2022,7,1249.006754,March price,1128.919857,North,1630.500000,validation,True
+Rajasthan,2022,8,1311.940281,March price,1128.919857,North,1630.500000,validation,True
+Rajasthan,2022,9,1159.773782,March price,1128.919857,North,1630.500000,validation,True
+Rajasthan,2022,10,1330.594643,March price,1128.919857,North,1630.500000,validation,True
+Rajasthan,2022,11,1414.049942,March price,1128.919857,North,1630.500000,validation,True
+Rajasthan,2022,12,1275.612757,March price,1128.919857,North,1630.500000,validation,True
+West Bengal,2022,4,1346.500000,March price,2260.733696,East,857.000000,validation,True
+West Bengal,2022,5,1361.317829,March price,2260.733696,East,857.000000,validation,True
+West Bengal,2022,6,1609.262166,March price,2260.733696,East,857.000000,validation,True
+West Bengal,2022,7,1792.773723,March price,2260.733696,East,857.000000,validation,True
+West Bengal,2022,8,1819.230769,March price,2260.733696,East,857.000000,validation,True
+West Bengal,2022,9,1792.413793,March price,2260.733696,East,857.000000,validation,True
+West Bengal,2022,10,2663.035714,March price,2260.733696,East,857.000000,validation,True
+West Bengal,2022,11,2488.031496,March price,2260.733696,East,857.000000,validation,True
+West Bengal,2022,12,1915.316901,March price,2260.733696,East,857.000000,validation,True
+Andhra Pradesh,2022,4,684.123753,Pooled seasonality,936.515904,South,512.790000,validation,True
+Andhra Pradesh,2022,5,578.151677,Pooled seasonality,886.453486,South,512.790000,validation,True
+Andhra Pradesh,2022,6,908.358356,Pooled seasonality,1123.179379,South,512.790000,validation,True
+Andhra Pradesh,2022,7,894.787426,Pooled seasonality,1310.450614,South,512.790000,validation,True
+Andhra Pradesh,2022,8,818.382823,Pooled seasonality,1764.040476,South,512.790000,validation,True
+Andhra Pradesh,2022,9,738.155174,Pooled seasonality,1704.619681,South,512.790000,validation,True
+Andhra Pradesh,2022,10,836.153584,Pooled seasonality,1929.091068,South,512.790000,validation,True
+Andhra Pradesh,2022,11,1024.842781,Pooled seasonality,1729.560554,South,512.790000,validation,True
+Andhra Pradesh,2022,12,1057.590186,Pooled seasonality,1521.014663,South,512.790000,validation,True
+Bihar,2022,4,1286.986569,Pooled seasonality,1788.820574,East,1387.760000,validation,True
+Bihar,2022,5,1227.834028,Pooled seasonality,1693.197336,East,1387.760000,validation,True
+Bihar,2022,6,1383.821233,Pooled seasonality,2145.362800,East,1387.760000,validation,True
+Bihar,2022,7,1501.677001,Pooled seasonality,2503.065894,East,1387.760000,validation,True
+Bihar,2022,8,1506.546450,Pooled seasonality,3369.458953,East,1387.760000,validation,True
+Bihar,2022,9,1442.482423,Pooled seasonality,3255.960464,East,1387.760000,validation,True
+Bihar,2022,10,1736.943975,Pooled seasonality,3684.718836,East,1387.760000,validation,True
+Bihar,2022,11,1961.689377,Pooled seasonality,3303.599532,East,1387.760000,validation,True
+Bihar,2022,12,1714.033727,Pooled seasonality,2905.260136,East,1387.760000,validation,True
+Gujarat,2022,4,791.439084,Pooled seasonality,1001.056433,West,2057.000000,validation,True
+Gujarat,2022,5,885.734625,Pooled seasonality,947.543935,West,2057.000000,validation,True
+Gujarat,2022,6,1077.387199,Pooled seasonality,1200.583929,West,2057.000000,validation,True
+Gujarat,2022,7,1112.557357,Pooled seasonality,1400.761067,West,2057.000000,validation,True
+Gujarat,2022,8,998.155437,Pooled seasonality,1885.610335,West,2057.000000,validation,True
+Gujarat,2022,9,962.844461,Pooled seasonality,1822.094522,West,2057.000000,validation,True
+Gujarat,2022,10,1446.646189,Pooled seasonality,2062.035483,West,2057.000000,validation,True
+Gujarat,2022,11,1521.941475,Pooled seasonality,1848.754209,West,2057.000000,validation,True
+Gujarat,2022,12,1137.359468,Pooled seasonality,1625.836259,West,2057.000000,validation,True
+Haryana,2022,4,1160.475116,Pooled seasonality,1446.629337,North,541.000000,validation,True
+Haryana,2022,5,924.278920,Pooled seasonality,1369.298283,North,541.000000,validation,True
+Haryana,2022,6,1105.185120,Pooled seasonality,1734.967056,North,541.000000,validation,True
+Haryana,2022,7,1345.300347,Pooled seasonality,2024.243576,North,541.000000,validation,True
+Haryana,2022,8,1360.326172,Pooled seasonality,2724.900553,North,541.000000,validation,True
+Haryana,2022,9,1378.577994,Pooled seasonality,2633.113681,North,541.000000,validation,True
+Haryana,2022,10,1508.178860,Pooled seasonality,2979.853007,North,541.000000,validation,True
+Haryana,2022,11,1534.211873,Pooled seasonality,2671.639666,North,541.000000,validation,True
+Haryana,2022,12,1345.375412,Pooled seasonality,2349.500338,North,541.000000,validation,True
+Karnataka,2022,4,1017.419415,Pooled seasonality,1135.713296,South,1637.890000,validation,True
+Karnataka,2022,5,965.872506,Pooled seasonality,1075.002578,South,1637.890000,validation,True
+Karnataka,2022,6,1211.571665,Pooled seasonality,1362.080184,South,1637.890000,validation,True
+Karnataka,2022,7,1292.489921,Pooled seasonality,1589.184102,South,1637.890000,validation,True
+Karnataka,2022,8,1116.166535,Pooled seasonality,2139.252751,South,1637.890000,validation,True
+Karnataka,2022,9,1094.333712,Pooled seasonality,2067.193124,South,1637.890000,validation,True
+Karnataka,2022,10,1446.293966,Pooled seasonality,2339.409685,South,1637.890000,validation,True
+Karnataka,2022,11,1813.334027,Pooled seasonality,2097.438932,South,1637.890000,validation,True
+Karnataka,2022,12,1458.736204,Pooled seasonality,1844.535228,South,1637.890000,validation,True
+Maharashtra,2022,4,796.227793,Pooled seasonality,994.780971,West,8602.000000,validation,True
+Maharashtra,2022,5,809.431390,Pooled seasonality,941.603935,West,8602.000000,validation,True
+Maharashtra,2022,6,1108.205208,Pooled seasonality,1193.057661,West,8602.000000,validation,True
+Maharashtra,2022,7,1111.824739,Pooled seasonality,1391.979922,West,8602.000000,validation,True
+Maharashtra,2022,8,1078.746196,Pooled seasonality,1873.789747,West,8602.000000,validation,True
+Maharashtra,2022,9,1083.418180,Pooled seasonality,1810.672105,West,8602.000000,validation,True
+Maharashtra,2022,10,1725.806937,Pooled seasonality,2049.108914,West,8602.000000,validation,True
+Maharashtra,2022,11,1764.106292,Pooled seasonality,1837.164666,West,8602.000000,validation,True
+Maharashtra,2022,12,1305.374933,Pooled seasonality,1615.644153,West,8602.000000,validation,True
+Rajasthan,2022,4,692.107611,Pooled seasonality,1004.401681,North,1630.500000,validation,True
+Rajasthan,2022,5,684.459116,Pooled seasonality,950.710360,North,1630.500000,validation,True
+Rajasthan,2022,6,991.131127,Pooled seasonality,1204.595942,North,1630.500000,validation,True
+Rajasthan,2022,7,1249.006754,Pooled seasonality,1405.442016,North,1630.500000,validation,True
+Rajasthan,2022,8,1311.940281,Pooled seasonality,1891.911513,North,1630.500000,validation,True
+Rajasthan,2022,9,1159.773782,Pooled seasonality,1828.183448,North,1630.500000,validation,True
+Rajasthan,2022,10,1330.594643,Pooled seasonality,2068.926224,North,1630.500000,validation,True
+Rajasthan,2022,11,1414.049942,Pooled seasonality,1854.932224,North,1630.500000,validation,True
+Rajasthan,2022,12,1275.612757,Pooled seasonality,1631.269345,North,1630.500000,validation,True
+West Bengal,2022,4,1346.500000,Pooled seasonality,2011.378143,East,857.000000,validation,True
+West Bengal,2022,5,1361.317829,Pooled seasonality,1903.857862,East,857.000000,validation,True
+West Bengal,2022,6,1609.262166,Pooled seasonality,2412.279860,East,857.000000,validation,True
+West Bengal,2022,7,1792.773723,Pooled seasonality,2814.486877,East,857.000000,validation,True
+West Bengal,2022,8,1819.230769,Pooled seasonality,3788.672934,East,857.000000,validation,True
+West Bengal,2022,9,1792.413793,Pooled seasonality,3661.053437,East,857.000000,validation,True
+West Bengal,2022,10,2663.035714,Pooled seasonality,4143.156132,East,857.000000,validation,True
+West Bengal,2022,11,2488.031496,Pooled seasonality,3714.619559,East,857.000000,validation,True
+West Bengal,2022,12,1915.316901,Pooled seasonality,3266.720443,East,857.000000,validation,True
+Andhra Pradesh,2022,4,684.123753,Recent seasonality,858.680452,South,512.790000,validation,True
+Andhra Pradesh,2022,5,578.151677,Recent seasonality,873.465283,South,512.790000,validation,True
+Andhra Pradesh,2022,6,908.358356,Recent seasonality,1149.958412,South,512.790000,validation,True
+Andhra Pradesh,2022,7,894.787426,Recent seasonality,1287.444810,South,512.790000,validation,True
+Andhra Pradesh,2022,8,818.382823,Recent seasonality,1561.802917,South,512.790000,validation,True
+Andhra Pradesh,2022,9,738.155174,Recent seasonality,1752.745420,South,512.790000,validation,True
+Andhra Pradesh,2022,10,836.153584,Recent seasonality,2278.710663,South,512.790000,validation,True
+Andhra Pradesh,2022,11,1024.842781,Recent seasonality,2632.889429,South,512.790000,validation,True
+Andhra Pradesh,2022,12,1057.590186,Recent seasonality,2939.233714,South,512.790000,validation,True
+Bihar,2022,4,1286.986569,Recent seasonality,1640.148612,East,1387.760000,validation,True
+Bihar,2022,5,1227.834028,Recent seasonality,1668.388825,East,1387.760000,validation,True
+Bihar,2022,6,1383.821233,Recent seasonality,2196.512903,East,1387.760000,validation,True
+Bihar,2022,7,1501.677001,Recent seasonality,2459.122962,East,1387.760000,validation,True
+Bihar,2022,8,1506.546450,Recent seasonality,2983.168977,East,1387.760000,validation,True
+Bihar,2022,9,1442.482423,Recent seasonality,3347.884488,East,1387.760000,validation,True
+Bihar,2022,10,1736.943975,Recent seasonality,4352.520335,East,1387.760000,validation,True
+Bihar,2022,11,1961.689377,Recent seasonality,5029.030216,East,1387.760000,validation,True
+Bihar,2022,12,1714.033727,Recent seasonality,5614.172399,East,1387.760000,validation,True
+Gujarat,2022,4,791.439084,Recent seasonality,917.856907,West,2057.000000,validation,True
+Gujarat,2022,5,885.734625,Recent seasonality,933.660643,West,2057.000000,validation,True
+Gujarat,2022,6,1077.387199,Recent seasonality,1229.208454,West,2057.000000,validation,True
+Gujarat,2022,7,1112.557357,Recent seasonality,1376.169805,West,2057.000000,validation,True
+Gujarat,2022,8,998.155437,Recent seasonality,1669.435459,West,2057.000000,validation,True
+Gujarat,2022,9,962.844461,Recent seasonality,1873.536873,West,2057.000000,validation,True
+Gujarat,2022,10,1446.646189,Recent seasonality,2435.749312,West,2057.000000,validation,True
+Gujarat,2022,11,1521.941475,Recent seasonality,2814.336510,West,2057.000000,validation,True
+Gujarat,2022,12,1137.359468,Recent seasonality,3141.792687,West,2057.000000,validation,True
+Haryana,2022,4,1160.475116,Recent seasonality,1326.397478,North,541.000000,validation,True
+Haryana,2022,5,924.278920,Recent seasonality,1349.235499,North,541.000000,validation,True
+Haryana,2022,6,1105.185120,Recent seasonality,1776.332434,North,541.000000,validation,True
+Haryana,2022,7,1345.300347,Recent seasonality,1988.706677,North,541.000000,validation,True
+Haryana,2022,8,1360.326172,Recent seasonality,2412.505660,North,541.000000,validation,True
+Haryana,2022,9,1378.577994,Recent seasonality,2707.453161,North,541.000000,validation,True
+Haryana,2022,10,1508.178860,Recent seasonality,3519.907865,North,541.000000,validation,True
+Haryana,2022,11,1534.211873,Recent seasonality,4067.005240,North,541.000000,validation,True
+Haryana,2022,12,1345.375412,Recent seasonality,4540.213039,North,541.000000,validation,True
+Karnataka,2022,4,1017.419415,Recent seasonality,1041.322206,South,1637.890000,validation,True
+Karnataka,2022,5,965.872506,Recent seasonality,1059.251777,South,1637.890000,validation,True
+Karnataka,2022,6,1211.571665,Recent seasonality,1394.555131,South,1637.890000,validation,True
+Karnataka,2022,7,1292.489921,Recent seasonality,1561.284952,South,1637.890000,validation,True
+Karnataka,2022,8,1116.166535,Recent seasonality,1893.999164,South,1637.890000,validation,True
+Karnataka,2022,9,1094.333712,Recent seasonality,2125.555231,South,1637.890000,validation,True
+Karnataka,2022,10,1446.293966,Recent seasonality,2763.393539,South,1637.890000,validation,True
+Karnataka,2022,11,1813.334027,Recent seasonality,3192.906302,South,1637.890000,validation,True
+Karnataka,2022,12,1458.736204,Recent seasonality,3564.410167,South,1637.890000,validation,True
+Maharashtra,2022,4,796.227793,Recent seasonality,912.103010,West,8602.000000,validation,True
+Maharashtra,2022,5,809.431390,Recent seasonality,927.807674,West,8602.000000,validation,True
+Maharashtra,2022,6,1108.205208,Recent seasonality,1221.502744,West,8602.000000,validation,True
+Maharashtra,2022,7,1111.824739,Recent seasonality,1367.542818,West,8602.000000,validation,True
+Maharashtra,2022,8,1078.746196,Recent seasonality,1658.970037,West,8602.000000,validation,True
+Maharashtra,2022,9,1083.418180,Recent seasonality,1861.791972,West,8602.000000,validation,True
+Maharashtra,2022,10,1725.806937,Recent seasonality,2420.479992,West,8602.000000,validation,True
+Maharashtra,2022,11,1764.106292,Recent seasonality,2796.693887,West,8602.000000,validation,True
+Maharashtra,2022,12,1305.374933,Recent seasonality,3122.097294,West,8602.000000,validation,True
+Rajasthan,2022,4,692.107611,Recent seasonality,920.924126,North,1630.500000,validation,True
+Rajasthan,2022,5,684.459116,Recent seasonality,936.780673,North,1630.500000,validation,True
+Rajasthan,2022,6,991.131127,Recent seasonality,1233.316122,North,1630.500000,validation,True
+Rajasthan,2022,7,1249.006754,Recent seasonality,1380.768577,North,1630.500000,validation,True
+Rajasthan,2022,8,1311.940281,Recent seasonality,1675.014241,North,1630.500000,validation,True
+Rajasthan,2022,9,1159.773782,Recent seasonality,1879.797705,North,1630.500000,validation,True
+Rajasthan,2022,10,1330.594643,Recent seasonality,2443.888899,North,1630.500000,validation,True
+Rajasthan,2022,11,1414.049942,Recent seasonality,2823.741229,North,1630.500000,validation,True
+Rajasthan,2022,12,1275.612757,Recent seasonality,3152.291672,North,1630.500000,validation,True
+West Bengal,2022,4,1346.500000,Recent seasonality,1844.209038,East,857.000000,validation,True
+West Bengal,2022,5,1361.317829,Recent seasonality,1875.962780,East,857.000000,validation,True
+West Bengal,2022,6,1609.262166,Recent seasonality,2469.793845,East,857.000000,validation,True
+West Bengal,2022,7,1792.773723,Recent seasonality,2765.076748,East,857.000000,validation,True
+West Bengal,2022,8,1819.230769,Recent seasonality,3354.322375,East,857.000000,validation,True
+West Bengal,2022,9,1792.413793,Recent seasonality,3764.414264,East,857.000000,validation,True
+West Bengal,2022,10,2663.035714,Recent seasonality,4894.042699,East,857.000000,validation,True
+West Bengal,2022,11,2488.031496,Recent seasonality,5654.721108,East,857.000000,validation,True
+West Bengal,2022,12,1915.316901,Recent seasonality,6312.664231,East,857.000000,validation,True
+Andhra Pradesh,2022,4,684.123753,Calendar ridge,911.054374,South,512.790000,validation,True
+Andhra Pradesh,2022,5,578.151677,Calendar ridge,954.315911,South,512.790000,validation,True
+Andhra Pradesh,2022,6,908.358356,Calendar ridge,1262.066419,South,512.790000,validation,True
+Andhra Pradesh,2022,7,894.787426,Calendar ridge,1399.041670,South,512.790000,validation,True
+Andhra Pradesh,2022,8,818.382823,Calendar ridge,1591.749721,South,512.790000,validation,True
+Andhra Pradesh,2022,9,738.155174,Calendar ridge,1531.828928,South,512.790000,validation,True
+Andhra Pradesh,2022,10,836.153584,Calendar ridge,1573.251970,South,512.790000,validation,True
+Andhra Pradesh,2022,11,1024.842781,Calendar ridge,1620.060380,South,512.790000,validation,True
+Andhra Pradesh,2022,12,1057.590186,Calendar ridge,1421.084830,South,512.790000,validation,True
+Bihar,2022,4,1286.986569,Calendar ridge,1277.401318,East,1387.760000,validation,True
+Bihar,2022,5,1227.834028,Calendar ridge,1288.308472,East,1387.760000,validation,True
+Bihar,2022,6,1383.821233,Calendar ridge,1570.038659,East,1387.760000,validation,True
+Bihar,2022,7,1501.677001,Calendar ridge,1733.903152,East,1387.760000,validation,True
+Bihar,2022,8,1506.546450,Calendar ridge,2001.021196,East,1387.760000,validation,True
+Bihar,2022,9,1442.482423,Calendar ridge,2082.680582,East,1387.760000,validation,True
+Bihar,2022,10,1736.943975,Calendar ridge,2280.437521,East,1387.760000,validation,True
+Bihar,2022,11,1961.689377,Calendar ridge,2336.003318,East,1387.760000,validation,True
+Bihar,2022,12,1714.033727,Calendar ridge,2089.524946,East,1387.760000,validation,True
+Gujarat,2022,4,791.439084,Calendar ridge,920.172226,West,2057.000000,validation,True
+Gujarat,2022,5,885.734625,Calendar ridge,940.794696,West,2057.000000,validation,True
+Gujarat,2022,6,1077.387199,Calendar ridge,1194.328219,West,2057.000000,validation,True
+Gujarat,2022,7,1112.557357,Calendar ridge,1306.927041,West,2057.000000,validation,True
+Gujarat,2022,8,998.155437,Calendar ridge,1541.068836,West,2057.000000,validation,True
+Gujarat,2022,9,962.844461,Calendar ridge,1591.315514,West,2057.000000,validation,True
+Gujarat,2022,10,1446.646189,Calendar ridge,1859.402563,West,2057.000000,validation,True
+Gujarat,2022,11,1521.941475,Calendar ridge,1863.796276,West,2057.000000,validation,True
+Gujarat,2022,12,1137.359468,Calendar ridge,1687.964971,West,2057.000000,validation,True
+Haryana,2022,4,1160.475116,Calendar ridge,1145.726751,North,541.000000,validation,True
+Haryana,2022,5,924.278920,Calendar ridge,1099.179959,North,541.000000,validation,True
+Haryana,2022,6,1105.185120,Calendar ridge,1327.841783,North,541.000000,validation,True
+Haryana,2022,7,1345.300347,Calendar ridge,1521.123674,North,541.000000,validation,True
+Haryana,2022,8,1360.326172,Calendar ridge,1775.146092,North,541.000000,validation,True
+Haryana,2022,9,1378.577994,Calendar ridge,1953.132568,North,541.000000,validation,True
+Haryana,2022,10,1508.178860,Calendar ridge,2201.630053,North,541.000000,validation,True
+Haryana,2022,11,1534.211873,Calendar ridge,2201.712048,North,541.000000,validation,True
+Haryana,2022,12,1345.375412,Calendar ridge,1944.850398,North,541.000000,validation,True
+Karnataka,2022,4,1017.419415,Calendar ridge,999.028322,South,1637.890000,validation,True
+Karnataka,2022,5,965.872506,Calendar ridge,1019.460047,South,1637.890000,validation,True
+Karnataka,2022,6,1211.571665,Calendar ridge,1279.682612,South,1637.890000,validation,True
+Karnataka,2022,7,1292.489921,Calendar ridge,1422.686098,South,1637.890000,validation,True
+Karnataka,2022,8,1116.166535,Calendar ridge,1676.617959,South,1637.890000,validation,True
+Karnataka,2022,9,1094.333712,Calendar ridge,1730.384530,South,1637.890000,validation,True
+Karnataka,2022,10,1446.293966,Calendar ridge,1929.598470,South,1637.890000,validation,True
+Karnataka,2022,11,1813.334027,Calendar ridge,2039.457343,South,1637.890000,validation,True
+Karnataka,2022,12,1458.736204,Calendar ridge,1842.096616,South,1637.890000,validation,True
+Maharashtra,2022,4,796.227793,Calendar ridge,929.134802,West,8602.000000,validation,True
+Maharashtra,2022,5,809.431390,Calendar ridge,938.974450,West,8602.000000,validation,True
+Maharashtra,2022,6,1108.205208,Calendar ridge,1184.851101,West,8602.000000,validation,True
+Maharashtra,2022,7,1111.824739,Calendar ridge,1315.971445,West,8602.000000,validation,True
+Maharashtra,2022,8,1078.746196,Calendar ridge,1598.097193,West,8602.000000,validation,True
+Maharashtra,2022,9,1083.418180,Calendar ridge,1681.789725,West,8602.000000,validation,True
+Maharashtra,2022,10,1725.806937,Calendar ridge,1896.784160,West,8602.000000,validation,True
+Maharashtra,2022,11,1764.106292,Calendar ridge,1970.419214,West,8602.000000,validation,True
+Maharashtra,2022,12,1305.374933,Calendar ridge,1729.850181,West,8602.000000,validation,True
+Rajasthan,2022,4,692.107611,Calendar ridge,936.730905,North,1630.500000,validation,True
+Rajasthan,2022,5,684.459116,Calendar ridge,903.070866,North,1630.500000,validation,True
+Rajasthan,2022,6,991.131127,Calendar ridge,1103.192581,North,1630.500000,validation,True
+Rajasthan,2022,7,1249.006754,Calendar ridge,1282.621203,North,1630.500000,validation,True
+Rajasthan,2022,8,1311.940281,Calendar ridge,1518.780580,North,1630.500000,validation,True
+Rajasthan,2022,9,1159.773782,Calendar ridge,1688.807184,North,1630.500000,validation,True
+Rajasthan,2022,10,1330.594643,Calendar ridge,1826.442050,North,1630.500000,validation,True
+Rajasthan,2022,11,1414.049942,Calendar ridge,1869.721906,North,1630.500000,validation,True
+Rajasthan,2022,12,1275.612757,Calendar ridge,1660.299514,North,1630.500000,validation,True
+West Bengal,2022,4,1346.500000,Calendar ridge,1369.669818,East,857.000000,validation,True
+West Bengal,2022,5,1361.317829,Calendar ridge,1435.225402,East,857.000000,validation,True
+West Bengal,2022,6,1609.262166,Calendar ridge,1779.409932,East,857.000000,validation,True
+West Bengal,2022,7,1792.773723,Calendar ridge,1973.608719,East,857.000000,validation,True
+West Bengal,2022,8,1819.230769,Calendar ridge,2340.524048,East,857.000000,validation,True
+West Bengal,2022,9,1792.413793,Calendar ridge,2440.908644,East,857.000000,validation,True
+West Bengal,2022,10,2663.035714,Calendar ridge,2740.952223,East,857.000000,validation,True
+West Bengal,2022,11,2488.031496,Calendar ridge,2864.244322,East,857.000000,validation,True
+West Bengal,2022,12,1915.316901,Calendar ridge,2375.561989,East,857.000000,validation,True
+Andhra Pradesh,2022,4,684.123753,Calendar + arrivals,909.675908,South,512.790000,validation,True
+Andhra Pradesh,2022,5,578.151677,Calendar + arrivals,952.871988,South,512.790000,validation,True
+Andhra Pradesh,2022,6,908.358356,Calendar + arrivals,1260.156856,South,512.790000,validation,True
+Andhra Pradesh,2022,7,894.787426,Calendar + arrivals,1396.677172,South,512.790000,validation,True
+Andhra Pradesh,2022,8,818.382823,Calendar + arrivals,1589.059529,South,512.790000,validation,True
+Andhra Pradesh,2022,9,738.155174,Calendar + arrivals,1529.240008,South,512.790000,validation,True
+Andhra Pradesh,2022,10,836.153584,Calendar + arrivals,1570.593041,South,512.790000,validation,True
+Andhra Pradesh,2022,11,1024.842781,Calendar + arrivals,1617.322341,South,512.790000,validation,True
+Andhra Pradesh,2022,12,1057.590186,Calendar + arrivals,1418.479079,South,512.790000,validation,True
+Bihar,2022,4,1286.986569,Calendar + arrivals,1275.379321,East,1387.760000,validation,True
+Bihar,2022,5,1227.834028,Calendar + arrivals,1286.269210,East,1387.760000,validation,True
+Bihar,2022,6,1383.821233,Calendar + arrivals,1567.553447,East,1387.760000,validation,True
+Bihar,2022,7,1501.677001,Calendar + arrivals,1731.092780,East,1387.760000,validation,True
+Bihar,2022,8,1506.546450,Calendar + arrivals,1997.777870,East,1387.760000,validation,True
+Bihar,2022,9,1442.482423,Calendar + arrivals,2079.304899,East,1387.760000,validation,True
+Bihar,2022,10,1736.943975,Calendar + arrivals,2276.741306,East,1387.760000,validation,True
+Bihar,2022,11,1961.689377,Calendar + arrivals,2332.217041,East,1387.760000,validation,True
+Bihar,2022,12,1714.033727,Calendar + arrivals,2086.040368,East,1387.760000,validation,True
+Gujarat,2022,4,791.439084,Calendar + arrivals,922.484281,West,2057.000000,validation,True
+Gujarat,2022,5,885.734625,Calendar + arrivals,943.158568,West,2057.000000,validation,True
+Gujarat,2022,6,1077.387199,Calendar + arrivals,1197.329127,West,2057.000000,validation,True
+Gujarat,2022,7,1112.557357,Calendar + arrivals,1310.183211,West,2057.000000,validation,True
+Gujarat,2022,8,998.155437,Calendar + arrivals,1544.908363,West,2057.000000,validation,True
+Gujarat,2022,9,962.844461,Calendar + arrivals,1595.280229,West,2057.000000,validation,True
+Gujarat,2022,10,1446.646189,Calendar + arrivals,1864.035209,West,2057.000000,validation,True
+Gujarat,2022,11,1521.941475,Calendar + arrivals,1868.439869,West,2057.000000,validation,True
+Gujarat,2022,12,1137.359468,Calendar + arrivals,1692.126412,West,2057.000000,validation,True
+Haryana,2022,4,1160.475116,Calendar + arrivals,1141.419515,North,541.000000,validation,True
+Haryana,2022,5,924.278920,Calendar + arrivals,1095.047711,North,541.000000,validation,True
+Haryana,2022,6,1105.185120,Calendar + arrivals,1322.849905,North,541.000000,validation,True
+Haryana,2022,7,1345.300347,Calendar + arrivals,1515.373184,North,541.000000,validation,True
+Haryana,2022,8,1360.326172,Calendar + arrivals,1768.435290,North,541.000000,validation,True
+Haryana,2022,9,1378.577994,Calendar + arrivals,1945.748901,North,541.000000,validation,True
+Haryana,2022,10,1508.178860,Calendar + arrivals,2193.306961,North,541.000000,validation,True
+Haryana,2022,11,1534.211873,Calendar + arrivals,2193.388647,North,541.000000,validation,True
+Haryana,2022,12,1345.375412,Calendar + arrivals,1937.447579,North,541.000000,validation,True
+Karnataka,2022,4,1017.419415,Calendar + arrivals,1001.320456,South,1637.890000,validation,True
+Karnataka,2022,5,965.872506,Calendar + arrivals,1021.799060,South,1637.890000,validation,True
+Karnataka,2022,6,1211.571665,Calendar + arrivals,1282.618669,South,1637.890000,validation,True
+Karnataka,2022,7,1292.489921,Calendar + arrivals,1425.920156,South,1637.890000,validation,True
+Karnataka,2022,8,1116.166535,Calendar + arrivals,1680.429256,South,1637.890000,validation,True
+Karnataka,2022,9,1094.333712,Calendar + arrivals,1734.318050,South,1637.890000,validation,True
+Karnataka,2022,10,1446.293966,Calendar + arrivals,1933.984844,South,1637.890000,validation,True
+Karnataka,2022,11,1813.334027,Calendar + arrivals,2044.093449,South,1637.890000,validation,True
+Karnataka,2022,12,1458.736204,Calendar + arrivals,1846.235992,South,1637.890000,validation,True
+Maharashtra,2022,4,796.227793,Calendar + arrivals,931.026626,West,8602.000000,validation,True
+Maharashtra,2022,5,809.431390,Calendar + arrivals,940.886308,West,8602.000000,validation,True
+Maharashtra,2022,6,1108.205208,Calendar + arrivals,1187.263593,West,8602.000000,validation,True
+Maharashtra,2022,7,1111.824739,Calendar + arrivals,1318.623076,West,8602.000000,validation,True
+Maharashtra,2022,8,1078.746196,Calendar + arrivals,1601.317296,West,8602.000000,validation,True
+Maharashtra,2022,9,1083.418180,Calendar + arrivals,1685.178466,West,8602.000000,validation,True
+Maharashtra,2022,10,1725.806937,Calendar + arrivals,1900.606106,West,8602.000000,validation,True
+Maharashtra,2022,11,1764.106292,Calendar + arrivals,1974.389531,West,8602.000000,validation,True
+Maharashtra,2022,12,1305.374933,Calendar + arrivals,1733.290616,West,8602.000000,validation,True
+Rajasthan,2022,4,692.107611,Calendar + arrivals,936.427065,North,1630.500000,validation,True
+Rajasthan,2022,5,684.459116,Calendar + arrivals,902.777943,North,1630.500000,validation,True
+Rajasthan,2022,6,991.131127,Calendar + arrivals,1102.834747,North,1630.500000,validation,True
+Rajasthan,2022,7,1249.006754,Calendar + arrivals,1282.178102,North,1630.500000,validation,True
+Rajasthan,2022,8,1311.940281,Calendar + arrivals,1518.255894,North,1630.500000,validation,True
+Rajasthan,2022,9,1159.773782,Calendar + arrivals,1688.223759,North,1630.500000,validation,True
+Rajasthan,2022,10,1330.594643,Calendar + arrivals,1825.811077,North,1630.500000,validation,True
+Rajasthan,2022,11,1414.049942,Calendar + arrivals,1869.075982,North,1630.500000,validation,True
+Rajasthan,2022,12,1275.612757,Calendar + arrivals,1659.682709,North,1630.500000,validation,True
+West Bengal,2022,4,1346.500000,Calendar + arrivals,1369.769652,East,857.000000,validation,True
+West Bengal,2022,5,1361.317829,Calendar + arrivals,1435.330014,East,857.000000,validation,True
+West Bengal,2022,6,1609.262166,Calendar + arrivals,1779.539631,East,857.000000,validation,True
+West Bengal,2022,7,1792.773723,Calendar + arrivals,1973.710907,East,857.000000,validation,True
+West Bengal,2022,8,1819.230769,Calendar + arrivals,2340.645234,East,857.000000,validation,True
+West Bengal,2022,9,1792.413793,Calendar + arrivals,2441.035028,East,857.000000,validation,True
+West Bengal,2022,10,2663.035714,Calendar + arrivals,2741.094142,East,857.000000,validation,True
+West Bengal,2022,11,2488.031496,Calendar + arrivals,2864.392626,East,857.000000,validation,True
+West Bengal,2022,12,1915.316901,Calendar + arrivals,2375.444990,East,857.000000,validation,True
+Andhra Pradesh,2022,4,684.123753,Calendar + arrivals + weather,738.828278,South,512.790000,validation,True
+Andhra Pradesh,2022,5,578.151677,Calendar + arrivals + weather,773.911636,South,512.790000,validation,True
+Andhra Pradesh,2022,6,908.358356,Calendar + arrivals + weather,1023.484861,South,512.790000,validation,True
+Andhra Pradesh,2022,7,894.787426,Calendar + arrivals + weather,1139.964343,South,512.790000,validation,True
+Andhra Pradesh,2022,8,818.382823,Calendar + arrivals + weather,1296.986332,South,512.790000,validation,True
+Andhra Pradesh,2022,9,738.155174,Calendar + arrivals + weather,1248.161791,South,512.790000,validation,True
+Andhra Pradesh,2022,10,836.153584,Calendar + arrivals + weather,1281.914032,South,512.790000,validation,True
+Andhra Pradesh,2022,11,1024.842781,Calendar + arrivals + weather,1320.054367,South,512.790000,validation,True
+Andhra Pradesh,2022,12,1057.590186,Calendar + arrivals + weather,1151.333659,South,512.790000,validation,True
+Bihar,2022,4,1286.986569,Calendar + arrivals + weather,1094.388735,East,1387.760000,validation,True
+Bihar,2022,5,1227.834028,Calendar + arrivals + weather,1103.733226,East,1387.760000,validation,True
+Bihar,2022,6,1383.821233,Calendar + arrivals + weather,1345.100085,East,1387.760000,validation,True
+Bihar,2022,7,1501.677001,Calendar + arrivals + weather,1486.999491,East,1387.760000,validation,True
+Bihar,2022,8,1506.546450,Calendar + arrivals + weather,1716.080564,East,1387.760000,validation,True
+Bihar,2022,9,1442.482423,Calendar + arrivals + weather,1786.111849,East,1387.760000,validation,True
+Bihar,2022,10,1736.943975,Calendar + arrivals + weather,1955.708672,East,1387.760000,validation,True
+Bihar,2022,11,1961.689377,Calendar + arrivals + weather,2003.362033,East,1387.760000,validation,True
+Bihar,2022,12,1714.033727,Calendar + arrivals + weather,1793.973202,East,1387.760000,validation,True
+Gujarat,2022,4,791.439084,Calendar + arrivals + weather,797.865651,West,2057.000000,validation,True
+Gujarat,2022,5,885.734625,Calendar + arrivals + weather,815.747043,West,2057.000000,validation,True
+Gujarat,2022,6,1077.387199,Calendar + arrivals + weather,1035.581639,West,2057.000000,validation,True
+Gujarat,2022,7,1112.557357,Calendar + arrivals + weather,1133.854681,West,2057.000000,validation,True
+Gujarat,2022,8,998.155437,Calendar + arrivals + weather,1336.989793,West,2057.000000,validation,True
+Gujarat,2022,9,962.844461,Calendar + arrivals + weather,1380.582456,West,2057.000000,validation,True
+Gujarat,2022,10,1446.646189,Calendar + arrivals + weather,1613.167555,West,2057.000000,validation,True
+Gujarat,2022,11,1521.941475,Calendar + arrivals + weather,1616.979422,West,2057.000000,validation,True
+Gujarat,2022,12,1137.359468,Calendar + arrivals + weather,1465.336904,West,2057.000000,validation,True
+Haryana,2022,4,1160.475116,Calendar + arrivals + weather,920.358793,North,541.000000,validation,True
+Haryana,2022,5,924.278920,Calendar + arrivals + weather,882.967897,North,541.000000,validation,True
+Haryana,2022,6,1105.185120,Calendar + arrivals + weather,1066.651240,North,541.000000,validation,True
+Haryana,2022,7,1345.300347,Calendar + arrivals + weather,1222.604650,North,541.000000,validation,True
+Haryana,2022,8,1360.326172,Calendar + arrivals + weather,1426.775418,North,541.000000,validation,True
+Haryana,2022,9,1378.577994,Calendar + arrivals + weather,1569.832223,North,541.000000,validation,True
+Haryana,2022,10,1508.178860,Calendar + arrivals + weather,1769.562321,North,541.000000,validation,True
+Haryana,2022,11,1534.211873,Calendar + arrivals + weather,1769.628226,North,541.000000,validation,True
+Haryana,2022,12,1345.375412,Calendar + arrivals + weather,1564.140358,North,541.000000,validation,True
+Karnataka,2022,4,1017.419415,Calendar + arrivals + weather,984.435729,South,1637.890000,validation,True
+Karnataka,2022,5,965.872506,Calendar + arrivals + weather,1004.569013,South,1637.890000,validation,True
+Karnataka,2022,6,1211.571665,Calendar + arrivals + weather,1260.990562,South,1637.890000,validation,True
+Karnataka,2022,7,1292.489921,Calendar + arrivals + weather,1402.697621,South,1637.890000,validation,True
+Karnataka,2022,8,1116.166535,Calendar + arrivals + weather,1653.061786,South,1637.890000,validation,True
+Karnataka,2022,9,1094.333712,Calendar + arrivals + weather,1706.072947,South,1637.890000,validation,True
+Karnataka,2022,10,1446.293966,Calendar + arrivals + weather,1902.487968,South,1637.890000,validation,True
+Karnataka,2022,11,1813.334027,Calendar + arrivals + weather,2010.803343,South,1637.890000,validation,True
+Karnataka,2022,12,1458.736204,Calendar + arrivals + weather,1817.336635,South,1637.890000,validation,True
+Maharashtra,2022,4,796.227793,Calendar + arrivals + weather,822.848220,West,8602.000000,validation,True
+Maharashtra,2022,5,809.431390,Calendar + arrivals + weather,831.562280,West,8602.000000,validation,True
+Maharashtra,2022,6,1108.205208,Calendar + arrivals + weather,1049.312347,West,8602.000000,validation,True
+Maharashtra,2022,7,1111.824739,Calendar + arrivals + weather,1166.092166,West,8602.000000,validation,True
+Maharashtra,2022,8,1078.746196,Calendar + arrivals + weather,1416.085906,West,8602.000000,validation,True
+Maharashtra,2022,9,1083.418180,Calendar + arrivals + weather,1490.246487,West,8602.000000,validation,True
+Maharashtra,2022,10,1725.806937,Calendar + arrivals + weather,1680.754668,West,8602.000000,validation,True
+Maharashtra,2022,11,1764.106292,Calendar + arrivals + weather,1746.003241,West,8602.000000,validation,True
+Maharashtra,2022,12,1305.374933,Calendar + arrivals + weather,1533.779424,West,8602.000000,validation,True
+Rajasthan,2022,4,692.107611,Calendar + arrivals + weather,791.656539,North,1630.500000,validation,True
+Rajasthan,2022,5,684.459116,Calendar + arrivals + weather,763.209532,North,1630.500000,validation,True
+Rajasthan,2022,6,991.131127,Calendar + arrivals + weather,932.337788,North,1630.500000,validation,True
+Rajasthan,2022,7,1249.006754,Calendar + arrivals + weather,1084.590446,North,1630.500000,validation,True
+Rajasthan,2022,8,1311.940281,Calendar + arrivals + weather,1284.287912,North,1630.500000,validation,True
+Rajasthan,2022,9,1159.773782,Calendar + arrivals + weather,1428.063198,North,1630.500000,validation,True
+Rajasthan,2022,10,1330.594643,Calendar + arrivals + weather,1544.447880,North,1630.500000,validation,True
+Rajasthan,2022,11,1414.049942,Calendar + arrivals + weather,1581.045527,North,1630.500000,validation,True
+Rajasthan,2022,12,1275.612757,Calendar + arrivals + weather,1404.823632,North,1630.500000,validation,True
+West Bengal,2022,4,1346.500000,Calendar + arrivals + weather,1264.766339,East,857.000000,validation,True
+West Bengal,2022,5,1361.317829,Calendar + arrivals + weather,1325.300999,East,857.000000,validation,True
+West Bengal,2022,6,1609.262166,Calendar + arrivals + weather,1643.124318,East,857.000000,validation,True
+West Bengal,2022,7,1792.773723,Calendar + arrivals + weather,1823.479449,East,857.000000,validation,True
+West Bengal,2022,8,1819.230769,Calendar + arrivals + weather,2162.484114,East,857.000000,validation,True
+West Bengal,2022,9,1792.413793,Calendar + arrivals + weather,2255.232614,East,857.000000,validation,True
+West Bengal,2022,10,2663.035714,Calendar + arrivals + weather,2532.452356,East,857.000000,validation,True
+West Bengal,2022,11,2488.031496,Calendar + arrivals + weather,2646.365822,East,857.000000,validation,True
+West Bengal,2022,12,1915.316901,Calendar + arrivals + weather,2220.265154,East,857.000000,validation,True
+Andhra Pradesh,2023,4,643.882464,March price,622.016418,South,512.790000,test,True
+Andhra Pradesh,2023,5,725.571429,March price,622.016418,South,512.790000,test,True
+Andhra Pradesh,2023,6,1462.464567,March price,622.016418,South,512.790000,test,True
+Andhra Pradesh,2023,7,,March price,622.016418,South,512.790000,test,False
+Andhra Pradesh,2023,8,2059.772810,March price,622.016418,South,512.790000,test,True
+Andhra Pradesh,2023,9,1891.885063,March price,622.016418,South,512.790000,test,True
+Andhra Pradesh,2023,10,2689.233338,March price,622.016418,South,512.790000,test,True
+Andhra Pradesh,2023,11,3353.054152,March price,622.016418,South,512.790000,test,True
+Andhra Pradesh,2023,12,2399.166572,March price,622.016418,South,512.790000,test,True
+Bihar,2023,4,1118.059002,March price,1258.493102,East,1387.760000,test,True
+Bihar,2023,5,1286.510618,March price,1258.493102,East,1387.760000,test,True
+Bihar,2023,6,1217.231189,March price,1258.493102,East,1387.760000,test,True
+Bihar,2023,7,,March price,1258.493102,East,1387.760000,test,False
+Bihar,2023,8,2564.285714,March price,1258.493102,East,1387.760000,test,True
+Bihar,2023,9,2465.160350,March price,1258.493102,East,1387.760000,test,True
+Bihar,2023,10,3232.025316,March price,1258.493102,East,1387.760000,test,True
+Bihar,2023,11,4870.588235,March price,1258.493102,East,1387.760000,test,True
+Bihar,2023,12,4305.293806,March price,1258.493102,East,1387.760000,test,True
+Gujarat,2023,4,759.156065,March price,966.927644,West,2057.000000,test,True
+Gujarat,2023,5,876.093279,March price,966.927644,West,2057.000000,test,True
+Gujarat,2023,6,1043.950423,March price,966.927644,West,2057.000000,test,True
+Gujarat,2023,7,1319.052031,March price,966.927644,West,2057.000000,test,False
+Gujarat,2023,8,1693.245116,March price,966.927644,West,2057.000000,test,True
+Gujarat,2023,9,1846.798012,March price,966.927644,West,2057.000000,test,True
+Gujarat,2023,10,2669.935504,March price,966.927644,West,2057.000000,test,True
+Gujarat,2023,11,3261.578738,March price,966.927644,West,2057.000000,test,True
+Gujarat,2023,12,1845.444686,March price,966.927644,West,2057.000000,test,True
+Haryana,2023,4,894.002136,March price,965.862927,North,541.000000,test,True
+Haryana,2023,5,816.513979,March price,965.862927,North,541.000000,test,True
+Haryana,2023,6,958.855453,March price,965.862927,North,541.000000,test,True
+Haryana,2023,7,1375.864473,March price,965.862927,North,541.000000,test,False
+Haryana,2023,8,1594.286548,March price,965.862927,North,541.000000,test,True
+Haryana,2023,9,1704.218400,March price,965.862927,North,541.000000,test,True
+Haryana,2023,10,2146.515408,March price,965.862927,North,541.000000,test,True
+Haryana,2023,11,2956.242948,March price,965.862927,North,541.000000,test,True
+Haryana,2023,12,2205.225486,March price,965.862927,North,541.000000,test,True
+Karnataka,2023,4,895.356806,March price,1012.411233,South,1637.890000,test,True
+Karnataka,2023,5,828.748386,March price,1012.411233,South,1637.890000,test,True
+Karnataka,2023,6,1096.185519,March price,1012.411233,South,1637.890000,test,True
+Karnataka,2023,7,1347.585481,March price,1012.411233,South,1637.890000,test,False
+Karnataka,2023,8,1760.040457,March price,1012.411233,South,1637.890000,test,True
+Karnataka,2023,9,1968.466910,March price,1012.411233,South,1637.890000,test,True
+Karnataka,2023,10,2846.793254,March price,1012.411233,South,1637.890000,test,True
+Karnataka,2023,11,3342.551981,March price,1012.411233,South,1637.890000,test,True
+Karnataka,2023,12,2557.340345,March price,1012.411233,South,1637.890000,test,True
+Maharashtra,2023,4,593.504047,March price,717.416088,West,8602.000000,test,True
+Maharashtra,2023,5,663.624697,March price,717.416088,West,8602.000000,test,True
+Maharashtra,2023,6,890.742214,March price,717.416088,West,8602.000000,test,True
+Maharashtra,2023,7,1177.289394,March price,717.416088,West,8602.000000,test,False
+Maharashtra,2023,8,1585.898813,March price,717.416088,West,8602.000000,test,True
+Maharashtra,2023,9,1790.615450,March price,717.416088,West,8602.000000,test,True
+Maharashtra,2023,10,2632.246419,March price,717.416088,West,8602.000000,test,True
+Maharashtra,2023,11,3213.901544,March price,717.416088,West,8602.000000,test,True
+Maharashtra,2023,12,2007.547466,March price,717.416088,West,8602.000000,test,True
+Rajasthan,2023,4,704.591999,March price,760.717823,North,1630.500000,test,True
+Rajasthan,2023,5,730.493222,March price,760.717823,North,1630.500000,test,True
+Rajasthan,2023,6,713.831493,March price,760.717823,North,1630.500000,test,True
+Rajasthan,2023,7,988.540942,March price,760.717823,North,1630.500000,test,False
+Rajasthan,2023,8,1229.543837,March price,760.717823,North,1630.500000,test,True
+Rajasthan,2023,9,1451.109886,March price,760.717823,North,1630.500000,test,True
+Rajasthan,2023,10,2032.808357,March price,760.717823,North,1630.500000,test,True
+Rajasthan,2023,11,3026.748380,March price,760.717823,North,1630.500000,test,True
+Rajasthan,2023,12,2128.000708,March price,760.717823,North,1630.500000,test,True
+West Bengal,2023,4,1386.232558,March price,1507.642857,East,857.000000,test,True
+West Bengal,2023,5,1505.640244,March price,1507.642857,East,857.000000,test,True
+West Bengal,2023,6,1821.524390,March price,1507.642857,East,857.000000,test,True
+West Bengal,2023,7,2097.260274,March price,1507.642857,East,857.000000,test,False
+West Bengal,2023,8,2675.888738,March price,1507.642857,East,857.000000,test,True
+West Bengal,2023,9,3004.106892,March price,1507.642857,East,857.000000,test,True
+West Bengal,2023,10,3219.836957,March price,1507.642857,East,857.000000,test,True
+West Bengal,2023,11,5019.545455,March price,1507.642857,East,857.000000,test,True
+West Bengal,2023,12,3733.823529,March price,1507.642857,East,857.000000,test,True
+Andhra Pradesh,2023,4,643.882464,Pooled seasonality,548.409769,South,512.790000,test,True
+Andhra Pradesh,2023,5,725.571429,Pooled seasonality,499.689012,South,512.790000,test,True
+Andhra Pradesh,2023,6,1462.464567,Pooled seasonality,641.907482,South,512.790000,test,True
+Andhra Pradesh,2023,7,,Pooled seasonality,737.828683,South,512.790000,test,False
+Andhra Pradesh,2023,8,2059.772810,Pooled seasonality,767.158894,South,512.790000,test,True
+Andhra Pradesh,2023,9,1891.885063,Pooled seasonality,832.706595,South,512.790000,test,True
+Andhra Pradesh,2023,10,2689.233338,Pooled seasonality,1113.354734,South,512.790000,test,True
+Andhra Pradesh,2023,11,3353.054152,Pooled seasonality,889.755043,South,512.790000,test,True
+Andhra Pradesh,2023,12,2399.166572,Pooled seasonality,858.592561,South,512.790000,test,True
+Bihar,2023,4,1118.059002,Pooled seasonality,1109.568642,East,1387.760000,test,True
+Bihar,2023,5,1286.510618,Pooled seasonality,1010.994496,East,1387.760000,test,True
+Bihar,2023,6,1217.231189,Pooled seasonality,1298.737646,East,1387.760000,test,True
+Bihar,2023,7,,Pooled seasonality,1492.809966,East,1387.760000,test,False
+Bihar,2023,8,2564.285714,Pooled seasonality,1552.152241,East,1387.760000,test,True
+Bihar,2023,9,2465.160350,Pooled seasonality,1684.771457,East,1387.760000,test,True
+Bihar,2023,10,3232.025316,Pooled seasonality,2252.592074,East,1387.760000,test,True
+Bihar,2023,11,4870.588235,Pooled seasonality,1800.194581,East,1387.760000,test,True
+Bihar,2023,12,4305.293806,Pooled seasonality,1737.145169,East,1387.760000,test,True
+Gujarat,2023,4,759.156065,Pooled seasonality,852.505740,West,2057.000000,test,True
+Gujarat,2023,5,876.093279,Pooled seasonality,776.769078,West,2057.000000,test,True
+Gujarat,2023,6,1043.950423,Pooled seasonality,997.848403,West,2057.000000,test,True
+Gujarat,2023,7,1319.052031,Pooled seasonality,1146.958392,West,2057.000000,test,False
+Gujarat,2023,8,1693.245116,Pooled seasonality,1192.552353,West,2057.000000,test,True
+Gujarat,2023,9,1846.798012,Pooled seasonality,1294.446583,West,2057.000000,test,True
+Gujarat,2023,10,2669.935504,Pooled seasonality,1730.715524,West,2057.000000,test,True
+Gujarat,2023,11,3261.578738,Pooled seasonality,1383.128682,West,2057.000000,test,True
+Gujarat,2023,12,1845.444686,Pooled seasonality,1334.686446,West,2057.000000,test,True
+Haryana,2023,4,894.002136,Pooled seasonality,851.567016,North,541.000000,test,True
+Haryana,2023,5,816.513979,Pooled seasonality,775.913751,North,541.000000,test,True
+Haryana,2023,6,958.855453,Pooled seasonality,996.749638,North,541.000000,test,True
+Haryana,2023,7,1375.864473,Pooled seasonality,1145.695436,North,541.000000,test,False
+Haryana,2023,8,1594.286548,Pooled seasonality,1191.239192,North,541.000000,test,True
+Haryana,2023,9,1704.218400,Pooled seasonality,1293.021223,North,541.000000,test,True
+Haryana,2023,10,2146.515408,Pooled seasonality,1728.809773,North,541.000000,test,True
+Haryana,2023,11,2956.242948,Pooled seasonality,1381.605671,North,541.000000,test,True
+Haryana,2023,12,2205.225486,Pooled seasonality,1333.216777,North,541.000000,test,True
+Karnataka,2023,4,895.356806,Pooled seasonality,892.607003,South,1637.890000,test,True
+Karnataka,2023,5,828.748386,Pooled seasonality,813.307743,South,1637.890000,test,True
+Karnataka,2023,6,1096.185519,Pooled seasonality,1044.786482,South,1637.890000,test,True
+Karnataka,2023,7,1347.585481,Pooled seasonality,1200.910498,South,1637.890000,test,False
+Karnataka,2023,8,1760.040457,Pooled seasonality,1248.649167,South,1637.890000,test,True
+Karnataka,2023,9,1968.466910,Pooled seasonality,1355.336429,South,1637.890000,test,True
+Karnataka,2023,10,2846.793254,Pooled seasonality,1812.127151,South,1637.890000,test,True
+Karnataka,2023,11,3342.551981,Pooled seasonality,1448.190072,South,1637.890000,test,True
+Karnataka,2023,12,2557.340345,Pooled seasonality,1397.469147,South,1637.890000,test,True
+Maharashtra,2023,4,593.504047,Pooled seasonality,632.520269,West,8602.000000,test,True
+Maharashtra,2023,5,663.624697,Pooled seasonality,576.327130,West,8602.000000,test,True
+Maharashtra,2023,6,890.742214,Pooled seasonality,740.357878,West,8602.000000,test,True
+Maharashtra,2023,7,1177.289394,Pooled seasonality,850.990669,West,8602.000000,test,False
+Maharashtra,2023,8,1585.898813,Pooled seasonality,884.819303,West,8602.000000,test,True
+Maharashtra,2023,9,1790.615450,Pooled seasonality,960.420162,West,8602.000000,test,True
+Maharashtra,2023,10,2632.246419,Pooled seasonality,1284.111762,West,8602.000000,test,True
+Maharashtra,2023,11,3213.901544,Pooled seasonality,1026.218223,West,8602.000000,test,True
+Maharashtra,2023,12,2007.547466,Pooled seasonality,990.276300,West,8602.000000,test,True
+Rajasthan,2023,4,704.591999,Pooled seasonality,670.697869,North,1630.500000,test,True
+Rajasthan,2023,5,730.493222,Pooled seasonality,611.113030,North,1630.500000,test,True
+Rajasthan,2023,6,713.831493,Pooled seasonality,785.044330,North,1630.500000,test,True
+Rajasthan,2023,7,988.540942,Pooled seasonality,902.354686,North,1630.500000,test,False
+Rajasthan,2023,8,1229.543837,Pooled seasonality,938.225146,North,1630.500000,test,True
+Rajasthan,2023,9,1451.109886,Pooled seasonality,1018.389114,North,1630.500000,test,True
+Rajasthan,2023,10,2032.808357,Pooled seasonality,1361.618062,North,1630.500000,test,True
+Rajasthan,2023,11,3026.748380,Pooled seasonality,1088.158609,North,1630.500000,test,True
+Rajasthan,2023,12,2128.000708,Pooled seasonality,1050.047306,North,1630.500000,test,True
+West Bengal,2023,4,1386.232558,Pooled seasonality,1329.235126,East,857.000000,test,True
+West Bengal,2023,5,1505.640244,Pooled seasonality,1211.145797,East,857.000000,test,True
+West Bengal,2023,6,1821.524390,Pooled seasonality,1555.854801,East,857.000000,test,True
+West Bengal,2023,7,2097.260274,Pooled seasonality,1788.348525,East,857.000000,test,False
+West Bengal,2023,8,2675.888738,Pooled seasonality,1859.439067,East,857.000000,test,True
+West Bengal,2023,9,3004.106892,Pooled seasonality,2018.313528,East,857.000000,test,True
+West Bengal,2023,10,3219.836957,Pooled seasonality,2698.548244,East,857.000000,test,True
+West Bengal,2023,11,5019.545455,Pooled seasonality,2156.587508,East,857.000000,test,True
+West Bengal,2023,12,3733.823529,Pooled seasonality,2081.055908,East,857.000000,test,True
+Andhra Pradesh,2023,4,643.882464,Recent seasonality,480.901864,South,512.790000,test,True
+Andhra Pradesh,2023,5,725.571429,Recent seasonality,473.966917,South,512.790000,test,True
+Andhra Pradesh,2023,6,1462.464567,Recent seasonality,637.217178,South,512.790000,test,True
+Andhra Pradesh,2023,7,,Recent seasonality,702.901053,South,512.790000,test,False
+Andhra Pradesh,2023,8,2059.772810,Recent seasonality,803.160596,South,512.790000,test,True
+Andhra Pradesh,2023,9,1891.885063,Recent seasonality,880.709567,South,512.790000,test,True
+Andhra Pradesh,2023,10,2689.233338,Recent seasonality,1154.157532,South,512.790000,test,True
+Andhra Pradesh,2023,11,3353.054152,Recent seasonality,1303.332570,South,512.790000,test,True
+Andhra Pradesh,2023,12,2399.166572,Recent seasonality,1396.716291,South,512.790000,test,True
+Bihar,2023,4,1118.059002,Recent seasonality,972.983447,East,1387.760000,test,True
+Bihar,2023,5,1286.510618,Recent seasonality,958.952334,East,1387.760000,test,True
+Bihar,2023,6,1217.231189,Recent seasonality,1289.248001,East,1387.760000,test,True
+Bihar,2023,7,,Recent seasonality,1422.142730,East,1387.760000,test,False
+Bihar,2023,8,2564.285714,Recent seasonality,1624.992591,East,1387.760000,test,True
+Bihar,2023,9,2465.160350,Recent seasonality,1781.893346,East,1387.760000,test,True
+Bihar,2023,10,3232.025316,Recent seasonality,2335.146230,East,1387.760000,test,True
+Bihar,2023,11,4870.588235,Recent seasonality,2636.964238,East,1387.760000,test,True
+Bihar,2023,12,4305.293806,Recent seasonality,2825.902609,East,1387.760000,test,True
+Gujarat,2023,4,759.156065,Recent seasonality,747.564362,West,2057.000000,test,True
+Gujarat,2023,5,876.093279,Recent seasonality,736.783952,West,2057.000000,test,True
+Gujarat,2023,6,1043.950423,Recent seasonality,990.557303,West,2057.000000,test,True
+Gujarat,2023,7,1319.052031,Recent seasonality,1092.663216,West,2057.000000,test,False
+Gujarat,2023,8,1693.245116,Recent seasonality,1248.517179,West,2057.000000,test,True
+Gujarat,2023,9,1846.798012,Recent seasonality,1369.067444,West,2057.000000,test,True
+Gujarat,2023,10,2669.935504,Recent seasonality,1794.143679,West,2057.000000,test,True
+Gujarat,2023,11,3261.578738,Recent seasonality,2026.037023,West,2057.000000,test,True
+Gujarat,2023,12,1845.444686,Recent seasonality,2171.202487,West,2057.000000,test,True
+Haryana,2023,4,894.002136,Recent seasonality,746.741193,North,541.000000,test,True
+Haryana,2023,5,816.513979,Recent seasonality,735.972653,North,541.000000,test,True
+Haryana,2023,6,958.855453,Recent seasonality,989.466566,North,541.000000,test,True
+Haryana,2023,7,1375.864473,Recent seasonality,1091.460046,North,541.000000,test,False
+Haryana,2023,8,1594.286548,Recent seasonality,1247.142394,North,541.000000,test,True
+Haryana,2023,9,1704.218400,Recent seasonality,1367.559917,North,541.000000,test,True
+Haryana,2023,10,2146.515408,Recent seasonality,1792.168085,North,541.000000,test,True
+Haryana,2023,11,2956.242948,Recent seasonality,2023.806084,North,541.000000,test,True
+Haryana,2023,12,2205.225486,Recent seasonality,2168.811701,North,541.000000,test,True
+Karnataka,2023,4,895.356806,Recent seasonality,782.729257,South,1637.890000,test,True
+Karnataka,2023,5,828.748386,Recent seasonality,771.441745,South,1637.890000,test,True
+Karnataka,2023,6,1096.185519,Recent seasonality,1037.152414,South,1637.890000,test,True
+Karnataka,2023,7,1347.585481,Recent seasonality,1144.061316,South,1637.890000,test,False
+Karnataka,2023,8,1760.040457,Recent seasonality,1307.246539,South,1637.890000,test,True
+Karnataka,2023,9,1968.466910,Recent seasonality,1433.467403,South,1637.890000,test,True
+Karnataka,2023,10,2846.793254,Recent seasonality,1878.538921,South,1637.890000,test,True
+Karnataka,2023,11,3342.551981,Recent seasonality,2121.340364,South,1637.890000,test,True
+Karnataka,2023,12,2557.340345,Recent seasonality,2273.334307,South,1637.890000,test,True
+Maharashtra,2023,4,593.504047,Recent seasonality,554.658566,West,8602.000000,test,True
+Maharashtra,2023,5,663.624697,Recent seasonality,546.659995,West,8602.000000,test,True
+Maharashtra,2023,6,890.742214,Recent seasonality,734.948214,West,8602.000000,test,True
+Maharashtra,2023,7,1177.289394,Recent seasonality,810.706132,West,8602.000000,test,False
+Maharashtra,2023,8,1585.898813,Recent seasonality,926.342645,West,8602.000000,test,True
+Maharashtra,2023,9,1790.615450,Recent seasonality,1015.785428,West,8602.000000,test,True
+Maharashtra,2023,10,2632.246419,Recent seasonality,1331.172552,West,8602.000000,test,True
+Maharashtra,2023,11,3213.901544,Recent seasonality,1503.226808,West,8602.000000,test,True
+Maharashtra,2023,12,2007.547466,Recent seasonality,1610.932943,West,8602.000000,test,True
+Rajasthan,2023,4,704.591999,Recent seasonality,588.136596,North,1630.500000,test,True
+Rajasthan,2023,5,730.493222,Recent seasonality,579.655248,North,1630.500000,test,True
+Rajasthan,2023,6,713.831493,Recent seasonality,779.308151,North,1630.500000,test,True
+Rajasthan,2023,7,988.540942,Recent seasonality,859.638658,North,1630.500000,test,False
+Rajasthan,2023,8,1229.543837,Recent seasonality,982.254749,North,1630.500000,test,True
+Rajasthan,2023,9,1451.109886,Recent seasonality,1077.096112,North,1630.500000,test,True
+Rajasthan,2023,10,2032.808357,Recent seasonality,1411.519343,North,1630.500000,test,True
+Rajasthan,2023,11,3026.748380,Recent seasonality,1593.958434,North,1630.500000,test,True
+Rajasthan,2023,12,2128.000708,Recent seasonality,1708.165486,North,1630.500000,test,True
+West Bengal,2023,4,1386.232558,Recent seasonality,1165.609523,East,857.000000,test,True
+West Bengal,2023,5,1505.640244,Recent seasonality,1148.800604,East,857.000000,test,True
+West Bengal,2023,6,1821.524390,Recent seasonality,1544.486448,East,857.000000,test,True
+West Bengal,2023,7,2097.260274,Recent seasonality,1703.690966,East,857.000000,test,False
+West Bengal,2023,8,2675.888738,Recent seasonality,1946.699961,East,857.000000,test,True
+West Bengal,2023,9,3004.106892,Recent seasonality,2134.663091,East,857.000000,test,True
+West Bengal,2023,10,3219.836957,Recent seasonality,2797.446032,East,857.000000,test,True
+West Bengal,2023,11,5019.545455,Recent seasonality,3159.016360,East,857.000000,test,True
+West Bengal,2023,12,3733.823529,Recent seasonality,3385.359743,East,857.000000,test,True
+Andhra Pradesh,2023,4,643.882464,Calendar ridge,726.953759,South,512.790000,test,True
+Andhra Pradesh,2023,5,725.571429,Calendar ridge,749.198704,South,512.790000,test,True
+Andhra Pradesh,2023,6,1462.464567,Calendar ridge,1002.378689,South,512.790000,test,True
+Andhra Pradesh,2023,7,,Calendar ridge,1103.636350,South,512.790000,test,False
+Andhra Pradesh,2023,8,2059.772810,Calendar ridge,1226.511028,South,512.790000,test,True
+Andhra Pradesh,2023,9,1891.885063,Calendar ridge,1170.242618,South,512.790000,test,True
+Andhra Pradesh,2023,10,2689.233338,Calendar ridge,1219.339391,South,512.790000,test,True
+Andhra Pradesh,2023,11,3353.054152,Calendar ridge,1272.050166,South,512.790000,test,True
+Andhra Pradesh,2023,12,2399.166572,Calendar ridge,1121.026400,South,512.790000,test,True
+Bihar,2023,4,1118.059002,Calendar ridge,1024.835149,East,1387.760000,test,True
+Bihar,2023,5,1286.510618,Calendar ridge,1022.638974,East,1387.760000,test,True
+Bihar,2023,6,1217.231189,Calendar ridge,1240.282416,East,1387.760000,test,True
+Bihar,2023,7,,Calendar ridge,1364.701387,East,1387.760000,test,False
+Bihar,2023,8,2564.285714,Calendar ridge,1526.389768,East,1387.760000,test,True
+Bihar,2023,9,2465.160350,Calendar ridge,1563.849154,East,1387.760000,test,True
+Bihar,2023,10,3232.025316,Calendar ridge,1752.748498,East,1387.760000,test,True
+Bihar,2023,11,4870.588235,Calendar ridge,1821.345417,East,1387.760000,test,True
+Bihar,2023,12,4305.293806,Calendar ridge,1617.585221,East,1387.760000,test,True
+Gujarat,2023,4,759.156065,Calendar ridge,847.259924,West,2057.000000,test,True
+Gujarat,2023,5,876.093279,Calendar ridge,867.563797,West,2057.000000,test,True
+Gujarat,2023,6,1043.950423,Calendar ridge,1100.345150,West,2057.000000,test,True
+Gujarat,2023,7,1319.052031,Calendar ridge,1198.967980,West,2057.000000,test,False
+Gujarat,2023,8,1693.245116,Calendar ridge,1378.666259,West,2057.000000,test,True
+Gujarat,2023,9,1846.798012,Calendar ridge,1411.833156,West,2057.000000,test,True
+Gujarat,2023,10,2669.935504,Calendar ridge,1685.927800,West,2057.000000,test,True
+Gujarat,2023,11,3261.578738,Calendar ridge,1699.567307,West,2057.000000,test,True
+Gujarat,2023,12,1845.444686,Calendar ridge,1519.330309,West,2057.000000,test,True
+Haryana,2023,4,894.002136,Calendar ridge,921.170589,North,541.000000,test,True
+Haryana,2023,5,816.513979,Calendar ridge,872.301823,North,541.000000,test,True
+Haryana,2023,6,958.855453,Calendar ridge,1054.595437,North,541.000000,test,True
+Haryana,2023,7,1375.864473,Calendar ridge,1210.508597,North,541.000000,test,False
+Haryana,2023,8,1594.286548,Calendar ridge,1387.041097,North,541.000000,test,True
+Haryana,2023,9,1704.218400,Calendar ridge,1512.356336,North,541.000000,test,True
+Haryana,2023,10,2146.515408,Calendar ridge,1716.622040,North,541.000000,test,True
+Haryana,2023,11,2956.242948,Calendar ridge,1723.652649,North,541.000000,test,True
+Haryana,2023,12,2205.225486,Calendar ridge,1517.576064,North,541.000000,test,True
+Karnataka,2023,4,895.356806,Calendar ridge,897.667929,South,1637.890000,test,True
+Karnataka,2023,5,828.748386,Calendar ridge,909.598235,South,1637.890000,test,True
+Karnataka,2023,6,1096.185519,Calendar ridge,1143.250206,South,1637.890000,test,True
+Karnataka,2023,7,1347.585481,Calendar ridge,1266.719912,South,1637.890000,test,False
+Karnataka,2023,8,1760.040457,Calendar ridge,1452.871179,South,1637.890000,test,True
+Karnataka,2023,9,1968.466910,Calendar ridge,1488.364145,South,1637.890000,test,True
+Karnataka,2023,10,2846.793254,Calendar ridge,1688.917685,South,1637.890000,test,True
+Karnataka,2023,11,3342.551981,Calendar ridge,1806.877022,South,1637.890000,test,True
+Karnataka,2023,12,2557.340345,Calendar ridge,1617.412573,South,1637.890000,test,True
+Maharashtra,2023,4,593.504047,Calendar ridge,769.522809,West,8602.000000,test,True
+Maharashtra,2023,5,663.624697,Calendar ridge,775.397444,West,8602.000000,test,True
+Maharashtra,2023,6,890.742214,Calendar ridge,983.953708,West,8602.000000,test,True
+Maharashtra,2023,7,1177.289394,Calendar ridge,1085.697680,West,8602.000000,test,False
+Maharashtra,2023,8,1585.898813,Calendar ridge,1289.031123,West,8602.000000,test,True
+Maharashtra,2023,9,1790.615450,Calendar ridge,1346.823067,West,8602.000000,test,True
+Maharashtra,2023,10,2632.246419,Calendar ridge,1560.057255,West,8602.000000,test,True
+Maharashtra,2023,11,3213.901544,Calendar ridge,1624.355060,West,8602.000000,test,True
+Maharashtra,2023,12,2007.547466,Calendar ridge,1409.175999,West,8602.000000,test,True
+Rajasthan,2023,4,704.591999,Calendar ridge,785.599302,North,1630.500000,test,True
+Rajasthan,2023,5,730.493222,Calendar ridge,755.932853,North,1630.500000,test,True
+Rajasthan,2023,6,713.831493,Calendar ridge,932.986447,North,1630.500000,test,True
+Rajasthan,2023,7,988.540942,Calendar ridge,1088.027634,North,1630.500000,test,False
+Rajasthan,2023,8,1229.543837,Calendar ridge,1266.558290,North,1630.500000,test,True
+Rajasthan,2023,9,1451.109886,Calendar ridge,1384.883908,North,1630.500000,test,True
+Rajasthan,2023,10,2032.808357,Calendar ridge,1515.237452,North,1630.500000,test,True
+Rajasthan,2023,11,3026.748380,Calendar ridge,1559.105581,North,1630.500000,test,True
+Rajasthan,2023,12,2128.000708,Calendar ridge,1381.614698,North,1630.500000,test,True
+West Bengal,2023,4,1386.232558,Calendar ridge,1130.197267,East,857.000000,test,True
+West Bengal,2023,5,1505.640244,Calendar ridge,1178.237073,East,857.000000,test,True
+West Bengal,2023,6,1821.524390,Calendar ridge,1459.067089,East,857.000000,test,True
+West Bengal,2023,7,2097.260274,Calendar ridge,1616.728643,East,857.000000,test,False
+West Bengal,2023,8,2675.888738,Calendar ridge,1881.284757,East,857.000000,test,True
+West Bengal,2023,9,3004.106892,Calendar ridge,1946.884593,East,857.000000,test,True
+West Bengal,2023,10,3219.836957,Calendar ridge,2237.593704,East,857.000000,test,True
+West Bengal,2023,11,5019.545455,Calendar ridge,2331.840971,East,857.000000,test,True
+West Bengal,2023,12,3733.823529,Calendar ridge,1918.937585,East,857.000000,test,True
+Andhra Pradesh,2023,4,643.882464,Calendar + arrivals,721.431204,South,512.790000,test,True
+Andhra Pradesh,2023,5,725.571429,Calendar + arrivals,743.507158,South,512.790000,test,True
+Andhra Pradesh,2023,6,1462.464567,Calendar + arrivals,994.763774,South,512.790000,test,True
+Andhra Pradesh,2023,7,,Calendar + arrivals,1094.913459,South,512.790000,test,False
+Andhra Pradesh,2023,8,2059.772810,Calendar + arrivals,1216.816963,South,512.790000,test,True
+Andhra Pradesh,2023,9,1891.885063,Calendar + arrivals,1160.993286,South,512.790000,test,True
+Andhra Pradesh,2023,10,2689.233338,Calendar + arrivals,1209.702010,South,512.790000,test,True
+Andhra Pradesh,2023,11,3353.054152,Calendar + arrivals,1261.996170,South,512.790000,test,True
+Andhra Pradesh,2023,12,2399.166572,Calendar + arrivals,1111.908094,South,512.790000,test,True
+Bihar,2023,4,1118.059002,Calendar + arrivals,1019.107449,East,1387.760000,test,True
+Bihar,2023,5,1286.510618,Calendar + arrivals,1016.923548,East,1387.760000,test,True
+Bihar,2023,6,1217.231189,Calendar + arrivals,1233.350603,East,1387.760000,test,True
+Bihar,2023,7,,Calendar + arrivals,1356.996851,East,1387.760000,test,False
+Bihar,2023,8,2564.285714,Calendar + arrivals,1517.772406,East,1387.760000,test,True
+Bihar,2023,9,2465.160350,Calendar + arrivals,1555.020312,East,1387.760000,test,True
+Bihar,2023,10,3232.025316,Calendar + arrivals,1742.853209,East,1387.760000,test,True
+Bihar,2023,11,4870.588235,Calendar + arrivals,1811.062858,East,1387.760000,test,True
+Bihar,2023,12,4305.293806,Calendar + arrivals,1608.345515,East,1387.760000,test,True
+Gujarat,2023,4,759.156065,Calendar + arrivals,852.622975,West,2057.000000,test,True
+Gujarat,2023,5,876.093279,Calendar + arrivals,873.055369,West,2057.000000,test,True
+Gujarat,2023,6,1043.950423,Calendar + arrivals,1107.310199,West,2057.000000,test,True
+Gujarat,2023,7,1319.052031,Calendar + arrivals,1206.517481,West,2057.000000,test,False
+Gujarat,2023,8,1693.245116,Calendar + arrivals,1387.347260,West,2057.000000,test,True
+Gujarat,2023,9,1846.798012,Calendar + arrivals,1420.722998,West,2057.000000,test,True
+Gujarat,2023,10,2669.935504,Calendar + arrivals,1696.543524,West,2057.000000,test,True
+Gujarat,2023,11,3261.578738,Calendar + arrivals,1710.268915,West,2057.000000,test,True
+Gujarat,2023,12,1845.444686,Calendar + arrivals,1528.837869,West,2057.000000,test,True
+Haryana,2023,4,894.002136,Calendar + arrivals,914.764315,North,541.000000,test,True
+Haryana,2023,5,816.513979,Calendar + arrivals,866.235406,North,541.000000,test,True
+Haryana,2023,6,958.855453,Calendar + arrivals,1047.261261,North,541.000000,test,True
+Haryana,2023,7,1375.864473,Calendar + arrivals,1202.050452,North,541.000000,test,False
+Haryana,2023,8,1594.286548,Calendar + arrivals,1377.349472,North,541.000000,test,True
+Haryana,2023,9,1704.218400,Calendar + arrivals,1501.789101,North,541.000000,test,True
+Haryana,2023,10,2146.515408,Calendar + arrivals,1704.627546,North,541.000000,test,True
+Haryana,2023,11,2956.242948,Calendar + arrivals,1711.609030,North,541.000000,test,True
+Haryana,2023,12,2205.225486,Calendar + arrivals,1506.914049,North,541.000000,test,True
+Karnataka,2023,4,895.356806,Calendar + arrivals,900.686948,South,1637.890000,test,True
+Karnataka,2023,5,828.748386,Calendar + arrivals,912.657378,South,1637.890000,test,True
+Karnataka,2023,6,1096.185519,Calendar + arrivals,1147.095162,South,1637.890000,test,True
+Karnataka,2023,7,1347.585481,Calendar + arrivals,1270.938174,South,1637.890000,test,False
+Karnataka,2023,8,1760.040457,Calendar + arrivals,1457.709337,South,1637.890000,test,True
+Karnataka,2023,9,1968.466910,Calendar + arrivals,1493.320497,South,1637.890000,test,True
+Karnataka,2023,10,2846.793254,Calendar + arrivals,1694.541894,South,1637.890000,test,True
+Karnataka,2023,11,3342.551981,Calendar + arrivals,1812.894044,South,1637.890000,test,True
+Karnataka,2023,12,2557.340345,Calendar + arrivals,1622.735877,South,1637.890000,test,True
+Maharashtra,2023,4,593.504047,Calendar + arrivals,772.624869,West,8602.000000,test,True
+Maharashtra,2023,5,663.624697,Calendar + arrivals,778.523186,West,8602.000000,test,True
+Maharashtra,2023,6,890.742214,Calendar + arrivals,987.920170,West,8602.000000,test,True
+Maharashtra,2023,7,1177.289394,Calendar + arrivals,1090.038313,West,8602.000000,test,False
+Maharashtra,2023,8,1585.898813,Calendar + arrivals,1294.184685,West,8602.000000,test,True
+Maharashtra,2023,9,1790.615450,Calendar + arrivals,1352.207682,West,8602.000000,test,True
+Maharashtra,2023,10,2632.246419,Calendar + arrivals,1566.294383,West,8602.000000,test,True
+Maharashtra,2023,11,3213.901544,Calendar + arrivals,1630.849252,West,8602.000000,test,True
+Maharashtra,2023,12,2007.547466,Calendar + arrivals,1414.755161,West,8602.000000,test,True
+Rajasthan,2023,4,704.591999,Calendar + arrivals,784.794560,North,1630.500000,test,True
+Rajasthan,2023,5,730.493222,Calendar + arrivals,755.158501,North,1630.500000,test,True
+Rajasthan,2023,6,713.831493,Calendar + arrivals,932.030727,North,1630.500000,test,True
+Rajasthan,2023,7,988.540942,Calendar + arrivals,1086.877224,North,1630.500000,test,False
+Rajasthan,2023,8,1229.543837,Calendar + arrivals,1265.219113,North,1630.500000,test,True
+Rajasthan,2023,9,1451.109886,Calendar + arrivals,1383.419622,North,1630.500000,test,True
+Rajasthan,2023,10,2032.808357,Calendar + arrivals,1513.635339,North,1630.500000,test,True
+Rajasthan,2023,11,3026.748380,Calendar + arrivals,1557.457084,North,1630.500000,test,True
+Rajasthan,2023,12,2128.000708,Calendar + arrivals,1380.100468,North,1630.500000,test,True
+West Bengal,2023,4,1386.232558,Calendar + arrivals,1130.364844,East,857.000000,test,True
+West Bengal,2023,5,1505.640244,Calendar + arrivals,1178.411773,East,857.000000,test,True
+West Bengal,2023,6,1821.524390,Calendar + arrivals,1459.283428,East,857.000000,test,True
+West Bengal,2023,7,2097.260274,Calendar + arrivals,1616.914995,East,857.000000,test,False
+West Bengal,2023,8,2675.888738,Calendar + arrivals,1881.501604,East,857.000000,test,True
+West Bengal,2023,9,3004.106892,Calendar + arrivals,1947.109001,East,857.000000,test,True
+West Bengal,2023,10,3219.836957,Calendar + arrivals,2237.851621,East,857.000000,test,True
+West Bengal,2023,11,5019.545455,Calendar + arrivals,2332.109751,East,857.000000,test,True
+West Bengal,2023,12,3733.823529,Calendar + arrivals,1918.833754,East,857.000000,test,True
+Andhra Pradesh,2023,4,643.882464,Calendar + arrivals + weather,650.939821,South,512.790000,test,True
+Andhra Pradesh,2023,5,725.571429,Calendar + arrivals + weather,670.858723,South,512.790000,test,True
+Andhra Pradesh,2023,6,1462.464567,Calendar + arrivals + weather,897.564936,South,512.790000,test,True
+Andhra Pradesh,2023,7,,Calendar + arrivals + weather,992.123221,South,512.790000,test,False
+Andhra Pradesh,2023,8,2059.772810,Calendar + arrivals + weather,1102.582451,South,512.790000,test,True
+Andhra Pradesh,2023,9,1891.885063,Calendar + arrivals + weather,1051.999488,South,512.790000,test,True
+Andhra Pradesh,2023,10,2689.233338,Calendar + arrivals + weather,1096.135447,South,512.790000,test,True
+Andhra Pradesh,2023,11,3353.054152,Calendar + arrivals + weather,1143.520243,South,512.790000,test,True
+Andhra Pradesh,2023,12,2399.166572,Calendar + arrivals + weather,1002.442033,South,512.790000,test,True
+Bihar,2023,4,1118.059002,Calendar + arrivals + weather,1018.514743,East,1387.760000,test,True
+Bihar,2023,5,1286.510618,Calendar + arrivals + weather,1016.332112,East,1387.760000,test,True
+Bihar,2023,6,1217.231189,Calendar + arrivals + weather,1232.633295,East,1387.760000,test,True
+Bihar,2023,7,,Calendar + arrivals + weather,1357.266888,East,1387.760000,test,False
+Bihar,2023,8,2564.285714,Calendar + arrivals + weather,1518.074437,East,1387.760000,test,True
+Bihar,2023,9,2465.160350,Calendar + arrivals + weather,1555.329755,East,1387.760000,test,True
+Bihar,2023,10,3232.025316,Calendar + arrivals + weather,1743.200030,East,1387.760000,test,True
+Bihar,2023,11,4870.588235,Calendar + arrivals + weather,1811.423253,East,1387.760000,test,True
+Bihar,2023,12,4305.293806,Calendar + arrivals + weather,1610.625287,East,1387.760000,test,True
+Gujarat,2023,4,759.156065,Calendar + arrivals + weather,906.478096,West,2057.000000,test,True
+Gujarat,2023,5,876.093279,Calendar + arrivals + weather,928.201083,West,2057.000000,test,True
+Gujarat,2023,6,1043.950423,Calendar + arrivals + weather,1177.252398,West,2057.000000,test,True
+Gujarat,2023,7,1319.052031,Calendar + arrivals + weather,1283.305945,West,2057.000000,test,False
+Gujarat,2023,8,1693.245116,Calendar + arrivals + weather,1475.644584,West,2057.000000,test,True
+Gujarat,2023,9,1846.798012,Calendar + arrivals + weather,1511.144512,West,2057.000000,test,True
+Gujarat,2023,10,2669.935504,Calendar + arrivals + weather,1804.519557,West,2057.000000,test,True
+Gujarat,2023,11,3261.578738,Calendar + arrivals + weather,1819.118496,West,2057.000000,test,True
+Gujarat,2023,12,1845.444686,Calendar + arrivals + weather,1627.286927,West,2057.000000,test,True
+Haryana,2023,4,894.002136,Calendar + arrivals + weather,1055.975362,North,541.000000,test,True
+Haryana,2023,5,816.513979,Calendar + arrivals + weather,999.955105,North,541.000000,test,True
+Haryana,2023,6,958.855453,Calendar + arrivals + weather,1208.925699,North,541.000000,test,True
+Haryana,2023,7,1375.864473,Calendar + arrivals + weather,1388.236858,North,541.000000,test,False
+Haryana,2023,8,1594.286548,Calendar + arrivals + weather,1590.688062,North,541.000000,test,True
+Haryana,2023,9,1704.218400,Calendar + arrivals + weather,1734.402229,North,541.000000,test,True
+Haryana,2023,10,2146.515408,Calendar + arrivals + weather,1968.658457,North,541.000000,test,True
+Haryana,2023,11,2956.242948,Calendar + arrivals + weather,1976.721309,North,541.000000,test,True
+Haryana,2023,12,2205.225486,Calendar + arrivals + weather,1741.548098,North,541.000000,test,True
+Karnataka,2023,4,895.356806,Calendar + arrivals + weather,924.324911,South,1637.890000,test,True
+Karnataka,2023,5,828.748386,Calendar + arrivals + weather,936.609498,South,1637.890000,test,True
+Karnataka,2023,6,1096.185519,Calendar + arrivals + weather,1177.199955,South,1637.890000,test,True
+Karnataka,2023,7,1347.585481,Calendar + arrivals + weather,1304.882831,South,1637.890000,test,False
+Karnataka,2023,8,1760.040457,Calendar + arrivals + weather,1496.642343,South,1637.890000,test,True
+Karnataka,2023,9,1968.466910,Calendar + arrivals + weather,1533.204618,South,1637.890000,test,True
+Karnataka,2023,10,2846.793254,Calendar + arrivals + weather,1739.800306,South,1637.890000,test,True
+Karnataka,2023,11,3342.551981,Calendar + arrivals + weather,1861.313446,South,1637.890000,test,True
+Karnataka,2023,12,2557.340345,Calendar + arrivals + weather,1667.251232,South,1637.890000,test,True
+Maharashtra,2023,4,593.504047,Calendar + arrivals + weather,833.430340,West,8602.000000,test,True
+Maharashtra,2023,5,663.624697,Calendar + arrivals + weather,839.792853,West,8602.000000,test,True
+Maharashtra,2023,6,890.742214,Calendar + arrivals + weather,1065.669352,West,8602.000000,test,True
+Maharashtra,2023,7,1177.289394,Calendar + arrivals + weather,1176.355779,West,8602.000000,test,False
+Maharashtra,2023,8,1585.898813,Calendar + arrivals + weather,1396.668002,West,8602.000000,test,True
+Maharashtra,2023,9,1790.615450,Calendar + arrivals + weather,1459.285698,West,8602.000000,test,True
+Maharashtra,2023,10,2632.246419,Calendar + arrivals + weather,1690.325401,West,8602.000000,test,True
+Maharashtra,2023,11,3213.901544,Calendar + arrivals + weather,1759.992212,West,8602.000000,test,True
+Maharashtra,2023,12,2007.547466,Calendar + arrivals + weather,1527.862707,West,8602.000000,test,True
+Rajasthan,2023,4,704.591999,Calendar + arrivals + weather,890.047152,North,1630.500000,test,True
+Rajasthan,2023,5,730.493222,Calendar + arrivals + weather,856.436458,North,1630.500000,test,True
+Rajasthan,2023,6,713.831493,Calendar + arrivals + weather,1057.029873,North,1630.500000,test,True
+Rajasthan,2023,7,988.540942,Calendar + arrivals + weather,1233.200872,North,1630.500000,test,False
+Rajasthan,2023,8,1229.543837,Calendar + arrivals + weather,1435.552497,North,1630.500000,test,True
+Rajasthan,2023,9,1451.109886,Calendar + arrivals + weather,1569.666054,North,1630.500000,test,True
+Rajasthan,2023,10,2032.808357,Calendar + arrivals + weather,1717.412397,North,1630.500000,test,True
+Rajasthan,2023,11,3026.748380,Calendar + arrivals + weather,1767.133758,North,1630.500000,test,True
+Rajasthan,2023,12,2128.000708,Calendar + arrivals + weather,1567.004179,North,1630.500000,test,True
+West Bengal,2023,4,1386.232558,Calendar + arrivals + weather,1302.135472,East,857.000000,test,True
+West Bengal,2023,5,1505.640244,Calendar + arrivals + weather,1357.483628,East,857.000000,test,True
+West Bengal,2023,6,1821.524390,Calendar + arrivals + weather,1681.036636,East,857.000000,test,True
+West Bengal,2023,7,2097.260274,Calendar + arrivals + weather,1863.464058,East,857.000000,test,False
+West Bengal,2023,8,2675.888738,Calendar + arrivals + weather,2168.395138,East,857.000000,test,True
+West Bengal,2023,9,3004.106892,Calendar + arrivals + weather,2244.006426,East,857.000000,test,True
+West Bengal,2023,10,3219.836957,Calendar + arrivals + weather,2579.081816,East,857.000000,test,True
+West Bengal,2023,11,5019.545455,Calendar + arrivals + weather,2687.712534,East,857.000000,test,True
+West Bengal,2023,12,3733.823529,Calendar + arrivals + weather,2238.937076,East,857.000000,test,True
+Andhra Pradesh,2024,4,1046.847720,March price,1170.146054,South,512.790000,test,True
+Andhra Pradesh,2024,5,1211.020822,March price,1170.146054,South,512.790000,test,True
+Andhra Pradesh,2024,6,3541.757009,March price,1170.146054,South,512.790000,test,True
+Andhra Pradesh,2024,7,3597.391941,March price,1170.146054,South,512.790000,test,True
+Andhra Pradesh,2024,8,3506.338552,March price,1170.146054,South,512.790000,test,True
+Andhra Pradesh,2024,9,4829.166667,March price,1170.146054,South,512.790000,test,True
+Andhra Pradesh,2024,10,4473.913043,March price,1170.146054,South,512.790000,test,True
+Andhra Pradesh,2024,11,3532.686196,March price,1170.146054,South,512.790000,test,True
+Andhra Pradesh,2024,12,2933.835860,March price,1170.146054,South,512.790000,test,True
+Bihar,2024,4,2646.391753,March price,2847.643979,East,1387.760000,test,True
+Bihar,2024,5,2496.349745,March price,2847.643979,East,1387.760000,test,True
+Bihar,2024,6,2946.212482,March price,2847.643979,East,1387.760000,test,True
+Bihar,2024,7,4093.370166,March price,2847.643979,East,1387.760000,test,True
+Bihar,2024,8,4311.148365,March price,2847.643979,East,1387.760000,test,True
+Bihar,2024,9,5034.435798,March price,2847.643979,East,1387.760000,test,True
+Bihar,2024,10,4824.402574,March price,2847.643979,East,1387.760000,test,True
+Bihar,2024,11,5347.167409,March price,2847.643979,East,1387.760000,test,True
+Bihar,2024,12,4909.073171,March price,2847.643979,East,1387.760000,test,True
+Gujarat,2024,4,1200.647673,March price,1261.423494,West,2057.000000,test,True
+Gujarat,2024,5,1305.061576,March price,1261.423494,West,2057.000000,test,True
+Gujarat,2024,6,2195.139647,March price,1261.423494,West,2057.000000,test,True
+Gujarat,2024,7,2525.540580,March price,1261.423494,West,2057.000000,test,True
+Gujarat,2024,8,2916.417971,March price,1261.423494,West,2057.000000,test,True
+Gujarat,2024,9,3696.073288,March price,1261.423494,West,2057.000000,test,True
+Gujarat,2024,10,3761.627656,March price,1261.423494,West,2057.000000,test,True
+Gujarat,2024,11,3232.921609,March price,1261.423494,West,2057.000000,test,True
+Gujarat,2024,12,2191.104660,March price,1261.423494,West,2057.000000,test,True
+Haryana,2024,4,1516.604527,March price,1576.650669,North,541.000000,test,True
+Haryana,2024,5,1411.645704,March price,1576.650669,North,541.000000,test,True
+Haryana,2024,6,1979.373809,March price,1576.650669,North,541.000000,test,True
+Haryana,2024,7,2491.564743,March price,1576.650669,North,541.000000,test,True
+Haryana,2024,8,2638.558700,March price,1576.650669,North,541.000000,test,True
+Haryana,2024,9,3411.227139,March price,1576.650669,North,541.000000,test,True
+Haryana,2024,10,3519.766282,March price,1576.650669,North,541.000000,test,True
+Haryana,2024,11,3246.421764,March price,1576.650669,North,541.000000,test,True
+Haryana,2024,12,2785.538543,March price,1576.650669,North,541.000000,test,True
+Karnataka,2024,4,1348.910305,March price,1358.906431,South,1637.890000,test,True
+Karnataka,2024,5,1559.798645,March price,1358.906431,South,1637.890000,test,True
+Karnataka,2024,6,2273.147463,March price,1358.906431,South,1637.890000,test,True
+Karnataka,2024,7,2594.360235,March price,1358.906431,South,1637.890000,test,True
+Karnataka,2024,8,2965.436721,March price,1358.906431,South,1637.890000,test,True
+Karnataka,2024,9,3221.668610,March price,1358.906431,South,1637.890000,test,True
+Karnataka,2024,10,2865.164803,March price,1358.906431,South,1637.890000,test,True
+Karnataka,2024,11,3059.788247,March price,1358.906431,South,1637.890000,test,True
+Karnataka,2024,12,3126.398567,March price,1358.906431,South,1637.890000,test,True
+Maharashtra,2024,4,1158.685789,March price,1265.595830,West,8602.000000,test,True
+Maharashtra,2024,5,1361.447371,March price,1265.595830,West,8602.000000,test,True
+Maharashtra,2024,6,2189.825360,March price,1265.595830,West,8602.000000,test,True
+Maharashtra,2024,7,2429.516359,March price,1265.595830,West,8602.000000,test,True
+Maharashtra,2024,8,2921.458056,March price,1265.595830,West,8602.000000,test,True
+Maharashtra,2024,9,3688.106690,March price,1265.595830,West,8602.000000,test,True
+Maharashtra,2024,10,3111.273594,March price,1265.595830,West,8602.000000,test,True
+Maharashtra,2024,11,3410.094142,March price,1265.595830,West,8602.000000,test,True
+Maharashtra,2024,12,2708.119607,March price,1265.595830,West,8602.000000,test,True
+Rajasthan,2024,4,1102.195103,March price,1179.933439,North,1630.500000,test,True
+Rajasthan,2024,5,1171.396794,March price,1179.933439,North,1630.500000,test,True
+Rajasthan,2024,6,1726.645708,March price,1179.933439,North,1630.500000,test,True
+Rajasthan,2024,7,2433.463539,March price,1179.933439,North,1630.500000,test,True
+Rajasthan,2024,8,2926.687011,March price,1179.933439,North,1630.500000,test,True
+Rajasthan,2024,9,3285.829598,March price,1179.933439,North,1630.500000,test,True
+Rajasthan,2024,10,3387.257430,March price,1179.933439,North,1630.500000,test,True
+Rajasthan,2024,11,3037.825846,March price,1179.933439,North,1630.500000,test,True
+Rajasthan,2024,12,2408.106772,March price,1179.933439,North,1630.500000,test,True
+West Bengal,2024,4,2047.872340,March price,2131.655844,East,857.000000,test,True
+West Bengal,2024,5,2071.656627,March price,2131.655844,East,857.000000,test,True
+West Bengal,2024,6,3221.641791,March price,2131.655844,East,857.000000,test,True
+West Bengal,2024,7,3665.106952,March price,2131.655844,East,857.000000,test,True
+West Bengal,2024,8,4177.385496,March price,2131.655844,East,857.000000,test,True
+West Bengal,2024,9,4789.691605,March price,2131.655844,East,857.000000,test,True
+West Bengal,2024,10,4880.202801,March price,2131.655844,East,857.000000,test,True
+West Bengal,2024,11,5649.114258,March price,2131.655844,East,857.000000,test,True
+West Bengal,2024,12,3806.874010,March price,2131.655844,East,857.000000,test,True
+Andhra Pradesh,2024,4,1046.847720,Pooled seasonality,1041.080690,South,512.790000,test,True
+Andhra Pradesh,2024,5,1211.020822,Pooled seasonality,985.428655,South,512.790000,test,True
+Andhra Pradesh,2024,6,3541.757009,Pooled seasonality,1236.364981,South,512.790000,test,True
+Andhra Pradesh,2024,7,3597.391941,Pooled seasonality,1456.766323,South,512.790000,test,True
+Andhra Pradesh,2024,8,3506.338552,Pooled seasonality,1753.091238,South,512.790000,test,True
+Andhra Pradesh,2024,9,4829.166667,Pooled seasonality,1894.945539,South,512.790000,test,True
+Andhra Pradesh,2024,10,4473.913043,Pooled seasonality,2144.479824,South,512.790000,test,True
+Andhra Pradesh,2024,11,3532.686196,Pooled seasonality,1922.671134,South,512.790000,test,True
+Andhra Pradesh,2024,12,2933.835860,Pooled seasonality,1690.840475,South,512.790000,test,True
+Bihar,2024,4,2646.391753,Pooled seasonality,2533.553098,East,1387.760000,test,True
+Bihar,2024,5,2496.349745,Pooled seasonality,2398.119420,East,1387.760000,test,True
+Bihar,2024,6,2946.212482,Pooled seasonality,3008.793034,East,1387.760000,test,True
+Bihar,2024,7,4093.370166,Pooled seasonality,3545.157320,East,1387.760000,test,True
+Bihar,2024,8,4311.148365,Pooled seasonality,4266.287693,East,1387.760000,test,True
+Bihar,2024,9,5034.435798,Pooled seasonality,4611.501477,East,1387.760000,test,True
+Bihar,2024,10,4824.402574,Pooled seasonality,5218.763111,East,1387.760000,test,True
+Bihar,2024,11,5347.167409,Pooled seasonality,4678.973929,East,1387.760000,test,True
+Bihar,2024,12,4909.073171,Pooled seasonality,4114.795483,East,1387.760000,test,True
+Gujarat,2024,4,1200.647673,Pooled seasonality,1122.290365,West,2057.000000,test,True
+Gujarat,2024,5,1305.061576,Pooled seasonality,1062.297184,West,2057.000000,test,True
+Gujarat,2024,6,2195.139647,Pooled seasonality,1332.807841,West,2057.000000,test,True
+Gujarat,2024,7,2525.540580,Pooled seasonality,1570.401626,West,2057.000000,test,True
+Gujarat,2024,8,2916.417971,Pooled seasonality,1889.841416,West,2057.000000,test,True
+Gujarat,2024,9,3696.073288,Pooled seasonality,2042.761086,West,2057.000000,test,True
+Gujarat,2024,10,3761.627656,Pooled seasonality,2311.760335,West,2057.000000,test,True
+Gujarat,2024,11,3232.921609,Pooled seasonality,2072.649421,West,2057.000000,test,True
+Gujarat,2024,12,2191.104660,Pooled seasonality,1822.734771,West,2057.000000,test,True
+Haryana,2024,4,1516.604527,Pooled seasonality,1402.748453,North,541.000000,test,True
+Haryana,2024,5,1411.645704,Pooled seasonality,1327.763097,North,541.000000,test,True
+Haryana,2024,6,1979.373809,Pooled seasonality,1665.873818,North,541.000000,test,True
+Haryana,2024,7,2491.564743,Pooled seasonality,1962.841809,North,541.000000,test,True
+Haryana,2024,8,2638.558700,Pooled seasonality,2362.108955,North,541.000000,test,True
+Haryana,2024,9,3411.227139,Pooled seasonality,2553.242941,North,541.000000,test,True
+Haryana,2024,10,3519.766282,Pooled seasonality,2889.464557,North,541.000000,test,True
+Haryana,2024,11,3246.421764,Pooled seasonality,2590.600310,North,541.000000,test,True
+Haryana,2024,12,2785.538543,Pooled seasonality,2278.232496,North,541.000000,test,True
+Karnataka,2024,4,1348.910305,Pooled seasonality,1209.021079,South,1637.890000,test,True
+Karnataka,2024,5,1559.798645,Pooled seasonality,1144.391618,South,1637.890000,test,True
+Karnataka,2024,6,2273.147463,Pooled seasonality,1435.807367,South,1637.890000,test,True
+Karnataka,2024,7,2594.360235,Pooled seasonality,1691.762424,South,1637.890000,test,True
+Karnataka,2024,8,2965.436721,Pooled seasonality,2035.888554,South,1637.890000,test,True
+Karnataka,2024,9,3221.668610,Pooled seasonality,2200.625871,South,1637.890000,test,True
+Karnataka,2024,10,2865.164803,Pooled seasonality,2490.413410,South,1637.890000,test,True
+Karnataka,2024,11,3059.788247,Pooled seasonality,2232.823980,South,1637.890000,test,True
+Karnataka,2024,12,3126.398567,Pooled seasonality,1963.595901,South,1637.890000,test,True
+Maharashtra,2024,4,1158.685789,Pooled seasonality,1126.002498,West,8602.000000,test,True
+Maharashtra,2024,5,1361.447371,Pooled seasonality,1065.810881,West,8602.000000,test,True
+Maharashtra,2024,6,2189.825360,Pooled seasonality,1337.216290,West,8602.000000,test,True
+Maharashtra,2024,7,2429.516359,Pooled seasonality,1575.595950,West,8602.000000,test,True
+Maharashtra,2024,8,2921.458056,Pooled seasonality,1896.092332,West,8602.000000,test,True
+Maharashtra,2024,9,3688.106690,Pooled seasonality,2049.517805,West,8602.000000,test,True
+Maharashtra,2024,10,3111.273594,Pooled seasonality,2319.406807,West,8602.000000,test,True
+Maharashtra,2024,11,3410.094142,Pooled seasonality,2079.505000,West,8602.000000,test,True
+Maharashtra,2024,12,2708.119607,Pooled seasonality,1828.763723,West,8602.000000,test,True
+Rajasthan,2024,4,1102.195103,Pooled seasonality,1049.788542,North,1630.500000,test,True
+Rajasthan,2024,5,1171.396794,Pooled seasonality,993.671019,North,1630.500000,test,True
+Rajasthan,2024,6,1726.645708,Pooled seasonality,1246.706238,North,1630.500000,test,True
+Rajasthan,2024,7,2433.463539,Pooled seasonality,1468.951070,North,1630.500000,test,True
+Rajasthan,2024,8,2926.687011,Pooled seasonality,1767.754518,North,1630.500000,test,True
+Rajasthan,2024,9,3285.829598,Pooled seasonality,1910.795324,North,1630.500000,test,True
+Rajasthan,2024,10,3387.257430,Pooled seasonality,2162.416774,North,1630.500000,test,True
+Rajasthan,2024,11,3037.825846,Pooled seasonality,1938.752822,North,1630.500000,test,True
+Rajasthan,2024,12,2408.106772,Pooled seasonality,1704.983074,North,1630.500000,test,True
+West Bengal,2024,4,2047.872340,Pooled seasonality,1896.537386,East,857.000000,test,True
+West Bengal,2024,5,2071.656627,Pooled seasonality,1795.156036,East,857.000000,test,True
+West Bengal,2024,6,3221.641791,Pooled seasonality,2252.286909,East,857.000000,test,True
+West Bengal,2024,7,3665.106952,Pooled seasonality,2653.792179,East,857.000000,test,True
+West Bengal,2024,8,4177.385496,Pooled seasonality,3193.607474,East,857.000000,test,True
+West Bengal,2024,9,4789.691605,Pooled seasonality,3452.023549,East,857.000000,test,True
+West Bengal,2024,10,4880.202801,Pooled seasonality,3906.600321,East,857.000000,test,True
+West Bengal,2024,11,5649.114258,Pooled seasonality,3502.531283,East,857.000000,test,True
+West Bengal,2024,12,3806.874010,Pooled seasonality,3080.205217,East,857.000000,test,True
+Andhra Pradesh,2024,4,1046.847720,Recent seasonality,950.956664,South,512.790000,test,True
+Andhra Pradesh,2024,5,1211.020822,Recent seasonality,955.547754,South,512.790000,test,True
+Andhra Pradesh,2024,6,3541.757009,Recent seasonality,1218.824246,South,512.790000,test,True
+Andhra Pradesh,2024,7,3597.391941,Recent seasonality,1409.900920,South,512.790000,test,True
+Andhra Pradesh,2024,8,3506.338552,Recent seasonality,1677.832252,South,512.790000,test,True
+Andhra Pradesh,2024,9,4829.166667,Recent seasonality,1846.319036,South,512.790000,test,True
+Andhra Pradesh,2024,10,4473.913043,Recent seasonality,2475.906661,South,512.790000,test,True
+Andhra Pradesh,2024,11,3532.686196,Recent seasonality,2991.834861,South,512.790000,test,True
+Andhra Pradesh,2024,12,2933.835860,Recent seasonality,2774.770267,South,512.790000,test,True
+Bihar,2024,4,2646.391753,Recent seasonality,2314.229073,East,1387.760000,test,True
+Bihar,2024,5,2496.349745,Recent seasonality,2325.401859,East,1387.760000,test,True
+Bihar,2024,6,2946.212482,Recent seasonality,2966.106252,East,1387.760000,test,True
+Bihar,2024,7,4093.370166,Recent seasonality,3431.106615,East,1387.760000,test,True
+Bihar,2024,8,4311.148365,Recent seasonality,4083.138934,East,1387.760000,test,True
+Bihar,2024,9,5034.435798,Recent seasonality,4493.164994,East,1387.760000,test,True
+Bihar,2024,10,4824.402574,Recent seasonality,6025.316815,East,1387.760000,test,True
+Bihar,2024,11,5347.167409,Recent seasonality,7280.869341,East,1387.760000,test,True
+Bihar,2024,12,4909.073171,Recent seasonality,6752.625297,East,1387.760000,test,True
+Gujarat,2024,4,1200.647673,Recent seasonality,1025.136199,West,2057.000000,test,True
+Gujarat,2024,5,1305.061576,Recent seasonality,1030.085418,West,2057.000000,test,True
+Gujarat,2024,6,2195.139647,Recent seasonality,1313.898837,West,2057.000000,test,True
+Gujarat,2024,7,2525.540580,Recent seasonality,1519.880479,West,2057.000000,test,True
+Gujarat,2024,8,2916.417971,Recent seasonality,1808.711840,West,2057.000000,test,True
+Gujarat,2024,9,3696.073288,Recent seasonality,1990.341465,West,2057.000000,test,True
+Gujarat,2024,10,3761.627656,Recent seasonality,2669.040178,West,2057.000000,test,True
+Gujarat,2024,11,3232.921609,Recent seasonality,3225.213445,West,2057.000000,test,True
+Gujarat,2024,12,2191.104660,Recent seasonality,2991.216691,West,2057.000000,test,True
+Haryana,2024,4,1516.604527,Recent seasonality,1281.315657,North,541.000000,test,True
+Haryana,2024,5,1411.645704,Recent seasonality,1287.501676,North,541.000000,test,True
+Haryana,2024,6,1979.373809,Recent seasonality,1642.239493,North,541.000000,test,True
+Haryana,2024,7,2491.564743,Recent seasonality,1899.695530,North,541.000000,test,True
+Haryana,2024,8,2638.558700,Recent seasonality,2260.705263,North,541.000000,test,True
+Haryana,2024,9,3411.227139,Recent seasonality,2487.723762,North,541.000000,test,True
+Haryana,2024,10,3519.766282,Recent seasonality,3336.027908,North,541.000000,test,True
+Haryana,2024,11,3246.421764,Recent seasonality,4031.187747,North,541.000000,test,True
+Haryana,2024,12,2785.538543,Recent seasonality,3738.715678,North,541.000000,test,True
+Karnataka,2024,4,1348.910305,Recent seasonality,1104.358829,South,1637.890000,test,True
+Karnataka,2024,5,1559.798645,Recent seasonality,1109.690524,South,1637.890000,test,True
+Karnataka,2024,6,2273.147463,Recent seasonality,1415.437073,South,1637.890000,test,True
+Karnataka,2024,7,2594.360235,Recent seasonality,1637.336998,South,1637.890000,test,True
+Karnataka,2024,8,2965.436721,Recent seasonality,1948.489276,South,1637.890000,test,True
+Karnataka,2024,9,3221.668610,Recent seasonality,2144.155256,South,1637.890000,test,True
+Karnataka,2024,10,2865.164803,Recent seasonality,2875.303875,South,1637.890000,test,True
+Karnataka,2024,11,3059.788247,Recent seasonality,3474.458269,South,1637.890000,test,True
+Karnataka,2024,12,3126.398567,Recent seasonality,3222.378221,South,1637.890000,test,True
+Maharashtra,2024,4,1158.685789,Recent seasonality,1028.526981,West,8602.000000,test,True
+Maharashtra,2024,5,1361.447371,Recent seasonality,1033.492570,West,8602.000000,test,True
+Maharashtra,2024,6,2189.825360,Recent seasonality,1318.244742,West,8602.000000,test,True
+Maharashtra,2024,7,2429.516359,Recent seasonality,1524.907698,West,8602.000000,test,True
+Maharashtra,2024,8,2921.458056,Recent seasonality,1814.694409,West,8602.000000,test,True
+Maharashtra,2024,9,3688.106690,Recent seasonality,1996.924798,West,8602.000000,test,True
+Maharashtra,2024,10,3111.273594,Recent seasonality,2677.868403,West,8602.000000,test,True
+Maharashtra,2024,11,3410.094142,Recent seasonality,3235.881291,West,8602.000000,test,True
+Maharashtra,2024,12,2708.119607,Recent seasonality,3001.110560,West,8602.000000,test,True
+Rajasthan,2024,4,1102.195103,Recent seasonality,958.910696,North,1630.500000,test,True
+Rajasthan,2024,5,1171.396794,Recent seasonality,963.540187,North,1630.500000,test,True
+Rajasthan,2024,6,1726.645708,Recent seasonality,1229.018788,North,1630.500000,test,True
+Rajasthan,2024,7,2433.463539,Recent seasonality,1421.693673,North,1630.500000,test,True
+Rajasthan,2024,8,2926.687011,Recent seasonality,1691.866048,North,1630.500000,test,True
+Rajasthan,2024,9,3285.829598,Recent seasonality,1861.762097,North,1630.500000,test,True
+Rajasthan,2024,10,3387.257430,Recent seasonality,2496.615744,North,1630.500000,test,True
+Rajasthan,2024,11,3037.825846,Recent seasonality,3016.859294,North,1630.500000,test,True
+Rajasthan,2024,12,2408.106772,Recent seasonality,2797.979119,North,1630.500000,test,True
+West Bengal,2024,4,2047.872340,Recent seasonality,1732.358386,East,857.000000,test,True
+West Bengal,2024,5,2071.656627,Recent seasonality,1740.721979,East,857.000000,test,True
+West Bengal,2024,6,3221.641791,Recent seasonality,2220.332939,East,857.000000,test,True
+West Bengal,2024,7,3665.106952,Recent seasonality,2568.417443,East,857.000000,test,True
+West Bengal,2024,8,4177.385496,Recent seasonality,3056.508129,East,857.000000,test,True
+West Bengal,2024,9,4789.691605,Recent seasonality,3363.440616,East,857.000000,test,True
+West Bengal,2024,10,4880.202801,Recent seasonality,4510.360810,East,857.000000,test,True
+West Bengal,2024,11,5649.114258,Recent seasonality,5450.227555,East,857.000000,test,True
+West Bengal,2024,12,3806.874010,Recent seasonality,5054.800840,East,857.000000,test,True
+Andhra Pradesh,2024,4,1046.847720,Calendar ridge,907.656517,South,512.790000,test,True
+Andhra Pradesh,2024,5,1211.020822,Calendar ridge,943.199248,South,512.790000,test,True
+Andhra Pradesh,2024,6,3541.757009,Calendar ridge,1289.446031,South,512.790000,test,True
+Andhra Pradesh,2024,7,3597.391941,Calendar ridge,1394.504111,South,512.790000,test,True
+Andhra Pradesh,2024,8,3506.338552,Calendar ridge,1609.090583,South,512.790000,test,True
+Andhra Pradesh,2024,9,4829.166667,Calendar ridge,1534.112679,South,512.790000,test,True
+Andhra Pradesh,2024,10,4473.913043,Calendar ridge,1639.087554,South,512.790000,test,True
+Andhra Pradesh,2024,11,3532.686196,Calendar ridge,1749.121848,South,512.790000,test,True
+Andhra Pradesh,2024,12,2933.835860,Calendar ridge,1517.912576,South,512.790000,test,True
+Bihar,2024,4,2646.391753,Calendar ridge,1379.089941,East,1387.760000,test,True
+Bihar,2024,5,2496.349745,Calendar ridge,1399.500939,East,1387.760000,test,True
+Bihar,2024,6,2946.212482,Calendar ridge,1659.592278,East,1387.760000,test,True
+Bihar,2024,7,4093.370166,Calendar ridge,1838.738922,East,1387.760000,test,True
+Bihar,2024,8,4311.148365,Calendar ridge,2182.852795,East,1387.760000,test,True
+Bihar,2024,9,5034.435798,Calendar ridge,2228.990528,East,1387.760000,test,True
+Bihar,2024,10,4824.402574,Calendar ridge,2566.375885,East,1387.760000,test,True
+Bihar,2024,11,5347.167409,Calendar ridge,2809.120549,East,1387.760000,test,True
+Bihar,2024,12,4909.073171,Calendar ridge,2460.178246,East,1387.760000,test,True
+Gujarat,2024,4,1200.647673,Calendar ridge,926.941756,West,2057.000000,test,True
+Gujarat,2024,5,1305.061576,Calendar ridge,957.695128,West,2057.000000,test,True
+Gujarat,2024,6,2195.139647,Calendar ridge,1209.566633,West,2057.000000,test,True
+Gujarat,2024,7,2525.540580,Calendar ridge,1331.350965,West,2057.000000,test,True
+Gujarat,2024,8,2916.417971,Calendar ridge,1555.320818,West,2057.000000,test,True
+Gujarat,2024,9,3696.073288,Calendar ridge,1599.661640,West,2057.000000,test,True
+Gujarat,2024,10,3761.627656,Calendar ridge,1944.653152,West,2057.000000,test,True
+Gujarat,2024,11,3232.921609,Calendar ridge,2004.415139,West,2057.000000,test,True
+Gujarat,2024,12,2191.104660,Calendar ridge,1737.100536,West,2057.000000,test,True
+Haryana,2024,4,1516.604527,Calendar ridge,1097.027176,North,541.000000,test,True
+Haryana,2024,5,1411.645704,Calendar ridge,1040.045572,North,541.000000,test,True
+Haryana,2024,6,1979.373809,Calendar ridge,1254.208974,North,541.000000,test,True
+Haryana,2024,7,2491.564743,Calendar ridge,1459.714286,North,541.000000,test,True
+Haryana,2024,8,2638.558700,Calendar ridge,1690.901548,North,541.000000,test,True
+Haryana,2024,9,3411.227139,Calendar ridge,1844.029969,North,541.000000,test,True
+Haryana,2024,10,3519.766282,Calendar ridge,2121.558818,North,541.000000,test,True
+Haryana,2024,11,3246.421764,Calendar ridge,2191.625964,North,541.000000,test,True
+Haryana,2024,12,2785.538543,Calendar ridge,1898.118150,North,541.000000,test,True
+Karnataka,2024,4,1348.910305,Calendar ridge,997.375469,South,1637.890000,test,True
+Karnataka,2024,5,1559.798645,Calendar ridge,1009.068302,South,1637.890000,test,True
+Karnataka,2024,6,2273.147463,Calendar ridge,1270.137194,South,1637.890000,test,True
+Karnataka,2024,7,2594.360235,Calendar ridge,1418.454889,South,1637.890000,test,True
+Karnataka,2024,8,2965.436721,Calendar ridge,1654.506886,South,1637.890000,test,True
+Karnataka,2024,9,3221.668610,Calendar ridge,1704.401812,South,1637.890000,test,True
+Karnataka,2024,10,2865.164803,Calendar ridge,1973.989486,South,1637.890000,test,True
+Karnataka,2024,11,3059.788247,Calendar ridge,2148.620892,South,1637.890000,test,True
+Karnataka,2024,12,3126.398567,Calendar ridge,1892.772429,South,1637.890000,test,True
+Maharashtra,2024,4,1158.685789,Calendar ridge,932.096889,West,8602.000000,test,True
+Maharashtra,2024,5,1361.447371,Calendar ridge,946.928254,West,8602.000000,test,True
+Maharashtra,2024,6,2189.825360,Calendar ridge,1203.694406,West,8602.000000,test,True
+Maharashtra,2024,7,2429.516359,Calendar ridge,1343.814341,West,8602.000000,test,True
+Maharashtra,2024,8,2921.458056,Calendar ridge,1622.262767,West,8602.000000,test,True
+Maharashtra,2024,9,3688.106690,Calendar ridge,1703.599397,West,8602.000000,test,True
+Maharashtra,2024,10,3111.273594,Calendar ridge,2013.628354,West,8602.000000,test,True
+Maharashtra,2024,11,3410.094142,Calendar ridge,2140.192151,West,8602.000000,test,True
+Maharashtra,2024,12,2708.119607,Calendar ridge,1811.590223,West,8602.000000,test,True
+Rajasthan,2024,4,1102.195103,Calendar ridge,916.233968,North,1630.500000,test,True
+Rajasthan,2024,5,1171.396794,Calendar ridge,887.568104,North,1630.500000,test,True
+Rajasthan,2024,6,1726.645708,Calendar ridge,1081.566128,North,1630.500000,test,True
+Rajasthan,2024,7,2433.463539,Calendar ridge,1275.611204,North,1630.500000,test,True
+Rajasthan,2024,8,2926.687011,Calendar ridge,1505.314809,North,1630.500000,test,True
+Rajasthan,2024,9,3285.829598,Calendar ridge,1654.204032,North,1630.500000,test,True
+Rajasthan,2024,10,3387.257430,Calendar ridge,1847.693710,North,1630.500000,test,True
+Rajasthan,2024,11,3037.825846,Calendar ridge,1961.208667,North,1630.500000,test,True
+Rajasthan,2024,12,2408.106772,Calendar ridge,1703.981613,North,1630.500000,test,True
+West Bengal,2024,4,2047.872340,Calendar ridge,1289.804399,East,857.000000,test,True
+West Bengal,2024,5,2071.656627,Calendar ridge,1351.406390,East,857.000000,test,True
+West Bengal,2024,6,3221.641791,Calendar ridge,1669.752154,East,857.000000,test,True
+West Bengal,2024,7,3665.106952,Calendar ridge,1858.726946,East,857.000000,test,True
+West Bengal,2024,8,4177.385496,Calendar ridge,2195.424282,East,857.000000,test,True
+West Bengal,2024,9,4789.691605,Calendar ridge,2283.954073,East,857.000000,test,True
+West Bengal,2024,10,4880.202801,Calendar ridge,2637.663569,East,857.000000,test,True
+West Bengal,2024,11,5649.114258,Calendar ridge,2840.255960,East,857.000000,test,True
+West Bengal,2024,12,3806.874010,Calendar ridge,2314.744565,East,857.000000,test,True
+Andhra Pradesh,2024,4,1046.847720,Calendar + arrivals,905.667832,South,512.790000,test,True
+Andhra Pradesh,2024,5,1211.020822,Calendar + arrivals,941.132689,South,512.790000,test,True
+Andhra Pradesh,2024,6,3541.757009,Calendar + arrivals,1286.620842,South,512.790000,test,True
+Andhra Pradesh,2024,7,3597.391941,Calendar + arrivals,1392.578392,South,512.790000,test,True
+Andhra Pradesh,2024,8,3506.338552,Calendar + arrivals,1606.067469,South,512.790000,test,True
+Andhra Pradesh,2024,9,4829.166667,Calendar + arrivals,1531.230431,South,512.790000,test,True
+Andhra Pradesh,2024,10,4473.913043,Calendar + arrivals,1636.008083,South,512.790000,test,True
+Andhra Pradesh,2024,11,3532.686196,Calendar + arrivals,1745.835647,South,512.790000,test,True
+Andhra Pradesh,2024,12,2933.835860,Calendar + arrivals,1515.323130,South,512.790000,test,True
+Bihar,2024,4,2646.391753,Calendar + arrivals,1391.295098,East,1387.760000,test,True
+Bihar,2024,5,2496.349745,Calendar + arrivals,1411.886737,East,1387.760000,test,True
+Bihar,2024,6,2946.212482,Calendar + arrivals,1674.279924,East,1387.760000,test,True
+Bihar,2024,7,4093.370166,Calendar + arrivals,1856.251874,East,1387.760000,test,True
+Bihar,2024,8,4311.148365,Calendar + arrivals,2202.282509,East,1387.760000,test,True
+Bihar,2024,9,5034.435798,Calendar + arrivals,2248.830917,East,1387.760000,test,True
+Bihar,2024,10,4824.402574,Calendar + arrivals,2589.219363,East,1387.760000,test,True
+Bihar,2024,11,5347.167409,Calendar + arrivals,2834.124713,East,1387.760000,test,True
+Bihar,2024,12,4909.073171,Calendar + arrivals,2482.190839,East,1387.760000,test,True
+Gujarat,2024,4,1200.647673,Calendar + arrivals,921.593364,West,2057.000000,test,True
+Gujarat,2024,5,1305.061576,Calendar + arrivals,952.169291,West,2057.000000,test,True
+Gujarat,2024,6,2195.139647,Calendar + arrivals,1202.587515,West,2057.000000,test,True
+Gujarat,2024,7,2525.540580,Calendar + arrivals,1323.832386,West,2057.000000,test,True
+Gujarat,2024,8,2916.417971,Calendar + arrivals,1546.393543,West,2057.000000,test,True
+Gujarat,2024,9,3696.073288,Calendar + arrivals,1590.479857,West,2057.000000,test,True
+Gujarat,2024,10,3761.627656,Calendar + arrivals,1933.491176,West,2057.000000,test,True
+Gujarat,2024,11,3232.921609,Calendar + arrivals,1992.910140,West,2057.000000,test,True
+Gujarat,2024,12,2191.104660,Calendar + arrivals,1727.177633,West,2057.000000,test,True
+Haryana,2024,4,1516.604527,Calendar + arrivals,1102.919858,North,541.000000,test,True
+Haryana,2024,5,1411.645704,Calendar + arrivals,1045.632177,North,541.000000,test,True
+Haryana,2024,6,1979.373809,Calendar + arrivals,1260.945959,North,541.000000,test,True
+Haryana,2024,7,2491.564743,Calendar + arrivals,1467.736111,North,541.000000,test,True
+Haryana,2024,8,2638.558700,Calendar + arrivals,1700.035699,North,541.000000,test,True
+Haryana,2024,9,3411.227139,Calendar + arrivals,1853.991312,North,541.000000,test,True
+Haryana,2024,10,3519.766282,Calendar + arrivals,2133.019356,North,541.000000,test,True
+Haryana,2024,11,3246.421764,Calendar + arrivals,2203.465000,North,541.000000,test,True
+Haryana,2024,12,2785.538543,Calendar + arrivals,1908.424442,North,541.000000,test,True
+Karnataka,2024,4,1348.910305,Calendar + arrivals,992.328864,South,1637.890000,test,True
+Karnataka,2024,5,1559.798645,Calendar + arrivals,1003.962532,South,1637.890000,test,True
+Karnataka,2024,6,2273.147463,Calendar + arrivals,1263.710445,South,1637.890000,test,True
+Karnataka,2024,7,2594.360235,Calendar + arrivals,1411.451700,South,1637.890000,test,True
+Karnataka,2024,8,2965.436721,Calendar + arrivals,1646.185114,South,1637.890000,test,True
+Karnataka,2024,9,3221.668610,Calendar + arrivals,1695.829081,South,1637.890000,test,True
+Karnataka,2024,10,2865.164803,Calendar + arrivals,1964.060794,South,1637.890000,test,True
+Karnataka,2024,11,3059.788247,Calendar + arrivals,2137.813846,South,1637.890000,test,True
+Karnataka,2024,12,3126.398567,Calendar + arrivals,1883.304313,South,1637.890000,test,True
+Maharashtra,2024,4,1158.685789,Calendar + arrivals,928.724039,West,8602.000000,test,True
+Maharashtra,2024,5,1361.447371,Calendar + arrivals,943.501736,West,8602.000000,test,True
+Maharashtra,2024,6,2189.825360,Calendar + arrivals,1199.338765,West,8602.000000,test,True
+Maharashtra,2024,7,2429.516359,Calendar + arrivals,1339.116778,West,8602.000000,test,True
+Maharashtra,2024,8,2921.458056,Calendar + arrivals,1616.441452,West,8602.000000,test,True
+Maharashtra,2024,9,3688.106690,Calendar + arrivals,1697.486215,West,8602.000000,test,True
+Maharashtra,2024,10,3111.273594,Calendar + arrivals,2006.402667,West,8602.000000,test,True
+Maharashtra,2024,11,3410.094142,Calendar + arrivals,2132.512303,West,8602.000000,test,True
+Maharashtra,2024,12,2708.119607,Calendar + arrivals,1805.139440,West,8602.000000,test,True
+Rajasthan,2024,4,1102.195103,Calendar + arrivals,917.313887,North,1630.500000,test,True
+Rajasthan,2024,5,1171.396794,Calendar + arrivals,888.614237,North,1630.500000,test,True
+Rajasthan,2024,6,1726.645708,Calendar + arrivals,1082.840916,North,1630.500000,test,True
+Rajasthan,2024,7,2433.463539,Calendar + arrivals,1277.272189,North,1630.500000,test,True
+Rajasthan,2024,8,2926.687011,Calendar + arrivals,1507.134682,North,1630.500000,test,True
+Rajasthan,2024,9,3285.829598,Calendar + arrivals,1656.203907,North,1630.500000,test,True
+Rajasthan,2024,10,3387.257430,Calendar + arrivals,1849.927507,North,1630.500000,test,True
+Rajasthan,2024,11,3037.825846,Calendar + arrivals,1963.579700,North,1630.500000,test,True
+Rajasthan,2024,12,2408.106772,Calendar + arrivals,1706.088841,North,1630.500000,test,True
+West Bengal,2024,4,2047.872340,Calendar + arrivals,1289.252458,East,857.000000,test,True
+West Bengal,2024,5,2071.656627,Calendar + arrivals,1350.828088,East,857.000000,test,True
+West Bengal,2024,6,3221.641791,Calendar + arrivals,1669.037623,East,857.000000,test,True
+West Bengal,2024,7,3665.106952,Calendar + arrivals,1858.160656,East,857.000000,test,True
+West Bengal,2024,8,4177.385496,Calendar + arrivals,2194.551249,East,857.000000,test,True
+West Bengal,2024,9,4789.691605,Calendar + arrivals,2283.045835,East,857.000000,test,True
+West Bengal,2024,10,4880.202801,Calendar + arrivals,2636.614675,East,857.000000,test,True
+West Bengal,2024,11,5649.114258,Calendar + arrivals,2839.126503,East,857.000000,test,True
+West Bengal,2024,12,3806.874010,Calendar + arrivals,2314.148543,East,857.000000,test,True
+Andhra Pradesh,2024,4,1046.847720,Calendar + arrivals + weather,768.922480,South,512.790000,test,True
+Andhra Pradesh,2024,5,1211.020822,Calendar + arrivals + weather,799.032554,South,512.790000,test,True
+Andhra Pradesh,2024,6,3541.757009,Calendar + arrivals + weather,1092.355998,South,512.790000,test,True
+Andhra Pradesh,2024,7,3597.391941,Calendar + arrivals + weather,1180.100760,South,512.790000,test,True
+Andhra Pradesh,2024,8,3506.338552,Calendar + arrivals + weather,1369.005674,South,512.790000,test,True
+Andhra Pradesh,2024,9,4829.166667,Calendar + arrivals + weather,1305.214874,South,512.790000,test,True
+Andhra Pradesh,2024,10,4473.913043,Calendar + arrivals + weather,1394.526937,South,512.790000,test,True
+Andhra Pradesh,2024,11,3532.686196,Calendar + arrivals + weather,1488.143526,South,512.790000,test,True
+Andhra Pradesh,2024,12,2933.835860,Calendar + arrivals + weather,1285.698249,South,512.790000,test,True
+Bihar,2024,4,2646.391753,Calendar + arrivals + weather,1590.583107,East,1387.760000,test,True
+Bihar,2024,5,2496.349745,Calendar + arrivals + weather,1614.124276,East,1387.760000,test,True
+Bihar,2024,6,2946.212482,Calendar + arrivals + weather,1914.102456,East,1387.760000,test,True
+Bihar,2024,7,4093.370166,Calendar + arrivals + weather,2119.961872,East,1387.760000,test,True
+Bihar,2024,8,4311.148365,Calendar + arrivals + weather,2519.351853,East,1387.760000,test,True
+Bihar,2024,9,5034.435798,Calendar + arrivals + weather,2572.601977,East,1387.760000,test,True
+Bihar,2024,10,4824.402574,Calendar + arrivals + weather,2961.997188,East,1387.760000,test,True
+Bihar,2024,11,5347.167409,Calendar + arrivals + weather,3242.162309,East,1387.760000,test,True
+Bihar,2024,12,4909.073171,Calendar + arrivals + weather,2842.524633,East,1387.760000,test,True
+Gujarat,2024,4,1200.647673,Calendar + arrivals + weather,921.864987,West,2057.000000,test,True
+Gujarat,2024,5,1305.061576,Calendar + arrivals + weather,952.449926,West,2057.000000,test,True
+Gujarat,2024,6,2195.139647,Calendar + arrivals + weather,1202.941955,West,2057.000000,test,True
+Gujarat,2024,7,2525.540580,Calendar + arrivals + weather,1323.902404,West,2057.000000,test,True
+Gujarat,2024,8,2916.417971,Calendar + arrivals + weather,1547.444992,West,2057.000000,test,True
+Gujarat,2024,9,3696.073288,Calendar + arrivals + weather,1591.561282,West,2057.000000,test,True
+Gujarat,2024,10,3761.627656,Calendar + arrivals + weather,1934.805828,West,2057.000000,test,True
+Gujarat,2024,11,3232.921609,Calendar + arrivals + weather,1994.265192,West,2057.000000,test,True
+Gujarat,2024,12,2191.104660,Calendar + arrivals + weather,1729.434671,West,2057.000000,test,True
+Haryana,2024,4,1516.604527,Calendar + arrivals + weather,1130.550340,North,541.000000,test,True
+Haryana,2024,5,1411.645704,Calendar + arrivals + weather,1071.827482,North,541.000000,test,True
+Haryana,2024,6,1979.373809,Calendar + arrivals + weather,1292.535330,North,541.000000,test,True
+Haryana,2024,7,2491.564743,Calendar + arrivals + weather,1504.142271,North,541.000000,test,True
+Haryana,2024,8,2638.558700,Calendar + arrivals + weather,1743.296271,North,541.000000,test,True
+Haryana,2024,9,3411.227139,Calendar + arrivals + weather,1901.169570,North,541.000000,test,True
+Haryana,2024,10,3519.766282,Calendar + arrivals + weather,2187.298002,North,541.000000,test,True
+Haryana,2024,11,3246.421764,Calendar + arrivals + weather,2259.536267,North,541.000000,test,True
+Haryana,2024,12,2785.538543,Calendar + arrivals + weather,1958.213740,North,541.000000,test,True
+Karnataka,2024,4,1348.910305,Calendar + arrivals + weather,940.262042,South,1637.890000,test,True
+Karnataka,2024,5,1559.798645,Calendar + arrivals + weather,951.285300,South,1637.890000,test,True
+Karnataka,2024,6,2273.147463,Calendar + arrivals + weather,1197.404416,South,1637.890000,test,True
+Karnataka,2024,7,2594.360235,Calendar + arrivals + weather,1337.070446,South,1637.890000,test,True
+Karnataka,2024,8,2965.436721,Calendar + arrivals + weather,1560.411569,South,1637.890000,test,True
+Karnataka,2024,9,3221.668610,Calendar + arrivals + weather,1607.468865,South,1637.890000,test,True
+Karnataka,2024,10,2865.164803,Calendar + arrivals + weather,1861.724516,South,1637.890000,test,True
+Karnataka,2024,11,3059.788247,Calendar + arrivals + weather,2026.424264,South,1637.890000,test,True
+Karnataka,2024,12,3126.398567,Calendar + arrivals + weather,1786.294068,South,1637.890000,test,True
+Maharashtra,2024,4,1158.685789,Calendar + arrivals + weather,836.411970,West,8602.000000,test,True
+Maharashtra,2024,5,1361.447371,Calendar + arrivals + weather,849.720813,West,8602.000000,test,True
+Maharashtra,2024,6,2189.825360,Calendar + arrivals + weather,1080.128495,West,8602.000000,test,True
+Maharashtra,2024,7,2429.516359,Calendar + arrivals + weather,1205.721463,West,8602.000000,test,True
+Maharashtra,2024,8,2921.458056,Calendar + arrivals + weather,1456.333174,West,8602.000000,test,True
+Maharashtra,2024,9,3688.106690,Calendar + arrivals + weather,1529.350465,West,8602.000000,test,True
+Maharashtra,2024,10,3111.273594,Calendar + arrivals + weather,1807.668790,West,8602.000000,test,True
+Maharashtra,2024,11,3410.094142,Calendar + arrivals + weather,1921.287286,West,8602.000000,test,True
+Maharashtra,2024,12,2708.119607,Calendar + arrivals + weather,1627.359420,West,8602.000000,test,True
+Rajasthan,2024,4,1102.195103,Calendar + arrivals + weather,921.813412,North,1630.500000,test,True
+Rajasthan,2024,5,1171.396794,Calendar + arrivals + weather,892.972986,North,1630.500000,test,True
+Rajasthan,2024,6,1726.645708,Calendar + arrivals + weather,1088.152369,North,1630.500000,test,True
+Rajasthan,2024,7,2433.463539,Calendar + arrivals + weather,1283.227028,North,1630.500000,test,True
+Rajasthan,2024,8,2926.687011,Calendar + arrivals + weather,1515.110574,North,1630.500000,test,True
+Rajasthan,2024,9,3285.829598,Calendar + arrivals + weather,1664.968686,North,1630.500000,test,True
+Rajasthan,2024,10,3387.257430,Calendar + arrivals + weather,1859.717489,North,1630.500000,test,True
+Rajasthan,2024,11,3037.825846,Calendar + arrivals + weather,1973.971139,North,1630.500000,test,True
+Rajasthan,2024,12,2408.106772,Calendar + arrivals + weather,1716.191992,North,1630.500000,test,True
+West Bengal,2024,4,2047.872340,Calendar + arrivals + weather,1543.452111,East,857.000000,test,True
+West Bengal,2024,5,2071.656627,Calendar + arrivals + weather,1617.168500,East,857.000000,test,True
+West Bengal,2024,6,3221.641791,Calendar + arrivals + weather,1998.118854,East,857.000000,test,True
+West Bengal,2024,7,3665.106952,Calendar + arrivals + weather,2223.993120,East,857.000000,test,True
+West Bengal,2024,8,4177.385496,Calendar + arrivals + weather,2628.258814,East,857.000000,test,True
+West Bengal,2024,9,4789.691605,Calendar + arrivals + weather,2734.242520,East,857.000000,test,True
+West Bengal,2024,10,4880.202801,Calendar + arrivals + weather,3157.686912,East,857.000000,test,True
+West Bengal,2024,11,5649.114258,Calendar + arrivals + weather,3400.221005,East,857.000000,test,True
+West Bengal,2024,12,3806.874010,Calendar + arrivals + weather,2804.164917,East,857.000000,test,True

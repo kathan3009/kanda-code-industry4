@@ -1,4 +1,5 @@
 """Render report.md as the three-page submission PDF."""
+import argparse
 from html import escape
 from io import BytesIO
 import os
@@ -14,6 +15,10 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import PageBreak, Paragraph, SimpleDocTemplate, Table, TableStyle
 
 root = Path(__file__).resolve().parent
+parser = argparse.ArgumentParser()
+parser.add_argument("--report", type=Path, default=root / "report.md")
+parser.add_argument("--output", type=Path, default=root / "Kanda Code.pdf")
+args = parser.parse_args()
 fonts = Path(os.environ.get("TNR_FONT_DIR", "/System/Library/Fonts/Supplemental"))
 pdfmetrics.registerFont(TTFont("TNR", str(fonts / "Times New Roman.ttf")))
 pdfmetrics.registerFont(TTFont("TNR-Bold", str(fonts / "Times New Roman Bold.ttf")))
@@ -25,14 +30,15 @@ heading = ParagraphStyle("heading", parent=body, fontName="TNR-Bold", spaceBefor
 cell = ParagraphStyle("cell", parent=body, spaceAfter=0)
 
 story, table = [], []
-for line in (root / "report.md").read_text().replace("–", "-").splitlines() + [""]:
+for line in args.report.read_text().replace("–", "-").splitlines() + [""]:
     if line.startswith("|"):
         if set(line) <= set("| -:"):
             continue
         table.append([Paragraph(escape(s.strip()), cell) for s in line.strip("|").split("|")])
         continue
     if table:
-        widths = [86, 120, 91, 81, 109] if len(table[0]) == 5 else [280, 207]
+        widths = {2: [280, 207], 3: [240, 123, 124], 4: [128, 131, 104, 124],
+                  5: [86, 120, 91, 81, 109]}[len(table[0])]
         story.append(Table(table, colWidths=widths, hAlign="LEFT", style=TableStyle([
             ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#EBEFF1")),
             ("VALIGN", (0, 0), (-1, -1), "TOP"),
@@ -65,4 +71,6 @@ if len(pdf.pages) != 3:
     raise ValueError(f"Expected three pages, found {len(pdf.pages)}")
 pdf.metadata = None
 pdf.xmp_metadata = None
-pdf.write(root / "Kanda Code.pdf")
+pdf._ID = None  # pypdf has no public option to omit the trailer /ID
+args.output.parent.mkdir(parents=True, exist_ok=True)
+pdf.write(args.output)
