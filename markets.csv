@@ -1,6 +1,5 @@
-state,state_id,district,district_id,market,basis,lat,lon
-Haryana,12,Gurgaon,169,Gurgaon APMC,"Most arrivals 2013-2025, reporting every month",28.46,77.03
-Karnataka,16,Dharwad,252,APMC Hubballi,"Most arrivals 2013-2025, reporting every month",15.36,75.12
-Maharashtra,20,Solapur,369,APMC Solapur,"Most arrivals 2013-2025, reporting every month",17.66,75.91
-West Bengal,36,Kolkata,686,Bara Bazar (Posta Bazar) APMC,"Most arrivals 2013-2025, reporting every month",22.57,88.36
-Maharashtra,20,Nashik,361,APMC Lasalgaon,National benchmark,20.15,74.23
+state,district,market,arrivals_kt,unreported_months
+Maharashtra,Nashik,APMC Pimpalgaon Baswant,5448,6
+Maharashtra,Ahilyanagar,Newasa(Ghodegaon),3602,4
+Maharashtra,Solapur,APMC Solapur,6278,9
+Maharashtra,Pune,APMC Pune,4882,0

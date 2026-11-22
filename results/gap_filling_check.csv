@@ -1,0 +1,1201 @@
+market,method,gap_months,abs_pct_error
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0586
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0125
+APMC Pimpalgaon Baswant,Log interpolation,1,0.2071
+APMC Pimpalgaon Baswant,No change,1,0.3911
+APMC Pimpalgaon Baswant,Winters,1,0.4313
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0272
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0473
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1654
+APMC Pimpalgaon Baswant,No change,2,0.0727
+APMC Pimpalgaon Baswant,Winters,2,0.4574
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0997
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.2190
+APMC Pimpalgaon Baswant,Log interpolation,2,0.2143
+APMC Pimpalgaon Baswant,No change,2,0.1516
+APMC Pimpalgaon Baswant,Winters,2,0.1509
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0082
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.1951
+APMC Pimpalgaon Baswant,Log interpolation,1,0.1868
+APMC Pimpalgaon Baswant,No change,1,0.2829
+APMC Pimpalgaon Baswant,Winters,1,0.1002
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.2882
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.2036
+APMC Pimpalgaon Baswant,Log interpolation,1,0.1865
+APMC Pimpalgaon Baswant,No change,1,0.2999
+APMC Pimpalgaon Baswant,Winters,1,0.3574
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0252
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0218
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1010
+APMC Pimpalgaon Baswant,No change,2,0.1121
+APMC Pimpalgaon Baswant,Winters,2,0.1723
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0530
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0731
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2051
+APMC Pimpalgaon Baswant,No change,3,0.6826
+APMC Pimpalgaon Baswant,Winters,3,0.2336
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0760
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0457
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1422
+APMC Pimpalgaon Baswant,No change,3,0.2571
+APMC Pimpalgaon Baswant,Winters,3,0.1036
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0515
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0728
+APMC Pimpalgaon Baswant,Log interpolation,2,0.0961
+APMC Pimpalgaon Baswant,No change,2,0.0769
+APMC Pimpalgaon Baswant,Winters,2,0.4309
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.1289
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.1913
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2950
+APMC Pimpalgaon Baswant,No change,3,0.3690
+APMC Pimpalgaon Baswant,Winters,3,0.2294
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0470
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0946
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1909
+APMC Pimpalgaon Baswant,No change,2,0.4035
+APMC Pimpalgaon Baswant,Winters,2,0.3745
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0216
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0278
+APMC Pimpalgaon Baswant,Log interpolation,1,0.1501
+APMC Pimpalgaon Baswant,No change,1,0.5305
+APMC Pimpalgaon Baswant,Winters,1,0.3453
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0062
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0904
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2880
+APMC Pimpalgaon Baswant,No change,3,0.3171
+APMC Pimpalgaon Baswant,Winters,3,0.1067
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.1269
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0693
+APMC Pimpalgaon Baswant,Log interpolation,2,0.0915
+APMC Pimpalgaon Baswant,No change,2,0.1462
+APMC Pimpalgaon Baswant,Winters,2,0.0214
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0401
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0683
+APMC Pimpalgaon Baswant,Log interpolation,2,0.3641
+APMC Pimpalgaon Baswant,No change,2,0.2651
+APMC Pimpalgaon Baswant,Winters,2,0.7217
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0859
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0228
+APMC Pimpalgaon Baswant,Log interpolation,2,0.0488
+APMC Pimpalgaon Baswant,No change,2,0.1062
+APMC Pimpalgaon Baswant,Winters,2,0.0384
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0426
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0434
+APMC Pimpalgaon Baswant,Log interpolation,1,0.3225
+APMC Pimpalgaon Baswant,No change,1,0.0451
+APMC Pimpalgaon Baswant,Winters,1,0.2291
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.1379
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.1192
+APMC Pimpalgaon Baswant,Log interpolation,3,0.4481
+APMC Pimpalgaon Baswant,No change,3,0.2299
+APMC Pimpalgaon Baswant,Winters,3,0.4675
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0914
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0551
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2080
+APMC Pimpalgaon Baswant,No change,3,0.2760
+APMC Pimpalgaon Baswant,Winters,3,0.0239
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0152
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.1336
+APMC Pimpalgaon Baswant,Log interpolation,1,0.2493
+APMC Pimpalgaon Baswant,No change,1,0.5649
+APMC Pimpalgaon Baswant,Winters,1,0.5870
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0835
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0893
+APMC Pimpalgaon Baswant,Log interpolation,1,0.2567
+APMC Pimpalgaon Baswant,No change,1,0.0374
+APMC Pimpalgaon Baswant,Winters,1,0.2750
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0636
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0715
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1948
+APMC Pimpalgaon Baswant,No change,3,0.2494
+APMC Pimpalgaon Baswant,Winters,3,0.2329
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0357
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0193
+APMC Pimpalgaon Baswant,Log interpolation,1,0.0803
+APMC Pimpalgaon Baswant,No change,1,0.0301
+APMC Pimpalgaon Baswant,Winters,1,0.1194
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0304
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.1021
+APMC Pimpalgaon Baswant,Log interpolation,2,0.0963
+APMC Pimpalgaon Baswant,No change,2,0.3564
+APMC Pimpalgaon Baswant,Winters,2,0.1474
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0692
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0387
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2903
+APMC Pimpalgaon Baswant,No change,3,0.2761
+APMC Pimpalgaon Baswant,Winters,3,0.3192
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0959
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.3324
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1653
+APMC Pimpalgaon Baswant,No change,3,0.9602
+APMC Pimpalgaon Baswant,Winters,3,0.1338
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.1173
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.1843
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1756
+APMC Pimpalgaon Baswant,No change,2,0.9029
+APMC Pimpalgaon Baswant,Winters,2,0.5784
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0894
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.1031
+APMC Pimpalgaon Baswant,Log interpolation,2,0.0924
+APMC Pimpalgaon Baswant,No change,2,0.4665
+APMC Pimpalgaon Baswant,Winters,2,0.2792
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.1267
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0620
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1310
+APMC Pimpalgaon Baswant,No change,2,0.1498
+APMC Pimpalgaon Baswant,Winters,2,0.0936
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0345
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.2560
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2125
+APMC Pimpalgaon Baswant,No change,3,0.2068
+APMC Pimpalgaon Baswant,Winters,3,0.1554
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0609
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.1279
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1999
+APMC Pimpalgaon Baswant,No change,3,0.1089
+APMC Pimpalgaon Baswant,Winters,3,0.3057
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0220
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0686
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1305
+APMC Pimpalgaon Baswant,No change,2,0.3872
+APMC Pimpalgaon Baswant,Winters,2,0.1554
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0106
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0829
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1348
+APMC Pimpalgaon Baswant,No change,2,0.1800
+APMC Pimpalgaon Baswant,Winters,2,0.3314
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0917
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.1029
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2970
+APMC Pimpalgaon Baswant,No change,3,0.2086
+APMC Pimpalgaon Baswant,Winters,3,0.4094
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0863
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.2103
+APMC Pimpalgaon Baswant,Log interpolation,1,0.3167
+APMC Pimpalgaon Baswant,No change,1,0.3856
+APMC Pimpalgaon Baswant,Winters,1,0.3107
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0845
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.4332
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1733
+APMC Pimpalgaon Baswant,No change,3,1.3914
+APMC Pimpalgaon Baswant,Winters,3,0.7286
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0515
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0728
+APMC Pimpalgaon Baswant,Log interpolation,2,0.0961
+APMC Pimpalgaon Baswant,No change,2,0.0769
+APMC Pimpalgaon Baswant,Winters,2,0.4309
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0366
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0680
+APMC Pimpalgaon Baswant,Log interpolation,3,0.4111
+APMC Pimpalgaon Baswant,No change,3,0.1242
+APMC Pimpalgaon Baswant,Winters,3,0.2440
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0947
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.4389
+APMC Pimpalgaon Baswant,Log interpolation,1,0.1198
+APMC Pimpalgaon Baswant,No change,1,0.0685
+APMC Pimpalgaon Baswant,Winters,1,0.0677
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0256
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0501
+APMC Pimpalgaon Baswant,Log interpolation,2,0.2395
+APMC Pimpalgaon Baswant,No change,2,0.5757
+APMC Pimpalgaon Baswant,Winters,2,0.2982
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0602
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.1160
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2069
+APMC Pimpalgaon Baswant,No change,3,0.2216
+APMC Pimpalgaon Baswant,Winters,3,0.5677
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.2019
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0555
+APMC Pimpalgaon Baswant,Log interpolation,1,0.0393
+APMC Pimpalgaon Baswant,No change,1,0.2962
+APMC Pimpalgaon Baswant,Winters,1,0.0205
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0178
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.1534
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1778
+APMC Pimpalgaon Baswant,No change,2,0.2526
+APMC Pimpalgaon Baswant,Winters,2,0.1249
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0225
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0131
+APMC Pimpalgaon Baswant,Log interpolation,1,0.0982
+APMC Pimpalgaon Baswant,No change,1,0.0535
+APMC Pimpalgaon Baswant,Winters,1,0.0683
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0807
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0784
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1513
+APMC Pimpalgaon Baswant,No change,3,0.7882
+APMC Pimpalgaon Baswant,Winters,3,0.1206
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0554
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0593
+APMC Pimpalgaon Baswant,Log interpolation,2,0.3230
+APMC Pimpalgaon Baswant,No change,2,0.0742
+APMC Pimpalgaon Baswant,Winters,2,0.4720
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0665
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0649
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2369
+APMC Pimpalgaon Baswant,No change,3,1.0355
+APMC Pimpalgaon Baswant,Winters,3,0.3763
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0593
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.1331
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1285
+APMC Pimpalgaon Baswant,No change,3,0.3405
+APMC Pimpalgaon Baswant,Winters,3,0.2385
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0403
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.2300
+APMC Pimpalgaon Baswant,Log interpolation,1,0.3058
+APMC Pimpalgaon Baswant,No change,1,0.2861
+APMC Pimpalgaon Baswant,Winters,1,0.3612
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0525
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0390
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1472
+APMC Pimpalgaon Baswant,No change,2,0.2353
+APMC Pimpalgaon Baswant,Winters,2,0.1435
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0874
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.2054
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1296
+APMC Pimpalgaon Baswant,No change,3,0.4024
+APMC Pimpalgaon Baswant,Winters,3,0.0967
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0929
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.1075
+APMC Pimpalgaon Baswant,Log interpolation,3,0.2308
+APMC Pimpalgaon Baswant,No change,3,0.2748
+APMC Pimpalgaon Baswant,Winters,3,0.6153
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0829
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.0632
+APMC Pimpalgaon Baswant,Log interpolation,3,0.1907
+APMC Pimpalgaon Baswant,No change,3,0.3184
+APMC Pimpalgaon Baswant,Winters,3,0.1915
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,3,0.0297
+APMC Pimpalgaon Baswant,Regression on the other study mandis,3,0.1101
+APMC Pimpalgaon Baswant,Log interpolation,3,0.4320
+APMC Pimpalgaon Baswant,No change,3,0.8765
+APMC Pimpalgaon Baswant,Winters,3,0.3870
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0225
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0990
+APMC Pimpalgaon Baswant,Log interpolation,2,0.0743
+APMC Pimpalgaon Baswant,No change,2,0.1204
+APMC Pimpalgaon Baswant,Winters,2,0.5874
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0448
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0014
+APMC Pimpalgaon Baswant,Log interpolation,1,0.1929
+APMC Pimpalgaon Baswant,No change,1,0.0452
+APMC Pimpalgaon Baswant,Winters,1,0.0459
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.1575
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.1629
+APMC Pimpalgaon Baswant,Log interpolation,2,0.4290
+APMC Pimpalgaon Baswant,No change,2,0.2886
+APMC Pimpalgaon Baswant,Winters,2,0.2049
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,2,0.0286
+APMC Pimpalgaon Baswant,Regression on the other study mandis,2,0.0123
+APMC Pimpalgaon Baswant,Log interpolation,2,0.1454
+APMC Pimpalgaon Baswant,No change,2,1.4681
+APMC Pimpalgaon Baswant,Winters,2,0.8734
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.0221
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.0241
+APMC Pimpalgaon Baswant,Log interpolation,1,0.1349
+APMC Pimpalgaon Baswant,No change,1,0.1672
+APMC Pimpalgaon Baswant,Winters,1,0.0173
+APMC Pimpalgaon Baswant,Lasso on nearby mandis,1,0.1764
+APMC Pimpalgaon Baswant,Regression on the other study mandis,1,0.2222
+APMC Pimpalgaon Baswant,Log interpolation,1,0.1157
+APMC Pimpalgaon Baswant,No change,1,0.1787
+APMC Pimpalgaon Baswant,Winters,1,0.6383
+APMC Pune,Lasso on nearby mandis,2,0.1352
+APMC Pune,Regression on the other study mandis,2,0.1162
+APMC Pune,Log interpolation,2,0.1725
+APMC Pune,No change,2,0.2377
+APMC Pune,Winters,2,0.1423
+APMC Pune,Lasso on nearby mandis,2,0.0558
+APMC Pune,Regression on the other study mandis,2,0.0470
+APMC Pune,Log interpolation,2,0.1758
+APMC Pune,No change,2,0.1035
+APMC Pune,Winters,2,0.2974
+APMC Pune,Lasso on nearby mandis,3,0.1742
+APMC Pune,Regression on the other study mandis,3,0.1771
+APMC Pune,Log interpolation,3,0.2281
+APMC Pune,No change,3,0.3798
+APMC Pune,Winters,3,0.2129
+APMC Pune,Lasso on nearby mandis,1,0.0572
+APMC Pune,Regression on the other study mandis,1,0.2082
+APMC Pune,Log interpolation,1,0.1788
+APMC Pune,No change,1,0.0843
+APMC Pune,Winters,1,0.2033
+APMC Pune,Lasso on nearby mandis,2,0.0022
+APMC Pune,Regression on the other study mandis,2,0.0928
+APMC Pune,Log interpolation,2,0.4132
+APMC Pune,No change,2,0.1568
+APMC Pune,Winters,2,0.1378
+APMC Pune,Lasso on nearby mandis,2,0.0720
+APMC Pune,Regression on the other study mandis,2,0.0701
+APMC Pune,Log interpolation,2,0.1629
+APMC Pune,No change,2,0.2062
+APMC Pune,Winters,2,0.0806
+APMC Pune,Lasso on nearby mandis,1,0.0962
+APMC Pune,Regression on the other study mandis,1,0.0891
+APMC Pune,Log interpolation,1,0.0010
+APMC Pune,No change,1,0.3065
+APMC Pune,Winters,1,0.0875
+APMC Pune,Lasso on nearby mandis,3,0.0863
+APMC Pune,Regression on the other study mandis,3,0.1805
+APMC Pune,Log interpolation,3,0.0521
+APMC Pune,No change,3,0.2120
+APMC Pune,Winters,3,0.8939
+APMC Pune,Lasso on nearby mandis,2,0.0768
+APMC Pune,Regression on the other study mandis,2,0.0973
+APMC Pune,Log interpolation,2,0.1242
+APMC Pune,No change,2,0.2601
+APMC Pune,Winters,2,0.1354
+APMC Pune,Lasso on nearby mandis,2,0.1415
+APMC Pune,Regression on the other study mandis,2,0.1138
+APMC Pune,Log interpolation,2,0.2910
+APMC Pune,No change,2,0.9499
+APMC Pune,Winters,2,0.6974
+APMC Pune,Lasso on nearby mandis,3,0.2158
+APMC Pune,Regression on the other study mandis,3,0.2890
+APMC Pune,Log interpolation,3,0.3118
+APMC Pune,No change,3,0.5364
+APMC Pune,Winters,3,0.3305
+APMC Pune,Lasso on nearby mandis,1,0.1394
+APMC Pune,Regression on the other study mandis,1,0.1183
+APMC Pune,Log interpolation,1,0.2839
+APMC Pune,No change,1,0.2676
+APMC Pune,Winters,1,0.2060
+APMC Pune,Lasso on nearby mandis,3,0.0554
+APMC Pune,Regression on the other study mandis,3,0.0393
+APMC Pune,Log interpolation,3,0.0729
+APMC Pune,No change,3,0.2839
+APMC Pune,Winters,3,0.2515
+APMC Pune,Lasso on nearby mandis,1,0.2745
+APMC Pune,Regression on the other study mandis,1,0.3697
+APMC Pune,Log interpolation,1,0.0227
+APMC Pune,No change,1,0.2109
+APMC Pune,Winters,1,0.2972
+APMC Pune,Lasso on nearby mandis,3,0.0425
+APMC Pune,Regression on the other study mandis,3,0.0277
+APMC Pune,Log interpolation,3,0.3792
+APMC Pune,No change,3,0.1219
+APMC Pune,Winters,3,2.5998
+APMC Pune,Lasso on nearby mandis,3,0.0318
+APMC Pune,Regression on the other study mandis,3,0.0948
+APMC Pune,Log interpolation,3,0.0583
+APMC Pune,No change,3,0.1288
+APMC Pune,Winters,3,0.0880
+APMC Pune,Lasso on nearby mandis,3,0.1187
+APMC Pune,Regression on the other study mandis,3,0.1820
+APMC Pune,Log interpolation,3,0.1922
+APMC Pune,No change,3,0.1307
+APMC Pune,Winters,3,0.6740
+APMC Pune,Lasso on nearby mandis,2,0.1368
+APMC Pune,Regression on the other study mandis,2,0.0963
+APMC Pune,Log interpolation,2,0.3064
+APMC Pune,No change,2,0.3042
+APMC Pune,Winters,2,0.2491
+APMC Pune,Lasso on nearby mandis,1,0.0962
+APMC Pune,Regression on the other study mandis,1,0.0891
+APMC Pune,Log interpolation,1,0.0010
+APMC Pune,No change,1,0.3065
+APMC Pune,Winters,1,0.0875
+APMC Pune,Lasso on nearby mandis,2,0.0824
+APMC Pune,Regression on the other study mandis,2,0.0966
+APMC Pune,Log interpolation,2,0.3459
+APMC Pune,No change,2,0.2973
+APMC Pune,Winters,2,0.3082
+APMC Pune,Lasso on nearby mandis,3,0.1281
+APMC Pune,Regression on the other study mandis,3,0.1240
+APMC Pune,Log interpolation,3,0.2116
+APMC Pune,No change,3,0.2050
+APMC Pune,Winters,3,0.1871
+APMC Pune,Lasso on nearby mandis,2,0.1208
+APMC Pune,Regression on the other study mandis,2,0.1228
+APMC Pune,Log interpolation,2,0.3211
+APMC Pune,No change,2,0.4346
+APMC Pune,Winters,2,0.4451
+APMC Pune,Lasso on nearby mandis,2,0.0575
+APMC Pune,Regression on the other study mandis,2,0.0739
+APMC Pune,Log interpolation,2,0.2357
+APMC Pune,No change,2,0.0392
+APMC Pune,Winters,2,0.3691
+APMC Pune,Lasso on nearby mandis,1,0.0239
+APMC Pune,Regression on the other study mandis,1,0.0415
+APMC Pune,Log interpolation,1,0.0934
+APMC Pune,No change,1,0.0009
+APMC Pune,Winters,1,0.2934
+APMC Pune,Lasso on nearby mandis,2,0.1055
+APMC Pune,Regression on the other study mandis,2,0.1545
+APMC Pune,Log interpolation,2,0.2847
+APMC Pune,No change,2,0.0591
+APMC Pune,Winters,2,0.1032
+APMC Pune,Lasso on nearby mandis,1,0.0238
+APMC Pune,Regression on the other study mandis,1,0.2055
+APMC Pune,Log interpolation,1,0.0487
+APMC Pune,No change,1,0.3739
+APMC Pune,Winters,1,0.0602
+APMC Pune,Lasso on nearby mandis,3,0.0820
+APMC Pune,Regression on the other study mandis,3,0.0837
+APMC Pune,Log interpolation,3,0.1303
+APMC Pune,No change,3,0.2281
+APMC Pune,Winters,3,0.3045
+APMC Pune,Lasso on nearby mandis,3,0.0390
+APMC Pune,Regression on the other study mandis,3,0.0342
+APMC Pune,Log interpolation,3,0.3434
+APMC Pune,No change,3,0.4519
+APMC Pune,Winters,3,0.1823
+APMC Pune,Lasso on nearby mandis,3,0.0158
+APMC Pune,Regression on the other study mandis,3,0.0228
+APMC Pune,Log interpolation,3,0.0790
+APMC Pune,No change,3,0.0851
+APMC Pune,Winters,3,0.2135
+APMC Pune,Lasso on nearby mandis,3,0.1029
+APMC Pune,Regression on the other study mandis,3,0.1593
+APMC Pune,Log interpolation,3,0.1748
+APMC Pune,No change,3,0.4580
+APMC Pune,Winters,3,0.1930
+APMC Pune,Lasso on nearby mandis,3,0.0760
+APMC Pune,Regression on the other study mandis,3,0.0769
+APMC Pune,Log interpolation,3,0.0782
+APMC Pune,No change,3,0.0384
+APMC Pune,Winters,3,0.1238
+APMC Pune,Lasso on nearby mandis,2,0.0163
+APMC Pune,Regression on the other study mandis,2,0.0425
+APMC Pune,Log interpolation,2,0.5989
+APMC Pune,No change,2,1.6553
+APMC Pune,Winters,2,1.2659
+APMC Pune,Lasso on nearby mandis,2,0.1781
+APMC Pune,Regression on the other study mandis,2,0.1947
+APMC Pune,Log interpolation,2,0.4303
+APMC Pune,No change,2,0.2371
+APMC Pune,Winters,2,0.2957
+APMC Pune,Lasso on nearby mandis,1,0.0229
+APMC Pune,Regression on the other study mandis,1,0.0892
+APMC Pune,Log interpolation,1,0.4481
+APMC Pune,No change,1,0.1971
+APMC Pune,Winters,1,0.0272
+APMC Pune,Lasso on nearby mandis,1,0.0846
+APMC Pune,Regression on the other study mandis,1,0.1709
+APMC Pune,Log interpolation,1,0.0067
+APMC Pune,No change,1,0.1738
+APMC Pune,Winters,1,0.5609
+APMC Pune,Lasso on nearby mandis,3,0.1266
+APMC Pune,Regression on the other study mandis,3,0.2032
+APMC Pune,Log interpolation,3,0.4917
+APMC Pune,No change,3,0.7239
+APMC Pune,Winters,3,1.6397
+APMC Pune,Lasso on nearby mandis,2,0.0689
+APMC Pune,Regression on the other study mandis,2,0.0547
+APMC Pune,Log interpolation,2,0.1615
+APMC Pune,No change,2,0.1236
+APMC Pune,Winters,2,0.2132
+APMC Pune,Lasso on nearby mandis,3,0.0842
+APMC Pune,Regression on the other study mandis,3,0.1616
+APMC Pune,Log interpolation,3,0.4227
+APMC Pune,No change,3,0.7064
+APMC Pune,Winters,3,0.1541
+APMC Pune,Lasso on nearby mandis,2,0.0558
+APMC Pune,Regression on the other study mandis,2,0.0560
+APMC Pune,Log interpolation,2,0.1487
+APMC Pune,No change,2,0.3043
+APMC Pune,Winters,2,0.1572
+APMC Pune,Lasso on nearby mandis,2,0.0645
+APMC Pune,Regression on the other study mandis,2,0.1234
+APMC Pune,Log interpolation,2,0.0731
+APMC Pune,No change,2,0.3427
+APMC Pune,Winters,2,0.2078
+APMC Pune,Lasso on nearby mandis,2,0.0921
+APMC Pune,Regression on the other study mandis,2,0.0459
+APMC Pune,Log interpolation,2,0.3186
+APMC Pune,No change,2,0.4358
+APMC Pune,Winters,2,0.3464
+APMC Pune,Lasso on nearby mandis,2,0.0257
+APMC Pune,Regression on the other study mandis,2,0.0209
+APMC Pune,Log interpolation,2,0.4432
+APMC Pune,No change,2,0.3933
+APMC Pune,Winters,2,0.4500
+APMC Pune,Lasso on nearby mandis,2,0.0683
+APMC Pune,Regression on the other study mandis,2,0.0445
+APMC Pune,Log interpolation,2,0.3361
+APMC Pune,No change,2,0.9427
+APMC Pune,Winters,2,0.2762
+APMC Pune,Lasso on nearby mandis,3,0.0632
+APMC Pune,Regression on the other study mandis,3,0.1141
+APMC Pune,Log interpolation,3,0.0496
+APMC Pune,No change,3,0.3985
+APMC Pune,Winters,3,0.2081
+APMC Pune,Lasso on nearby mandis,1,0.0160
+APMC Pune,Regression on the other study mandis,1,0.0652
+APMC Pune,Log interpolation,1,0.1294
+APMC Pune,No change,1,0.2900
+APMC Pune,Winters,1,0.2681
+APMC Pune,Lasso on nearby mandis,1,0.0979
+APMC Pune,Regression on the other study mandis,1,0.0859
+APMC Pune,Log interpolation,1,0.0189
+APMC Pune,No change,1,0.0306
+APMC Pune,Winters,1,0.2050
+APMC Pune,Lasso on nearby mandis,3,0.1195
+APMC Pune,Regression on the other study mandis,3,0.1340
+APMC Pune,Log interpolation,3,0.3049
+APMC Pune,No change,3,0.2407
+APMC Pune,Winters,3,0.2405
+APMC Pune,Lasso on nearby mandis,3,0.0354
+APMC Pune,Regression on the other study mandis,3,0.0505
+APMC Pune,Log interpolation,3,0.2469
+APMC Pune,No change,3,0.1962
+APMC Pune,Winters,3,0.0908
+APMC Pune,Lasso on nearby mandis,1,0.1661
+APMC Pune,Regression on the other study mandis,1,0.2347
+APMC Pune,Log interpolation,1,0.3814
+APMC Pune,No change,1,0.5181
+APMC Pune,Winters,1,0.0179
+APMC Pune,Lasso on nearby mandis,2,0.0348
+APMC Pune,Regression on the other study mandis,2,0.1014
+APMC Pune,Log interpolation,2,0.1296
+APMC Pune,No change,2,0.2179
+APMC Pune,Winters,2,0.1570
+APMC Pune,Lasso on nearby mandis,1,0.0055
+APMC Pune,Regression on the other study mandis,1,0.0093
+APMC Pune,Log interpolation,1,0.1837
+APMC Pune,No change,1,0.4113
+APMC Pune,Winters,1,0.1829
+APMC Pune,Lasso on nearby mandis,3,0.0981
+APMC Pune,Regression on the other study mandis,3,0.2333
+APMC Pune,Log interpolation,3,0.1971
+APMC Pune,No change,3,0.4339
+APMC Pune,Winters,3,0.1871
+APMC Pune,Lasso on nearby mandis,3,0.0609
+APMC Pune,Regression on the other study mandis,3,0.1145
+APMC Pune,Log interpolation,3,0.3645
+APMC Pune,No change,3,0.3274
+APMC Pune,Winters,3,0.7257
+APMC Pune,Lasso on nearby mandis,3,0.3691
+APMC Pune,Regression on the other study mandis,3,0.3008
+APMC Pune,Log interpolation,3,0.3097
+APMC Pune,No change,3,0.3194
+APMC Pune,Winters,3,0.3763
+APMC Pune,Lasso on nearby mandis,2,0.0341
+APMC Pune,Regression on the other study mandis,2,0.1291
+APMC Pune,Log interpolation,2,0.0471
+APMC Pune,No change,2,0.0813
+APMC Pune,Winters,2,0.3458
+APMC Pune,Lasso on nearby mandis,2,0.0744
+APMC Pune,Regression on the other study mandis,2,0.0567
+APMC Pune,Log interpolation,2,0.0872
+APMC Pune,No change,2,0.4756
+APMC Pune,Winters,2,0.0734
+APMC Pune,Lasso on nearby mandis,1,0.0034
+APMC Pune,Regression on the other study mandis,1,0.1134
+APMC Pune,Log interpolation,1,0.0172
+APMC Pune,No change,1,0.0473
+APMC Pune,Winters,1,0.1768
+APMC Pune,Lasso on nearby mandis,2,0.0960
+APMC Pune,Regression on the other study mandis,2,0.1005
+APMC Pune,Log interpolation,2,0.0299
+APMC Pune,No change,2,0.0670
+APMC Pune,Winters,2,0.4672
+APMC Pune,Lasso on nearby mandis,2,0.1530
+APMC Pune,Regression on the other study mandis,2,0.1216
+APMC Pune,Log interpolation,2,0.1117
+APMC Pune,No change,2,1.0326
+APMC Pune,Winters,2,0.3277
+APMC Pune,Lasso on nearby mandis,1,0.0184
+APMC Pune,Regression on the other study mandis,1,0.0552
+APMC Pune,Log interpolation,1,0.1911
+APMC Pune,No change,1,0.4133
+APMC Pune,Winters,1,1.0310
+APMC Solapur,Lasso on nearby mandis,1,0.3225
+APMC Solapur,Regression on the other study mandis,1,0.0584
+APMC Solapur,Log interpolation,1,0.2814
+APMC Solapur,No change,1,0.1923
+APMC Solapur,Winters,1,0.2662
+APMC Solapur,Lasso on nearby mandis,1,0.2107
+APMC Solapur,Regression on the other study mandis,1,0.2992
+APMC Solapur,Log interpolation,1,0.1106
+APMC Solapur,No change,1,0.2985
+APMC Solapur,Winters,1,0.2656
+APMC Solapur,Lasso on nearby mandis,2,0.2660
+APMC Solapur,Regression on the other study mandis,2,0.1263
+APMC Solapur,Log interpolation,2,0.5121
+APMC Solapur,No change,2,0.4121
+APMC Solapur,Winters,2,0.0938
+APMC Solapur,Lasso on nearby mandis,3,0.0434
+APMC Solapur,Regression on the other study mandis,3,0.0562
+APMC Solapur,Log interpolation,3,0.1154
+APMC Solapur,No change,3,1.1675
+APMC Solapur,Winters,3,0.4000
+APMC Solapur,Lasso on nearby mandis,3,0.0449
+APMC Solapur,Regression on the other study mandis,3,0.1551
+APMC Solapur,Log interpolation,3,0.2012
+APMC Solapur,No change,3,0.5607
+APMC Solapur,Winters,3,0.1837
+APMC Solapur,Lasso on nearby mandis,1,0.1756
+APMC Solapur,Regression on the other study mandis,1,0.2306
+APMC Solapur,Log interpolation,1,0.0394
+APMC Solapur,No change,1,0.2400
+APMC Solapur,Winters,1,0.1459
+APMC Solapur,Lasso on nearby mandis,1,0.1227
+APMC Solapur,Regression on the other study mandis,1,0.0553
+APMC Solapur,Log interpolation,1,0.0069
+APMC Solapur,No change,1,0.1054
+APMC Solapur,Winters,1,0.1155
+APMC Solapur,Lasso on nearby mandis,2,0.0622
+APMC Solapur,Regression on the other study mandis,2,0.0849
+APMC Solapur,Log interpolation,2,0.1244
+APMC Solapur,No change,2,0.2158
+APMC Solapur,Winters,2,0.4504
+APMC Solapur,Lasso on nearby mandis,3,0.1314
+APMC Solapur,Regression on the other study mandis,3,0.1010
+APMC Solapur,Log interpolation,3,0.2084
+APMC Solapur,No change,3,0.1133
+APMC Solapur,Winters,3,0.3495
+APMC Solapur,Lasso on nearby mandis,1,0.0538
+APMC Solapur,Regression on the other study mandis,1,0.0293
+APMC Solapur,Log interpolation,1,0.0418
+APMC Solapur,No change,1,0.5642
+APMC Solapur,Winters,1,0.2928
+APMC Solapur,Lasso on nearby mandis,3,0.0452
+APMC Solapur,Regression on the other study mandis,3,0.1880
+APMC Solapur,Log interpolation,3,0.2906
+APMC Solapur,No change,3,0.3334
+APMC Solapur,Winters,3,0.0608
+APMC Solapur,Lasso on nearby mandis,1,0.1601
+APMC Solapur,Regression on the other study mandis,1,0.2133
+APMC Solapur,Log interpolation,1,0.0799
+APMC Solapur,No change,1,0.3572
+APMC Solapur,Winters,1,0.1622
+APMC Solapur,Lasso on nearby mandis,3,0.1452
+APMC Solapur,Regression on the other study mandis,3,0.0583
+APMC Solapur,Log interpolation,3,0.3977
+APMC Solapur,No change,3,0.2295
+APMC Solapur,Winters,3,0.3585
+APMC Solapur,Lasso on nearby mandis,2,0.0679
+APMC Solapur,Regression on the other study mandis,2,0.0156
+APMC Solapur,Log interpolation,2,0.2035
+APMC Solapur,No change,2,0.1261
+APMC Solapur,Winters,2,0.0993
+APMC Solapur,Lasso on nearby mandis,2,0.0501
+APMC Solapur,Regression on the other study mandis,2,0.0151
+APMC Solapur,Log interpolation,2,0.1572
+APMC Solapur,No change,2,1.1145
+APMC Solapur,Winters,2,0.4883
+APMC Solapur,Lasso on nearby mandis,1,0.0741
+APMC Solapur,Regression on the other study mandis,1,0.0219
+APMC Solapur,Log interpolation,1,0.2112
+APMC Solapur,No change,1,0.2869
+APMC Solapur,Winters,1,0.0133
+APMC Solapur,Lasso on nearby mandis,1,0.2407
+APMC Solapur,Regression on the other study mandis,1,0.2796
+APMC Solapur,Log interpolation,1,0.2259
+APMC Solapur,No change,1,0.4447
+APMC Solapur,Winters,1,0.2464
+APMC Solapur,Lasso on nearby mandis,2,0.0087
+APMC Solapur,Regression on the other study mandis,2,0.0617
+APMC Solapur,Log interpolation,2,0.1750
+APMC Solapur,No change,2,0.0861
+APMC Solapur,Winters,2,0.0601
+APMC Solapur,Lasso on nearby mandis,2,0.0141
+APMC Solapur,Regression on the other study mandis,2,0.0244
+APMC Solapur,Log interpolation,2,0.1009
+APMC Solapur,No change,2,0.1499
+APMC Solapur,Winters,2,0.0261
+APMC Solapur,Lasso on nearby mandis,1,0.1550
+APMC Solapur,Regression on the other study mandis,1,0.2113
+APMC Solapur,Log interpolation,1,0.0606
+APMC Solapur,No change,1,0.7552
+APMC Solapur,Winters,1,0.7633
+APMC Solapur,Lasso on nearby mandis,1,0.0011
+APMC Solapur,Regression on the other study mandis,1,0.0657
+APMC Solapur,Log interpolation,1,0.0286
+APMC Solapur,No change,1,0.1702
+APMC Solapur,Winters,1,0.1341
+APMC Solapur,Lasso on nearby mandis,3,0.1074
+APMC Solapur,Regression on the other study mandis,3,0.1335
+APMC Solapur,Log interpolation,3,0.0478
+APMC Solapur,No change,3,0.5237
+APMC Solapur,Winters,3,0.2970
+APMC Solapur,Lasso on nearby mandis,2,0.1195
+APMC Solapur,Regression on the other study mandis,2,0.1493
+APMC Solapur,Log interpolation,2,0.0634
+APMC Solapur,No change,2,0.1397
+APMC Solapur,Winters,2,0.2073
+APMC Solapur,Lasso on nearby mandis,1,0.0406
+APMC Solapur,Regression on the other study mandis,1,0.0884
+APMC Solapur,Log interpolation,1,0.0347
+APMC Solapur,No change,1,0.2473
+APMC Solapur,Winters,1,0.2819
+APMC Solapur,Lasso on nearby mandis,2,0.0863
+APMC Solapur,Regression on the other study mandis,2,0.1016
+APMC Solapur,Log interpolation,2,0.0828
+APMC Solapur,No change,2,0.0812
+APMC Solapur,Winters,2,0.1778
+APMC Solapur,Lasso on nearby mandis,3,0.0668
+APMC Solapur,Regression on the other study mandis,3,0.0892
+APMC Solapur,Log interpolation,3,0.1507
+APMC Solapur,No change,3,0.1271
+APMC Solapur,Winters,3,0.8903
+APMC Solapur,Lasso on nearby mandis,3,0.1095
+APMC Solapur,Regression on the other study mandis,3,0.0335
+APMC Solapur,Log interpolation,3,0.0211
+APMC Solapur,No change,3,0.1909
+APMC Solapur,Winters,3,0.2011
+APMC Solapur,Lasso on nearby mandis,2,0.0906
+APMC Solapur,Regression on the other study mandis,2,0.0970
+APMC Solapur,Log interpolation,2,0.0473
+APMC Solapur,No change,2,0.1970
+APMC Solapur,Winters,2,0.3632
+APMC Solapur,Lasso on nearby mandis,3,0.0436
+APMC Solapur,Regression on the other study mandis,3,0.0354
+APMC Solapur,Log interpolation,3,0.2937
+APMC Solapur,No change,3,0.2197
+APMC Solapur,Winters,3,0.2413
+APMC Solapur,Lasso on nearby mandis,1,0.0741
+APMC Solapur,Regression on the other study mandis,1,0.0219
+APMC Solapur,Log interpolation,1,0.2112
+APMC Solapur,No change,1,0.2869
+APMC Solapur,Winters,1,0.0133
+APMC Solapur,Lasso on nearby mandis,2,0.1641
+APMC Solapur,Regression on the other study mandis,2,0.0877
+APMC Solapur,Log interpolation,2,0.0573
+APMC Solapur,No change,2,0.0375
+APMC Solapur,Winters,2,0.0304
+APMC Solapur,Lasso on nearby mandis,1,0.1842
+APMC Solapur,Regression on the other study mandis,1,0.2164
+APMC Solapur,Log interpolation,1,0.0650
+APMC Solapur,No change,1,0.3423
+APMC Solapur,Winters,1,0.3391
+APMC Solapur,Lasso on nearby mandis,2,0.0622
+APMC Solapur,Regression on the other study mandis,2,0.0849
+APMC Solapur,Log interpolation,2,0.1244
+APMC Solapur,No change,2,0.2158
+APMC Solapur,Winters,2,0.4504
+APMC Solapur,Lasso on nearby mandis,1,0.0959
+APMC Solapur,Regression on the other study mandis,1,0.0922
+APMC Solapur,Log interpolation,1,0.0015
+APMC Solapur,No change,1,0.4236
+APMC Solapur,Winters,1,0.2587
+APMC Solapur,Lasso on nearby mandis,1,0.0097
+APMC Solapur,Regression on the other study mandis,1,0.0372
+APMC Solapur,Log interpolation,1,0.0696
+APMC Solapur,No change,1,0.5046
+APMC Solapur,Winters,1,0.2496
+APMC Solapur,Lasso on nearby mandis,2,0.0895
+APMC Solapur,Regression on the other study mandis,2,0.1066
+APMC Solapur,Log interpolation,2,0.3263
+APMC Solapur,No change,2,0.6237
+APMC Solapur,Winters,2,0.3508
+APMC Solapur,Lasso on nearby mandis,1,0.1114
+APMC Solapur,Regression on the other study mandis,1,0.1415
+APMC Solapur,Log interpolation,1,0.0060
+APMC Solapur,No change,1,0.1251
+APMC Solapur,Winters,1,0.3716
+APMC Solapur,Lasso on nearby mandis,1,0.0451
+APMC Solapur,Regression on the other study mandis,1,0.0092
+APMC Solapur,Log interpolation,1,0.2244
+APMC Solapur,No change,1,0.2159
+APMC Solapur,Winters,1,0.1433
+APMC Solapur,Lasso on nearby mandis,3,0.1172
+APMC Solapur,Regression on the other study mandis,3,0.1497
+APMC Solapur,Log interpolation,3,0.2521
+APMC Solapur,No change,3,0.3330
+APMC Solapur,Winters,3,0.3050
+APMC Solapur,Lasso on nearby mandis,3,0.0263
+APMC Solapur,Regression on the other study mandis,3,0.0303
+APMC Solapur,Log interpolation,3,0.7110
+APMC Solapur,No change,3,1.3726
+APMC Solapur,Winters,3,0.6994
+APMC Solapur,Lasso on nearby mandis,1,0.0097
+APMC Solapur,Regression on the other study mandis,1,0.0372
+APMC Solapur,Log interpolation,1,0.0696
+APMC Solapur,No change,1,0.5046
+APMC Solapur,Winters,1,0.2496
+APMC Solapur,Lasso on nearby mandis,2,0.1394
+APMC Solapur,Regression on the other study mandis,2,0.0748
+APMC Solapur,Log interpolation,2,0.2051
+APMC Solapur,No change,2,0.2456
+APMC Solapur,Winters,2,0.1944
+APMC Solapur,Lasso on nearby mandis,3,0.1714
+APMC Solapur,Regression on the other study mandis,3,0.1484
+APMC Solapur,Log interpolation,3,0.2467
+APMC Solapur,No change,3,0.7920
+APMC Solapur,Winters,3,0.2234
+APMC Solapur,Lasso on nearby mandis,1,0.0130
+APMC Solapur,Regression on the other study mandis,1,0.0807
+APMC Solapur,Log interpolation,1,0.0650
+APMC Solapur,No change,1,0.3226
+APMC Solapur,Winters,1,0.1693
+APMC Solapur,Lasso on nearby mandis,1,0.0959
+APMC Solapur,Regression on the other study mandis,1,0.0922
+APMC Solapur,Log interpolation,1,0.0015
+APMC Solapur,No change,1,0.4236
+APMC Solapur,Winters,1,0.2587
+APMC Solapur,Lasso on nearby mandis,2,0.1751
+APMC Solapur,Regression on the other study mandis,2,0.1302
+APMC Solapur,Log interpolation,2,0.2839
+APMC Solapur,No change,2,0.3270
+APMC Solapur,Winters,2,0.3037
+APMC Solapur,Lasso on nearby mandis,1,0.2419
+APMC Solapur,Regression on the other study mandis,1,0.1689
+APMC Solapur,Log interpolation,1,0.0556
+APMC Solapur,No change,1,0.0275
+APMC Solapur,Winters,1,0.0587
+APMC Solapur,Lasso on nearby mandis,2,0.0763
+APMC Solapur,Regression on the other study mandis,2,0.0538
+APMC Solapur,Log interpolation,2,0.3052
+APMC Solapur,No change,2,0.1055
+APMC Solapur,Winters,2,0.4512
+APMC Solapur,Lasso on nearby mandis,3,0.0994
+APMC Solapur,Regression on the other study mandis,3,0.0524
+APMC Solapur,Log interpolation,3,0.0143
+APMC Solapur,No change,3,0.1898
+APMC Solapur,Winters,3,0.1564
+APMC Solapur,Lasso on nearby mandis,1,0.1468
+APMC Solapur,Regression on the other study mandis,1,0.2399
+APMC Solapur,Log interpolation,1,0.2789
+APMC Solapur,No change,1,0.0919
+APMC Solapur,Winters,1,0.0618
+APMC Solapur,Lasso on nearby mandis,2,0.0580
+APMC Solapur,Regression on the other study mandis,2,0.0651
+APMC Solapur,Log interpolation,2,0.1974
+APMC Solapur,No change,2,0.3066
+APMC Solapur,Winters,2,0.5836
+APMC Solapur,Lasso on nearby mandis,2,0.0906
+APMC Solapur,Regression on the other study mandis,2,0.0970
+APMC Solapur,Log interpolation,2,0.0473
+APMC Solapur,No change,2,0.1970
+APMC Solapur,Winters,2,0.3632
+APMC Solapur,Lasso on nearby mandis,3,0.0810
+APMC Solapur,Regression on the other study mandis,3,0.1476
+APMC Solapur,Log interpolation,3,0.0790
+APMC Solapur,No change,3,0.0616
+APMC Solapur,Winters,3,0.1448
+APMC Solapur,Lasso on nearby mandis,3,0.1346
+APMC Solapur,Regression on the other study mandis,3,0.1720
+APMC Solapur,Log interpolation,3,0.1874
+APMC Solapur,No change,3,0.4836
+APMC Solapur,Winters,3,0.1451
+APMC Solapur,Lasso on nearby mandis,1,0.1529
+APMC Solapur,Regression on the other study mandis,1,0.1176
+APMC Solapur,Log interpolation,1,0.2143
+APMC Solapur,No change,1,0.2420
+APMC Solapur,Winters,1,0.4339
+APMC Solapur,Lasso on nearby mandis,2,0.0634
+APMC Solapur,Regression on the other study mandis,2,0.1904
+APMC Solapur,Log interpolation,2,0.2573
+APMC Solapur,No change,2,0.5273
+APMC Solapur,Winters,2,0.4112
+APMC Solapur,Lasso on nearby mandis,1,0.0216
+APMC Solapur,Regression on the other study mandis,1,0.1341
+APMC Solapur,Log interpolation,1,0.1268
+APMC Solapur,No change,1,0.6644
+APMC Solapur,Winters,1,0.4385
+APMC Solapur,Lasso on nearby mandis,3,0.2489
+APMC Solapur,Regression on the other study mandis,3,0.2569
+APMC Solapur,Log interpolation,3,0.1882
+APMC Solapur,No change,3,0.1906
+APMC Solapur,Winters,3,0.2876
+APMC Solapur,Lasso on nearby mandis,1,0.1206
+APMC Solapur,Regression on the other study mandis,1,0.0909
+APMC Solapur,Log interpolation,1,0.1054
+APMC Solapur,No change,1,0.1964
+APMC Solapur,Winters,1,0.0211
+APMC Solapur,Lasso on nearby mandis,1,0.1360
+APMC Solapur,Regression on the other study mandis,1,0.0198
+APMC Solapur,Log interpolation,1,0.1039
+APMC Solapur,No change,1,0.2380
+APMC Solapur,Winters,1,0.1486
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0158
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0350
+Newasa(Ghodegaon),Log interpolation,3,0.0718
+Newasa(Ghodegaon),No change,3,0.3808
+Newasa(Ghodegaon),Winters,3,0.1505
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0106
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0485
+Newasa(Ghodegaon),Log interpolation,1,0.1749
+Newasa(Ghodegaon),No change,1,0.1204
+Newasa(Ghodegaon),Winters,1,0.0271
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0287
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0295
+Newasa(Ghodegaon),Log interpolation,1,0.0469
+Newasa(Ghodegaon),No change,1,0.1262
+Newasa(Ghodegaon),Winters,1,0.0454
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0353
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0599
+Newasa(Ghodegaon),Log interpolation,2,0.1010
+Newasa(Ghodegaon),No change,2,0.1766
+Newasa(Ghodegaon),Winters,2,0.6764
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0461
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0527
+Newasa(Ghodegaon),Log interpolation,1,0.2775
+Newasa(Ghodegaon),No change,1,0.5426
+Newasa(Ghodegaon),Winters,1,0.4455
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0595
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.1682
+Newasa(Ghodegaon),Log interpolation,2,0.3216
+Newasa(Ghodegaon),No change,2,0.3460
+Newasa(Ghodegaon),Winters,2,0.3043
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0616
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0831
+Newasa(Ghodegaon),Log interpolation,2,0.1524
+Newasa(Ghodegaon),No change,2,0.0889
+Newasa(Ghodegaon),Winters,2,0.1523
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0596
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.1109
+Newasa(Ghodegaon),Log interpolation,3,0.3296
+Newasa(Ghodegaon),No change,3,0.6671
+Newasa(Ghodegaon),Winters,3,0.0959
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.1215
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.1403
+Newasa(Ghodegaon),Log interpolation,3,0.2257
+Newasa(Ghodegaon),No change,3,0.0667
+Newasa(Ghodegaon),Winters,3,0.3428
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0770
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0964
+Newasa(Ghodegaon),Log interpolation,2,0.1417
+Newasa(Ghodegaon),No change,2,0.5445
+Newasa(Ghodegaon),Winters,2,0.1082
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.1782
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.1387
+Newasa(Ghodegaon),Log interpolation,1,0.2994
+Newasa(Ghodegaon),No change,1,0.2776
+Newasa(Ghodegaon),Winters,1,0.4541
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0183
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0654
+Newasa(Ghodegaon),Log interpolation,3,0.2123
+Newasa(Ghodegaon),No change,3,0.3290
+Newasa(Ghodegaon),Winters,3,0.3271
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0909
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0328
+Newasa(Ghodegaon),Log interpolation,1,0.1299
+Newasa(Ghodegaon),No change,1,0.4159
+Newasa(Ghodegaon),Winters,1,0.1998
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.2274
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.1618
+Newasa(Ghodegaon),Log interpolation,1,0.1286
+Newasa(Ghodegaon),No change,1,0.0900
+Newasa(Ghodegaon),Winters,1,0.1119
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.1268
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.1320
+Newasa(Ghodegaon),Log interpolation,3,0.0215
+Newasa(Ghodegaon),No change,3,0.1344
+Newasa(Ghodegaon),Winters,3,0.2100
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0699
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0717
+Newasa(Ghodegaon),Log interpolation,3,0.0936
+Newasa(Ghodegaon),No change,3,0.1937
+Newasa(Ghodegaon),Winters,3,0.3215
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.2418
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.1305
+Newasa(Ghodegaon),Log interpolation,2,0.3783
+Newasa(Ghodegaon),No change,2,0.3885
+Newasa(Ghodegaon),Winters,2,0.4324
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0518
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0843
+Newasa(Ghodegaon),Log interpolation,3,0.0778
+Newasa(Ghodegaon),No change,3,0.3318
+Newasa(Ghodegaon),Winters,3,0.1541
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0349
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0659
+Newasa(Ghodegaon),Log interpolation,1,0.1625
+Newasa(Ghodegaon),No change,1,0.1376
+Newasa(Ghodegaon),Winters,1,0.2976
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0324
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0515
+Newasa(Ghodegaon),Log interpolation,1,0.0057
+Newasa(Ghodegaon),No change,1,0.1091
+Newasa(Ghodegaon),Winters,1,0.5421
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0537
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0622
+Newasa(Ghodegaon),Log interpolation,3,0.3500
+Newasa(Ghodegaon),No change,3,0.3874
+Newasa(Ghodegaon),Winters,3,0.4617
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.1557
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.1738
+Newasa(Ghodegaon),Log interpolation,1,0.0122
+Newasa(Ghodegaon),No change,1,0.1345
+Newasa(Ghodegaon),Winters,1,0.1011
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.1713
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.1368
+Newasa(Ghodegaon),Log interpolation,2,0.0740
+Newasa(Ghodegaon),No change,2,0.0572
+Newasa(Ghodegaon),Winters,2,0.0586
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.1502
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.1214
+Newasa(Ghodegaon),Log interpolation,2,0.0185
+Newasa(Ghodegaon),No change,2,0.0841
+Newasa(Ghodegaon),Winters,2,0.5327
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0520
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0866
+Newasa(Ghodegaon),Log interpolation,3,0.1494
+Newasa(Ghodegaon),No change,3,0.3048
+Newasa(Ghodegaon),Winters,3,0.3984
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0279
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0235
+Newasa(Ghodegaon),Log interpolation,1,0.1887
+Newasa(Ghodegaon),No change,1,0.0826
+Newasa(Ghodegaon),Winters,1,0.0495
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0454
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0691
+Newasa(Ghodegaon),Log interpolation,1,0.1364
+Newasa(Ghodegaon),No change,1,0.2284
+Newasa(Ghodegaon),Winters,1,0.0421
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0780
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0548
+Newasa(Ghodegaon),Log interpolation,1,0.0763
+Newasa(Ghodegaon),No change,1,0.0036
+Newasa(Ghodegaon),Winters,1,0.1748
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0502
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0727
+Newasa(Ghodegaon),Log interpolation,3,0.1775
+Newasa(Ghodegaon),No change,3,0.3795
+Newasa(Ghodegaon),Winters,3,0.1894
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.1472
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.2686
+Newasa(Ghodegaon),Log interpolation,1,0.0633
+Newasa(Ghodegaon),No change,1,0.1799
+Newasa(Ghodegaon),Winters,1,0.2644
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0517
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0501
+Newasa(Ghodegaon),Log interpolation,3,0.7412
+Newasa(Ghodegaon),No change,3,1.1064
+Newasa(Ghodegaon),Winters,3,0.4434
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0645
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0741
+Newasa(Ghodegaon),Log interpolation,3,0.0989
+Newasa(Ghodegaon),No change,3,0.3609
+Newasa(Ghodegaon),Winters,3,0.0270
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0636
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0766
+Newasa(Ghodegaon),Log interpolation,2,0.1055
+Newasa(Ghodegaon),No change,2,0.0900
+Newasa(Ghodegaon),Winters,2,0.2532
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0360
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0308
+Newasa(Ghodegaon),Log interpolation,3,0.1635
+Newasa(Ghodegaon),No change,3,0.0438
+Newasa(Ghodegaon),Winters,3,0.4267
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0325
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0729
+Newasa(Ghodegaon),Log interpolation,1,0.0454
+Newasa(Ghodegaon),No change,1,0.0572
+Newasa(Ghodegaon),Winters,1,0.4294
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.1133
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0871
+Newasa(Ghodegaon),Log interpolation,1,0.1269
+Newasa(Ghodegaon),No change,1,0.1804
+Newasa(Ghodegaon),Winters,1,0.2808
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.1027
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0861
+Newasa(Ghodegaon),Log interpolation,3,0.3023
+Newasa(Ghodegaon),No change,3,0.4996
+Newasa(Ghodegaon),Winters,3,0.1697
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0432
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0694
+Newasa(Ghodegaon),Log interpolation,2,0.1322
+Newasa(Ghodegaon),No change,2,0.2754
+Newasa(Ghodegaon),Winters,2,0.1472
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0922
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.1257
+Newasa(Ghodegaon),Log interpolation,2,0.4852
+Newasa(Ghodegaon),No change,2,0.7352
+Newasa(Ghodegaon),Winters,2,0.2568
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0774
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0220
+Newasa(Ghodegaon),Log interpolation,1,0.4490
+Newasa(Ghodegaon),No change,1,0.6262
+Newasa(Ghodegaon),Winters,1,0.5165
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0616
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0738
+Newasa(Ghodegaon),Log interpolation,3,0.1219
+Newasa(Ghodegaon),No change,3,0.0987
+Newasa(Ghodegaon),Winters,3,0.3319
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0642
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0317
+Newasa(Ghodegaon),Log interpolation,1,0.0978
+Newasa(Ghodegaon),No change,1,0.0772
+Newasa(Ghodegaon),Winters,1,0.0627
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0595
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.1682
+Newasa(Ghodegaon),Log interpolation,2,0.3216
+Newasa(Ghodegaon),No change,2,0.3460
+Newasa(Ghodegaon),Winters,2,0.3043
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.3803
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.4481
+Newasa(Ghodegaon),Log interpolation,1,0.3996
+Newasa(Ghodegaon),No change,1,0.0025
+Newasa(Ghodegaon),Winters,1,0.0602
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0289
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0416
+Newasa(Ghodegaon),Log interpolation,2,0.0893
+Newasa(Ghodegaon),No change,2,0.0269
+Newasa(Ghodegaon),Winters,2,0.0488
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0646
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0863
+Newasa(Ghodegaon),Log interpolation,3,0.1955
+Newasa(Ghodegaon),No change,3,0.5962
+Newasa(Ghodegaon),Winters,3,0.3208
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0929
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.1069
+Newasa(Ghodegaon),Log interpolation,2,0.2550
+Newasa(Ghodegaon),No change,2,0.0351
+Newasa(Ghodegaon),Winters,2,0.1307
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0508
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0544
+Newasa(Ghodegaon),Log interpolation,2,0.0409
+Newasa(Ghodegaon),No change,2,0.3159
+Newasa(Ghodegaon),Winters,2,0.1737
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0757
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0715
+Newasa(Ghodegaon),Log interpolation,1,0.1956
+Newasa(Ghodegaon),No change,1,0.0143
+Newasa(Ghodegaon),Winters,1,0.2033
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0498
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0133
+Newasa(Ghodegaon),Log interpolation,3,0.2734
+Newasa(Ghodegaon),No change,3,0.1551
+Newasa(Ghodegaon),Winters,3,0.3518
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.1127
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0987
+Newasa(Ghodegaon),Log interpolation,3,0.1440
+Newasa(Ghodegaon),No change,3,0.1852
+Newasa(Ghodegaon),Winters,3,0.3262
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0408
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0409
+Newasa(Ghodegaon),Log interpolation,3,0.2037
+Newasa(Ghodegaon),No change,3,0.2699
+Newasa(Ghodegaon),Winters,3,0.2973
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.0542
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0803
+Newasa(Ghodegaon),Log interpolation,1,0.0023
+Newasa(Ghodegaon),No change,1,0.1304
+Newasa(Ghodegaon),Winters,1,0.0068
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.4476
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.0920
+Newasa(Ghodegaon),Log interpolation,1,0.2442
+Newasa(Ghodegaon),No change,1,0.0651
+Newasa(Ghodegaon),Winters,1,0.2740
+Newasa(Ghodegaon),Lasso on nearby mandis,1,0.1116
+Newasa(Ghodegaon),Regression on the other study mandis,1,0.1348
+Newasa(Ghodegaon),Log interpolation,1,0.2780
+Newasa(Ghodegaon),No change,1,0.1800
+Newasa(Ghodegaon),Winters,1,0.0919
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0360
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.0308
+Newasa(Ghodegaon),Log interpolation,3,0.1635
+Newasa(Ghodegaon),No change,3,0.0438
+Newasa(Ghodegaon),Winters,3,0.4267
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0500
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0520
+Newasa(Ghodegaon),Log interpolation,2,0.0891
+Newasa(Ghodegaon),No change,2,0.1786
+Newasa(Ghodegaon),Winters,2,0.0328
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0534
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0666
+Newasa(Ghodegaon),Log interpolation,2,0.0520
+Newasa(Ghodegaon),No change,2,0.1509
+Newasa(Ghodegaon),Winters,2,0.0166
+Newasa(Ghodegaon),Lasso on nearby mandis,3,0.0748
+Newasa(Ghodegaon),Regression on the other study mandis,3,0.1014
+Newasa(Ghodegaon),Log interpolation,3,0.4855
+Newasa(Ghodegaon),No change,3,0.4641
+Newasa(Ghodegaon),Winters,3,0.1963
+Newasa(Ghodegaon),Lasso on nearby mandis,2,0.0628
+Newasa(Ghodegaon),Regression on the other study mandis,2,0.0844
+Newasa(Ghodegaon),Log interpolation,2,0.0372
+Newasa(Ghodegaon),No change,2,0.1068
+Newasa(Ghodegaon),Winters,2,0.3254

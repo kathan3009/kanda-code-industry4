@@ -1,101 +1,49 @@
-split,market,model,mae_rs_q,mape_pct,origins,benchmark
-test,APMC Hubballi,Last price,450.9702,32.4100,March,False
-test,APMC Hubballi,Same month last year,576.1741,48.6531,March,False
-test,APMC Hubballi,Seasonal + market signals,479.5715,45.6068,March,False
-test,APMC Hubballi,Seasonal + market signals + weather,511.9521,48.2486,March,False
-test,APMC Hubballi,Seasonal profile,578.3086,54.6646,March,False
-test,APMC Lasalgaon,Last price,795.4974,38.6346,March,True
-test,APMC Lasalgaon,Same month last year,915.7080,52.5776,March,True
-test,APMC Lasalgaon,Seasonal + market signals,672.3281,42.2215,March,True
-test,APMC Lasalgaon,Seasonal + market signals + weather,664.3645,42.9109,March,True
-test,APMC Lasalgaon,Seasonal profile,749.5323,50.7425,March,True
-test,APMC Solapur,Last price,604.0077,42.5370,March,False
-test,APMC Solapur,Same month last year,664.8545,51.7094,March,False
-test,APMC Solapur,Seasonal + market signals,580.7858,47.1618,March,False
-test,APMC Solapur,Seasonal + market signals + weather,592.1676,47.5544,March,False
-test,APMC Solapur,Seasonal profile,610.8672,55.3206,March,False
-test,Bara Bazar (Posta Bazar) APMC,Last price,978.0646,35.9522,March,False
-test,Bara Bazar (Posta Bazar) APMC,Same month last year,1020.6283,42.9774,March,False
-test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,1003.1267,48.2391,March,False
-test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,1035.4354,51.9602,March,False
-test,Bara Bazar (Posta Bazar) APMC,Seasonal profile,1234.7031,58.9908,March,False
-test,Gurgaon APMC,Last price,676.2513,43.4797,March,False
-test,Gurgaon APMC,Same month last year,699.6535,45.1670,March,False
-test,Gurgaon APMC,Seasonal + market signals,624.9268,42.8661,March,False
-test,Gurgaon APMC,Seasonal + market signals + weather,622.0465,43.2774,March,False
-test,Gurgaon APMC,Seasonal profile,739.2506,51.1957,March,False
-validation,APMC Hubballi,Last price,510.6843,32.2369,March,False
-validation,APMC Hubballi,Same month last year,707.2734,63.9451,March,False
-validation,APMC Hubballi,Seasonal + market signals,422.7462,34.7446,March,False
-validation,APMC Hubballi,Seasonal + market signals + weather,519.8202,43.6327,March,False
-validation,APMC Hubballi,Seasonal profile,431.3386,35.6132,March,False
-validation,APMC Lasalgaon,Last price,865.0050,38.8269,March,True
-validation,APMC Lasalgaon,Same month last year,1144.6631,93.6324,March,True
-validation,APMC Lasalgaon,Seasonal + market signals,747.7138,48.3024,March,True
-validation,APMC Lasalgaon,Seasonal + market signals + weather,776.8712,53.4723,March,True
-validation,APMC Lasalgaon,Seasonal profile,771.9262,50.7644,March,True
-validation,APMC Solapur,Last price,566.9917,36.3556,March,False
-validation,APMC Solapur,Same month last year,775.3909,80.3916,March,False
-validation,APMC Solapur,Seasonal + market signals,507.2799,38.7365,March,False
-validation,APMC Solapur,Seasonal + market signals + weather,548.0881,44.9325,March,False
-validation,APMC Solapur,Seasonal profile,509.8618,38.7895,March,False
-validation,Bara Bazar (Posta Bazar) APMC,Last price,960.9519,35.7952,March,False
-validation,Bara Bazar (Posta Bazar) APMC,Same month last year,1275.3906,69.5367,March,False
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,742.2212,38.2435,March,False
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,848.9793,48.1661,March,False
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal profile,893.0574,48.5482,March,False
-validation,Gurgaon APMC,Last price,540.3648,29.2544,March,False
-validation,Gurgaon APMC,Same month last year,857.5138,63.4316,March,False
-validation,Gurgaon APMC,Seasonal + market signals,417.8869,24.7893,March,False
-validation,Gurgaon APMC,Seasonal + market signals + weather,436.3129,28.6898,March,False
-validation,Gurgaon APMC,Seasonal profile,528.9098,33.6533,March,False
-test,APMC Hubballi,Last price,495.3284,34.5743,All,False
-test,APMC Hubballi,Same month last year,694.5321,56.7434,All,False
-test,APMC Hubballi,Seasonal + market signals,503.6928,40.8333,All,False
-test,APMC Hubballi,Seasonal + market signals + weather,552.8980,45.0718,All,False
-test,APMC Hubballi,Seasonal profile,506.9054,43.0058,All,False
-test,APMC Lasalgaon,Last price,852.3253,35.2549,All,True
-test,APMC Lasalgaon,Same month last year,1083.8314,57.9537,All,True
-test,APMC Lasalgaon,Seasonal + market signals,724.3092,35.9706,All,True
-test,APMC Lasalgaon,Seasonal + market signals + weather,746.2183,37.3595,All,True
-test,APMC Lasalgaon,Seasonal profile,732.4717,37.9919,All,True
-test,APMC Solapur,Last price,625.7020,36.5821,All,False
-test,APMC Solapur,Same month last year,739.5054,52.7335,All,False
-test,APMC Solapur,Seasonal + market signals,540.8344,35.6025,All,False
-test,APMC Solapur,Seasonal + market signals + weather,557.4853,37.0012,All,False
-test,APMC Solapur,Seasonal profile,569.2883,38.9388,All,False
-test,Bara Bazar (Posta Bazar) APMC,Last price,994.1417,30.2840,All,False
-test,Bara Bazar (Posta Bazar) APMC,Same month last year,1216.5803,48.5222,All,False
-test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,912.7914,34.6176,All,False
-test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,959.9199,36.9623,All,False
-test,Bara Bazar (Posta Bazar) APMC,Seasonal profile,848.4944,33.5780,All,False
-test,Gurgaon APMC,Last price,593.0181,31.1011,All,False
-test,Gurgaon APMC,Same month last year,819.4884,50.2425,All,False
-test,Gurgaon APMC,Seasonal + market signals,616.1793,36.9446,All,False
-test,Gurgaon APMC,Seasonal + market signals + weather,634.4950,38.1200,All,False
-test,Gurgaon APMC,Seasonal profile,554.0296,34.3569,All,False
-validation,APMC Hubballi,Last price,561.6315,32.2037,All,False
-validation,APMC Hubballi,Same month last year,940.6232,78.5110,All,False
-validation,APMC Hubballi,Seasonal + market signals,611.5998,43.3202,All,False
-validation,APMC Hubballi,Seasonal + market signals + weather,665.8376,48.3089,All,False
-validation,APMC Hubballi,Seasonal profile,511.0814,34.0967,All,False
-validation,APMC Lasalgaon,Last price,937.4560,41.8343,All,True
-validation,APMC Lasalgaon,Same month last year,1501.4770,114.8845,All,True
-validation,APMC Lasalgaon,Seasonal + market signals,1114.7395,72.2767,All,True
-validation,APMC Lasalgaon,Seasonal + market signals + weather,1078.8728,71.0933,All,True
-validation,APMC Lasalgaon,Seasonal profile,1023.3605,63.5162,All,True
-validation,APMC Solapur,Last price,597.0240,37.4214,All,False
-validation,APMC Solapur,Same month last year,962.2824,92.4356,All,False
-validation,APMC Solapur,Seasonal + market signals,660.2957,51.0743,All,False
-validation,APMC Solapur,Seasonal + market signals + weather,669.4989,53.0522,All,False
-validation,APMC Solapur,Seasonal profile,588.5625,44.4140,All,False
-validation,Bara Bazar (Posta Bazar) APMC,Last price,958.5148,33.8257,All,False
-validation,Bara Bazar (Posta Bazar) APMC,Same month last year,1654.7146,86.5403,All,False
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,1102.5197,52.2301,All,False
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,1167.1511,56.6609,All,False
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal profile,988.7858,45.6810,All,False
-validation,Gurgaon APMC,Last price,603.2144,30.4883,All,False
-validation,Gurgaon APMC,Same month last year,1108.6215,78.4465,All,False
-validation,Gurgaon APMC,Seasonal + market signals,614.4315,40.8158,All,False
-validation,Gurgaon APMC,Seasonal + market signals + weather,662.1075,44.6084,All,False
-validation,Gurgaon APMC,Seasonal profile,563.5387,35.9317,All,False
+split,market,model,mae_rs_q,mean_price_rs_q,origins,relative_mae
+test,APMC Pimpalgaon Baswant,ARIMA,1433.6087,1920.6452,March,0.7464
+test,APMC Pimpalgaon Baswant,No change,827.4996,1920.6452,March,0.4308
+test,APMC Pimpalgaon Baswant,Winters,738.2433,1920.6452,March,0.3844
+test,APMC Pune,ARIMA,1391.1063,1609.1407,March,0.8645
+test,APMC Pune,No change,665.9831,1609.1407,March,0.4139
+test,APMC Pune,Winters,864.6748,1609.1407,March,0.5374
+test,APMC Solapur,ARIMA,1199.5804,1381.0940,March,0.8686
+test,APMC Solapur,No change,604.0077,1381.0940,March,0.4373
+test,APMC Solapur,Winters,679.5755,1381.0940,March,0.4921
+test,Newasa(Ghodegaon),ARIMA,1576.2188,1832.4653,March,0.8602
+test,Newasa(Ghodegaon),No change,849.7673,1832.4653,March,0.4637
+test,Newasa(Ghodegaon),Winters,867.1604,1832.4653,March,0.4732
+validation,APMC Pimpalgaon Baswant,ARIMA,1120.6692,1512.3763,March,0.7410
+validation,APMC Pimpalgaon Baswant,No change,824.6957,1512.3763,March,0.5453
+validation,APMC Pimpalgaon Baswant,Winters,785.9452,1512.3763,March,0.5197
+validation,APMC Pune,ARIMA,1013.2028,1508.3356,March,0.6717
+validation,APMC Pune,No change,857.2957,1508.3356,March,0.5684
+validation,APMC Pune,Winters,609.9288,1508.3356,March,0.4044
+validation,APMC Solapur,ARIMA,699.7595,1116.7668,March,0.6266
+validation,APMC Solapur,No change,566.9917,1116.7668,March,0.5077
+validation,APMC Solapur,Winters,493.8319,1116.7668,March,0.4422
+validation,Newasa(Ghodegaon),ARIMA,1037.2459,1521.2404,March,0.6818
+validation,Newasa(Ghodegaon),No change,829.6398,1521.2404,March,0.5454
+validation,Newasa(Ghodegaon),Winters,706.5762,1521.2404,March,0.4645
+test,APMC Pimpalgaon Baswant,ARIMA,1127.1681,2218.9744,All,0.5080
+test,APMC Pimpalgaon Baswant,No change,891.1142,2218.9744,All,0.4016
+test,APMC Pimpalgaon Baswant,Winters,680.3620,2218.9744,All,0.3066
+test,APMC Pune,ARIMA,1056.2478,1861.9278,All,0.5673
+test,APMC Pune,No change,727.0356,1861.9278,All,0.3905
+test,APMC Pune,Winters,639.8732,1861.9278,All,0.3437
+test,APMC Solapur,ARIMA,945.2186,1586.1015,All,0.5959
+test,APMC Solapur,No change,628.3985,1586.1015,All,0.3962
+test,APMC Solapur,Winters,578.9048,1586.1015,All,0.3650
+test,Newasa(Ghodegaon),ARIMA,1208.5933,2137.3718,All,0.5655
+test,Newasa(Ghodegaon),No change,932.8029,2137.3718,All,0.4364
+test,Newasa(Ghodegaon),Winters,733.5544,2137.3718,All,0.3432
+validation,APMC Pimpalgaon Baswant,ARIMA,1305.3095,1759.3354,All,0.7419
+validation,APMC Pimpalgaon Baswant,No change,888.9001,1759.3354,All,0.5052
+validation,APMC Pimpalgaon Baswant,Winters,868.0825,1759.3354,All,0.4934
+validation,APMC Pune,ARIMA,1143.4662,1751.7825,All,0.6527
+validation,APMC Pune,No change,834.3226,1751.7825,All,0.4763
+validation,APMC Pune,Winters,722.4824,1751.7825,All,0.4124
+validation,APMC Solapur,ARIMA,745.1522,1277.4485,All,0.5833
+validation,APMC Solapur,No change,595.9606,1277.4485,All,0.4665
+validation,APMC Solapur,Winters,538.4304,1277.4485,All,0.4215
+validation,Newasa(Ghodegaon),ARIMA,1224.8657,1783.3054,All,0.6869
+validation,Newasa(Ghodegaon),No change,857.9614,1783.3054,All,0.4811
+validation,Newasa(Ghodegaon),Winters,779.9023,1783.3054,All,0.4373
