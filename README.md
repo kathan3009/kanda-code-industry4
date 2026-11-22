@@ -32,10 +32,6 @@ The forecast model is the one whose sales plans earned most at the four state ma
 - `results/storage_results.csv`: proceeds per tonne harvested against selling everything at harvest, for every forecast model in validation and test seasons. `unreported_months` counts the season's months valued at interpolated prices. Capital costs are excluded.
 - `results/sensitivity.csv`: the cold-storage test result under changed loss, cost, quality, selling-cost, cash and curing assumptions.
 
-## Earlier eight-state comparison
-
-The [regional module](regional/README.md) is the earlier comparison built on the Mendeley state extract. The main analysis now covers the same question with one data source and one timeline.
-
 ## Sources
 
 - Directorate of Marketing and Inspection, [Agmarknet 2.0](https://agmarknet.gov.in), monthly market-wise onion prices and arrivals.

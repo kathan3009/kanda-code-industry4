@@ -9,7 +9,7 @@ An onion growers' cooperative can sell at harvest or hold some stock for later m
 
 ## 2. Motivation for problem selection
 
-The harvest price is often low, but a decision to wait has to be made before the later prices are known. A useful plan has to answer both questions: what are prices likely to do, and will the increase cover the loss, discount and cost of holding stock? The Mendeley extract we started with gives state averages for 2014-2024 only, with no mandi-level arrivals, so we rebuilt the data from the official market records.
+The harvest price is often low, but a decision to wait has to be made before the later prices are known. A useful plan has to answer both questions: what are prices likely to do, and will the increase cover the loss, discount and cost of holding stock? Prices and arrivals differ between mandis, so we work with monthly official records for individual mandis rather than state averages.
 
 ## 3. Research questions
 
@@ -89,4 +89,3 @@ The plans use monthly modal prices for all varieties and grades together; grade-
 2. NASA Langley Research Center. POWER daily API, rainfall and temperature. power.larc.nasa.gov.
 3. Singla, S. (2020). Lasalgaon Onion Data, compiled from NHRDF. Mendeley Data, version 1. doi:10.17632/9dn4g8m97m.1.
 4. ICAR. Onion cold storage: potential to stabilize price fluctuation. icar.org.in/en/node/4701.
-5. Shelar, R., Hajare, A., and Mangarule, S. (2025). A Comprehensive Spatio-Temporal Dataset for Agricultural Price Forecasting: Integrated Market, Weather, and Event Features (2014–2024). Mendeley Data, version 1. doi:10.17632/ds9jmxp9zy.1.
