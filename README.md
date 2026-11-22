@@ -1,6 +1,6 @@
 # Kanda Code
 
-Kanda Code is our group project for Industry 4.0 (MS4001) at IIT Madras. It asks when an onion growers' cooperative should sell its rabi harvest: at harvest in April, or from storage later in the year. We forecast monthly prices at the largest onion mandi in each state with complete records, plus Lasalgaon as the national benchmark, then plan sales after storage loss, quality loss, storage cost, selling costs, cash needs and handling limits.
+Kanda Code is our group project for Industry 4.0 (MS4001) at IIT Madras. It asks when an onion growers' cooperative should sell its rabi harvest: at harvest in April, or from storage later in the year. We forecast monthly prices at a large onion mandi in each of four states with complete records, plus Lasalgaon as the national benchmark, then plan sales after storage loss, quality loss, storage cost, selling costs, cash needs and handling limits.
 
 ## Run
 
@@ -14,13 +14,13 @@ python -m unittest
 
 `data/mandi_monthly.csv` is enough to run the analysis. To download it again, run `python fetch_data.py`. Responses are cached in `data/raw/`, so an interrupted download resumes. `python fetch_data.py --select` rescans every district and rewrites `markets.csv`; add coordinates for any new market before downloading.
 
-`markets.csv` lists Solapur (Maharashtra), Bara Bazar Kolkata (West Bengal), Hubballi (Karnataka), Gurgaon (Haryana) and Lasalgaon. For each state, the selection screens the three districts with the most 2024 arrivals and keeps the mandi with the most 2013-2025 arrivals among those that report every month. Andhra Pradesh, Bihar, Gujarat, Madhya Pradesh and Rajasthan have no mandi that meets this rule.
+`markets.csv` lists Solapur (Maharashtra), Bara Bazar Kolkata (West Bengal), Hubballi (Karnataka), Gurgaon (Haryana) and Lasalgaon. For each state, the selection ranks districts by arrivals in the June and December 2024 reports and, within the top three, keeps the mandi with the most 2013-2025 arrivals among those that report every month. It is a screen, not a census: Andhra Pradesh, Bihar, Gujarat, Madhya Pradesh and Rajasthan had no such mandi in their screened districts.
 
 ## Timeline
 
 Every market uses the same dates. Data run from January 2008 to December 2025. A season starts with the April harvest and ends in December. Forecasts are made at the end of March and again at the end of each later month. Seasons 2011-2013 only train the models, 2014-2019 choose one and 2020-2025 test it. Training always uses only data dated before the forecast.
 
-Every market must report every month from January 2013. Gaps of one or two months are interpolated in logs and never scored; a longer gap stops the run. Gaps before 2013 only remove those months from training.
+Every market must report every month from January 2013; gaps of one or two months are allowed and a longer gap stops the run. A forecast uses only what was known at the time: an unreported month carries the last reported value. Unreported months are never scored, and plans are valued in them at prices interpolated after the season. Gaps before 2013 only remove those months from training.
 
 The forecast model is the one whose sales plans earned most at the four state mandis in the validation seasons, averaged over both storage types and both plans. Lasalgaon is forecast and planned like the others but kept out of model selection and averages; every results file has a `benchmark` column to filter it.
 
@@ -29,7 +29,7 @@ The forecast model is the one whose sales plans earned most at the four state ma
 - `results/market_summary.csv`: price and arrivals calendars, the arrivals regression, and the check against the NHRDF Lasalgaon archive.
 - `results/forecasts.csv` and `results/forecast_scores.csv`: forecasts from every origin and their errors. `origins` is `March` for the harvest-time forecast and `All` for the monthly updates.
 - `results/sales_plan.csv`: tonnes sold and held each month for the selected model, by market, season, storage type and strategy.
-- `results/storage_results.csv`: realised proceeds per tonne harvested against selling everything at harvest, for every forecast model in validation and test seasons. Capital costs are excluded.
+- `results/storage_results.csv`: proceeds per tonne harvested against selling everything at harvest, for every forecast model in validation and test seasons. `unreported_months` counts the season's months valued at interpolated prices. Capital costs are excluded.
 - `results/sensitivity.csv`: the cold-storage test result under changed loss, cost, quality, selling-cost, cash and curing assumptions.
 
 ## Earlier eight-state comparison

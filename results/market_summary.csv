@@ -1,6 +1,6 @@
 state,market,april_index,peak_month,peak_index,peak_arrivals_month,march_may_arrivals_share,arrivals_beta,hac_p,nhrdf_months,nhrdf_corr,nhrdf_median_gap,selected_model,benchmark
-Karnataka,APMC Hubballi,0.6774,12,1.3212,10,0.1930,-0.1479,0.0656,,,,Seasonal + market signals,False
-Maharashtra,APMC Lasalgaon,0.5488,11,1.4382,1,0.2347,-0.1679,0.0019,138.0000,0.9872,0.0231,Seasonal + market signals,True
-Maharashtra,APMC Solapur,0.5385,11,1.3919,12,0.2363,-0.0984,0.1196,,,,Seasonal + market signals,False
-West Bengal,Bara Bazar (Posta Bazar) APMC,0.5741,11,1.4484,7,0.2403,-0.3406,0.0064,,,,Seasonal + market signals,False
-Haryana,Gurgaon APMC,0.6947,10,1.3600,3,0.2479,-0.0211,0.7554,,,,Seasonal + market signals,False
+Karnataka,APMC Hubballi,0.6761,12,1.3702,10,0.2010,-0.1395,0.0817,,,,Seasonal + market signals,False
+Maharashtra,APMC Lasalgaon,0.5470,11,1.4355,1,0.2362,-0.1677,0.0020,135.0000,0.9875,0.0229,Seasonal + market signals,True
+Maharashtra,APMC Solapur,0.5347,11,1.3830,12,0.2446,-0.0964,0.1260,,,,Seasonal + market signals,False
+West Bengal,Bara Bazar (Posta Bazar) APMC,0.5778,11,1.4688,7,0.2415,-0.3111,0.0083,,,,Seasonal + market signals,False
+Haryana,Gurgaon APMC,0.7051,10,1.3880,3,0.2520,0.0127,0.8421,,,,Seasonal + market signals,False

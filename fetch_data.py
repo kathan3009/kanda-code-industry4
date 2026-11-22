@@ -1,10 +1,4 @@
-"""Download the monthly mandi and weather inputs used by analysis.py.
-
-Agmarknet 2.0 (Directorate of Marketing and Inspection) publishes monthly
-market-wise onion prices and arrivals. NASA POWER provides daily rainfall and
-temperature for each mandi location. Raw responses are cached in data/raw so a
-rerun only requests what is missing.
-"""
+"""Download monthly mandi prices and arrivals (Agmarknet) and weather (NASA POWER)."""
 import argparse
 import json
 import time
@@ -72,10 +66,7 @@ def monthly_report(kind, state_id, district_id, year, month):
 
 
 def district_series(state_id, district_id, start=DATA_START, kinds=("prices", "arrivals")):
-    """Every market in the district, every month from `start` to DATA_END.
-
-    Each response also carries the previous month, so even months cover the year.
-    """
+    """Every market in the district, monthly from `start` to DATA_END (each report has two months)."""
     rows = []
     for month in pd.period_range(start, DATA_END, freq="M"):
         if month.month % 2 == 0 or month == DATA_END:
@@ -92,10 +83,7 @@ def district_series(state_id, district_id, start=DATA_START, kinds=("prices", "a
 
 
 def screen_districts(state_id, districts, year):
-    """Districts ranked by onion arrivals in the June and December reports of `year`.
-
-    Those reports cover the May-June rabi and November-December kharif peaks.
-    """
+    """Districts ranked by arrivals in the June and December reports (May-June and Nov-Dec) of `year`."""
     totals = {}
     for name, district_id in districts:
         for month in (6, 12):
@@ -119,11 +107,7 @@ def complete_markets(state_id, district_id):
 
 
 def select_markets(states, screen_year=2024, shortlist=3):
-    """Pick each state's mandi with the most onion arrivals among those reporting every month.
-
-    A screen of every district keeps the `shortlist` with the most arrivals in
-    `screen_year`; their markets are then checked month by month from COMPLETE_FROM.
-    """
+    """Within each state's `shortlist` largest districts, the complete mandi with the most arrivals."""
     chosen = []
     for state in states:
         state_id = STATE_IDS[state]

@@ -10,20 +10,14 @@ from scipy.optimize import linprog
 
 ROOT = Path(__file__).resolve().parent
 
-# One timeline for every market. Data run from January 2008 to December 2025.
-# A season runs from the April harvest to December; forecasts are made at the
-# end of March and of every later month. Seasons 2011-2013 only train the
-# models, 2014-2019 choose one and 2020-2025 test it. Every market must report
-# every month from January 2013, so all markets are scored on the same seasons;
-# earlier gaps only shorten the training history.
+# Same timeline for every market; seasons run from the April harvest to December.
 DATA_START, DATA_END = pd.Period("2008-01", "M"), pd.Period("2025-12", "M")
 VALIDATION, TEST = range(2014, 2020), range(2020, 2026)
 COMPLETE_FROM = pd.Period(f"{VALIDATION[0] - 1}-01", "M")  # last year's price is a baseline
 HARVEST_MONTH, SEASON_MONTHS = 4, 9
 ANOMALY_YEARS, MIN_ANOMALY_YEARS = 3, 2
 MAX_GAP_MONTHS = 2
-# India's reference onion price. It is forecast and planned like the others but
-# kept out of model selection and averages, which cover one mandi per state.
+# Reported separately, not used for model selection or averages.
 BENCHMARK = "APMC Lasalgaon"
 RIDGE_PENALTY = 10.0
 MARKET_SIGNALS = ["price_anomaly", "arrivals_anomaly", "regional_arrivals_anomaly"]
@@ -81,10 +75,7 @@ def net_price(price_rs_t, farm, start=0):
 
 
 def plan_sales(price_rs_t, storage, farm, start=0, stock=None):
-    """Tonnes sold and held in each month from `start` (0 is the harvest month).
-
-    Variables are the monthly sales followed by the end-of-month stocks.
-    """
+    """Tonnes sold and held each month from `start` (0 is the harvest month)."""
     n = SEASON_MONTHS - start
     if len(price_rs_t) != n:
         raise ValueError(f"Expected {n} prices, received {len(price_rs_t)}")
@@ -110,10 +101,7 @@ def proceeds(price_rs_t, sold, held, storage, farm):
 
 
 def rolling_plan(forecasts, storage, farm):
-    """Re-plan at the end of every month and carry out only the next month's sales.
-
-    `forecasts[k]` holds the prices forecast at the end of month k - 1 for months k onward.
-    """
+    """Re-plan each month and carry out only the next month's sales; forecasts[k] starts at month k."""
     sold, held, stock = [], [], None
     for start, prices in enumerate(forecasts):
         s, h = plan_sales(prices, storage, farm, start, stock)
@@ -124,15 +112,17 @@ def rolling_plan(forecasts, storage, farm):
 
 
 def fill_short_gaps(series):
-    """Interpolate, in logs, runs of up to MAX_GAP_MONTHS missing months between two reports.
-
-    Longer runs and months before the first or after the last report stay missing.
-    """
+    """Interpolate, in logs, gaps of up to MAX_GAP_MONTHS between two reports (uses later data)."""
     missing = series.isna()
     run = (~missing).cumsum()
     length = missing.groupby(run).transform("sum")
     fill = missing & length.le(MAX_GAP_MONTHS) & run.gt(0) & run.lt(run.max())
     return series.where(~fill, np.exp(np.log(series).interpolate(limit_area="inside")))
+
+
+def carry_forward(series):
+    """Last report, for up to MAX_GAP_MONTHS: what was known at the end of each month."""
+    return series.ffill(limit=MAX_GAP_MONTHS)
 
 
 def is_complete(series):
@@ -143,6 +133,11 @@ def is_complete(series):
 def load(path):
     d = pd.read_csv(path)
     d["month"] = pd.PeriodIndex(d.month, freq="M")
+    return prepare(d)
+
+
+def prepare(d):
+    """Check coverage and add what was known at each month end and the settled price."""
     expected = pd.period_range(DATA_START, DATA_END, freq="M")
     filled = []
     for market, rows in d.groupby("market"):
@@ -151,21 +146,20 @@ def load(path):
             raise ValueError(f"{market}: prices and arrivals must be positive")
         if rows[["rain_mm", "tmax_c", "tmin_c"]].isna().any().any():
             raise ValueError(f"{market}: weather is incomplete")
-        rows["observed"] = rows.price_rs_q.notna()
         for column in ("price_rs_q", "arrivals_t"):
             if not is_complete(rows.loc[COMPLETE_FROM:, column]):
                 raise ValueError(f"{market}: {column} misses more than {MAX_GAP_MONTHS} months "
                                  f"in a row, or the first or last month, after {COMPLETE_FROM}")
-            rows[column] = fill_short_gaps(rows[column])
+        rows["observed"] = rows.price_rs_q.notna()
+        rows["price_known"] = carry_forward(rows.price_rs_q)
+        rows["arrivals_known"] = carry_forward(rows.arrivals_t)
+        rows["price_settled"] = fill_short_gaps(rows.price_rs_q)
         filled.append(rows.reset_index())
     return pd.concat(filled, ignore_index=True)
 
 
 def anomaly(values):
-    """Value relative to the same calendar month in the previous three years.
-
-    At least MIN_ANOMALY_YEARS of those years must be reported.
-    """
+    """Value minus its mean in the same month of the last three years (at least two reported)."""
     past = pd.concat([values.shift(12 * k) for k in range(1, ANOMALY_YEARS + 1)], axis=1)
     return values - past.mean(axis=1).where(past.count(axis=1).ge(MIN_ANOMALY_YEARS))
 
@@ -174,15 +168,15 @@ def signals(d):
     """Information available at the end of each month, by market."""
     out = []
     # Missing in any month in which a market did not report.
-    regional = d.groupby("month").arrivals_t.sum(min_count=d.market.nunique()).rolling(3).sum()
+    regional = d.groupby("month").arrivals_known.sum(min_count=d.market.nunique()).rolling(3).sum()
     regional = anomaly(np.log(regional)).rename("regional_arrivals_anomaly")
     for market, m in d.groupby("market"):
         m = m.set_index("month")
         out.append(pd.DataFrame({
             "market": market,
-            "price": m.price_rs_q,
-            "price_anomaly": anomaly(np.log(m.price_rs_q)),
-            "arrivals_anomaly": anomaly(np.log(m.arrivals_t.rolling(3).sum())),
+            "price": m.price_known,
+            "price_anomaly": anomaly(np.log(m.price_known)),
+            "arrivals_anomaly": anomaly(np.log(m.arrivals_known.rolling(3).sum())),
             "rain_anomaly": anomaly(np.log1p(m.rain_mm.rolling(3).sum())),
             "tmax_anomaly": anomaly(m.tmax_c.rolling(3).mean()),
         }).join(regional))
@@ -205,7 +199,7 @@ def seasonal_ratio(prices, before):
     """Median ratio of each target month to each origin month in seasons before `before`."""
     history = prices[prices.month.dt.year < before]
     wide = history.assign(year=history.month.dt.year, cal=history.month.dt.month).pivot_table(
-        index=["market", "year"], columns="cal", values="price_rs_q")
+        index=["market", "year"], columns="cal", values="price_known")
     ratios = {}
     for origin_cal in range(HARVEST_MONTH - 1, 12):
         for target_cal in range(origin_cal + 1, 13):
@@ -224,13 +218,13 @@ def forecast_season(year, prices, info):
     """All model forecasts for one season, using only data dated before each origin."""
     first = DATA_START.year + ANOMALY_YEARS
     pairs = season_pairs(sorted(prices.market.unique()), range(first, year + 1))
-    price = prices.set_index(["market", "month"]).price_rs_q
-    observed = prices.set_index(["market", "month"]).observed
+    indexed = prices.set_index(["market", "month"])
+    reported, known = indexed.price_rs_q, indexed.price_known
     season = pairs[pairs.season.eq(year)].merge(info.rename(columns={"month": "origin"}),
                                                 on=["market", "origin"], how="left")
-    season["actual"] = price.reindex(pd.MultiIndex.from_frame(season[["market", "target"]])).to_numpy()
-    season["observed"] = observed.reindex(pd.MultiIndex.from_frame(season[["market", "target"]])).to_numpy()
-    season["same_month_last_year"] = price.reindex(pd.MultiIndex.from_arrays(
+    season["actual"] = reported.reindex(pd.MultiIndex.from_frame(season[["market", "target"]])).to_numpy()
+    season["observed"] = season.actual.notna()
+    season["same_month_last_year"] = known.reindex(pd.MultiIndex.from_arrays(
         [season.market, season.target - 12])).to_numpy()
     ratios = seasonal_ratio(prices, year)
     season["profile"] = [ratios[(m, o.month, t.month)] for m, o, t in
@@ -244,9 +238,9 @@ def forecast_season(year, prices, info):
         past_ratios = seasonal_ratio(prices, past)
         rows["profile"] = [past_ratios[(m, o.month, t.month)] for m, o, t in
                            zip(rows.market, rows.origin, rows.target)]
-        rows["actual"] = price.reindex(pd.MultiIndex.from_frame(rows[["market", "target"]])).to_numpy()
+        rows["actual"] = reported.reindex(pd.MultiIndex.from_frame(rows[["market", "target"]])).to_numpy()
         history.append(rows)
-    # Seasons before COMPLETE_FROM may have gaps; those pairs cannot train.
+    # Pairs with an unreported input or target do not train.
     history = pd.concat(history, ignore_index=True)
 
     forecasts = {"Last price": season.price,
@@ -273,8 +267,8 @@ def forecast_season(year, prices, info):
 
 
 def score(forecasts):
-    """Errors on observed months only; interpolated months are not scored."""
-    forecasts = forecasts[forecasts.observed.astype(bool)]
+    """Errors on reported months only."""
+    forecasts = forecasts[forecasts.observed]
     f = forecasts.assign(split=np.where(forecasts.season.isin(VALIDATION), "validation", "test"),
                          abs_error=(forecasts.forecast - forecasts.actual).abs())
     f["abs_pct_error"] = 100 * f.abs_error / f.actual
@@ -287,13 +281,15 @@ def score(forecasts):
 
 
 def backtest(forecasts, prices, model, scenarios, years):
-    """Realised proceeds per tonne harvested for each strategy, season and market."""
-    price = prices.set_index(["market", "month"]).price_rs_q
+    """Proceeds per tonne harvested at reported prices; unreported months use interpolated prices."""
+    indexed = prices.set_index(["market", "month"])
+    price, observed = indexed.price_settled, indexed.observed
     chosen = forecasts[forecasts.model.eq(model)]
     results, plans = [], []
     for (market, year), rows in chosen[chosen.season.isin(years)].groupby(["market", "season"]):
         months = pd.period_range(f"{year}-{HARVEST_MONTH:02d}", periods=SEASON_MONTHS, freq="M")
         actual = 10 * price.loc[market].reindex(months).to_numpy()
+        unreported = int((~observed.loc[market].reindex(months)).sum())
         march = 10 * rows[rows.start.eq(0)].sort_values("target").forecast.to_numpy()
         updates = [10 * r.sort_values("target").forecast.to_numpy() for _, r in rows.groupby("start")]
         for name, (storage, farm) in scenarios.items():
@@ -303,11 +299,12 @@ def backtest(forecasts, prices, model, scenarios, years):
             harvest = net_price(actual[:1], farm)[0]
             for strategy, (sold, held) in strategies.items():
                 net = proceeds(actual, sold, held, storage, farm) / farm.harvest_t
-                results.append((market, year, name, strategy, net, harvest, net - harvest))
+                results.append((market, year, name, strategy, net, harvest, net - harvest, unreported))
                 plans.extend((market, year, name, strategy, str(month), s, h)
                              for month, s, h in zip(months, sold, held))
     return (pd.DataFrame(results, columns=["market", "season", "scenario", "strategy",
-                                           "net_rs_t", "harvest_sale_rs_t", "gain_rs_t"]),
+                                           "net_rs_t", "harvest_sale_rs_t", "gain_rs_t",
+                                           "unreported_months"]),
             pd.DataFrame(plans, columns=["market", "season", "scenario", "strategy",
                                          "month", "sold_t", "end_stock_t"]))
 
@@ -315,8 +312,7 @@ def backtest(forecasts, prices, model, scenarios, years):
 def describe(prices, nhrdf_path):
     rows = []
     for market, m in prices.groupby("market"):
-        # The same complete years for every market.
-        m = m[m.month.ge(COMPLETE_FROM)]
+        m = m[m.month.ge(COMPLETE_FROM)]  # same years for every market; reported months only
         m = m.assign(year=m.month.dt.year, cal=m.month.dt.month)
         index = (m.price_rs_q / m.groupby("year").price_rs_q.transform("mean")).groupby(m.cal).mean()
         share = (m.arrivals_t / m.groupby("year").arrivals_t.transform("sum")).groupby(m.cal).mean()
@@ -333,13 +329,13 @@ def describe(prices, nhrdf_path):
     nhrdf = pd.read_csv(nhrdf_path)
     nhrdf = pd.Series(nhrdf["Modal Price (Rs/q)"].to_numpy(),
                       index=pd.to_datetime(nhrdf.Time, format="%d-%m-%Y").dt.to_period("M"))
-    lasalgaon = prices[prices.market.eq(BENCHMARK)].set_index("month").price_rs_q
+    lasalgaon = prices[prices.market.eq(BENCHMARK)].set_index("month").price_rs_q.dropna()
     common = lasalgaon.index.intersection(nhrdf.index)
-    if len(common):
-        gap = (lasalgaon[common] / nhrdf[common] - 1).abs()
-        summary.loc[summary.market.eq(BENCHMARK), ["nhrdf_months", "nhrdf_corr",
-                                                               "nhrdf_median_gap"]] = [
-            len(common), np.corrcoef(lasalgaon[common], nhrdf[common])[0, 1], gap.median()]
+    if common.empty:
+        raise ValueError(f"{BENCHMARK} has no months in common with the NHRDF archive")
+    gap = (lasalgaon[common] / nhrdf[common] - 1).abs()
+    summary.loc[summary.market.eq(BENCHMARK), ["nhrdf_months", "nhrdf_corr", "nhrdf_median_gap"]] = [
+        len(common), np.corrcoef(lasalgaon[common], nhrdf[common])[0, 1], gap.median()]
     return summary
 
 

@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 from analysis import (DATA_END, DATA_START, SEASON_MONTHS, STORAGE, Farm, forecast_season,
-                      plan_sales, rolling_plan, signals)
+                      plan_sales, prepare, rolling_plan, signals)
 
 COLD = STORAGE["Cold"]
 
@@ -22,7 +22,7 @@ def synthetic_panel(seed=0):
             "arrivals_t": 5000 / season * np.exp(rng.normal(0, .1, len(months))),
             "rain_mm": rng.gamma(2, 30, len(months)),
             "tmax_c": 32 + rng.normal(0, 1, len(months)),
-            "tmin_c": 18 + rng.normal(0, 1, len(months)), "observed": True}))
+            "tmin_c": 18 + rng.normal(0, 1, len(months))}))
     return pd.concat(rows, ignore_index=True)
 
 
@@ -60,24 +60,37 @@ class SalesPlanTest(unittest.TestCase):
 class ForecastTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.panel = synthetic_panel()
+        cls.raw = synthetic_panel()
+        # An unreported March: forecasts made at its end must not see April.
+        unreported = cls.raw.market.eq("A") & cls.raw.month.isin(pd.PeriodIndex(["2016-03", "2016-07"], freq="M"))
+        cls.raw.loc[unreported, ["price_rs_q", "arrivals_t"]] = np.nan
+        cls.panel = prepare(cls.raw)
 
-    def forecast(self, panel):
+    def forecast(self, raw):
+        panel = prepare(raw)
         return forecast_season(2016, panel, signals(panel))
 
     def test_later_data_does_not_change_march_forecasts(self):
-        original = self.forecast(self.panel)
-        changed = self.panel.copy()
+        original = self.forecast(self.raw)
+        changed = self.raw.copy()
         later = changed.month.gt(pd.Period("2016-03", "M"))
         changed.loc[later, ["price_rs_q", "arrivals_t", "rain_mm"]] *= 3
         updated = self.forecast(changed)
         march = original.start.eq(0)
         np.testing.assert_allclose(original[march].forecast, updated[march].forecast)
 
+    def test_unreported_month_uses_last_report(self):
+        a = self.panel[self.panel.market.eq("A")].set_index("month")
+        self.assertEqual(a.loc[pd.Period("2016-03", "M"), "price_known"],
+                         a.loc[pd.Period("2016-02", "M"), "price_rs_q"])
+        july = self.forecast(self.raw).query("market == 'A' and target == @pd.Period('2016-07', 'M')")
+        self.assertFalse(july.empty)
+        self.assertFalse(july.observed.any())
+
     def test_same_month_last_year(self):
-        f = self.forecast(self.panel)
+        f = self.forecast(self.raw)
         f = f[f.model.eq("Same month last year") & f.market.eq("A")]
-        price = self.panel[self.panel.market.eq("A")].set_index("month").price_rs_q
+        price = self.panel[self.panel.market.eq("A")].set_index("month").price_known
         np.testing.assert_allclose(f.forecast, price.loc[f.target - 12].to_numpy())
 
 
