@@ -16,12 +16,6 @@ The packaged monthly extract is sufficient. To rebuild it, download the version 
 python -m regional.run --parquet /path/to/onion.parquet
 ```
 
-Rebuilding the report PDF needs `reportlab==5.1.0` and `pypdf==7.1.1`. Set `TNR_FONT_DIR` if Times New Roman is not in the macOS Supplemental Fonts folder.
-
-```sh
-python make_pdf.py --report regional/report.md --output 'regional/output/pdf/Kanda Code.pdf'
-```
-
 ## Reading the outputs
 
 - `coverage.csv`, `training_rows.csv`, and `seasonality.csv`: observed months, training samples by state and origin, and price indices from complete calendar years.

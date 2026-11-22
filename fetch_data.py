@@ -15,7 +15,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from analysis import COMPLETE_FROM, DATA_END, DATA_START, is_complete
+from analysis import BENCHMARK, COMPLETE_FROM, DATA_END, DATA_START, is_complete
 
 ROOT = Path(__file__).resolve().parent
 RAW = ROOT / "data" / "raw"
@@ -25,9 +25,8 @@ ONION = 23
 STATE_IDS = {"Andhra Pradesh": 2, "Bihar": 5, "Gujarat": 11, "Haryana": 12, "Karnataka": 16,
              "Madhya Pradesh": 19, "Maharashtra": 20, "Rajasthan": 29, "West Bengal": 36}
 RETRY_STATUS = {429, 500, 502, 503, 504}
-# India's reference onion price, kept alongside the largest mandi in each state.
-BENCHMARK = {"state": "Maharashtra", "state_id": 20, "district": "Nashik", "district_id": 361,
-             "market": "APMC Lasalgaon", "basis": "National benchmark"}
+BENCHMARK_ROW = {"state": "Maharashtra", "state_id": 20, "district": "Nashik", "district_id": 361,
+                 "market": BENCHMARK, "basis": "National benchmark"}
 
 
 def request(url, cache, attempts=8, pause=1.0):
@@ -143,8 +142,8 @@ def select_markets(states, screen_year=2024, shortlist=3):
         chosen.append({"state": state, "state_id": state_id, "district": best[0],
                        "district_id": best[1], "market": best[2],
                        "basis": f"Most arrivals {COMPLETE_FROM.year}-{DATA_END.year}, reporting every month"})
-    if BENCHMARK["market"] not in {c["market"] for c in chosen}:
-        chosen.append(BENCHMARK)
+    if BENCHMARK not in {c["market"] for c in chosen}:
+        chosen.append(BENCHMARK_ROW)
     return pd.DataFrame(chosen)
 
 

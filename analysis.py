@@ -22,6 +22,9 @@ COMPLETE_FROM = pd.Period(f"{VALIDATION[0] - 1}-01", "M")  # last year's price i
 HARVEST_MONTH, SEASON_MONTHS = 4, 9
 ANOMALY_YEARS, MIN_ANOMALY_YEARS = 3, 2
 MAX_GAP_MONTHS = 2
+# India's reference onion price. It is forecast and planned like the others but
+# kept out of model selection and averages, which cover one mandi per state.
+BENCHMARK = "APMC Lasalgaon"
 RIDGE_PENALTY = 10.0
 MARKET_SIGNALS = ["price_anomaly", "arrivals_anomaly", "regional_arrivals_anomaly"]
 WEATHER_SIGNALS = ["rain_anomaly", "tmax_anomaly"]
@@ -330,11 +333,11 @@ def describe(prices, nhrdf_path):
     nhrdf = pd.read_csv(nhrdf_path)
     nhrdf = pd.Series(nhrdf["Modal Price (Rs/q)"].to_numpy(),
                       index=pd.to_datetime(nhrdf.Time, format="%d-%m-%Y").dt.to_period("M"))
-    lasalgaon = prices[prices.market.str.contains("Lasalgaon")].set_index("month").price_rs_q
+    lasalgaon = prices[prices.market.eq(BENCHMARK)].set_index("month").price_rs_q
     common = lasalgaon.index.intersection(nhrdf.index)
     if len(common):
         gap = (lasalgaon[common] / nhrdf[common] - 1).abs()
-        summary.loc[summary.market.str.contains("Lasalgaon"), ["nhrdf_months", "nhrdf_corr",
+        summary.loc[summary.market.eq(BENCHMARK), ["nhrdf_months", "nhrdf_corr",
                                                                "nhrdf_median_gap"]] = [
             len(common), np.corrcoef(lasalgaon[common], nhrdf[common])[0, 1], gap.median()]
     return summary
@@ -351,13 +354,14 @@ def main():
     forecasts = pd.concat([forecast_season(year, prices, info)
                            for year in [*VALIDATION, *TEST]], ignore_index=True)
     scores = score(forecasts)
-    # Choose the model whose sales plans earned most in the validation seasons.
+    # Choose the model whose sales plans earned most at the state mandis in the validation seasons.
     scenarios = {name: (storage, Farm()) for name, storage in STORAGE.items()}
     runs = {model: backtest(forecasts, prices, model, scenarios, [*VALIDATION, *TEST])
             for model in forecasts.model.unique()}
     results = pd.concat([r.assign(model=model) for model, (r, _) in runs.items()], ignore_index=True)
     results["split"] = np.where(results.season.isin(VALIDATION), "validation", "test")
-    planned = results[results.split.eq("validation") & results.strategy.ne("Perfect foresight")]
+    planned = results[results.split.eq("validation") & results.strategy.ne("Perfect foresight")
+                      & results.market.ne(BENCHMARK)]
     selected = planned.groupby("model").gain_rs_t.mean().idxmax()
     plans = runs[selected][1]
     sensitivity, _ = backtest(forecasts, prices, selected, SENSITIVITY, TEST)
@@ -366,7 +370,7 @@ def main():
                "market_summary": describe(prices, ROOT / "data" / "lasalgaon_nhrdf.csv").assign(
                    selected_model=selected)}
     for name, data in outputs.items():
-        data.to_csv(args.output / f"{name}.csv", index=False, float_format="%.4f")
+        data.assign(benchmark=data.market.eq(BENCHMARK)).to_csv(args.output / f"{name}.csv", index=False, float_format="%.4f")
 
 
 if __name__ == "__main__":

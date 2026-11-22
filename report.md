@@ -25,7 +25,7 @@ We expect higher arrivals to lower prices, and low-loss cold storage to make wai
 
 Agmarknet 2.0 publishes monthly modal prices (Rs per quintal) and arrivals (tonnes) for every mandi. NASA POWER gives daily rainfall and temperature at each mandi, which we total or average by month. Every market uses one timeline: January 2008 to December 2025. To be scored on the same seasons, a mandi must report every month from January 2013. Gaps of one or two months are interpolated in logs and never scored; longer gaps stop the run. For each state we screened the three districts with the most 2024 arrivals and chose the mandi with the most arrivals in 2013-2025 among those meeting this rule.
 
-Four states have a qualifying mandi: Solapur (Maharashtra), Bara Bazar Kolkata (West Bengal), Hubballi (Karnataka) and Gurgaon (Haryana). We add Lasalgaon as the national benchmark. Gujarat, Madhya Pradesh, Rajasthan, Andhra Pradesh and Bihar had no mandi meeting the rule; the closest, Gondal, missed three months in 2022. Only 12 of 780 market-months since 2013 are interpolated. Lasalgaon matches the independent NHRDF archive closely: over 138 shared months the correlation is 0.987 and the median gap 2.3%.
+Four states have a qualifying mandi: Solapur (Maharashtra), Bara Bazar Kolkata (West Bengal), Hubballi (Karnataka) and Gurgaon (Haryana). We add Lasalgaon, India's reference onion price, as a benchmark: it is forecast and planned like the others but reported separately and left out of model selection and averages, so each state counts once. Gujarat, Madhya Pradesh, Rajasthan, Andhra Pradesh and Bihar had no mandi meeting the rule; the closest, Gondal, missed three months in 2022. Only 12 of 780 market-months since 2013 are interpolated. Lasalgaon matches the independent NHRDF archive closely: over 138 shared months the correlation is 0.987 and the median gap 2.3%.
 
 April prices average 0.54-0.70 times the year's mean, and prices peak in October to December at 1.32-1.45 times the mean. March to May brings 19-25% of the year's arrivals.
 
@@ -35,7 +35,7 @@ April prices average 0.54-0.70 times the year's mean, and prices peak in October
 
 **Arrivals regression.** For each market we regress log monthly price on log arrivals with calendar-month and year effects over 2013-2025. Newey-West standard errors allow for short-run serial correlation. The coefficient measures association only.
 
-**Forecasting.** Forecasts are made at the end of March for April to December, and again at the end of each later month for the rest of the season. The last price and the same month last year are the baselines. The seasonal profile multiplies the last price by the median ratio between the target and origin months in earlier seasons. Two pooled ridge regressions adjust that profile using price, arrivals and five-market arrivals relative to the same months of the previous three years; the second also adds rainfall and maximum temperature. Each regression is refitted every season on earlier seasons only. Models are compared on 2014-2019 and tested on 2020-2025. Because the cooperative needs a sell-or-store decision, we choose the model whose sales plans earned most in the validation seasons, not the one with the lowest error.
+**Forecasting.** Forecasts are made at the end of March for April to December, and again at the end of each later month for the rest of the season. The last price and the same month last year are the baselines. The seasonal profile multiplies the last price by the median ratio between the target and origin months in earlier seasons. Two pooled ridge regressions adjust that profile using price, arrivals and five-market arrivals relative to the same months of the previous three years; the second also adds rainfall and maximum temperature. Each regression is refitted every season on earlier seasons only. Models are compared on 2014-2019 and tested on 2020-2025. Because the cooperative needs a sell-or-store decision, we choose the model whose sales plans earned most at the four state mandis in the validation seasons, not the one with the lowest error.
 
 **Sales plan.** A linear programme chooses monthly sales and closing stocks. April sales plus April stock equal the harvest. In each later month, sales plus stock equal the previous stock after spoilage. The net price deducts 1% market fees, Rs 500 per tonne for transport and handling, and a 1% discount for each month in store. Cold storage loses 1.83% a month, costs Rs 700 per tonne-month and holds stock up to eight months. Ventilated storage loses 18.05% a month, costs Rs 250 and holds up to six months; both losses come from ICAR 120-day trials. The March plan fixes all sales from the March forecast. The monthly re-plan reruns the programme each month with the latest forecast and carries out only the next month's sales. Each plan is valued at the prices that actually occurred, against selling everything at harvest. Perfect foresight shows the most storage could have earned.
 
@@ -43,13 +43,13 @@ April prices average 0.54-0.70 times the year's mean, and prices peak in October
 
 | Forecast model | Validation MAPE | Test MAPE | March test MAPE | Validation plan gain |
 | --- | ---: | ---: | ---: | ---: |
-| Last price | 35.0% | 33.5% | 38.6% | Rs 0/t |
-| Same month last year | 89.4% | 52.6% | 47.9% | Rs -93/t |
-| Seasonal profile | 44.3% | 37.1% | 52.8% | Rs 835/t |
-| + market signals | 51.6% | 36.3% | 44.4% | Rs 821/t |
-| + market signals + weather | 55.2% | 38.5% | 46.5% | Rs 676/t |
+| Last price | 33.3% | 33.1% | 38.6% | Rs 0/t |
+| Same month last year | 83.1% | 51.3% | 46.8% | Rs -263/t |
+| Seasonal profile | 39.6% | 36.9% | 53.4% | Rs 772/t |
+| + market signals | 46.6% | 36.3% | 44.9% | Rs 807/t |
+| + market signals + weather | 51.3% | 38.7% | 47.2% | Rs 725/t |
 
-MAPE covers forecasts from every origin, averaged over markets; plan gain averages both storage types and both plans. The last price has the lowest percentage error, but it never predicts a rise, so its plans always sell at harvest. The seasonal profile was selected. Weather raised errors and lowered plan gains.
+Figures average the four state mandis. MAPE covers forecasts from every origin; plan gain averages both storage types and both plans. The last price has the lowest percentage error, but it never predicts a rise, so its plans always sell at harvest. Seasonal + market signals was selected, narrowly ahead of the seasonal profile. Weather raised errors and lowered plan gains.
 
 Higher arrivals were associated with lower prices in Kolkata (coefficient -0.341, p = 0.006) and Lasalgaon (-0.168, p = 0.002), weakly in Hubballi (-0.148, p = 0.066), and not clearly in Solapur (-0.098, p = 0.120) or Gurgaon (-0.021, p = 0.755).
 
@@ -59,35 +59,34 @@ Higher arrivals were associated with lower prices in Kolkata (coefficient -0.341
 
 | Cold storage, 2020-2025 | March plan | Monthly re-plan | Perfect foresight |
 | --- | ---: | ---: | ---: |
-| Lasalgaon (benchmark) | Rs 3,787/t | Rs 4,533/t | Rs 7,251/t |
-| Kolkata | Rs 4,696/t | Rs 4,147/t | Rs 7,652/t |
-| Solapur | Rs 1,057/t | Rs 1,545/t | Rs 4,634/t |
-| Gurgaon | Rs -165/t | Rs 154/t | Rs 2,848/t |
-| Hubballi | Rs -833/t | Rs -1,554/t | Rs 1,969/t |
-| All five markets | Rs 1,708/t | Rs 1,765/t | Rs 4,871/t |
+| Kolkata | Rs 4,607/t | Rs 3,630/t | Rs 7,652/t |
+| Solapur | Rs 2,267/t | Rs 1,474/t | Rs 4,634/t |
+| Gurgaon | Rs 1,626/t | Rs 976/t | Rs 2,848/t |
+| Hubballi | Rs -799/t | Rs -785/t | Rs 1,969/t |
+| Four state mandis | Rs 1,925/t | Rs 1,324/t | Rs 4,276/t |
+| Lasalgaon (benchmark) | Rs 4,369/t | Rs 2,956/t | Rs 7,251/t |
 
-Gains are per tonne harvested above selling everything at harvest, which nets Rs 10,410/t on average, and exclude capital costs. The monthly re-plan gained in 19 of 30 market-seasons. It earned Rs 5,647/t in 2023 and Rs 6,643/t in 2024, but lost Rs 3,277/t in 2025, when November prices fell below April's. Ventilated storage lost money with forecast plans (Rs -246/t re-planned) because a fifth of the stock is lost each month.
+Gains are per tonne harvested above selling everything at harvest, which nets Rs 10,739/t on average at the state mandis, and exclude capital costs. The March plan gained in 13 of 24 market-seasons. It earned Rs 6,107/t in 2023 and Rs 8,188/t in 2024, but lost Rs 1,941/t in 2020 and Rs 1,966/t in 2025, when November prices fell below April's. Re-planning each month cut those losses but earned less in 2023 and 2024. Ventilated storage loses a fifth of the stock each month, so its forecast plans sold everything at harvest. Curing for 45 days instead of 15 changed nothing, because the plans sell almost nothing in May.
 
-| Monthly re-plan, cold storage | Mean gain above harvest sale |
+| March plan, cold storage, state mandis | Mean gain above harvest sale |
 | --- | ---: |
-| Base assumptions | Rs 1,765/t harvested |
-| Storage loss 5% a month | Rs -49/t harvested |
-| Storage cost doubled | Rs -1,078/t harvested |
-| Quality discount 2% a month | Rs 716/t harvested |
-| Selling costs doubled | Rs 1,622/t harvested |
-| Half the harvest sold for cash | Rs 1,164/t harvested |
-| Curing takes 45 days | Rs 1,765/t harvested |
+| Base assumptions | Rs 1,925/t harvested |
+| Storage loss 5% a month | Rs 62/t harvested |
+| Storage cost doubled | Rs -309/t harvested |
+| Quality discount 2% a month | Rs 1,306/t harvested |
+| Selling costs doubled | Rs 1,913/t harvested |
+| Half the harvest sold for cash | Rs 1,247/t harvested |
 
 ## 8. Managerial implications
 
-Sell enough at harvest to meet cash needs, store the rest only in low-loss cold storage, and expect to release it mainly from August to November; the re-planned sales put 37% of the harvest on the market in April and 53% in those four months. Storage pays only while loss stays near 2% a month and the storage charge near Rs 700 per tonne-month, so measure both before committing. The result depends on the market: Lasalgaon and Kolkata gained most, while Hubballi, a kharif market with peak arrivals in October, lost money.
+Sell enough at harvest to meet cash needs, store the rest only in low-loss cold storage, and expect to release it mainly from August to October; the March plans put 43% of the harvest on the market in April and 46% in those three months. Storage pays only while loss stays near 2% a month and the storage charge near Rs 700 per tonne-month, so measure both before committing. The result depends on the market: Kolkata and Solapur gained most, while Hubballi, a kharif market with peak arrivals in October, lost money.
 
 The plans use monthly modal prices for all varieties and grades together; grade-level Agmarknet data begin only in November 2025, so quality is a fixed discount. Fees, transport, storage cost and duration are assumptions, five states lacked complete records, and large sales could move the price.
 
 ## 9. References
 
 1. Directorate of Marketing and Inspection. Agmarknet 2.0, monthly onion prices and arrivals by market. agmarknet.gov.in.
-2. NASA Langley Research Center. POWER daily API, rainfall and temperature, 2008-2025. power.larc.nasa.gov.
+2. NASA Langley Research Center. POWER daily API, rainfall and temperature. power.larc.nasa.gov.
 3. Singla, S. (2020). Lasalgaon Onion Data, compiled from NHRDF. Mendeley Data, version 1. doi:10.17632/9dn4g8m97m.1.
 4. ICAR. Onion cold storage: potential to stabilize price fluctuation. icar.org.in/en/node/4701.
 5. Shelar, R., Hajare, A., and Mangarule, S. (2025). A Comprehensive Spatio-Temporal Dataset for Agricultural Price Forecasting: Integrated Market, Weather, and Event Features (2014–2024). Mendeley Data, version 1. doi:10.17632/ds9jmxp9zy.1.

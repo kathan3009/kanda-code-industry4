@@ -1,631 +1,631 @@
-market,season,scenario,strategy,net_rs_t,harvest_sale_rs_t,gain_rs_t
-APMC Hubballi,2020,Base,March plan,8963.0724,16798.9630,-7835.8906
-APMC Hubballi,2020,Base,Monthly re-plan,7955.5783,16798.9630,-8843.3847
-APMC Hubballi,2020,Base,Perfect foresight,17182.9714,16798.9630,384.0084
-APMC Hubballi,2020,Storage loss 5% a month,March plan,8261.7213,16798.9630,-8537.2417
-APMC Hubballi,2020,Storage loss 5% a month,Monthly re-plan,7470.1532,16798.9630,-9328.8098
-APMC Hubballi,2020,Storage loss 5% a month,Perfect foresight,16798.9630,16798.9630,0.0000
-APMC Hubballi,2020,Storage cost doubled,March plan,6874.1058,16798.9630,-9924.8572
-APMC Hubballi,2020,Storage cost doubled,Monthly re-plan,6411.8900,16798.9630,-10387.0730
-APMC Hubballi,2020,Storage cost doubled,Perfect foresight,16798.9630,16798.9630,0.0000
-APMC Hubballi,2020,Quality loss 2% a month,March plan,8661.8583,16798.9630,-8137.1047
-APMC Hubballi,2020,Quality loss 2% a month,Monthly re-plan,7761.7869,16798.9630,-9037.1761
-APMC Hubballi,2020,Quality loss 2% a month,Perfect foresight,16798.9630,16798.9630,0.0000
-APMC Hubballi,2020,Selling costs doubled,March plan,8374.0404,16124.2260,-7750.1856
-APMC Hubballi,2020,Selling costs doubled,Monthly re-plan,7375.6141,16124.2260,-8748.6119
-APMC Hubballi,2020,Selling costs doubled,Perfect foresight,16508.5759,16124.2260,384.3499
-APMC Hubballi,2020,Half the harvest sold for cash,March plan,11027.3127,16798.9630,-5771.6503
-APMC Hubballi,2020,Half the harvest sold for cash,Monthly re-plan,10365.4071,16798.9630,-6433.5559
-APMC Hubballi,2020,Half the harvest sold for cash,Perfect foresight,17182.9714,16798.9630,384.0084
-APMC Hubballi,2020,Curing takes 45 days,March plan,8963.0724,16798.9630,-7835.8906
-APMC Hubballi,2020,Curing takes 45 days,Monthly re-plan,7955.5783,16798.9630,-8843.3847
-APMC Hubballi,2020,Curing takes 45 days,Perfect foresight,17182.9714,16798.9630,384.0084
-APMC Hubballi,2021,Base,March plan,6568.5291,7025.7820,-457.2529
-APMC Hubballi,2021,Base,Monthly re-plan,6568.5291,7025.7820,-457.2529
-APMC Hubballi,2021,Base,Perfect foresight,8657.7179,7025.7820,1631.9359
-APMC Hubballi,2021,Storage loss 5% a month,March plan,5737.7411,7025.7820,-1288.0409
-APMC Hubballi,2021,Storage loss 5% a month,Monthly re-plan,7629.5835,7025.7820,603.8015
-APMC Hubballi,2021,Storage loss 5% a month,Perfect foresight,8168.4552,7025.7820,1142.6732
-APMC Hubballi,2021,Storage cost doubled,March plan,4567.0782,7025.7820,-2458.7038
-APMC Hubballi,2021,Storage cost doubled,Monthly re-plan,6483.0763,7025.7820,-542.7057
-APMC Hubballi,2021,Storage cost doubled,Perfect foresight,7567.2731,7025.7820,541.4911
-APMC Hubballi,2021,Quality loss 2% a month,March plan,6257.2051,7025.7820,-768.5769
-APMC Hubballi,2021,Quality loss 2% a month,Monthly re-plan,6317.7681,7025.7820,-708.0139
-APMC Hubballi,2021,Quality loss 2% a month,Perfect foresight,8462.2520,7025.7820,1436.4700
-APMC Hubballi,2021,Selling costs doubled,March plan,6003.6844,6449.7640,-446.0796
-APMC Hubballi,2021,Selling costs doubled,Monthly re-plan,6003.6844,6449.7640,-446.0796
-APMC Hubballi,2021,Selling costs doubled,Perfect foresight,8068.7794,6449.7640,1619.0154
-APMC Hubballi,2021,Half the harvest sold for cash,March plan,6825.3102,7025.7820,-200.4718
-APMC Hubballi,2021,Half the harvest sold for cash,Monthly re-plan,6825.3102,7025.7820,-200.4718
-APMC Hubballi,2021,Half the harvest sold for cash,Perfect foresight,8356.0828,7025.7820,1330.3008
-APMC Hubballi,2021,Curing takes 45 days,March plan,6568.5291,7025.7820,-457.2529
-APMC Hubballi,2021,Curing takes 45 days,Monthly re-plan,6568.5291,7025.7820,-457.2529
-APMC Hubballi,2021,Curing takes 45 days,Perfect foresight,8651.0844,7025.7820,1625.3024
-APMC Hubballi,2022,Base,March plan,5480.0323,7179.7270,-1699.6947
-APMC Hubballi,2022,Base,Monthly re-plan,5503.1899,7179.7270,-1676.5371
-APMC Hubballi,2022,Base,Perfect foresight,7179.7270,7179.7270,0.0000
-APMC Hubballi,2022,Storage loss 5% a month,March plan,4825.0990,7179.7270,-2354.6280
-APMC Hubballi,2022,Storage loss 5% a month,Monthly re-plan,5908.4533,7179.7270,-1271.2737
-APMC Hubballi,2022,Storage loss 5% a month,Perfect foresight,7179.7270,7179.7270,0.0000
-APMC Hubballi,2022,Storage cost doubled,March plan,5755.7311,7179.7270,-1423.9959
-APMC Hubballi,2022,Storage cost doubled,Monthly re-plan,6190.0709,7179.7270,-989.6561
-APMC Hubballi,2022,Storage cost doubled,Perfect foresight,7179.7270,7179.7270,0.0000
-APMC Hubballi,2022,Quality loss 2% a month,March plan,5245.6116,7179.7270,-1934.1154
-APMC Hubballi,2022,Quality loss 2% a month,Monthly re-plan,6229.4030,7179.7270,-950.3240
-APMC Hubballi,2022,Quality loss 2% a month,Perfect foresight,7179.7270,7179.7270,0.0000
-APMC Hubballi,2022,Selling costs doubled,March plan,4926.1826,6602.1540,-1675.9714
-APMC Hubballi,2022,Selling costs doubled,Monthly re-plan,4949.0050,6602.1540,-1653.1490
-APMC Hubballi,2022,Selling costs doubled,Perfect foresight,6602.1540,6602.1540,0.0000
-APMC Hubballi,2022,Half the harvest sold for cash,March plan,6039.5122,7179.7270,-1140.2148
-APMC Hubballi,2022,Half the harvest sold for cash,Monthly re-plan,6039.5122,7179.7270,-1140.2148
-APMC Hubballi,2022,Half the harvest sold for cash,Perfect foresight,7179.7270,7179.7270,0.0000
-APMC Hubballi,2022,Curing takes 45 days,March plan,5480.0323,7179.7270,-1699.6947
-APMC Hubballi,2022,Curing takes 45 days,Monthly re-plan,5503.1899,7179.7270,-1676.5371
-APMC Hubballi,2022,Curing takes 45 days,Perfect foresight,7179.7270,7179.7270,0.0000
-APMC Hubballi,2023,Base,March plan,6531.2651,5166.6610,1364.6041
-APMC Hubballi,2023,Base,Monthly re-plan,5854.0718,5166.6610,687.4108
-APMC Hubballi,2023,Base,Perfect foresight,8870.1547,5166.6610,3703.4937
-APMC Hubballi,2023,Storage loss 5% a month,March plan,5469.0114,5166.6610,302.3504
-APMC Hubballi,2023,Storage loss 5% a month,Monthly re-plan,5079.6722,5166.6610,-86.9888
-APMC Hubballi,2023,Storage loss 5% a month,Perfect foresight,7236.2539,5166.6610,2069.5929
-APMC Hubballi,2023,Storage cost doubled,March plan,5166.6610,5166.6610,0.0000
-APMC Hubballi,2023,Storage cost doubled,Monthly re-plan,5166.6610,5166.6610,0.0000
-APMC Hubballi,2023,Storage cost doubled,Perfect foresight,5874.7941,5166.6610,708.1331
-APMC Hubballi,2023,Quality loss 2% a month,March plan,5721.2667,5166.6610,554.6057
-APMC Hubballi,2023,Quality loss 2% a month,Monthly re-plan,5653.5894,5166.6610,486.9284
-APMC Hubballi,2023,Quality loss 2% a month,Perfect foresight,8117.6438,5166.6610,2950.9828
-APMC Hubballi,2023,Selling costs doubled,March plan,5966.6956,4609.4220,1357.2736
-APMC Hubballi,2023,Selling costs doubled,Monthly re-plan,5294.4299,4609.4220,685.0079
-APMC Hubballi,2023,Selling costs doubled,Perfect foresight,8285.0802,4609.4220,3675.6582
-APMC Hubballi,2023,Half the harvest sold for cash,March plan,6182.3952,5166.6610,1015.7342
-APMC Hubballi,2023,Half the harvest sold for cash,Monthly re-plan,5538.8641,5166.6610,372.2031
-APMC Hubballi,2023,Half the harvest sold for cash,Perfect foresight,7989.0657,5166.6610,2822.4047
-APMC Hubballi,2023,Curing takes 45 days,March plan,6531.2651,5166.6610,1364.6041
-APMC Hubballi,2023,Curing takes 45 days,Monthly re-plan,5854.0718,5166.6610,687.4108
-APMC Hubballi,2023,Curing takes 45 days,Perfect foresight,8870.1547,5166.6610,3703.4937
-APMC Hubballi,2024,Base,March plan,13160.2885,7604.5360,5555.7525
-APMC Hubballi,2024,Base,Monthly re-plan,12721.4932,7604.5360,5116.9572
-APMC Hubballi,2024,Base,Perfect foresight,13273.6845,7604.5360,5669.1485
-APMC Hubballi,2024,Storage loss 5% a month,March plan,11646.0061,7604.5360,4041.4701
-APMC Hubballi,2024,Storage loss 5% a month,Monthly re-plan,10892.5654,7604.5360,3288.0294
-APMC Hubballi,2024,Storage loss 5% a month,Perfect foresight,11646.0061,7604.5360,4041.4701
-APMC Hubballi,2024,Storage cost doubled,March plan,7604.5360,7604.5360,0.0000
-APMC Hubballi,2024,Storage cost doubled,Monthly re-plan,7604.5360,7604.5360,0.0000
-APMC Hubballi,2024,Storage cost doubled,Perfect foresight,11081.5205,7604.5360,3476.9845
-APMC Hubballi,2024,Quality loss 2% a month,March plan,12542.9589,7604.5360,4938.4229
-APMC Hubballi,2024,Quality loss 2% a month,Monthly re-plan,11945.9039,7604.5360,4341.3679
-APMC Hubballi,2024,Quality loss 2% a month,Perfect foresight,12607.4765,7604.5360,5002.9405
-APMC Hubballi,2024,Selling costs doubled,March plan,12528.8604,7022.6720,5506.1884
-APMC Hubballi,2024,Selling costs doubled,Monthly re-plan,12095.8031,7022.6720,5073.1311
-APMC Hubballi,2024,Selling costs doubled,Perfect foresight,12641.4976,7022.6720,5618.8256
-APMC Hubballi,2024,Half the harvest sold for cash,March plan,11710.1133,7604.5360,4105.5773
-APMC Hubballi,2024,Half the harvest sold for cash,Monthly re-plan,11447.1720,7604.5360,3842.6360
-APMC Hubballi,2024,Half the harvest sold for cash,Perfect foresight,11710.1133,7604.5360,4105.5773
-APMC Hubballi,2024,Curing takes 45 days,March plan,13160.2885,7604.5360,5555.7525
-APMC Hubballi,2024,Curing takes 45 days,Monthly re-plan,12721.4932,7604.5360,5116.9572
-APMC Hubballi,2024,Curing takes 45 days,Perfect foresight,13273.6845,7604.5360,5669.1485
-APMC Hubballi,2025,Base,March plan,8057.7929,9983.9020,-1926.1091
-APMC Hubballi,2025,Base,Monthly re-plan,5832.9092,9983.9020,-4150.9928
-APMC Hubballi,2025,Base,Perfect foresight,10410.6607,9983.9020,426.7587
-APMC Hubballi,2025,Storage loss 5% a month,March plan,6958.1956,9983.9020,-3025.7064
-APMC Hubballi,2025,Storage loss 5% a month,Monthly re-plan,9091.0879,9983.9020,-892.8141
-APMC Hubballi,2025,Storage loss 5% a month,Perfect foresight,10065.8755,9983.9020,81.9735
-APMC Hubballi,2025,Storage cost doubled,March plan,6032.4514,9983.9020,-3951.4506
-APMC Hubballi,2025,Storage cost doubled,Monthly re-plan,8020.4185,9983.9020,-1963.4835
-APMC Hubballi,2025,Storage cost doubled,Perfect foresight,9983.9020,9983.9020,0.0000
-APMC Hubballi,2025,Quality loss 2% a month,March plan,7719.5430,9983.9020,-2264.3590
-APMC Hubballi,2025,Quality loss 2% a month,Monthly re-plan,7757.3928,9983.9020,-2226.5092
-APMC Hubballi,2025,Quality loss 2% a month,Perfect foresight,10216.6031,9983.9020,232.7011
-APMC Hubballi,2025,Selling costs doubled,March plan,7202.5528,9378.0040,-2175.4512
-APMC Hubballi,2025,Selling costs doubled,Monthly re-plan,5276.8007,9378.0040,-4101.2033
-APMC Hubballi,2025,Selling costs doubled,Perfect foresight,9803.8586,9378.0040,425.8546
-APMC Hubballi,2025,Half the harvest sold for cash,March plan,8251.0648,9983.9020,-1732.8372
-APMC Hubballi,2025,Half the harvest sold for cash,Monthly re-plan,7536.7918,9983.9020,-2447.1102
-APMC Hubballi,2025,Half the harvest sold for cash,Perfect foresight,10365.1592,9983.9020,381.2572
-APMC Hubballi,2025,Curing takes 45 days,March plan,8057.7929,9983.9020,-1926.1091
-APMC Hubballi,2025,Curing takes 45 days,Monthly re-plan,5832.9092,9983.9020,-4150.9928
-APMC Hubballi,2025,Curing takes 45 days,Perfect foresight,10410.6607,9983.9020,426.7587
-APMC Lasalgaon,2020,Base,March plan,11755.3950,7859.2630,3896.1320
-APMC Lasalgaon,2020,Base,Monthly re-plan,12141.8778,7859.2630,4282.6148
-APMC Lasalgaon,2020,Base,Perfect foresight,18424.1756,7859.2630,10564.9126
-APMC Lasalgaon,2020,Storage loss 5% a month,March plan,9498.8293,7859.2630,1639.5663
-APMC Lasalgaon,2020,Storage loss 5% a month,Monthly re-plan,9796.4988,7859.2630,1937.2358
-APMC Lasalgaon,2020,Storage loss 5% a month,Perfect foresight,15362.4997,7859.2630,7503.2367
-APMC Lasalgaon,2020,Storage cost doubled,March plan,9573.1515,7859.2630,1713.8885
-APMC Lasalgaon,2020,Storage cost doubled,Monthly re-plan,9210.2281,7859.2630,1350.9651
-APMC Lasalgaon,2020,Storage cost doubled,Perfect foresight,15416.6759,7859.2630,7557.4129
-APMC Lasalgaon,2020,Quality loss 2% a month,March plan,11147.8130,7859.2630,3288.5500
-APMC Lasalgaon,2020,Quality loss 2% a month,Monthly re-plan,11498.9289,7859.2630,3639.6659
-APMC Lasalgaon,2020,Quality loss 2% a month,Perfect foresight,17090.4179,7859.2630,9231.1549
-APMC Lasalgaon,2020,Selling costs doubled,March plan,11138.4504,7274.8260,3863.6244
-APMC Lasalgaon,2020,Selling costs doubled,Monthly re-plan,11522.4974,7274.8260,4247.6714
-APMC Lasalgaon,2020,Selling costs doubled,Perfect foresight,17742.4590,7274.8260,10467.6330
-APMC Lasalgaon,2020,Half the harvest sold for cash,March plan,11119.9595,7859.2630,3260.6965
-APMC Lasalgaon,2020,Half the harvest sold for cash,Monthly re-plan,9792.8404,7859.2630,1933.5774
-APMC Lasalgaon,2020,Half the harvest sold for cash,Perfect foresight,15839.6372,7859.2630,7980.3742
-APMC Lasalgaon,2020,Curing takes 45 days,March plan,11755.3950,7859.2630,3896.1320
-APMC Lasalgaon,2020,Curing takes 45 days,Monthly re-plan,12141.8778,7859.2630,4282.6148
-APMC Lasalgaon,2020,Curing takes 45 days,Perfect foresight,18424.1756,7859.2630,10564.9126
-APMC Lasalgaon,2021,Base,March plan,10680.6521,8355.8470,2324.8051
-APMC Lasalgaon,2021,Base,Monthly re-plan,10373.0761,8355.8470,2017.2291
-APMC Lasalgaon,2021,Base,Perfect foresight,14196.4259,8355.8470,5840.5789
-APMC Lasalgaon,2021,Storage loss 5% a month,March plan,8888.6820,8355.8470,532.8350
-APMC Lasalgaon,2021,Storage loss 5% a month,Monthly re-plan,8355.6357,8355.8470,-0.2113
-APMC Lasalgaon,2021,Storage loss 5% a month,Perfect foresight,12737.1109,8355.8470,4381.2639
-APMC Lasalgaon,2021,Storage cost doubled,March plan,8324.1633,8355.8470,-31.6837
-APMC Lasalgaon,2021,Storage cost doubled,Monthly re-plan,6857.2439,8355.8470,-1498.6031
-APMC Lasalgaon,2021,Storage cost doubled,Perfect foresight,12313.9075,8355.8470,3958.0605
-APMC Lasalgaon,2021,Quality loss 2% a month,March plan,11800.9004,8355.8470,3445.0534
-APMC Lasalgaon,2021,Quality loss 2% a month,Monthly re-plan,9370.4506,8355.8470,1014.6036
-APMC Lasalgaon,2021,Quality loss 2% a month,Perfect foresight,13571.1695,8355.8470,5215.3225
-APMC Lasalgaon,2021,Selling costs doubled,March plan,10076.5405,7766.3940,2310.1465
-APMC Lasalgaon,2021,Selling costs doubled,Monthly re-plan,9774.0853,7766.3940,2007.6913
-APMC Lasalgaon,2021,Selling costs doubled,Perfect foresight,13553.8981,7766.3940,5787.5041
-APMC Lasalgaon,2021,Half the harvest sold for cash,March plan,9732.1891,8355.8470,1376.3421
-APMC Lasalgaon,2021,Half the harvest sold for cash,Monthly re-plan,9938.0971,8355.8470,1582.2501
-APMC Lasalgaon,2021,Half the harvest sold for cash,Perfect foresight,12909.0314,8355.8470,4553.1844
-APMC Lasalgaon,2021,Curing takes 45 days,March plan,10680.6521,8355.8470,2324.8051
-APMC Lasalgaon,2021,Curing takes 45 days,Monthly re-plan,10373.0761,8355.8470,2017.2291
-APMC Lasalgaon,2021,Curing takes 45 days,Perfect foresight,14196.4259,8355.8470,5840.5789
-APMC Lasalgaon,2022,Base,March plan,8673.7851,8214.6730,459.1121
-APMC Lasalgaon,2022,Base,Monthly re-plan,10254.1832,8214.6730,2039.5102
-APMC Lasalgaon,2022,Base,Perfect foresight,10323.7490,8214.6730,2109.0760
-APMC Lasalgaon,2022,Storage loss 5% a month,March plan,6377.3174,8214.6730,-1837.3556
-APMC Lasalgaon,2022,Storage loss 5% a month,Monthly re-plan,7595.3969,8214.6730,-619.2761
-APMC Lasalgaon,2022,Storage loss 5% a month,Perfect foresight,8818.6606,8214.6730,603.9876
-APMC Lasalgaon,2022,Storage cost doubled,March plan,5262.5071,8214.6730,-2952.1659
-APMC Lasalgaon,2022,Storage cost doubled,Monthly re-plan,6568.2924,8214.6730,-1646.3806
-APMC Lasalgaon,2022,Storage cost doubled,Perfect foresight,8342.9849,8214.6730,128.3119
-APMC Lasalgaon,2022,Quality loss 2% a month,March plan,8140.8198,8214.6730,-73.8532
-APMC Lasalgaon,2022,Quality loss 2% a month,Monthly re-plan,8379.4651,8214.6730,164.7921
-APMC Lasalgaon,2022,Quality loss 2% a month,Perfect foresight,9561.4142,8214.6730,1346.7412
-APMC Lasalgaon,2022,Selling costs doubled,March plan,8089.1296,7626.6460,462.4836
-APMC Lasalgaon,2022,Selling costs doubled,Monthly re-plan,9654.9444,7626.6460,2028.2984
-APMC Lasalgaon,2022,Selling costs doubled,Perfect foresight,9723.7102,7626.6460,2097.0642
-APMC Lasalgaon,2022,Half the harvest sold for cash,March plan,8981.4034,8214.6730,766.7304
-APMC Lasalgaon,2022,Half the harvest sold for cash,Monthly re-plan,9737.6336,8214.6730,1522.9606
-APMC Lasalgaon,2022,Half the harvest sold for cash,Perfect foresight,9746.2363,8214.6730,1531.5633
-APMC Lasalgaon,2022,Curing takes 45 days,March plan,8673.7851,8214.6730,459.1121
-APMC Lasalgaon,2022,Curing takes 45 days,Monthly re-plan,10254.1832,8214.6730,2039.5102
-APMC Lasalgaon,2022,Curing takes 45 days,Perfect foresight,10323.7490,8214.6730,2109.0760
-APMC Lasalgaon,2023,Base,March plan,13255.7340,5829.2680,7426.4660
-APMC Lasalgaon,2023,Base,Monthly re-plan,16985.9173,5829.2680,11156.6493
-APMC Lasalgaon,2023,Base,Perfect foresight,17000.0569,5829.2680,11170.7889
-APMC Lasalgaon,2023,Storage loss 5% a month,March plan,11229.2601,5829.2680,5399.9921
-APMC Lasalgaon,2023,Storage loss 5% a month,Monthly re-plan,11520.7389,5829.2680,5691.4709
-APMC Lasalgaon,2023,Storage loss 5% a month,Perfect foresight,14129.7286,5829.2680,8300.4606
-APMC Lasalgaon,2023,Storage cost doubled,March plan,7465.3776,5829.2680,1636.1096
-APMC Lasalgaon,2023,Storage cost doubled,Monthly re-plan,7465.3776,5829.2680,1636.1096
-APMC Lasalgaon,2023,Storage cost doubled,Perfect foresight,13993.5103,5829.2680,8164.2423
-APMC Lasalgaon,2023,Quality loss 2% a month,March plan,12478.6450,5829.2680,6649.3770
-APMC Lasalgaon,2023,Quality loss 2% a month,Monthly re-plan,15695.1447,5829.2680,9865.8767
-APMC Lasalgaon,2023,Quality loss 2% a month,Perfect foresight,15703.4775,5829.2680,9874.2095
-APMC Lasalgaon,2023,Selling costs doubled,March plan,12624.2099,5265.3360,7358.8739
-APMC Lasalgaon,2023,Selling costs doubled,Monthly re-plan,16318.6812,5265.3360,11053.3452
-APMC Lasalgaon,2023,Selling costs doubled,Perfect foresight,16332.7253,5265.3360,11067.3893
-APMC Lasalgaon,2023,Half the harvest sold for cash,March plan,11672.7192,5829.2680,5843.4512
-APMC Lasalgaon,2023,Half the harvest sold for cash,Monthly re-plan,13484.3101,5829.2680,7655.0421
-APMC Lasalgaon,2023,Half the harvest sold for cash,Perfect foresight,14400.3830,5829.2680,8571.1150
-APMC Lasalgaon,2023,Curing takes 45 days,March plan,13255.7340,5829.2680,7426.4660
-APMC Lasalgaon,2023,Curing takes 45 days,Monthly re-plan,16985.9173,5829.2680,11156.6493
-APMC Lasalgaon,2023,Curing takes 45 days,Perfect foresight,17000.0569,5829.2680,11170.7889
-APMC Lasalgaon,2024,Base,March plan,24907.7636,12931.3300,11976.4336
-APMC Lasalgaon,2024,Base,Monthly re-plan,24363.3979,12931.3300,11432.0679
-APMC Lasalgaon,2024,Base,Perfect foresight,26371.1430,12931.3300,13439.8130
-APMC Lasalgaon,2024,Storage loss 5% a month,March plan,21408.8753,12931.3300,8477.5453
-APMC Lasalgaon,2024,Storage loss 5% a month,Monthly re-plan,20362.8918,12931.3300,7431.5618
-APMC Lasalgaon,2024,Storage loss 5% a month,Perfect foresight,22335.3214,12931.3300,9403.9914
-APMC Lasalgaon,2024,Storage cost doubled,March plan,22160.3834,12931.3300,9229.0534
-APMC Lasalgaon,2024,Storage cost doubled,Monthly re-plan,21370.9909,12931.3300,8439.6609
-APMC Lasalgaon,2024,Storage cost doubled,Perfect foresight,23576.5464,12931.3300,10645.2164
-APMC Lasalgaon,2024,Quality loss 2% a month,March plan,23358.9534,12931.3300,10427.6234
-APMC Lasalgaon,2024,Quality loss 2% a month,Monthly re-plan,22716.4065,12931.3300,9785.0765
-APMC Lasalgaon,2024,Quality loss 2% a month,Perfect foresight,24730.6572,12931.3300,11799.3272
-APMC Lasalgaon,2024,Selling costs doubled,March plan,24159.3426,12295.6600,11863.6826
-APMC Lasalgaon,2024,Selling costs doubled,Monthly re-plan,23621.6418,12295.6600,11325.9818
-APMC Lasalgaon,2024,Selling costs doubled,Perfect foresight,25608.5416,12295.6600,13312.8816
-APMC Lasalgaon,2024,Half the harvest sold for cash,March plan,20938.4726,12931.3300,8007.1426
-APMC Lasalgaon,2024,Half the harvest sold for cash,Monthly re-plan,21575.2702,12931.3300,8643.9402
-APMC Lasalgaon,2024,Half the harvest sold for cash,Perfect foresight,22750.8133,12931.3300,9819.4833
-APMC Lasalgaon,2024,Curing takes 45 days,March plan,24907.7636,12931.3300,11976.4336
-APMC Lasalgaon,2024,Curing takes 45 days,Monthly re-plan,24363.3979,12931.3300,11432.0679
-APMC Lasalgaon,2024,Curing takes 45 days,Perfect foresight,26371.1430,12931.3300,13439.8130
-APMC Lasalgaon,2025,Base,March plan,8017.2404,11378.3170,-3361.0766
-APMC Lasalgaon,2025,Base,Monthly re-plan,7650.7853,11378.3170,-3727.5317
-APMC Lasalgaon,2025,Base,Perfect foresight,11757.8879,11378.3170,379.5709
-APMC Lasalgaon,2025,Storage loss 5% a month,March plan,8070.2164,11378.3170,-3308.1006
-APMC Lasalgaon,2025,Storage loss 5% a month,Monthly re-plan,6451.7323,11378.3170,-4926.5847
-APMC Lasalgaon,2025,Storage loss 5% a month,Perfect foresight,11496.0283,11378.3170,117.7113
-APMC Lasalgaon,2025,Storage cost doubled,March plan,5065.7970,11378.3170,-6312.5200
-APMC Lasalgaon,2025,Storage cost doubled,Monthly re-plan,4788.7819,11378.3170,-6589.5351
-APMC Lasalgaon,2025,Storage cost doubled,Perfect foresight,11378.3170,11378.3170,0.0000
-APMC Lasalgaon,2025,Quality loss 2% a month,March plan,7260.3366,11378.3170,-4117.9804
-APMC Lasalgaon,2025,Quality loss 2% a month,Monthly re-plan,7125.7683,11378.3170,-4252.5487
-APMC Lasalgaon,2025,Quality loss 2% a month,Perfect foresight,11665.9753,11378.3170,287.6583
-APMC Lasalgaon,2025,Selling costs doubled,March plan,7440.0319,10758.3340,-3318.3021
-APMC Lasalgaon,2025,Selling costs doubled,Monthly re-plan,7077.8908,10758.3340,-3680.4432
-APMC Lasalgaon,2025,Selling costs doubled,Perfect foresight,11135.4259,10758.3340,377.0919
-APMC Lasalgaon,2025,Half the harvest sold for cash,March plan,9011.2125,11378.3170,-2367.1045
-APMC Lasalgaon,2025,Half the harvest sold for cash,Monthly re-plan,8610.2898,11378.3170,-2768.0272
-APMC Lasalgaon,2025,Half the harvest sold for cash,Perfect foresight,11757.8879,11378.3170,379.5709
-APMC Lasalgaon,2025,Curing takes 45 days,March plan,8017.2404,11378.3170,-3361.0766
-APMC Lasalgaon,2025,Curing takes 45 days,Monthly re-plan,7650.7853,11378.3170,-3727.5317
-APMC Lasalgaon,2025,Curing takes 45 days,Perfect foresight,11757.8879,11378.3170,379.5709
-APMC Solapur,2020,Base,March plan,5906.0303,6648.5920,-742.5617
-APMC Solapur,2020,Base,Monthly re-plan,6700.5123,6648.5920,51.9203
-APMC Solapur,2020,Base,Perfect foresight,10249.0238,6648.5920,3600.4318
-APMC Solapur,2020,Storage loss 5% a month,March plan,4816.1765,6648.5920,-1832.4155
-APMC Solapur,2020,Storage loss 5% a month,Monthly re-plan,3155.7633,6648.5920,-3492.8287
-APMC Solapur,2020,Storage loss 5% a month,Perfect foresight,8419.3776,6648.5920,1770.7856
-APMC Solapur,2020,Storage cost doubled,March plan,3685.5145,6648.5920,-2963.0775
-APMC Solapur,2020,Storage cost doubled,Monthly re-plan,2443.5753,6648.5920,-4205.0167
-APMC Solapur,2020,Storage cost doubled,Perfect foresight,7282.8840,6648.5920,634.2920
-APMC Solapur,2020,Quality loss 2% a month,March plan,5580.3699,6648.5920,-1068.2221
-APMC Solapur,2020,Quality loss 2% a month,Monthly re-plan,3397.3265,6648.5920,-3251.2655
-APMC Solapur,2020,Quality loss 2% a month,Perfect foresight,9432.7559,6648.5920,2784.1639
-APMC Solapur,2020,Selling costs doubled,March plan,5348.1702,6076.3840,-728.2138
-APMC Solapur,2020,Selling costs doubled,Monthly re-plan,6134.8921,6076.3840,58.5081
-APMC Solapur,2020,Selling costs doubled,Perfect foresight,9650.0214,6076.3840,3573.6374
-APMC Solapur,2020,Half the harvest sold for cash,March plan,5520.8053,6648.5920,-1127.7867
-APMC Solapur,2020,Half the harvest sold for cash,Monthly re-plan,6191.9413,6648.5920,-456.6507
-APMC Solapur,2020,Half the harvest sold for cash,Perfect foresight,9361.3386,6648.5920,2712.7466
-APMC Solapur,2020,Curing takes 45 days,March plan,5906.0303,6648.5920,-742.5617
-APMC Solapur,2020,Curing takes 45 days,Monthly re-plan,6700.5123,6648.5920,51.9203
-APMC Solapur,2020,Curing takes 45 days,Perfect foresight,10249.0238,6648.5920,3600.4318
-APMC Solapur,2021,Base,March plan,5393.8112,4913.0230,480.7882
-APMC Solapur,2021,Base,Monthly re-plan,7587.0660,4913.0230,2674.0430
-APMC Solapur,2021,Base,Perfect foresight,9435.0012,4913.0230,4521.9782
-APMC Solapur,2021,Storage loss 5% a month,March plan,4391.6497,4913.0230,-521.3733
-APMC Solapur,2021,Storage loss 5% a month,Monthly re-plan,6176.8232,4913.0230,1263.8002
-APMC Solapur,2021,Storage loss 5% a month,Perfect foresight,7650.9003,4913.0230,2737.8773
-APMC Solapur,2021,Storage cost doubled,March plan,3099.4243,4913.0230,-1813.5987
-APMC Solapur,2021,Storage cost doubled,Monthly re-plan,4308.8199,4913.0230,-604.2031
-APMC Solapur,2021,Storage cost doubled,Perfect foresight,6458.0873,4913.0230,1545.0643
-APMC Solapur,2021,Quality loss 2% a month,March plan,4889.1567,4913.0230,-23.8663
-APMC Solapur,2021,Quality loss 2% a month,Monthly re-plan,6896.7625,4913.0230,1983.7395
-APMC Solapur,2021,Quality loss 2% a month,Perfect foresight,8646.4930,4913.0230,3733.4700
-APMC Solapur,2021,Selling costs doubled,March plan,4841.1250,4358.3460,482.7790
-APMC Solapur,2021,Selling costs doubled,Monthly re-plan,7012.9665,4358.3460,2654.6205
-APMC Solapur,2021,Selling costs doubled,Perfect foresight,8844.2212,4358.3460,4485.8752
-APMC Solapur,2021,Half the harvest sold for cash,March plan,4968.0293,4913.0230,55.0063
-APMC Solapur,2021,Half the harvest sold for cash,Monthly re-plan,7141.7993,4913.0230,2228.7763
-APMC Solapur,2021,Half the harvest sold for cash,Perfect foresight,8251.0685,4913.0230,3338.0455
-APMC Solapur,2021,Curing takes 45 days,March plan,5393.8112,4913.0230,480.7882
-APMC Solapur,2021,Curing takes 45 days,Monthly re-plan,7587.0660,4913.0230,2674.0430
-APMC Solapur,2021,Curing takes 45 days,Perfect foresight,9435.0012,4913.0230,4521.9782
-APMC Solapur,2022,Base,March plan,5199.5317,5959.3540,-759.8223
-APMC Solapur,2022,Base,Monthly re-plan,6612.0733,5959.3540,652.7193
-APMC Solapur,2022,Base,Perfect foresight,6843.9961,5959.3540,884.6421
-APMC Solapur,2022,Storage loss 5% a month,March plan,4400.4974,5959.3540,-1558.8566
-APMC Solapur,2022,Storage loss 5% a month,Monthly re-plan,5310.4047,5959.3540,-648.9493
-APMC Solapur,2022,Storage loss 5% a month,Perfect foresight,6134.0404,5959.3540,174.6864
-APMC Solapur,2022,Storage cost doubled,March plan,4264.7870,5959.3540,-1694.5670
-APMC Solapur,2022,Storage cost doubled,Monthly re-plan,4840.2167,5959.3540,-1119.1373
-APMC Solapur,2022,Storage cost doubled,Perfect foresight,5959.3540,5959.3540,0.0000
-APMC Solapur,2022,Quality loss 2% a month,March plan,4911.3837,5959.3540,-1047.9703
-APMC Solapur,2022,Quality loss 2% a month,Monthly re-plan,5919.9970,5959.3540,-39.3570
-APMC Solapur,2022,Quality loss 2% a month,Perfect foresight,6485.3694,5959.3540,526.0154
-APMC Solapur,2022,Selling costs doubled,March plan,4648.8080,5394.1080,-745.3000
-APMC Solapur,2022,Selling costs doubled,Monthly re-plan,6049.7239,5394.1080,655.6159
-APMC Solapur,2022,Selling costs doubled,Perfect foresight,6276.2934,5394.1080,882.1854
-APMC Solapur,2022,Half the harvest sold for cash,March plan,5241.4087,5959.3540,-717.9453
-APMC Solapur,2022,Half the harvest sold for cash,Monthly re-plan,6563.5686,5959.3540,604.2146
-APMC Solapur,2022,Half the harvest sold for cash,Perfect foresight,6658.4604,5959.3540,699.1064
-APMC Solapur,2022,Curing takes 45 days,March plan,5199.5317,5959.3540,-759.8223
-APMC Solapur,2022,Curing takes 45 days,Monthly re-plan,6612.0733,5959.3540,652.7193
-APMC Solapur,2022,Curing takes 45 days,Perfect foresight,6843.9961,5959.3540,884.6421
-APMC Solapur,2023,Base,March plan,7690.8997,3502.4710,4188.4287
-APMC Solapur,2023,Base,Monthly re-plan,9016.6880,3502.4710,5514.2170
-APMC Solapur,2023,Base,Perfect foresight,13154.0275,3502.4710,9651.5565
-APMC Solapur,2023,Storage loss 5% a month,March plan,6030.9734,3502.4710,2528.5024
-APMC Solapur,2023,Storage loss 5% a month,Monthly re-plan,4523.4868,3502.4710,1021.0158
-APMC Solapur,2023,Storage loss 5% a month,Perfect foresight,10697.7479,3502.4710,7195.2769
-APMC Solapur,2023,Storage cost doubled,March plan,3502.4710,3502.4710,0.0000
-APMC Solapur,2023,Storage cost doubled,Monthly re-plan,3502.4710,3502.4710,0.0000
-APMC Solapur,2023,Storage cost doubled,Perfect foresight,10146.5278,3502.4710,6644.0568
-APMC Solapur,2023,Quality loss 2% a month,March plan,6076.6770,3502.4710,2574.2060
-APMC Solapur,2023,Quality loss 2% a month,Monthly re-plan,4762.5288,3502.4710,1260.0578
-APMC Solapur,2023,Quality loss 2% a month,Perfect foresight,12080.8955,3502.4710,8578.4245
-APMC Solapur,2023,Selling costs doubled,March plan,7114.4085,2962.0420,4152.3665
-APMC Solapur,2023,Selling costs doubled,Monthly re-plan,8427.4640,2962.0420,5465.4220
-APMC Solapur,2023,Selling costs doubled,Perfect foresight,12525.5447,2962.0420,9563.5027
-APMC Solapur,2023,Half the harvest sold for cash,March plan,7061.0670,3502.4710,3558.5960
-APMC Solapur,2023,Half the harvest sold for cash,Monthly re-plan,7085.2870,3502.4710,3582.8160
-APMC Solapur,2023,Half the harvest sold for cash,Perfect foresight,10709.1304,3502.4710,7206.6594
-APMC Solapur,2023,Curing takes 45 days,March plan,7690.8997,3502.4710,4188.4287
-APMC Solapur,2023,Curing takes 45 days,Monthly re-plan,9016.6880,3502.4710,5514.2170
-APMC Solapur,2023,Curing takes 45 days,Perfect foresight,13154.0275,3502.4710,9651.5565
-APMC Solapur,2024,Base,March plan,17300.3709,11286.3460,6014.0249
-APMC Solapur,2024,Base,Monthly re-plan,13501.1075,11286.3460,2214.7615
-APMC Solapur,2024,Base,Perfect foresight,20429.8987,11286.3460,9143.5527
-APMC Solapur,2024,Storage loss 5% a month,March plan,18094.8170,11286.3460,6808.4710
-APMC Solapur,2024,Storage loss 5% a month,Monthly re-plan,11225.5482,11286.3460,-60.7978
-APMC Solapur,2024,Storage loss 5% a month,Perfect foresight,18094.8170,11286.3460,6808.4710
-APMC Solapur,2024,Storage cost doubled,March plan,18340.9320,11286.3460,7054.5860
-APMC Solapur,2024,Storage cost doubled,Monthly re-plan,10449.9711,11286.3460,-836.3749
-APMC Solapur,2024,Storage cost doubled,Perfect foresight,18353.6733,11286.3460,7067.3273
-APMC Solapur,2024,Quality loss 2% a month,March plan,19185.2597,11286.3460,7898.9137
-APMC Solapur,2024,Quality loss 2% a month,Monthly re-plan,12552.2724,11286.3460,1265.9264
-APMC Solapur,2024,Quality loss 2% a month,Perfect foresight,19525.3501,11286.3460,8239.0041
-APMC Solapur,2024,Selling costs doubled,March plan,16628.5781,10667.2920,5961.2861
-APMC Solapur,2024,Selling costs doubled,Monthly re-plan,12869.2558,10667.2920,2201.9638
-APMC Solapur,2024,Selling costs doubled,Perfect foresight,19725.0401,10667.2920,9057.7481
-APMC Solapur,2024,Half the harvest sold for cash,March plan,16416.6820,11286.3460,5130.3360
-APMC Solapur,2024,Half the harvest sold for cash,Monthly re-plan,12983.0487,11286.3460,1696.7027
-APMC Solapur,2024,Half the harvest sold for cash,Perfect foresight,18088.2478,11286.3460,6801.9018
-APMC Solapur,2024,Curing takes 45 days,March plan,17300.3709,11286.3460,6014.0249
-APMC Solapur,2024,Curing takes 45 days,Monthly re-plan,13501.1075,11286.3460,2214.7615
-APMC Solapur,2024,Curing takes 45 days,Perfect foresight,20429.8987,11286.3460,9143.5527
-APMC Solapur,2025,Base,March plan,5330.4734,8171.8060,-2841.3326
-APMC Solapur,2025,Base,Monthly re-plan,6333.9931,8171.8060,-1837.8129
-APMC Solapur,2025,Base,Perfect foresight,8171.8060,8171.8060,0.0000
-APMC Solapur,2025,Storage loss 5% a month,March plan,5633.5757,8171.8060,-2538.2303
-APMC Solapur,2025,Storage loss 5% a month,Monthly re-plan,5668.8780,8171.8060,-2502.9280
-APMC Solapur,2025,Storage loss 5% a month,Perfect foresight,8171.8060,8171.8060,0.0000
-APMC Solapur,2025,Storage cost doubled,March plan,4187.6848,8171.8060,-3984.1212
-APMC Solapur,2025,Storage cost doubled,Monthly re-plan,4278.2617,8171.8060,-3893.5443
-APMC Solapur,2025,Storage cost doubled,Perfect foresight,8171.8060,8171.8060,0.0000
-APMC Solapur,2025,Quality loss 2% a month,March plan,6060.7378,8171.8060,-2111.0682
-APMC Solapur,2025,Quality loss 2% a month,Monthly re-plan,5976.0263,8171.8060,-2195.7797
-APMC Solapur,2025,Quality loss 2% a month,Perfect foresight,8171.8060,8171.8060,0.0000
-APMC Solapur,2025,Selling costs doubled,March plan,4780.4040,7584.2120,-2803.8080
-APMC Solapur,2025,Selling costs doubled,Monthly re-plan,5772.5510,7584.2120,-1811.6610
-APMC Solapur,2025,Selling costs doubled,Perfect foresight,7584.2120,7584.2120,0.0000
-APMC Solapur,2025,Half the harvest sold for cash,March plan,6260.4556,8171.8060,-1911.3504
-APMC Solapur,2025,Half the harvest sold for cash,Monthly re-plan,6830.6844,8171.8060,-1341.1216
-APMC Solapur,2025,Half the harvest sold for cash,Perfect foresight,8171.8060,8171.8060,0.0000
-APMC Solapur,2025,Curing takes 45 days,March plan,5330.4734,8171.8060,-2841.3326
-APMC Solapur,2025,Curing takes 45 days,Monthly re-plan,6333.9931,8171.8060,-1837.8129
-APMC Solapur,2025,Curing takes 45 days,Perfect foresight,8171.8060,8171.8060,0.0000
-Bara Bazar (Posta Bazar) APMC,2020,Base,March plan,15955.3199,14912.0230,1043.2969
-Bara Bazar (Posta Bazar) APMC,2020,Base,Monthly re-plan,19579.6489,14912.0230,4667.6259
-Bara Bazar (Posta Bazar) APMC,2020,Base,Perfect foresight,28250.6967,14912.0230,13338.6737
-Bara Bazar (Posta Bazar) APMC,2020,Storage loss 5% a month,March plan,13147.9047,14912.0230,-1764.1183
-Bara Bazar (Posta Bazar) APMC,2020,Storage loss 5% a month,Monthly re-plan,20523.3146,14912.0230,5611.2916
-Bara Bazar (Posta Bazar) APMC,2020,Storage loss 5% a month,Perfect foresight,23650.3491,14912.0230,8738.3261
-Bara Bazar (Posta Bazar) APMC,2020,Storage cost doubled,March plan,13773.0765,14912.0230,-1138.9465
-Bara Bazar (Posta Bazar) APMC,2020,Storage cost doubled,Monthly re-plan,16634.2223,14912.0230,1722.1993
-Bara Bazar (Posta Bazar) APMC,2020,Storage cost doubled,Perfect foresight,25229.1100,14912.0230,10317.0870
-Bara Bazar (Posta Bazar) APMC,2020,Quality loss 2% a month,March plan,15242.5432,14912.0230,330.5202
-Bara Bazar (Posta Bazar) APMC,2020,Quality loss 2% a month,Monthly re-plan,18351.3606,14912.0230,3439.3376
-Bara Bazar (Posta Bazar) APMC,2020,Quality loss 2% a month,Perfect foresight,26359.7932,14912.0230,11447.7702
-Bara Bazar (Posta Bazar) APMC,2020,Selling costs doubled,March plan,15295.9518,14256.3460,1039.6058
-Bara Bazar (Posta Bazar) APMC,2020,Selling costs doubled,Monthly re-plan,18886.3774,14256.3460,4630.0314
-Bara Bazar (Posta Bazar) APMC,2020,Selling costs doubled,Perfect foresight,27469.8592,14256.3460,13213.5132
-Bara Bazar (Posta Bazar) APMC,2020,Half the harvest sold for cash,March plan,14128.3302,14912.0230,-783.6928
-Bara Bazar (Posta Bazar) APMC,2020,Half the harvest sold for cash,Monthly re-plan,18074.0869,14912.0230,3162.0639
-Bara Bazar (Posta Bazar) APMC,2020,Half the harvest sold for cash,Perfect foresight,24674.5230,14912.0230,9762.5000
-Bara Bazar (Posta Bazar) APMC,2020,Curing takes 45 days,March plan,15955.3199,14912.0230,1043.2969
-Bara Bazar (Posta Bazar) APMC,2020,Curing takes 45 days,Monthly re-plan,19579.6489,14912.0230,4667.6259
-Bara Bazar (Posta Bazar) APMC,2020,Curing takes 45 days,Perfect foresight,28250.6967,14912.0230,13338.6737
-Bara Bazar (Posta Bazar) APMC,2021,Base,March plan,18812.3138,13664.6230,5147.6908
-Bara Bazar (Posta Bazar) APMC,2021,Base,Monthly re-plan,18057.4117,13664.6230,4392.7887
-Bara Bazar (Posta Bazar) APMC,2021,Base,Perfect foresight,19097.5955,13664.6230,5432.9725
-Bara Bazar (Posta Bazar) APMC,2021,Storage loss 5% a month,March plan,15201.6921,13664.6230,1537.0691
-Bara Bazar (Posta Bazar) APMC,2021,Storage loss 5% a month,Monthly re-plan,13954.3732,13664.6230,289.7502
-Bara Bazar (Posta Bazar) APMC,2021,Storage loss 5% a month,Perfect foresight,17112.2170,13664.6230,3447.5940
-Bara Bazar (Posta Bazar) APMC,2021,Storage cost doubled,March plan,15804.8141,13664.6230,2140.1911
-Bara Bazar (Posta Bazar) APMC,2021,Storage cost doubled,Monthly re-plan,12719.1721,13664.6230,-945.4509
-Bara Bazar (Posta Bazar) APMC,2021,Storage cost doubled,Perfect foresight,17172.5071,13664.6230,3507.8841
-Bara Bazar (Posta Bazar) APMC,2021,Quality loss 2% a month,March plan,17569.2664,13664.6230,3904.6434
-Bara Bazar (Posta Bazar) APMC,2021,Quality loss 2% a month,Monthly re-plan,16762.8149,13664.6230,3098.1919
-Bara Bazar (Posta Bazar) APMC,2021,Quality loss 2% a month,Perfect foresight,18301.5707,13664.6230,4636.9477
-Bara Bazar (Posta Bazar) APMC,2021,Selling costs doubled,March plan,18126.6766,13021.5460,5105.1306
-Bara Bazar (Posta Bazar) APMC,2021,Selling costs doubled,Monthly re-plan,17380.0587,13021.5460,4358.5127
-Bara Bazar (Posta Bazar) APMC,2021,Selling costs doubled,Perfect foresight,18405.9929,13021.5460,5384.4469
-Bara Bazar (Posta Bazar) APMC,2021,Half the harvest sold for cash,March plan,17699.4599,13664.6230,4034.8369
-Bara Bazar (Posta Bazar) APMC,2021,Half the harvest sold for cash,Monthly re-plan,16425.9567,13664.6230,2761.3337
-Bara Bazar (Posta Bazar) APMC,2021,Half the harvest sold for cash,Perfect foresight,17793.4425,13664.6230,4128.8195
-Bara Bazar (Posta Bazar) APMC,2021,Curing takes 45 days,March plan,18812.3138,13664.6230,5147.6908
-Bara Bazar (Posta Bazar) APMC,2021,Curing takes 45 days,Monthly re-plan,18057.4117,13664.6230,4392.7887
-Bara Bazar (Posta Bazar) APMC,2021,Curing takes 45 days,Perfect foresight,19097.5955,13664.6230,5432.9725
-Bara Bazar (Posta Bazar) APMC,2022,Base,March plan,15194.6833,12830.3500,2364.3333
-Bara Bazar (Posta Bazar) APMC,2022,Base,Monthly re-plan,13252.6410,12830.3500,422.2910
-Bara Bazar (Posta Bazar) APMC,2022,Base,Perfect foresight,15246.0855,12830.3500,2415.7355
-Bara Bazar (Posta Bazar) APMC,2022,Storage loss 5% a month,March plan,12390.2657,12830.3500,-440.0843
-Bara Bazar (Posta Bazar) APMC,2022,Storage loss 5% a month,Monthly re-plan,11281.6689,12830.3500,-1548.6811
-Bara Bazar (Posta Bazar) APMC,2022,Storage loss 5% a month,Perfect foresight,13365.2308,12830.3500,534.8808
-Bara Bazar (Posta Bazar) APMC,2022,Storage cost doubled,March plan,12187.1836,12830.3500,-643.1664
-Bara Bazar (Posta Bazar) APMC,2022,Storage cost doubled,Monthly re-plan,10492.1251,12830.3500,-2338.2249
-Bara Bazar (Posta Bazar) APMC,2022,Storage cost doubled,Perfect foresight,13123.4615,12830.3500,293.1115
-Bara Bazar (Posta Bazar) APMC,2022,Quality loss 2% a month,March plan,14184.0893,12830.3500,1353.7393
-Bara Bazar (Posta Bazar) APMC,2022,Quality loss 2% a month,Monthly re-plan,14184.0893,12830.3500,1353.7393
-Bara Bazar (Posta Bazar) APMC,2022,Quality loss 2% a month,Perfect foresight,14242.5756,12830.3500,1412.2256
-Bara Bazar (Posta Bazar) APMC,2022,Selling costs doubled,March plan,14545.5878,12195.7000,2349.8878
-Bara Bazar (Posta Bazar) APMC,2022,Selling costs doubled,Monthly re-plan,12623.8210,12195.7000,428.1210
-Bara Bazar (Posta Bazar) APMC,2022,Selling costs doubled,Perfect foresight,14596.3752,12195.7000,2400.6752
-Bara Bazar (Posta Bazar) APMC,2022,Half the harvest sold for cash,March plan,14833.2826,12830.3500,2002.9326
-Bara Bazar (Posta Bazar) APMC,2022,Half the harvest sold for cash,Monthly re-plan,12418.8681,12830.3500,-411.4819
-Bara Bazar (Posta Bazar) APMC,2022,Half the harvest sold for cash,Perfect foresight,14833.2826,12830.3500,2002.9326
-Bara Bazar (Posta Bazar) APMC,2022,Curing takes 45 days,March plan,15194.6833,12830.3500,2364.3333
-Bara Bazar (Posta Bazar) APMC,2022,Curing takes 45 days,Monthly re-plan,13252.6410,12830.3500,422.2910
-Bara Bazar (Posta Bazar) APMC,2022,Curing takes 45 days,Perfect foresight,15246.0855,12830.3500,2415.7355
-Bara Bazar (Posta Bazar) APMC,2023,Base,March plan,24100.6686,13223.6770,10876.9916
-Bara Bazar (Posta Bazar) APMC,2023,Base,Monthly re-plan,24100.6686,13223.6770,10876.9916
-Bara Bazar (Posta Bazar) APMC,2023,Base,Perfect foresight,24558.3697,13223.6770,11334.6927
-Bara Bazar (Posta Bazar) APMC,2023,Storage loss 5% a month,March plan,16636.6152,13223.6770,3412.9382
-Bara Bazar (Posta Bazar) APMC,2023,Storage loss 5% a month,Monthly re-plan,20721.1186,13223.6770,7497.4416
-Bara Bazar (Posta Bazar) APMC,2023,Storage loss 5% a month,Perfect foresight,20817.9984,13223.6770,7594.3214
-Bara Bazar (Posta Bazar) APMC,2023,Storage cost doubled,March plan,21093.1689,13223.6770,7869.4919
-Bara Bazar (Posta Bazar) APMC,2023,Storage cost doubled,Monthly re-plan,21093.1689,13223.6770,7869.4919
-Bara Bazar (Posta Bazar) APMC,2023,Storage cost doubled,Perfect foresight,21158.7703,13223.6770,7935.0933
-Bara Bazar (Posta Bazar) APMC,2023,Quality loss 2% a month,March plan,22451.8550,13223.6770,9228.1780
-Bara Bazar (Posta Bazar) APMC,2023,Quality loss 2% a month,Monthly re-plan,22451.8550,13223.6770,9228.1780
-Bara Bazar (Posta Bazar) APMC,2023,Quality loss 2% a month,Perfect foresight,22609.5621,13223.6770,9385.8851
-Bara Bazar (Posta Bazar) APMC,2023,Selling costs doubled,March plan,23361.6137,12585.0540,10776.5597
-Bara Bazar (Posta Bazar) APMC,2023,Selling costs doubled,Monthly re-plan,19346.5915,12585.0540,6761.5375
-Bara Bazar (Posta Bazar) APMC,2023,Selling costs doubled,Perfect foresight,23816.0931,12585.0540,11231.0391
-Bara Bazar (Posta Bazar) APMC,2023,Half the harvest sold for cash,March plan,19957.3391,13223.6770,6733.6621
-Bara Bazar (Posta Bazar) APMC,2023,Half the harvest sold for cash,Monthly re-plan,22284.6853,13223.6770,9061.0083
-Bara Bazar (Posta Bazar) APMC,2023,Half the harvest sold for cash,Perfect foresight,22488.6467,13223.6770,9264.9697
-Bara Bazar (Posta Bazar) APMC,2023,Curing takes 45 days,March plan,24100.6686,13223.6770,10876.9916
-Bara Bazar (Posta Bazar) APMC,2023,Curing takes 45 days,Monthly re-plan,24100.6686,13223.6770,10876.9916
-Bara Bazar (Posta Bazar) APMC,2023,Curing takes 45 days,Perfect foresight,24558.3697,13223.6770,11334.6927
-Bara Bazar (Posta Bazar) APMC,2024,Base,March plan,32795.4786,19773.9130,13021.5656
-Bara Bazar (Posta Bazar) APMC,2024,Base,Monthly re-plan,28576.4972,19773.9130,8802.5842
-Bara Bazar (Posta Bazar) APMC,2024,Base,Perfect foresight,33117.8213,19773.9130,13343.9083
-Bara Bazar (Posta Bazar) APMC,2024,Storage loss 5% a month,March plan,27029.9845,19773.9130,7256.0715
-Bara Bazar (Posta Bazar) APMC,2024,Storage loss 5% a month,Monthly re-plan,27496.4290,19773.9130,7722.5160
-Bara Bazar (Posta Bazar) APMC,2024,Storage loss 5% a month,Perfect foresight,28035.7680,19773.9130,8261.8550
-Bara Bazar (Posta Bazar) APMC,2024,Storage cost doubled,March plan,29787.9789,19773.9130,10014.0659
-Bara Bazar (Posta Bazar) APMC,2024,Storage cost doubled,Monthly re-plan,23978.3531,19773.9130,4204.4401
-Bara Bazar (Posta Bazar) APMC,2024,Storage cost doubled,Perfect foresight,30305.5058,19773.9130,10531.5928
-Bara Bazar (Posta Bazar) APMC,2024,Quality loss 2% a month,March plan,30701.1960,19773.9130,10927.2830
-Bara Bazar (Posta Bazar) APMC,2024,Quality loss 2% a month,Monthly re-plan,25388.1047,19773.9130,5614.1917
-Bara Bazar (Posta Bazar) APMC,2024,Quality loss 2% a month,Perfect foresight,31155.9160,19773.9130,11382.0030
-Bara Bazar (Posta Bazar) APMC,2024,Selling costs doubled,March plan,31968.5973,19069.1260,12899.4713
-Bara Bazar (Posta Bazar) APMC,2024,Selling costs doubled,Monthly re-plan,27793.5621,19069.1260,8724.4361
-Bara Bazar (Posta Bazar) APMC,2024,Selling costs doubled,Perfect foresight,32287.0716,19069.1260,13217.9456
-Bara Bazar (Posta Bazar) APMC,2024,Half the harvest sold for cash,March plan,28706.6564,19773.9130,8932.7434
-Bara Bazar (Posta Bazar) APMC,2024,Half the harvest sold for cash,Monthly re-plan,24487.6751,19773.9130,4713.7621
-Bara Bazar (Posta Bazar) APMC,2024,Half the harvest sold for cash,Perfect foresight,29656.8630,19773.9130,9882.9500
-Bara Bazar (Posta Bazar) APMC,2024,Curing takes 45 days,March plan,32795.4786,19773.9130,13021.5656
-Bara Bazar (Posta Bazar) APMC,2024,Curing takes 45 days,Monthly re-plan,28576.4972,19773.9130,8802.5842
-Bara Bazar (Posta Bazar) APMC,2024,Curing takes 45 days,Perfect foresight,33117.8213,19773.9130,13343.9083
-Bara Bazar (Posta Bazar) APMC,2025,Base,March plan,11840.7668,16118.8330,-4278.0662
-Bara Bazar (Posta Bazar) APMC,2025,Base,Monthly re-plan,11840.7668,16118.8330,-4278.0662
-Bara Bazar (Posta Bazar) APMC,2025,Base,Perfect foresight,16162.7853,16118.8330,43.9523
-Bara Bazar (Posta Bazar) APMC,2025,Storage loss 5% a month,March plan,10203.2528,16118.8330,-5915.5802
-Bara Bazar (Posta Bazar) APMC,2025,Storage loss 5% a month,Monthly re-plan,10046.8685,16118.8330,-6071.9645
-Bara Bazar (Posta Bazar) APMC,2025,Storage loss 5% a month,Perfect foresight,16118.8330,16118.8330,0.0000
-Bara Bazar (Posta Bazar) APMC,2025,Storage cost doubled,March plan,8833.2671,16118.8330,-7285.5659
-Bara Bazar (Posta Bazar) APMC,2025,Storage cost doubled,Monthly re-plan,8833.2671,16118.8330,-7285.5659
-Bara Bazar (Posta Bazar) APMC,2025,Storage cost doubled,Perfect foresight,16118.8330,16118.8330,0.0000
-Bara Bazar (Posta Bazar) APMC,2025,Quality loss 2% a month,March plan,11129.0069,16118.8330,-4989.8261
-Bara Bazar (Posta Bazar) APMC,2025,Quality loss 2% a month,Monthly re-plan,11129.0069,16118.8330,-4989.8261
-Bara Bazar (Posta Bazar) APMC,2025,Quality loss 2% a month,Perfect foresight,16118.8330,16118.8330,0.0000
-Bara Bazar (Posta Bazar) APMC,2025,Selling costs doubled,March plan,11225.5493,15450.9660,-4225.4167
-Bara Bazar (Posta Bazar) APMC,2025,Selling costs doubled,Monthly re-plan,11225.5493,15450.9660,-4225.4167
-Bara Bazar (Posta Bazar) APMC,2025,Selling costs doubled,Perfect foresight,15495.8293,15450.9660,44.8633
-Bara Bazar (Posta Bazar) APMC,2025,Half the harvest sold for cash,March plan,13113.4303,16118.8330,-3005.4027
-Bara Bazar (Posta Bazar) APMC,2025,Half the harvest sold for cash,Monthly re-plan,12949.5503,16118.8330,-3169.2827
-Bara Bazar (Posta Bazar) APMC,2025,Half the harvest sold for cash,Perfect foresight,16162.7853,16118.8330,43.9523
-Bara Bazar (Posta Bazar) APMC,2025,Curing takes 45 days,March plan,11840.7668,16118.8330,-4278.0662
-Bara Bazar (Posta Bazar) APMC,2025,Curing takes 45 days,Monthly re-plan,11840.7668,16118.8330,-4278.0662
-Bara Bazar (Posta Bazar) APMC,2025,Curing takes 45 days,Perfect foresight,16162.7853,16118.8330,43.9523
-Gurgaon APMC,2020,Base,March plan,15652.8744,19300.0000,-3647.1256
-Gurgaon APMC,2020,Base,Monthly re-plan,18403.9179,19300.0000,-896.0821
-Gurgaon APMC,2020,Base,Perfect foresight,20556.7792,19300.0000,1256.7792
-Gurgaon APMC,2020,Storage loss 5% a month,March plan,9476.0814,19300.0000,-9823.9186
-Gurgaon APMC,2020,Storage loss 5% a month,Monthly re-plan,11353.4954,19300.0000,-7946.5046
-Gurgaon APMC,2020,Storage loss 5% a month,Perfect foresight,19300.0000,19300.0000,0.0000
-Gurgaon APMC,2020,Storage cost doubled,March plan,9321.7662,19300.0000,-9978.2338
-Gurgaon APMC,2020,Storage cost doubled,Monthly re-plan,11224.2753,19300.0000,-8075.7247
-Gurgaon APMC,2020,Storage cost doubled,Perfect foresight,19300.0000,19300.0000,0.0000
-Gurgaon APMC,2020,Quality loss 2% a month,March plan,10765.9643,19300.0000,-8534.0357
-Gurgaon APMC,2020,Quality loss 2% a month,Monthly re-plan,12777.9068,19300.0000,-6522.0932
-Gurgaon APMC,2020,Quality loss 2% a month,Perfect foresight,19968.1222,19300.0000,668.1222
-Gurgaon APMC,2020,Selling costs doubled,March plan,14996.9652,18600.0000,-3603.0348
-Gurgaon APMC,2020,Selling costs doubled,Monthly re-plan,17721.0528,18600.0000,-878.9472
-Gurgaon APMC,2020,Selling costs doubled,Perfect foresight,19848.3048,18600.0000,1248.3048
-Gurgaon APMC,2020,Half the harvest sold for cash,March plan,15595.0159,19300.0000,-3704.9841
-Gurgaon APMC,2020,Half the harvest sold for cash,Monthly re-plan,18116.8313,19300.0000,-1183.1687
-Gurgaon APMC,2020,Half the harvest sold for cash,Perfect foresight,20556.7792,19300.0000,1256.7792
-Gurgaon APMC,2020,Curing takes 45 days,March plan,15652.8744,19300.0000,-3647.1256
-Gurgaon APMC,2020,Curing takes 45 days,Monthly re-plan,18403.9179,19300.0000,-896.0821
-Gurgaon APMC,2020,Curing takes 45 days,Perfect foresight,20556.7792,19300.0000,1256.7792
-Gurgaon APMC,2021,Base,March plan,14057.9385,11125.0750,2932.8635
-Gurgaon APMC,2021,Base,Monthly re-plan,12904.7497,11125.0750,1779.6747
-Gurgaon APMC,2021,Base,Perfect foresight,14549.6219,11125.0750,3424.5469
-Gurgaon APMC,2021,Storage loss 5% a month,March plan,11293.7760,11125.0750,168.7010
-Gurgaon APMC,2021,Storage loss 5% a month,Monthly re-plan,10216.1475,11125.0750,-908.9275
-Gurgaon APMC,2021,Storage loss 5% a month,Perfect foresight,12880.9500,11125.0750,1755.8750
-Gurgaon APMC,2021,Storage cost doubled,March plan,11125.0750,11125.0750,0.0000
-Gurgaon APMC,2021,Storage cost doubled,Monthly re-plan,11125.0750,11125.0750,0.0000
-Gurgaon APMC,2021,Storage cost doubled,Perfect foresight,12484.6941,11125.0750,1359.6191
-Gurgaon APMC,2021,Quality loss 2% a month,March plan,13349.0387,11125.0750,2223.9637
-Gurgaon APMC,2021,Quality loss 2% a month,Monthly re-plan,12153.6362,11125.0750,1028.5612
-Gurgaon APMC,2021,Quality loss 2% a month,Perfect foresight,13898.6778,11125.0750,2773.6028
-Gurgaon APMC,2021,Selling costs doubled,March plan,13418.1398,10507.6500,2910.4898
-Gurgaon APMC,2021,Selling costs doubled,Monthly re-plan,12277.5713,10507.6500,1769.9213
-Gurgaon APMC,2021,Selling costs doubled,Perfect foresight,13904.0847,10507.6500,3396.4347
-Gurgaon APMC,2021,Half the harvest sold for cash,March plan,12938.4115,11125.0750,1813.3365
-Gurgaon APMC,2021,Half the harvest sold for cash,Monthly re-plan,11966.1101,11125.0750,841.0351
-Gurgaon APMC,2021,Half the harvest sold for cash,Perfect foresight,13801.9178,11125.0750,2676.8428
-Gurgaon APMC,2021,Curing takes 45 days,March plan,14057.9385,11125.0750,2932.8635
-Gurgaon APMC,2021,Curing takes 45 days,Monthly re-plan,12904.7497,11125.0750,1779.6747
-Gurgaon APMC,2021,Curing takes 45 days,Perfect foresight,14549.6219,11125.0750,3424.5469
-Gurgaon APMC,2022,Base,March plan,7980.0849,11217.9370,-3237.8521
-Gurgaon APMC,2022,Base,Monthly re-plan,7995.0559,11217.9370,-3222.8811
-Gurgaon APMC,2022,Base,Perfect foresight,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Storage loss 5% a month,March plan,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Storage loss 5% a month,Monthly re-plan,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Storage loss 5% a month,Perfect foresight,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Storage cost doubled,March plan,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Storage cost doubled,Monthly re-plan,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Storage cost doubled,Perfect foresight,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Quality loss 2% a month,March plan,7636.1643,11217.9370,-3581.7727
-Gurgaon APMC,2022,Quality loss 2% a month,Monthly re-plan,7585.8955,11217.9370,-3632.0415
-Gurgaon APMC,2022,Quality loss 2% a month,Perfect foresight,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Selling costs doubled,March plan,7401.1063,10599.5740,-3198.4677
-Gurgaon APMC,2022,Selling costs doubled,Monthly re-plan,7417.4703,10599.5740,-3182.1037
-Gurgaon APMC,2022,Selling costs doubled,Perfect foresight,10599.5740,10599.5740,0.0000
-Gurgaon APMC,2022,Half the harvest sold for cash,March plan,8858.6421,11217.9370,-2359.2949
-Gurgaon APMC,2022,Half the harvest sold for cash,Monthly re-plan,8882.0553,11217.9370,-2335.8817
-Gurgaon APMC,2022,Half the harvest sold for cash,Perfect foresight,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2022,Curing takes 45 days,March plan,7980.0849,11217.9370,-3237.8521
-Gurgaon APMC,2022,Curing takes 45 days,Monthly re-plan,7995.0559,11217.9370,-3222.8811
-Gurgaon APMC,2022,Curing takes 45 days,Perfect foresight,11217.9370,11217.9370,0.0000
-Gurgaon APMC,2023,Base,March plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Base,Monthly re-plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Base,Perfect foresight,12240.0115,7483.3600,4756.6515
-Gurgaon APMC,2023,Storage loss 5% a month,March plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Storage loss 5% a month,Monthly re-plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Storage loss 5% a month,Perfect foresight,10242.1406,7483.3600,2758.7806
-Gurgaon APMC,2023,Storage cost doubled,March plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Storage cost doubled,Monthly re-plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Storage cost doubled,Perfect foresight,9247.6045,7483.3600,1764.2445
-Gurgaon APMC,2023,Quality loss 2% a month,March plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Quality loss 2% a month,Monthly re-plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Quality loss 2% a month,Perfect foresight,11314.7315,7483.3600,3831.3715
-Gurgaon APMC,2023,Selling costs doubled,March plan,6902.7200,6902.7200,0.0000
-Gurgaon APMC,2023,Selling costs doubled,Monthly re-plan,6902.7200,6902.7200,0.0000
-Gurgaon APMC,2023,Selling costs doubled,Perfect foresight,11620.7139,6902.7200,4717.9939
-Gurgaon APMC,2023,Half the harvest sold for cash,March plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Half the harvest sold for cash,Monthly re-plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Half the harvest sold for cash,Perfect foresight,11285.5119,7483.3600,3802.1519
-Gurgaon APMC,2023,Curing takes 45 days,March plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Curing takes 45 days,Monthly re-plan,7483.3600,7483.3600,0.0000
-Gurgaon APMC,2023,Curing takes 45 days,Perfect foresight,12240.0115,7483.3600,4756.6515
-Gurgaon APMC,2024,Base,March plan,17743.0832,12394.7500,5348.3332
-Gurgaon APMC,2024,Base,Monthly re-plan,18044.9555,12394.7500,5650.2055
-Gurgaon APMC,2024,Base,Perfect foresight,20047.3733,12394.7500,7652.6233
-Gurgaon APMC,2024,Storage loss 5% a month,March plan,12394.7500,12394.7500,0.0000
-Gurgaon APMC,2024,Storage loss 5% a month,Monthly re-plan,12394.7500,12394.7500,0.0000
-Gurgaon APMC,2024,Storage loss 5% a month,Perfect foresight,17344.1481,12394.7500,4949.3981
-Gurgaon APMC,2024,Storage cost doubled,March plan,12394.7500,12394.7500,0.0000
-Gurgaon APMC,2024,Storage cost doubled,Monthly re-plan,12394.7500,12394.7500,0.0000
-Gurgaon APMC,2024,Storage cost doubled,Perfect foresight,17490.8946,12394.7500,5096.1446
-Gurgaon APMC,2024,Quality loss 2% a month,March plan,16922.0615,12394.7500,4527.3115
-Gurgaon APMC,2024,Quality loss 2% a month,Monthly re-plan,16837.8870,12394.7500,4443.1370
-Gurgaon APMC,2024,Quality loss 2% a month,Perfect foresight,18924.9678,12394.7500,6530.2178
-Gurgaon APMC,2024,Selling costs doubled,March plan,17065.4885,11764.5000,5300.9885
-Gurgaon APMC,2024,Selling costs doubled,Monthly re-plan,17367.0221,11764.5000,5602.5221
-Gurgaon APMC,2024,Selling costs doubled,Perfect foresight,19348.0471,11764.5000,7583.5471
-Gurgaon APMC,2024,Half the harvest sold for cash,March plan,16771.8943,12394.7500,4377.1443
-Gurgaon APMC,2024,Half the harvest sold for cash,Monthly re-plan,16899.4410,12394.7500,4504.6910
-Gurgaon APMC,2024,Half the harvest sold for cash,Perfect foresight,18109.4948,12394.7500,5714.7448
-Gurgaon APMC,2024,Curing takes 45 days,March plan,17743.0832,12394.7500,5348.3332
-Gurgaon APMC,2024,Curing takes 45 days,Monthly re-plan,18044.9555,12394.7500,5650.2055
-Gurgaon APMC,2024,Curing takes 45 days,Perfect foresight,20047.3733,12394.7500,7652.6233
-Gurgaon APMC,2025,Base,March plan,9052.2371,11440.8850,-2388.6479
-Gurgaon APMC,2025,Base,Monthly re-plan,9052.2371,11440.8850,-2388.6479
-Gurgaon APMC,2025,Base,Perfect foresight,11440.8850,11440.8850,0.0000
-Gurgaon APMC,2025,Storage loss 5% a month,March plan,8218.5315,11440.8850,-3222.3535
-Gurgaon APMC,2025,Storage loss 5% a month,Monthly re-plan,7933.0248,11440.8850,-3507.8602
-Gurgaon APMC,2025,Storage loss 5% a month,Perfect foresight,11440.8850,11440.8850,0.0000
-Gurgaon APMC,2025,Storage cost doubled,March plan,6969.2779,11440.8850,-4471.6071
-Gurgaon APMC,2025,Storage cost doubled,Monthly re-plan,6798.1895,11440.8850,-4642.6955
-Gurgaon APMC,2025,Storage cost doubled,Perfect foresight,11440.8850,11440.8850,0.0000
-Gurgaon APMC,2025,Quality loss 2% a month,March plan,8851.9322,11440.8850,-2588.9528
-Gurgaon APMC,2025,Quality loss 2% a month,Monthly re-plan,8726.8807,11440.8850,-2714.0043
-Gurgaon APMC,2025,Quality loss 2% a month,Perfect foresight,11440.8850,11440.8850,0.0000
-Gurgaon APMC,2025,Selling costs doubled,March plan,8463.3380,10820.2700,-2356.9320
-Gurgaon APMC,2025,Selling costs doubled,Monthly re-plan,8463.3380,10820.2700,-2356.9320
-Gurgaon APMC,2025,Selling costs doubled,Perfect foresight,10820.2700,10820.2700,0.0000
-Gurgaon APMC,2025,Half the harvest sold for cash,March plan,9532.9763,11440.8850,-1907.9087
-Gurgaon APMC,2025,Half the harvest sold for cash,Monthly re-plan,9532.9763,11440.8850,-1907.9087
-Gurgaon APMC,2025,Half the harvest sold for cash,Perfect foresight,11440.8850,11440.8850,0.0000
-Gurgaon APMC,2025,Curing takes 45 days,March plan,9052.2371,11440.8850,-2388.6479
-Gurgaon APMC,2025,Curing takes 45 days,Monthly re-plan,9052.2371,11440.8850,-2388.6479
-Gurgaon APMC,2025,Curing takes 45 days,Perfect foresight,11440.8850,11440.8850,0.0000
+market,season,scenario,strategy,net_rs_t,harvest_sale_rs_t,gain_rs_t,benchmark
+APMC Hubballi,2020,Base,March plan,8963.0724,16798.9630,-7835.8906,False
+APMC Hubballi,2020,Base,Monthly re-plan,7809.4235,16798.9630,-8989.5395,False
+APMC Hubballi,2020,Base,Perfect foresight,17182.9714,16798.9630,384.0084,False
+APMC Hubballi,2020,Storage loss 5% a month,March plan,7470.1532,16798.9630,-9328.8098,False
+APMC Hubballi,2020,Storage loss 5% a month,Monthly re-plan,8160.0939,16798.9630,-8638.8691,False
+APMC Hubballi,2020,Storage loss 5% a month,Perfect foresight,16798.9630,16798.9630,0.0000,False
+APMC Hubballi,2020,Storage cost doubled,March plan,11815.1948,16798.9630,-4983.7682,False
+APMC Hubballi,2020,Storage cost doubled,Monthly re-plan,12166.4158,16798.9630,-4632.5472,False
+APMC Hubballi,2020,Storage cost doubled,Perfect foresight,16798.9630,16798.9630,0.0000,False
+APMC Hubballi,2020,Quality loss 2% a month,March plan,8661.8583,16798.9630,-8137.1047,False
+APMC Hubballi,2020,Quality loss 2% a month,Monthly re-plan,8300.5277,16798.9630,-8498.4353,False
+APMC Hubballi,2020,Quality loss 2% a month,Perfect foresight,16798.9630,16798.9630,0.0000,False
+APMC Hubballi,2020,Selling costs doubled,March plan,8374.0404,16124.2260,-7750.1856,False
+APMC Hubballi,2020,Selling costs doubled,Monthly re-plan,7230.0306,16124.2260,-8894.1954,False
+APMC Hubballi,2020,Selling costs doubled,Perfect foresight,16508.5759,16124.2260,384.3499,False
+APMC Hubballi,2020,Half the harvest sold for cash,March plan,11027.3127,16798.9630,-5771.6503,False
+APMC Hubballi,2020,Half the harvest sold for cash,Monthly re-plan,10409.4722,16798.9630,-6389.4908,False
+APMC Hubballi,2020,Half the harvest sold for cash,Perfect foresight,17182.9714,16798.9630,384.0084,False
+APMC Hubballi,2020,Curing takes 45 days,March plan,8963.0724,16798.9630,-7835.8906,False
+APMC Hubballi,2020,Curing takes 45 days,Monthly re-plan,7809.4235,16798.9630,-8989.5395,False
+APMC Hubballi,2020,Curing takes 45 days,Perfect foresight,17182.9714,16798.9630,384.0084,False
+APMC Hubballi,2021,Base,March plan,6623.7831,7025.7820,-401.9989,False
+APMC Hubballi,2021,Base,Monthly re-plan,6568.5291,7025.7820,-457.2529,False
+APMC Hubballi,2021,Base,Perfect foresight,8657.7179,7025.7820,1631.9359,False
+APMC Hubballi,2021,Storage loss 5% a month,March plan,6837.3742,7025.7820,-188.4078,False
+APMC Hubballi,2021,Storage loss 5% a month,Monthly re-plan,6837.3742,7025.7820,-188.4078,False
+APMC Hubballi,2021,Storage loss 5% a month,Perfect foresight,8168.4552,7025.7820,1142.6732,False
+APMC Hubballi,2021,Storage cost doubled,March plan,6351.8324,7025.7820,-673.9496,False
+APMC Hubballi,2021,Storage cost doubled,Monthly re-plan,6351.8324,7025.7820,-673.9496,False
+APMC Hubballi,2021,Storage cost doubled,Perfect foresight,7567.2731,7025.7820,541.4911,False
+APMC Hubballi,2021,Quality loss 2% a month,March plan,6317.7681,7025.7820,-708.0139,False
+APMC Hubballi,2021,Quality loss 2% a month,Monthly re-plan,6317.7681,7025.7820,-708.0139,False
+APMC Hubballi,2021,Quality loss 2% a month,Perfect foresight,8462.2520,7025.7820,1436.4700,False
+APMC Hubballi,2021,Selling costs doubled,March plan,6058.2790,6449.7640,-391.4850,False
+APMC Hubballi,2021,Selling costs doubled,Monthly re-plan,6003.6844,6449.7640,-446.0796,False
+APMC Hubballi,2021,Selling costs doubled,Perfect foresight,8068.7794,6449.7640,1619.0154,False
+APMC Hubballi,2021,Half the harvest sold for cash,March plan,6825.3102,7025.7820,-200.4718,False
+APMC Hubballi,2021,Half the harvest sold for cash,Monthly re-plan,6825.3102,7025.7820,-200.4718,False
+APMC Hubballi,2021,Half the harvest sold for cash,Perfect foresight,8356.0828,7025.7820,1330.3008,False
+APMC Hubballi,2021,Curing takes 45 days,March plan,6623.7831,7025.7820,-401.9989,False
+APMC Hubballi,2021,Curing takes 45 days,Monthly re-plan,6568.5291,7025.7820,-457.2529,False
+APMC Hubballi,2021,Curing takes 45 days,Perfect foresight,8651.0844,7025.7820,1625.3024,False
+APMC Hubballi,2022,Base,March plan,5381.2367,7179.7270,-1798.4903,False
+APMC Hubballi,2022,Base,Monthly re-plan,5480.0323,7179.7270,-1699.6947,False
+APMC Hubballi,2022,Base,Perfect foresight,7179.7270,7179.7270,0.0000,False
+APMC Hubballi,2022,Storage loss 5% a month,March plan,4825.0990,7179.7270,-2354.6280,False
+APMC Hubballi,2022,Storage loss 5% a month,Monthly re-plan,4825.0990,7179.7270,-2354.6280,False
+APMC Hubballi,2022,Storage loss 5% a month,Perfect foresight,7179.7270,7179.7270,0.0000,False
+APMC Hubballi,2022,Storage cost doubled,March plan,3446.4850,7179.7270,-3733.2420,False
+APMC Hubballi,2022,Storage cost doubled,Monthly re-plan,4621.6166,7179.7270,-2558.1104,False
+APMC Hubballi,2022,Storage cost doubled,Perfect foresight,7179.7270,7179.7270,0.0000,False
+APMC Hubballi,2022,Quality loss 2% a month,March plan,5105.7652,7179.7270,-2073.9618,False
+APMC Hubballi,2022,Quality loss 2% a month,Monthly re-plan,5217.8806,7179.7270,-1961.8464,False
+APMC Hubballi,2022,Quality loss 2% a month,Perfect foresight,7179.7270,7179.7270,0.0000,False
+APMC Hubballi,2022,Selling costs doubled,March plan,4828.6776,6602.1540,-1773.4764,False
+APMC Hubballi,2022,Selling costs doubled,Monthly re-plan,4926.1826,6602.1540,-1675.9714,False
+APMC Hubballi,2022,Selling costs doubled,Perfect foresight,6602.1540,6602.1540,0.0000,False
+APMC Hubballi,2022,Half the harvest sold for cash,March plan,6039.5122,7179.7270,-1140.2148,False
+APMC Hubballi,2022,Half the harvest sold for cash,Monthly re-plan,6039.5122,7179.7270,-1140.2148,False
+APMC Hubballi,2022,Half the harvest sold for cash,Perfect foresight,7179.7270,7179.7270,0.0000,False
+APMC Hubballi,2022,Curing takes 45 days,March plan,5381.2367,7179.7270,-1798.4903,False
+APMC Hubballi,2022,Curing takes 45 days,Monthly re-plan,5480.0323,7179.7270,-1699.6947,False
+APMC Hubballi,2022,Curing takes 45 days,Perfect foresight,7179.7270,7179.7270,0.0000,False
+APMC Hubballi,2023,Base,March plan,6749.5195,5166.6610,1582.8585,False
+APMC Hubballi,2023,Base,Monthly re-plan,7839.1538,5166.6610,2672.4928,False
+APMC Hubballi,2023,Base,Perfect foresight,8870.1547,5166.6610,3703.4937,False
+APMC Hubballi,2023,Storage loss 5% a month,March plan,5750.8338,5166.6610,584.1728,False
+APMC Hubballi,2023,Storage loss 5% a month,Monthly re-plan,5363.8911,5166.6610,197.2301,False
+APMC Hubballi,2023,Storage loss 5% a month,Perfect foresight,7236.2539,5166.6610,2069.5929,False
+APMC Hubballi,2023,Storage cost doubled,March plan,4538.6938,5166.6610,-627.9672,False
+APMC Hubballi,2023,Storage cost doubled,Monthly re-plan,4463.9634,5166.6610,-702.6976,False
+APMC Hubballi,2023,Storage cost doubled,Perfect foresight,5874.7941,5166.6610,708.1331,False
+APMC Hubballi,2023,Quality loss 2% a month,March plan,6372.7796,5166.6610,1206.1186,False
+APMC Hubballi,2023,Quality loss 2% a month,Monthly re-plan,6191.0715,5166.6610,1024.4105,False
+APMC Hubballi,2023,Quality loss 2% a month,Perfect foresight,8117.6438,5166.6610,2950.9828,False
+APMC Hubballi,2023,Selling costs doubled,March plan,6183.1393,4609.4220,1573.7173,False
+APMC Hubballi,2023,Selling costs doubled,Monthly re-plan,7262.7802,4609.4220,2653.3582,False
+APMC Hubballi,2023,Selling costs doubled,Perfect foresight,8285.0802,4609.4220,3675.6582,False
+APMC Hubballi,2023,Half the harvest sold for cash,March plan,6240.4723,5166.6610,1073.8113,False
+APMC Hubballi,2023,Half the harvest sold for cash,Monthly re-plan,6863.0754,5166.6610,1696.4144,False
+APMC Hubballi,2023,Half the harvest sold for cash,Perfect foresight,7989.0657,5166.6610,2822.4047,False
+APMC Hubballi,2023,Curing takes 45 days,March plan,6749.5195,5166.6610,1582.8585,False
+APMC Hubballi,2023,Curing takes 45 days,Monthly re-plan,7839.1538,5166.6610,2672.4928,False
+APMC Hubballi,2023,Curing takes 45 days,Perfect foresight,8870.1547,5166.6610,3703.4937,False
+APMC Hubballi,2024,Base,March plan,13160.2885,7604.5360,5555.7525,False
+APMC Hubballi,2024,Base,Monthly re-plan,11797.5870,7604.5360,4193.0510,False
+APMC Hubballi,2024,Base,Perfect foresight,13273.6845,7604.5360,5669.1485,False
+APMC Hubballi,2024,Storage loss 5% a month,March plan,11646.0061,7604.5360,4041.4701,False
+APMC Hubballi,2024,Storage loss 5% a month,Monthly re-plan,9960.5874,7604.5360,2356.0514,False
+APMC Hubballi,2024,Storage loss 5% a month,Perfect foresight,11646.0061,7604.5360,4041.4701,False
+APMC Hubballi,2024,Storage cost doubled,March plan,7604.5360,7604.5360,0.0000,False
+APMC Hubballi,2024,Storage cost doubled,Monthly re-plan,7604.5360,7604.5360,0.0000,False
+APMC Hubballi,2024,Storage cost doubled,Perfect foresight,11081.5205,7604.5360,3476.9845,False
+APMC Hubballi,2024,Quality loss 2% a month,March plan,12542.9589,7604.5360,4938.4229,False
+APMC Hubballi,2024,Quality loss 2% a month,Monthly re-plan,11427.2246,7604.5360,3822.6886,False
+APMC Hubballi,2024,Quality loss 2% a month,Perfect foresight,12607.4765,7604.5360,5002.9405,False
+APMC Hubballi,2024,Selling costs doubled,March plan,12528.8604,7022.6720,5506.1884,False
+APMC Hubballi,2024,Selling costs doubled,Monthly re-plan,11177.9096,7022.6720,4155.2376,False
+APMC Hubballi,2024,Selling costs doubled,Perfect foresight,12641.4976,7022.6720,5618.8256,False
+APMC Hubballi,2024,Half the harvest sold for cash,March plan,11683.0761,7604.5360,4078.5401,False
+APMC Hubballi,2024,Half the harvest sold for cash,Monthly re-plan,10946.0527,7604.5360,3341.5167,False
+APMC Hubballi,2024,Half the harvest sold for cash,Perfect foresight,11710.1133,7604.5360,4105.5773,False
+APMC Hubballi,2024,Curing takes 45 days,March plan,13160.2885,7604.5360,5555.7525,False
+APMC Hubballi,2024,Curing takes 45 days,Monthly re-plan,11797.5870,7604.5360,4193.0510,False
+APMC Hubballi,2024,Curing takes 45 days,Perfect foresight,13273.6845,7604.5360,5669.1485,False
+APMC Hubballi,2025,Base,March plan,8089.1563,9983.9020,-1894.7457,False
+APMC Hubballi,2025,Base,Monthly re-plan,9553.6327,9983.9020,-430.2693,False
+APMC Hubballi,2025,Base,Perfect foresight,10410.6607,9983.9020,426.7587,False
+APMC Hubballi,2025,Storage loss 5% a month,March plan,9093.2032,9983.9020,-890.6988,False
+APMC Hubballi,2025,Storage loss 5% a month,Monthly re-plan,9091.0879,9983.9020,-892.8141,False
+APMC Hubballi,2025,Storage loss 5% a month,Perfect foresight,10065.8755,9983.9020,81.9735,False
+APMC Hubballi,2025,Storage cost doubled,March plan,9983.9020,9983.9020,0.0000,False
+APMC Hubballi,2025,Storage cost doubled,Monthly re-plan,9983.9020,9983.9020,0.0000,False
+APMC Hubballi,2025,Storage cost doubled,Perfect foresight,9983.9020,9983.9020,0.0000,False
+APMC Hubballi,2025,Quality loss 2% a month,March plan,7757.3928,9983.9020,-2226.5092,False
+APMC Hubballi,2025,Quality loss 2% a month,Monthly re-plan,9281.1963,9983.9020,-702.7057,False
+APMC Hubballi,2025,Quality loss 2% a month,Perfect foresight,10216.6031,9983.9020,232.7011,False
+APMC Hubballi,2025,Selling costs doubled,March plan,7508.8505,9378.0040,-1869.1535,False
+APMC Hubballi,2025,Selling costs doubled,Monthly re-plan,8956.8917,9378.0040,-421.1123,False
+APMC Hubballi,2025,Selling costs doubled,Perfect foresight,9803.8586,9378.0040,425.8546,False
+APMC Hubballi,2025,Half the harvest sold for cash,March plan,8251.0648,9983.9020,-1732.8372,False
+APMC Hubballi,2025,Half the harvest sold for cash,Monthly re-plan,9716.3118,9983.9020,-267.5902,False
+APMC Hubballi,2025,Half the harvest sold for cash,Perfect foresight,10365.1592,9983.9020,381.2572,False
+APMC Hubballi,2025,Curing takes 45 days,March plan,8089.1563,9983.9020,-1894.7457,False
+APMC Hubballi,2025,Curing takes 45 days,Monthly re-plan,9553.6327,9983.9020,-430.2693,False
+APMC Hubballi,2025,Curing takes 45 days,Perfect foresight,10410.6607,9983.9020,426.7587,False
+APMC Lasalgaon,2020,Base,March plan,10748.0980,7859.2630,2888.8350,True
+APMC Lasalgaon,2020,Base,Monthly re-plan,6137.6857,7859.2630,-1721.5773,True
+APMC Lasalgaon,2020,Base,Perfect foresight,18424.1756,7859.2630,10564.9126,True
+APMC Lasalgaon,2020,Storage loss 5% a month,March plan,9498.8293,7859.2630,1639.5663,True
+APMC Lasalgaon,2020,Storage loss 5% a month,Monthly re-plan,6200.8499,7859.2630,-1658.4131,True
+APMC Lasalgaon,2020,Storage loss 5% a month,Perfect foresight,15362.4997,7859.2630,7503.2367,True
+APMC Lasalgaon,2020,Storage cost doubled,March plan,8937.5577,7859.2630,1078.2947,True
+APMC Lasalgaon,2020,Storage cost doubled,Monthly re-plan,4872.4155,7859.2630,-2986.8475,True
+APMC Lasalgaon,2020,Storage cost doubled,Perfect foresight,15416.6759,7859.2630,7557.4129,True
+APMC Lasalgaon,2020,Quality loss 2% a month,March plan,10221.1270,7859.2630,2361.8640,True
+APMC Lasalgaon,2020,Quality loss 2% a month,Monthly re-plan,6378.2197,7859.2630,-1481.0433,True
+APMC Lasalgaon,2020,Quality loss 2% a month,Perfect foresight,17090.4179,7859.2630,9231.1549,True
+APMC Lasalgaon,2020,Selling costs doubled,March plan,10141.0355,7274.8260,2866.2095,True
+APMC Lasalgaon,2020,Selling costs doubled,Monthly re-plan,5575.7114,7274.8260,-1699.1146,True
+APMC Lasalgaon,2020,Selling costs doubled,Perfect foresight,17742.4590,7274.8260,10467.6330,True
+APMC Lasalgaon,2020,Half the harvest sold for cash,March plan,9320.5091,7859.2630,1461.2461,True
+APMC Lasalgaon,2020,Half the harvest sold for cash,Monthly re-plan,6786.3239,7859.2630,-1072.9391,True
+APMC Lasalgaon,2020,Half the harvest sold for cash,Perfect foresight,15839.6372,7859.2630,7980.3742,True
+APMC Lasalgaon,2020,Curing takes 45 days,March plan,10748.0980,7859.2630,2888.8350,True
+APMC Lasalgaon,2020,Curing takes 45 days,Monthly re-plan,6137.6857,7859.2630,-1721.5773,True
+APMC Lasalgaon,2020,Curing takes 45 days,Perfect foresight,18424.1756,7859.2630,10564.9126,True
+APMC Lasalgaon,2021,Base,March plan,10506.4068,8355.8470,2150.5598,True
+APMC Lasalgaon,2021,Base,Monthly re-plan,10297.7951,8355.8470,1941.9481,True
+APMC Lasalgaon,2021,Base,Perfect foresight,14196.4259,8355.8470,5840.5789,True
+APMC Lasalgaon,2021,Storage loss 5% a month,March plan,8888.6820,8355.8470,532.8350,True
+APMC Lasalgaon,2021,Storage loss 5% a month,Monthly re-plan,8355.6357,8355.8470,-0.2113,True
+APMC Lasalgaon,2021,Storage loss 5% a month,Perfect foresight,12737.1109,8355.8470,4381.2639,True
+APMC Lasalgaon,2021,Storage cost doubled,March plan,8147.5899,8355.8470,-208.2571,True
+APMC Lasalgaon,2021,Storage cost doubled,Monthly re-plan,6857.2439,8355.8470,-1498.6031,True
+APMC Lasalgaon,2021,Storage cost doubled,Perfect foresight,12313.9075,8355.8470,3958.0605,True
+APMC Lasalgaon,2021,Quality loss 2% a month,March plan,9769.9671,8355.8470,1414.1201,True
+APMC Lasalgaon,2021,Quality loss 2% a month,Monthly re-plan,9370.4506,8355.8470,1014.6036,True
+APMC Lasalgaon,2021,Quality loss 2% a month,Perfect foresight,13571.1695,8355.8470,5215.3225,True
+APMC Lasalgaon,2021,Selling costs doubled,March plan,9902.0782,7766.3940,2135.6842,True
+APMC Lasalgaon,2021,Selling costs doubled,Monthly re-plan,9699.5219,7766.3940,1933.1279,True
+APMC Lasalgaon,2021,Selling costs doubled,Perfect foresight,13553.8981,7766.3940,5787.5041,True
+APMC Lasalgaon,2021,Half the harvest sold for cash,March plan,9579.2126,8355.8470,1223.3656,True
+APMC Lasalgaon,2021,Half the harvest sold for cash,Monthly re-plan,9938.0971,8355.8470,1582.2501,True
+APMC Lasalgaon,2021,Half the harvest sold for cash,Perfect foresight,12909.0314,8355.8470,4553.1844,True
+APMC Lasalgaon,2021,Curing takes 45 days,March plan,10506.4068,8355.8470,2150.5598,True
+APMC Lasalgaon,2021,Curing takes 45 days,Monthly re-plan,10297.7951,8355.8470,1941.9481,True
+APMC Lasalgaon,2021,Curing takes 45 days,Perfect foresight,14196.4259,8355.8470,5840.5789,True
+APMC Lasalgaon,2022,Base,March plan,8824.4328,8214.6730,609.7598,True
+APMC Lasalgaon,2022,Base,Monthly re-plan,8509.4881,8214.6730,294.8151,True
+APMC Lasalgaon,2022,Base,Perfect foresight,10323.7490,8214.6730,2109.0760,True
+APMC Lasalgaon,2022,Storage loss 5% a month,March plan,7288.2283,8214.6730,-926.4447,True
+APMC Lasalgaon,2022,Storage loss 5% a month,Monthly re-plan,7630.3318,8214.6730,-584.3412,True
+APMC Lasalgaon,2022,Storage loss 5% a month,Perfect foresight,8818.6606,8214.6730,603.9876,True
+APMC Lasalgaon,2022,Storage cost doubled,March plan,6121.2994,8214.6730,-2093.3736,True
+APMC Lasalgaon,2022,Storage cost doubled,Monthly re-plan,6365.8805,8214.6730,-1848.7925,True
+APMC Lasalgaon,2022,Storage cost doubled,Perfect foresight,8342.9849,8214.6730,128.3119,True
+APMC Lasalgaon,2022,Quality loss 2% a month,March plan,8262.8388,8214.6730,48.1658,True
+APMC Lasalgaon,2022,Quality loss 2% a month,Monthly re-plan,8379.4651,8214.6730,164.7921,True
+APMC Lasalgaon,2022,Quality loss 2% a month,Perfect foresight,9561.4142,8214.6730,1346.7412,True
+APMC Lasalgaon,2022,Selling costs doubled,March plan,8238.4696,7626.6460,611.8236,True
+APMC Lasalgaon,2022,Selling costs doubled,Monthly re-plan,7929.1783,7626.6460,302.5323,True
+APMC Lasalgaon,2022,Selling costs doubled,Perfect foresight,9723.7102,7626.6460,2097.0642,True
+APMC Lasalgaon,2022,Half the harvest sold for cash,March plan,8981.4034,8214.6730,766.7304,True
+APMC Lasalgaon,2022,Half the harvest sold for cash,Monthly re-plan,8912.9162,8214.6730,698.2432,True
+APMC Lasalgaon,2022,Half the harvest sold for cash,Perfect foresight,9746.2363,8214.6730,1531.5633,True
+APMC Lasalgaon,2022,Curing takes 45 days,March plan,8824.4328,8214.6730,609.7598,True
+APMC Lasalgaon,2022,Curing takes 45 days,Monthly re-plan,8509.4881,8214.6730,294.8151,True
+APMC Lasalgaon,2022,Curing takes 45 days,Perfect foresight,10323.7490,8214.6730,2109.0760,True
+APMC Lasalgaon,2023,Base,March plan,17000.0569,5829.2680,11170.7889,True
+APMC Lasalgaon,2023,Base,Monthly re-plan,16985.9173,5829.2680,11156.6493,True
+APMC Lasalgaon,2023,Base,Perfect foresight,17000.0569,5829.2680,11170.7889,True
+APMC Lasalgaon,2023,Storage loss 5% a month,March plan,11520.7389,5829.2680,5691.4709,True
+APMC Lasalgaon,2023,Storage loss 5% a month,Monthly re-plan,13650.2306,5829.2680,7820.9626,True
+APMC Lasalgaon,2023,Storage loss 5% a month,Perfect foresight,14129.7286,5829.2680,8300.4606,True
+APMC Lasalgaon,2023,Storage cost doubled,March plan,10890.0835,5829.2680,5060.8155,True
+APMC Lasalgaon,2023,Storage cost doubled,Monthly re-plan,11270.2928,5829.2680,5441.0248,True
+APMC Lasalgaon,2023,Storage cost doubled,Perfect foresight,13993.5103,5829.2680,8164.2423,True
+APMC Lasalgaon,2023,Quality loss 2% a month,March plan,15703.4775,5829.2680,9874.2095,True
+APMC Lasalgaon,2023,Quality loss 2% a month,Monthly re-plan,15695.1447,5829.2680,9865.8767,True
+APMC Lasalgaon,2023,Quality loss 2% a month,Perfect foresight,15703.4775,5829.2680,9874.2095,True
+APMC Lasalgaon,2023,Selling costs doubled,March plan,16332.7253,5265.3360,11067.3893,True
+APMC Lasalgaon,2023,Selling costs doubled,Monthly re-plan,16318.6812,5265.3360,11053.3452,True
+APMC Lasalgaon,2023,Selling costs doubled,Perfect foresight,16332.7253,5265.3360,11067.3893,True
+APMC Lasalgaon,2023,Half the harvest sold for cash,March plan,13484.3101,5829.2680,7655.0421,True
+APMC Lasalgaon,2023,Half the harvest sold for cash,Monthly re-plan,13484.3101,5829.2680,7655.0421,True
+APMC Lasalgaon,2023,Half the harvest sold for cash,Perfect foresight,14400.3830,5829.2680,8571.1150,True
+APMC Lasalgaon,2023,Curing takes 45 days,March plan,17000.0569,5829.2680,11170.7889,True
+APMC Lasalgaon,2023,Curing takes 45 days,Monthly re-plan,16985.9173,5829.2680,11156.6493,True
+APMC Lasalgaon,2023,Curing takes 45 days,Perfect foresight,17000.0569,5829.2680,11170.7889,True
+APMC Lasalgaon,2024,Base,March plan,24712.8691,12931.3300,11781.5391,True
+APMC Lasalgaon,2024,Base,Monthly re-plan,22723.5644,12931.3300,9792.2344,True
+APMC Lasalgaon,2024,Base,Perfect foresight,26371.1430,12931.3300,13439.8130,True
+APMC Lasalgaon,2024,Storage loss 5% a month,March plan,21480.3261,12931.3300,8548.9961,True
+APMC Lasalgaon,2024,Storage loss 5% a month,Monthly re-plan,19395.8081,12931.3300,6464.4781,True
+APMC Lasalgaon,2024,Storage loss 5% a month,Perfect foresight,22335.3214,12931.3300,9403.9914,True
+APMC Lasalgaon,2024,Storage cost doubled,March plan,22333.7863,12931.3300,9402.4563,True
+APMC Lasalgaon,2024,Storage cost doubled,Monthly re-plan,19696.9744,12931.3300,6765.6444,True
+APMC Lasalgaon,2024,Storage cost doubled,Perfect foresight,23576.5464,12931.3300,10645.2164,True
+APMC Lasalgaon,2024,Quality loss 2% a month,March plan,23385.6384,12931.3300,10454.3084,True
+APMC Lasalgaon,2024,Quality loss 2% a month,Monthly re-plan,21539.4171,12931.3300,8608.0871,True
+APMC Lasalgaon,2024,Quality loss 2% a month,Perfect foresight,24730.6572,12931.3300,11799.3272,True
+APMC Lasalgaon,2024,Selling costs doubled,March plan,23966.2027,12295.6600,11670.5427,True
+APMC Lasalgaon,2024,Selling costs doubled,Monthly re-plan,21996.5711,12295.6600,9700.9111,True
+APMC Lasalgaon,2024,Selling costs doubled,Perfect foresight,25608.5416,12295.6600,13312.8816,True
+APMC Lasalgaon,2024,Half the harvest sold for cash,March plan,21933.2457,12931.3300,9001.9157,True
+APMC Lasalgaon,2024,Half the harvest sold for cash,Monthly re-plan,19862.8526,12931.3300,6931.5226,True
+APMC Lasalgaon,2024,Half the harvest sold for cash,Perfect foresight,22750.8133,12931.3300,9819.4833,True
+APMC Lasalgaon,2024,Curing takes 45 days,March plan,24712.8691,12931.3300,11781.5391,True
+APMC Lasalgaon,2024,Curing takes 45 days,Monthly re-plan,22723.5644,12931.3300,9792.2344,True
+APMC Lasalgaon,2024,Curing takes 45 days,Perfect foresight,26371.1430,12931.3300,13439.8130,True
+APMC Lasalgaon,2025,Base,March plan,8988.5131,11378.3170,-2389.8039,True
+APMC Lasalgaon,2025,Base,Monthly re-plan,7650.7853,11378.3170,-3727.5317,True
+APMC Lasalgaon,2025,Base,Perfect foresight,11757.8879,11378.3170,379.5709,True
+APMC Lasalgaon,2025,Storage loss 5% a month,March plan,8070.2164,11378.3170,-3308.1006,True
+APMC Lasalgaon,2025,Storage loss 5% a month,Monthly re-plan,6451.7323,11378.3170,-4926.5847,True
+APMC Lasalgaon,2025,Storage loss 5% a month,Perfect foresight,11496.0283,11378.3170,117.7113,True
+APMC Lasalgaon,2025,Storage cost doubled,March plan,7140.6156,11378.3170,-4237.7014,True
+APMC Lasalgaon,2025,Storage cost doubled,Monthly re-plan,4788.7819,11378.3170,-6589.5351,True
+APMC Lasalgaon,2025,Storage cost doubled,Perfect foresight,11378.3170,11378.3170,0.0000,True
+APMC Lasalgaon,2025,Quality loss 2% a month,March plan,8603.4202,11378.3170,-2774.8968,True
+APMC Lasalgaon,2025,Quality loss 2% a month,Monthly re-plan,7125.7683,11378.3170,-4252.5487,True
+APMC Lasalgaon,2025,Quality loss 2% a month,Perfect foresight,11665.9753,11378.3170,287.6583,True
+APMC Lasalgaon,2025,Selling costs doubled,March plan,8399.5168,10758.3340,-2358.8172,True
+APMC Lasalgaon,2025,Selling costs doubled,Monthly re-plan,7077.8908,10758.3340,-3680.4432,True
+APMC Lasalgaon,2025,Selling costs doubled,Perfect foresight,11135.4259,10758.3340,377.0919,True
+APMC Lasalgaon,2025,Half the harvest sold for cash,March plan,9535.5475,11378.3170,-1842.7695,True
+APMC Lasalgaon,2025,Half the harvest sold for cash,Monthly re-plan,8610.2898,11378.3170,-2768.0272,True
+APMC Lasalgaon,2025,Half the harvest sold for cash,Perfect foresight,11757.8879,11378.3170,379.5709,True
+APMC Lasalgaon,2025,Curing takes 45 days,March plan,8988.5131,11378.3170,-2389.8039,True
+APMC Lasalgaon,2025,Curing takes 45 days,Monthly re-plan,7650.7853,11378.3170,-3727.5317,True
+APMC Lasalgaon,2025,Curing takes 45 days,Perfect foresight,11757.8879,11378.3170,379.5709,True
+APMC Solapur,2020,Base,March plan,5675.8755,6648.5920,-972.7165,False
+APMC Solapur,2020,Base,Monthly re-plan,3792.0870,6648.5920,-2856.5050,False
+APMC Solapur,2020,Base,Perfect foresight,10249.0238,6648.5920,3600.4318,False
+APMC Solapur,2020,Storage loss 5% a month,March plan,4963.1212,6648.5920,-1685.4708,False
+APMC Solapur,2020,Storage loss 5% a month,Monthly re-plan,4931.4036,6648.5920,-1717.1884,False
+APMC Solapur,2020,Storage loss 5% a month,Perfect foresight,8419.3776,6648.5920,1770.7856,False
+APMC Solapur,2020,Storage cost doubled,March plan,4460.5100,6648.5920,-2188.0820,False
+APMC Solapur,2020,Storage cost doubled,Monthly re-plan,5534.2574,6648.5920,-1114.3346,False
+APMC Solapur,2020,Storage cost doubled,Perfect foresight,7282.8840,6648.5920,634.2920,False
+APMC Solapur,2020,Quality loss 2% a month,March plan,5398.8163,6648.5920,-1249.7757,False
+APMC Solapur,2020,Quality loss 2% a month,Monthly re-plan,3687.5794,6648.5920,-2961.0126,False
+APMC Solapur,2020,Quality loss 2% a month,Perfect foresight,9432.7559,6648.5920,2784.1639,False
+APMC Solapur,2020,Selling costs doubled,March plan,5119.7381,6076.3840,-956.6459,False
+APMC Solapur,2020,Selling costs doubled,Monthly re-plan,3252.9638,6076.3840,-2823.4202,False
+APMC Solapur,2020,Selling costs doubled,Perfect foresight,9650.0214,6076.3840,3573.6374,False
+APMC Solapur,2020,Half the harvest sold for cash,March plan,5520.8053,6648.5920,-1127.7867,False
+APMC Solapur,2020,Half the harvest sold for cash,Monthly re-plan,4428.4144,6648.5920,-2220.1776,False
+APMC Solapur,2020,Half the harvest sold for cash,Perfect foresight,9361.3386,6648.5920,2712.7466,False
+APMC Solapur,2020,Curing takes 45 days,March plan,5675.8755,6648.5920,-972.7165,False
+APMC Solapur,2020,Curing takes 45 days,Monthly re-plan,3792.0870,6648.5920,-2856.5050,False
+APMC Solapur,2020,Curing takes 45 days,Perfect foresight,10249.0238,6648.5920,3600.4318,False
+APMC Solapur,2021,Base,March plan,5169.5972,4913.0230,256.5742,False
+APMC Solapur,2021,Base,Monthly re-plan,7587.0660,4913.0230,2674.0430,False
+APMC Solapur,2021,Base,Perfect foresight,9435.0012,4913.0230,4521.9782,False
+APMC Solapur,2021,Storage loss 5% a month,March plan,4425.8608,4913.0230,-487.1622,False
+APMC Solapur,2021,Storage loss 5% a month,Monthly re-plan,4948.8966,4913.0230,35.8736,False
+APMC Solapur,2021,Storage loss 5% a month,Perfect foresight,7650.9003,4913.0230,2737.8773,False
+APMC Solapur,2021,Storage cost doubled,March plan,4913.0230,4913.0230,0.0000,False
+APMC Solapur,2021,Storage cost doubled,Monthly re-plan,4913.0230,4913.0230,0.0000,False
+APMC Solapur,2021,Storage cost doubled,Perfect foresight,6458.0873,4913.0230,1545.0643,False
+APMC Solapur,2021,Quality loss 2% a month,March plan,4822.8297,4913.0230,-90.1933,False
+APMC Solapur,2021,Quality loss 2% a month,Monthly re-plan,6813.3148,4913.0230,1900.2918,False
+APMC Solapur,2021,Quality loss 2% a month,Perfect foresight,8646.4930,4913.0230,3733.4700,False
+APMC Solapur,2021,Selling costs doubled,March plan,4618.8831,4358.3460,260.5371,False
+APMC Solapur,2021,Selling costs doubled,Monthly re-plan,7012.9665,4358.3460,2654.6205,False
+APMC Solapur,2021,Selling costs doubled,Perfect foresight,8844.2212,4358.3460,4485.8752,False
+APMC Solapur,2021,Half the harvest sold for cash,March plan,4968.0293,4913.0230,55.0063,False
+APMC Solapur,2021,Half the harvest sold for cash,Monthly re-plan,7141.7993,4913.0230,2228.7763,False
+APMC Solapur,2021,Half the harvest sold for cash,Perfect foresight,8251.0685,4913.0230,3338.0455,False
+APMC Solapur,2021,Curing takes 45 days,March plan,5169.5972,4913.0230,256.5742,False
+APMC Solapur,2021,Curing takes 45 days,Monthly re-plan,7587.0660,4913.0230,2674.0430,False
+APMC Solapur,2021,Curing takes 45 days,Perfect foresight,9435.0012,4913.0230,4521.9782,False
+APMC Solapur,2022,Base,March plan,5888.5345,5959.3540,-70.8195,False
+APMC Solapur,2022,Base,Monthly re-plan,6263.7080,5959.3540,304.3540,False
+APMC Solapur,2022,Base,Perfect foresight,6843.9961,5959.3540,884.6421,False
+APMC Solapur,2022,Storage loss 5% a month,March plan,4400.4974,5959.3540,-1558.8566,False
+APMC Solapur,2022,Storage loss 5% a month,Monthly re-plan,5310.4047,5959.3540,-648.9493,False
+APMC Solapur,2022,Storage loss 5% a month,Perfect foresight,6134.0404,5959.3540,174.6864,False
+APMC Solapur,2022,Storage cost doubled,March plan,3131.9540,5959.3540,-2827.4000,False
+APMC Solapur,2022,Storage cost doubled,Monthly re-plan,4037.4921,5959.3540,-1921.8619,False
+APMC Solapur,2022,Storage cost doubled,Perfect foresight,5959.3540,5959.3540,0.0000,False
+APMC Solapur,2022,Quality loss 2% a month,March plan,4911.3837,5959.3540,-1047.9703,False
+APMC Solapur,2022,Quality loss 2% a month,Monthly re-plan,5857.7826,5959.3540,-101.5714,False
+APMC Solapur,2022,Quality loss 2% a month,Perfect foresight,6485.3694,5959.3540,526.0154,False
+APMC Solapur,2022,Selling costs doubled,March plan,5332.0128,5394.1080,-62.0952,False
+APMC Solapur,2022,Selling costs doubled,Monthly re-plan,5702.9758,5394.1080,308.8678,False
+APMC Solapur,2022,Selling costs doubled,Perfect foresight,6276.2934,5394.1080,882.1854,False
+APMC Solapur,2022,Half the harvest sold for cash,March plan,5651.0620,5959.3540,-308.2920,False
+APMC Solapur,2022,Half the harvest sold for cash,Monthly re-plan,6378.9916,5959.3540,419.6376,False
+APMC Solapur,2022,Half the harvest sold for cash,Perfect foresight,6658.4604,5959.3540,699.1064,False
+APMC Solapur,2022,Curing takes 45 days,March plan,5888.5345,5959.3540,-70.8195,False
+APMC Solapur,2022,Curing takes 45 days,Monthly re-plan,6263.7080,5959.3540,304.3540,False
+APMC Solapur,2022,Curing takes 45 days,Perfect foresight,6843.9961,5959.3540,884.6421,False
+APMC Solapur,2023,Base,March plan,10756.3873,3502.4710,7253.9163,False
+APMC Solapur,2023,Base,Monthly re-plan,9728.7353,3502.4710,6226.2643,False
+APMC Solapur,2023,Base,Perfect foresight,13154.0275,3502.4710,9651.5565,False
+APMC Solapur,2023,Storage loss 5% a month,March plan,6965.4644,3502.4710,3462.9934,False
+APMC Solapur,2023,Storage loss 5% a month,Monthly re-plan,7718.4878,3502.4710,4216.0168,False
+APMC Solapur,2023,Storage loss 5% a month,Perfect foresight,10697.7479,3502.4710,7195.2769,False
+APMC Solapur,2023,Storage cost doubled,March plan,5243.3794,3502.4710,1740.9084,False
+APMC Solapur,2023,Storage cost doubled,Monthly re-plan,3941.7984,3502.4710,439.3274,False
+APMC Solapur,2023,Storage cost doubled,Perfect foresight,10146.5278,3502.4710,6644.0568,False
+APMC Solapur,2023,Quality loss 2% a month,March plan,10021.2528,3502.4710,6518.7818,False
+APMC Solapur,2023,Quality loss 2% a month,Monthly re-plan,9066.3401,3502.4710,5563.8691,False
+APMC Solapur,2023,Quality loss 2% a month,Perfect foresight,12080.8955,3502.4710,8578.4245,False
+APMC Solapur,2023,Selling costs doubled,March plan,10150.6954,2962.0420,7188.6534,False
+APMC Solapur,2023,Selling costs doubled,Monthly re-plan,9133.0028,2962.0420,6170.9608,False
+APMC Solapur,2023,Selling costs doubled,Perfect foresight,12525.5447,2962.0420,9563.5027,False
+APMC Solapur,2023,Half the harvest sold for cash,March plan,8522.7657,3502.4710,5020.2947,False
+APMC Solapur,2023,Half the harvest sold for cash,Monthly re-plan,7085.2870,3502.4710,3582.8160,False
+APMC Solapur,2023,Half the harvest sold for cash,Perfect foresight,10709.1304,3502.4710,7206.6594,False
+APMC Solapur,2023,Curing takes 45 days,March plan,10756.3873,3502.4710,7253.9163,False
+APMC Solapur,2023,Curing takes 45 days,Monthly re-plan,9728.7353,3502.4710,6226.2643,False
+APMC Solapur,2023,Curing takes 45 days,Perfect foresight,13154.0275,3502.4710,9651.5565,False
+APMC Solapur,2024,Base,March plan,20111.8053,11286.3460,8825.4593,False
+APMC Solapur,2024,Base,Monthly re-plan,16617.8251,11286.3460,5331.4791,False
+APMC Solapur,2024,Base,Perfect foresight,20429.8987,11286.3460,9143.5527,False
+APMC Solapur,2024,Storage loss 5% a month,March plan,18094.8170,11286.3460,6808.4710,False
+APMC Solapur,2024,Storage loss 5% a month,Monthly re-plan,14205.7488,11286.3460,2919.4028,False
+APMC Solapur,2024,Storage loss 5% a month,Perfect foresight,18094.8170,11286.3460,6808.4710,False
+APMC Solapur,2024,Storage cost doubled,March plan,14849.0756,11286.3460,3562.7296,False
+APMC Solapur,2024,Storage cost doubled,Monthly re-plan,13620.9056,11286.3460,2334.5596,False
+APMC Solapur,2024,Storage cost doubled,Perfect foresight,18353.6733,11286.3460,7067.3273,False
+APMC Solapur,2024,Quality loss 2% a month,March plan,19525.3501,11286.3460,8239.0041,False
+APMC Solapur,2024,Quality loss 2% a month,Monthly re-plan,17682.8172,11286.3460,6396.4712,False
+APMC Solapur,2024,Quality loss 2% a month,Perfect foresight,19525.3501,11286.3460,8239.0041,False
+APMC Solapur,2024,Selling costs doubled,March plan,19410.4525,10667.2920,8743.1605,False
+APMC Solapur,2024,Selling costs doubled,Monthly re-plan,15952.0301,10667.2920,5284.7381,False
+APMC Solapur,2024,Selling costs doubled,Perfect foresight,19725.0401,10667.2920,9057.7481,False
+APMC Solapur,2024,Half the harvest sold for cash,March plan,18088.2478,11286.3460,6801.9018,False
+APMC Solapur,2024,Half the harvest sold for cash,Monthly re-plan,15784.1391,11286.3460,4497.7931,False
+APMC Solapur,2024,Half the harvest sold for cash,Perfect foresight,18088.2478,11286.3460,6801.9018,False
+APMC Solapur,2024,Curing takes 45 days,March plan,20111.8053,11286.3460,8825.4593,False
+APMC Solapur,2024,Curing takes 45 days,Monthly re-plan,16617.8251,11286.3460,5331.4791,False
+APMC Solapur,2024,Curing takes 45 days,Perfect foresight,20429.8987,11286.3460,9143.5527,False
+APMC Solapur,2025,Base,March plan,6482.6103,8171.8060,-1689.1957,False
+APMC Solapur,2025,Base,Monthly re-plan,5339.0402,8171.8060,-2832.7658,False
+APMC Solapur,2025,Base,Perfect foresight,8171.8060,8171.8060,0.0000,False
+APMC Solapur,2025,Storage loss 5% a month,March plan,5633.5757,8171.8060,-2538.2303,False
+APMC Solapur,2025,Storage loss 5% a month,Monthly re-plan,5668.8780,8171.8060,-2502.9280,False
+APMC Solapur,2025,Storage loss 5% a month,Perfect foresight,8171.8060,8171.8060,0.0000,False
+APMC Solapur,2025,Storage cost doubled,March plan,5989.0206,8171.8060,-2182.7854,False
+APMC Solapur,2025,Storage cost doubled,Monthly re-plan,6669.5210,8171.8060,-1502.2850,False
+APMC Solapur,2025,Storage cost doubled,Perfect foresight,8171.8060,8171.8060,0.0000,False
+APMC Solapur,2025,Quality loss 2% a month,March plan,6187.7106,8171.8060,-1984.0954,False
+APMC Solapur,2025,Quality loss 2% a month,Monthly re-plan,5976.0263,8171.8060,-2195.7797,False
+APMC Solapur,2025,Quality loss 2% a month,Perfect foresight,8171.8060,8171.8060,0.0000,False
+APMC Solapur,2025,Selling costs doubled,March plan,5918.6335,7584.2120,-1665.5785,False
+APMC Solapur,2025,Selling costs doubled,Monthly re-plan,4789.6336,7584.2120,-2794.5784,False
+APMC Solapur,2025,Selling costs doubled,Perfect foresight,7584.2120,7584.2120,0.0000,False
+APMC Solapur,2025,Half the harvest sold for cash,March plan,6793.0711,8171.8060,-1378.7349,False
+APMC Solapur,2025,Half the harvest sold for cash,Monthly re-plan,6308.9251,8171.8060,-1862.8809,False
+APMC Solapur,2025,Half the harvest sold for cash,Perfect foresight,8171.8060,8171.8060,0.0000,False
+APMC Solapur,2025,Curing takes 45 days,March plan,6482.6103,8171.8060,-1689.1957,False
+APMC Solapur,2025,Curing takes 45 days,Monthly re-plan,5339.0402,8171.8060,-2832.7658,False
+APMC Solapur,2025,Curing takes 45 days,Perfect foresight,8171.8060,8171.8060,0.0000,False
+Bara Bazar (Posta Bazar) APMC,2020,Base,March plan,15955.3199,14912.0230,1043.2969,False
+Bara Bazar (Posta Bazar) APMC,2020,Base,Monthly re-plan,23284.1984,14912.0230,8372.1754,False
+Bara Bazar (Posta Bazar) APMC,2020,Base,Perfect foresight,28250.6967,14912.0230,13338.6737,False
+Bara Bazar (Posta Bazar) APMC,2020,Storage loss 5% a month,March plan,13147.9047,14912.0230,-1764.1183,False
+Bara Bazar (Posta Bazar) APMC,2020,Storage loss 5% a month,Monthly re-plan,17715.8964,14912.0230,2803.8734,False
+Bara Bazar (Posta Bazar) APMC,2020,Storage loss 5% a month,Perfect foresight,23650.3491,14912.0230,8738.3261,False
+Bara Bazar (Posta Bazar) APMC,2020,Storage cost doubled,March plan,13773.0765,14912.0230,-1138.9465,False
+Bara Bazar (Posta Bazar) APMC,2020,Storage cost doubled,Monthly re-plan,12129.0247,14912.0230,-2782.9983,False
+Bara Bazar (Posta Bazar) APMC,2020,Storage cost doubled,Perfect foresight,25229.1100,14912.0230,10317.0870,False
+Bara Bazar (Posta Bazar) APMC,2020,Quality loss 2% a month,March plan,15242.5432,14912.0230,330.5202,False
+Bara Bazar (Posta Bazar) APMC,2020,Quality loss 2% a month,Monthly re-plan,18728.6145,14912.0230,3816.5915,False
+Bara Bazar (Posta Bazar) APMC,2020,Quality loss 2% a month,Perfect foresight,26359.7932,14912.0230,11447.7702,False
+Bara Bazar (Posta Bazar) APMC,2020,Selling costs doubled,March plan,15295.9518,14256.3460,1039.6058,False
+Bara Bazar (Posta Bazar) APMC,2020,Selling costs doubled,Monthly re-plan,22552.4724,14256.3460,8296.1264,False
+Bara Bazar (Posta Bazar) APMC,2020,Selling costs doubled,Perfect foresight,27469.8592,14256.3460,13213.5132,False
+Bara Bazar (Posta Bazar) APMC,2020,Half the harvest sold for cash,March plan,14128.3302,14912.0230,-783.6928,False
+Bara Bazar (Posta Bazar) APMC,2020,Half the harvest sold for cash,Monthly re-plan,22456.4814,14912.0230,7544.4584,False
+Bara Bazar (Posta Bazar) APMC,2020,Half the harvest sold for cash,Perfect foresight,24674.5230,14912.0230,9762.5000,False
+Bara Bazar (Posta Bazar) APMC,2020,Curing takes 45 days,March plan,15955.3199,14912.0230,1043.2969,False
+Bara Bazar (Posta Bazar) APMC,2020,Curing takes 45 days,Monthly re-plan,23284.1984,14912.0230,8372.1754,False
+Bara Bazar (Posta Bazar) APMC,2020,Curing takes 45 days,Perfect foresight,28250.6967,14912.0230,13338.6737,False
+Bara Bazar (Posta Bazar) APMC,2021,Base,March plan,18280.6662,13664.6230,4616.0432,False
+Bara Bazar (Posta Bazar) APMC,2021,Base,Monthly re-plan,17059.7981,13664.6230,3395.1751,False
+Bara Bazar (Posta Bazar) APMC,2021,Base,Perfect foresight,19097.5955,13664.6230,5432.9725,False
+Bara Bazar (Posta Bazar) APMC,2021,Storage loss 5% a month,March plan,14122.1550,13664.6230,457.5320,False
+Bara Bazar (Posta Bazar) APMC,2021,Storage loss 5% a month,Monthly re-plan,12998.5972,13664.6230,-666.0258,False
+Bara Bazar (Posta Bazar) APMC,2021,Storage loss 5% a month,Perfect foresight,17112.2170,13664.6230,3447.5940,False
+Bara Bazar (Posta Bazar) APMC,2021,Storage cost doubled,March plan,13922.2390,13664.6230,257.6160,False
+Bara Bazar (Posta Bazar) APMC,2021,Storage cost doubled,Monthly re-plan,14839.9120,13664.6230,1175.2890,False
+Bara Bazar (Posta Bazar) APMC,2021,Storage cost doubled,Perfect foresight,17172.5071,13664.6230,3507.8841,False
+Bara Bazar (Posta Bazar) APMC,2021,Quality loss 2% a month,March plan,17367.4452,13664.6230,3702.8222,False
+Bara Bazar (Posta Bazar) APMC,2021,Quality loss 2% a month,Monthly re-plan,15718.5055,13664.6230,2053.8825,False
+Bara Bazar (Posta Bazar) APMC,2021,Quality loss 2% a month,Perfect foresight,18301.5707,13664.6230,4636.9477,False
+Bara Bazar (Posta Bazar) APMC,2021,Selling costs doubled,March plan,17598.3852,13021.5460,4576.8392,False
+Bara Bazar (Posta Bazar) APMC,2021,Selling costs doubled,Monthly re-plan,16393.1933,13021.5460,3371.6473,False
+Bara Bazar (Posta Bazar) APMC,2021,Selling costs doubled,Perfect foresight,18405.9929,13021.5460,5384.4469,False
+Bara Bazar (Posta Bazar) APMC,2021,Half the harvest sold for cash,March plan,16788.9516,13664.6230,3124.3286,False
+Bara Bazar (Posta Bazar) APMC,2021,Half the harvest sold for cash,Monthly re-plan,15946.9443,13664.6230,2282.3213,False
+Bara Bazar (Posta Bazar) APMC,2021,Half the harvest sold for cash,Perfect foresight,17793.4425,13664.6230,4128.8195,False
+Bara Bazar (Posta Bazar) APMC,2021,Curing takes 45 days,March plan,18280.6662,13664.6230,4616.0432,False
+Bara Bazar (Posta Bazar) APMC,2021,Curing takes 45 days,Monthly re-plan,17059.7981,13664.6230,3395.1751,False
+Bara Bazar (Posta Bazar) APMC,2021,Curing takes 45 days,Perfect foresight,19097.5955,13664.6230,5432.9725,False
+Bara Bazar (Posta Bazar) APMC,2022,Base,March plan,15194.6833,12830.3500,2364.3333,False
+Bara Bazar (Posta Bazar) APMC,2022,Base,Monthly re-plan,12430.1881,12830.3500,-400.1619,False
+Bara Bazar (Posta Bazar) APMC,2022,Base,Perfect foresight,15246.0855,12830.3500,2415.7355,False
+Bara Bazar (Posta Bazar) APMC,2022,Storage loss 5% a month,March plan,12954.9008,12830.3500,124.5508,False
+Bara Bazar (Posta Bazar) APMC,2022,Storage loss 5% a month,Monthly re-plan,9632.6847,12830.3500,-3197.6653,False
+Bara Bazar (Posta Bazar) APMC,2022,Storage loss 5% a month,Perfect foresight,13365.2308,12830.3500,534.8808,False
+Bara Bazar (Posta Bazar) APMC,2022,Storage cost doubled,March plan,12187.1836,12830.3500,-643.1664,False
+Bara Bazar (Posta Bazar) APMC,2022,Storage cost doubled,Monthly re-plan,8889.0837,12830.3500,-3941.2663,False
+Bara Bazar (Posta Bazar) APMC,2022,Storage cost doubled,Perfect foresight,13123.4615,12830.3500,293.1115,False
+Bara Bazar (Posta Bazar) APMC,2022,Quality loss 2% a month,March plan,14184.0893,12830.3500,1353.7393,False
+Bara Bazar (Posta Bazar) APMC,2022,Quality loss 2% a month,Monthly re-plan,11348.5481,12830.3500,-1481.8019,False
+Bara Bazar (Posta Bazar) APMC,2022,Quality loss 2% a month,Perfect foresight,14242.5756,12830.3500,1412.2256,False
+Bara Bazar (Posta Bazar) APMC,2022,Selling costs doubled,March plan,14545.5878,12195.7000,2349.8878,False
+Bara Bazar (Posta Bazar) APMC,2022,Selling costs doubled,Monthly re-plan,11810.4183,12195.7000,-385.2817,False
+Bara Bazar (Posta Bazar) APMC,2022,Selling costs doubled,Perfect foresight,14596.3752,12195.7000,2400.6752,False
+Bara Bazar (Posta Bazar) APMC,2022,Half the harvest sold for cash,March plan,14833.2826,12830.3500,2002.9326,False
+Bara Bazar (Posta Bazar) APMC,2022,Half the harvest sold for cash,Monthly re-plan,11959.1079,12830.3500,-871.2421,False
+Bara Bazar (Posta Bazar) APMC,2022,Half the harvest sold for cash,Perfect foresight,14833.2826,12830.3500,2002.9326,False
+Bara Bazar (Posta Bazar) APMC,2022,Curing takes 45 days,March plan,15194.6833,12830.3500,2364.3333,False
+Bara Bazar (Posta Bazar) APMC,2022,Curing takes 45 days,Monthly re-plan,12430.1881,12830.3500,-400.1619,False
+Bara Bazar (Posta Bazar) APMC,2022,Curing takes 45 days,Perfect foresight,15246.0855,12830.3500,2415.7355,False
+Bara Bazar (Posta Bazar) APMC,2023,Base,March plan,24100.6686,13223.6770,10876.9916,False
+Bara Bazar (Posta Bazar) APMC,2023,Base,Monthly re-plan,20044.0112,13223.6770,6820.3342,False
+Bara Bazar (Posta Bazar) APMC,2023,Base,Perfect foresight,24558.3697,13223.6770,11334.6927,False
+Bara Bazar (Posta Bazar) APMC,2023,Storage loss 5% a month,March plan,19378.3249,13223.6770,6154.6479,False
+Bara Bazar (Posta Bazar) APMC,2023,Storage loss 5% a month,Monthly re-plan,20721.1186,13223.6770,7497.4416,False
+Bara Bazar (Posta Bazar) APMC,2023,Storage loss 5% a month,Perfect foresight,20817.9984,13223.6770,7594.3214,False
+Bara Bazar (Posta Bazar) APMC,2023,Storage cost doubled,March plan,21093.1689,13223.6770,7869.4919,False
+Bara Bazar (Posta Bazar) APMC,2023,Storage cost doubled,Monthly re-plan,21093.1689,13223.6770,7869.4919,False
+Bara Bazar (Posta Bazar) APMC,2023,Storage cost doubled,Perfect foresight,21158.7703,13223.6770,7935.0933,False
+Bara Bazar (Posta Bazar) APMC,2023,Quality loss 2% a month,March plan,22451.8550,13223.6770,9228.1780,False
+Bara Bazar (Posta Bazar) APMC,2023,Quality loss 2% a month,Monthly re-plan,22451.8550,13223.6770,9228.1780,False
+Bara Bazar (Posta Bazar) APMC,2023,Quality loss 2% a month,Perfect foresight,22609.5621,13223.6770,9385.8851,False
+Bara Bazar (Posta Bazar) APMC,2023,Selling costs doubled,March plan,23361.6137,12585.0540,10776.5597,False
+Bara Bazar (Posta Bazar) APMC,2023,Selling costs doubled,Monthly re-plan,19346.5915,12585.0540,6761.5375,False
+Bara Bazar (Posta Bazar) APMC,2023,Selling costs doubled,Perfect foresight,23816.0931,12585.0540,11231.0391,False
+Bara Bazar (Posta Bazar) APMC,2023,Half the harvest sold for cash,March plan,19957.3391,13223.6770,6733.6621,False
+Bara Bazar (Posta Bazar) APMC,2023,Half the harvest sold for cash,Monthly re-plan,18228.0278,13223.6770,5004.3508,False
+Bara Bazar (Posta Bazar) APMC,2023,Half the harvest sold for cash,Perfect foresight,22488.6467,13223.6770,9264.9697,False
+Bara Bazar (Posta Bazar) APMC,2023,Curing takes 45 days,March plan,24100.6686,13223.6770,10876.9916,False
+Bara Bazar (Posta Bazar) APMC,2023,Curing takes 45 days,Monthly re-plan,20044.0112,13223.6770,6820.3342,False
+Bara Bazar (Posta Bazar) APMC,2023,Curing takes 45 days,Perfect foresight,24558.3697,13223.6770,11334.6927,False
+Bara Bazar (Posta Bazar) APMC,2024,Base,March plan,32795.4786,19773.9130,13021.5656,False
+Bara Bazar (Posta Bazar) APMC,2024,Base,Monthly re-plan,27195.8528,19773.9130,7421.9398,False
+Bara Bazar (Posta Bazar) APMC,2024,Base,Perfect foresight,33117.8213,19773.9130,13343.9083,False
+Bara Bazar (Posta Bazar) APMC,2024,Storage loss 5% a month,March plan,27029.9845,19773.9130,7256.0715,False
+Bara Bazar (Posta Bazar) APMC,2024,Storage loss 5% a month,Monthly re-plan,28026.1785,19773.9130,8252.2655,False
+Bara Bazar (Posta Bazar) APMC,2024,Storage loss 5% a month,Perfect foresight,28035.7680,19773.9130,8261.8550,False
+Bara Bazar (Posta Bazar) APMC,2024,Storage cost doubled,March plan,29141.9185,19773.9130,9368.0055,False
+Bara Bazar (Posta Bazar) APMC,2024,Storage cost doubled,Monthly re-plan,29787.9789,19773.9130,10014.0659,False
+Bara Bazar (Posta Bazar) APMC,2024,Storage cost doubled,Perfect foresight,30305.5058,19773.9130,10531.5928,False
+Bara Bazar (Posta Bazar) APMC,2024,Quality loss 2% a month,March plan,30701.1960,19773.9130,10927.2830,False
+Bara Bazar (Posta Bazar) APMC,2024,Quality loss 2% a month,Monthly re-plan,30701.1960,19773.9130,10927.2830,False
+Bara Bazar (Posta Bazar) APMC,2024,Quality loss 2% a month,Perfect foresight,31155.9160,19773.9130,11382.0030,False
+Bara Bazar (Posta Bazar) APMC,2024,Selling costs doubled,March plan,31968.5973,19069.1260,12899.4713,False
+Bara Bazar (Posta Bazar) APMC,2024,Selling costs doubled,Monthly re-plan,26426.1923,19069.1260,7357.0663,False
+Bara Bazar (Posta Bazar) APMC,2024,Selling costs doubled,Perfect foresight,32287.0716,19069.1260,13217.9456,False
+Bara Bazar (Posta Bazar) APMC,2024,Half the harvest sold for cash,March plan,28706.6564,19773.9130,8932.7434,False
+Bara Bazar (Posta Bazar) APMC,2024,Half the harvest sold for cash,Monthly re-plan,23890.2355,19773.9130,4116.3225,False
+Bara Bazar (Posta Bazar) APMC,2024,Half the harvest sold for cash,Perfect foresight,29656.8630,19773.9130,9882.9500,False
+Bara Bazar (Posta Bazar) APMC,2024,Curing takes 45 days,March plan,32795.4786,19773.9130,13021.5656,False
+Bara Bazar (Posta Bazar) APMC,2024,Curing takes 45 days,Monthly re-plan,27195.8528,19773.9130,7421.9398,False
+Bara Bazar (Posta Bazar) APMC,2024,Curing takes 45 days,Perfect foresight,33117.8213,19773.9130,13343.9083,False
+Bara Bazar (Posta Bazar) APMC,2025,Base,March plan,11840.7668,16118.8330,-4278.0662,False
+Bara Bazar (Posta Bazar) APMC,2025,Base,Monthly re-plan,12287.3307,16118.8330,-3831.5023,False
+Bara Bazar (Posta Bazar) APMC,2025,Base,Perfect foresight,16162.7853,16118.8330,43.9523,False
+Bara Bazar (Posta Bazar) APMC,2025,Storage loss 5% a month,March plan,10994.5425,16118.8330,-5124.2905,False
+Bara Bazar (Posta Bazar) APMC,2025,Storage loss 5% a month,Monthly re-plan,10046.8685,16118.8330,-6071.9645,False
+Bara Bazar (Posta Bazar) APMC,2025,Storage loss 5% a month,Perfect foresight,16118.8330,16118.8330,0.0000,False
+Bara Bazar (Posta Bazar) APMC,2025,Storage cost doubled,March plan,9929.0038,16118.8330,-6189.8292,False
+Bara Bazar (Posta Bazar) APMC,2025,Storage cost doubled,Monthly re-plan,8833.2671,16118.8330,-7285.5659,False
+Bara Bazar (Posta Bazar) APMC,2025,Storage cost doubled,Perfect foresight,16118.8330,16118.8330,0.0000,False
+Bara Bazar (Posta Bazar) APMC,2025,Quality loss 2% a month,March plan,11921.5814,16118.8330,-4197.2516,False
+Bara Bazar (Posta Bazar) APMC,2025,Quality loss 2% a month,Monthly re-plan,11129.0069,16118.8330,-4989.8261,False
+Bara Bazar (Posta Bazar) APMC,2025,Quality loss 2% a month,Perfect foresight,16118.8330,16118.8330,0.0000,False
+Bara Bazar (Posta Bazar) APMC,2025,Selling costs doubled,March plan,11225.5493,15450.9660,-4225.4167,False
+Bara Bazar (Posta Bazar) APMC,2025,Selling costs doubled,Monthly re-plan,11668.9081,15450.9660,-3782.0579,False
+Bara Bazar (Posta Bazar) APMC,2025,Selling costs doubled,Perfect foresight,15495.8293,15450.9660,44.8633,False
+Bara Bazar (Posta Bazar) APMC,2025,Half the harvest sold for cash,March plan,13113.4303,16118.8330,-3005.4027,False
+Bara Bazar (Posta Bazar) APMC,2025,Half the harvest sold for cash,Monthly re-plan,13160.6410,16118.8330,-2958.1920,False
+Bara Bazar (Posta Bazar) APMC,2025,Half the harvest sold for cash,Perfect foresight,16162.7853,16118.8330,43.9523,False
+Bara Bazar (Posta Bazar) APMC,2025,Curing takes 45 days,March plan,11840.7668,16118.8330,-4278.0662,False
+Bara Bazar (Posta Bazar) APMC,2025,Curing takes 45 days,Monthly re-plan,12287.3307,16118.8330,-3831.5023,False
+Bara Bazar (Posta Bazar) APMC,2025,Curing takes 45 days,Perfect foresight,16162.7853,16118.8330,43.9523,False
+Gurgaon APMC,2020,Base,March plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Base,Monthly re-plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Base,Perfect foresight,20556.7792,19300.0000,1256.7792,False
+Gurgaon APMC,2020,Storage loss 5% a month,March plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Storage loss 5% a month,Monthly re-plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Storage loss 5% a month,Perfect foresight,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Storage cost doubled,March plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Storage cost doubled,Monthly re-plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Storage cost doubled,Perfect foresight,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Quality loss 2% a month,March plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Quality loss 2% a month,Monthly re-plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Quality loss 2% a month,Perfect foresight,19968.1222,19300.0000,668.1222,False
+Gurgaon APMC,2020,Selling costs doubled,March plan,18600.0000,18600.0000,0.0000,False
+Gurgaon APMC,2020,Selling costs doubled,Monthly re-plan,18600.0000,18600.0000,0.0000,False
+Gurgaon APMC,2020,Selling costs doubled,Perfect foresight,19848.3048,18600.0000,1248.3048,False
+Gurgaon APMC,2020,Half the harvest sold for cash,March plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Half the harvest sold for cash,Monthly re-plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Half the harvest sold for cash,Perfect foresight,20556.7792,19300.0000,1256.7792,False
+Gurgaon APMC,2020,Curing takes 45 days,March plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Curing takes 45 days,Monthly re-plan,19300.0000,19300.0000,0.0000,False
+Gurgaon APMC,2020,Curing takes 45 days,Perfect foresight,20556.7792,19300.0000,1256.7792,False
+Gurgaon APMC,2021,Base,March plan,14057.9385,11125.0750,2932.8635,False
+Gurgaon APMC,2021,Base,Monthly re-plan,12904.7497,11125.0750,1779.6747,False
+Gurgaon APMC,2021,Base,Perfect foresight,14549.6219,11125.0750,3424.5469,False
+Gurgaon APMC,2021,Storage loss 5% a month,March plan,11293.7760,11125.0750,168.7010,False
+Gurgaon APMC,2021,Storage loss 5% a month,Monthly re-plan,10216.1475,11125.0750,-908.9275,False
+Gurgaon APMC,2021,Storage loss 5% a month,Perfect foresight,12880.9500,11125.0750,1755.8750,False
+Gurgaon APMC,2021,Storage cost doubled,March plan,11125.0750,11125.0750,0.0000,False
+Gurgaon APMC,2021,Storage cost doubled,Monthly re-plan,11125.0750,11125.0750,0.0000,False
+Gurgaon APMC,2021,Storage cost doubled,Perfect foresight,12484.6941,11125.0750,1359.6191,False
+Gurgaon APMC,2021,Quality loss 2% a month,March plan,13349.0387,11125.0750,2223.9637,False
+Gurgaon APMC,2021,Quality loss 2% a month,Monthly re-plan,12153.6362,11125.0750,1028.5612,False
+Gurgaon APMC,2021,Quality loss 2% a month,Perfect foresight,13898.6778,11125.0750,2773.6028,False
+Gurgaon APMC,2021,Selling costs doubled,March plan,13418.1398,10507.6500,2910.4898,False
+Gurgaon APMC,2021,Selling costs doubled,Monthly re-plan,12277.5713,10507.6500,1769.9213,False
+Gurgaon APMC,2021,Selling costs doubled,Perfect foresight,13904.0847,10507.6500,3396.4347,False
+Gurgaon APMC,2021,Half the harvest sold for cash,March plan,13524.2140,11125.0750,2399.1390,False
+Gurgaon APMC,2021,Half the harvest sold for cash,Monthly re-plan,13048.6869,11125.0750,1923.6119,False
+Gurgaon APMC,2021,Half the harvest sold for cash,Perfect foresight,13801.9178,11125.0750,2676.8428,False
+Gurgaon APMC,2021,Curing takes 45 days,March plan,14057.9385,11125.0750,2932.8635,False
+Gurgaon APMC,2021,Curing takes 45 days,Monthly re-plan,12904.7497,11125.0750,1779.6747,False
+Gurgaon APMC,2021,Curing takes 45 days,Perfect foresight,14549.6219,11125.0750,3424.5469,False
+Gurgaon APMC,2022,Base,March plan,7975.9486,11217.9370,-3241.9884,False
+Gurgaon APMC,2022,Base,Monthly re-plan,7963.0837,11217.9370,-3254.8533,False
+Gurgaon APMC,2022,Base,Perfect foresight,11217.9370,11217.9370,0.0000,False
+Gurgaon APMC,2022,Storage loss 5% a month,March plan,7172.0313,11217.9370,-4045.9057,False
+Gurgaon APMC,2022,Storage loss 5% a month,Monthly re-plan,6946.1772,11217.9370,-4271.7598,False
+Gurgaon APMC,2022,Storage loss 5% a month,Perfect foresight,11217.9370,11217.9370,0.0000,False
+Gurgaon APMC,2022,Storage cost doubled,March plan,5860.8967,11217.9370,-5357.0403,False
+Gurgaon APMC,2022,Storage cost doubled,Monthly re-plan,5374.3433,11217.9370,-5843.5937,False
+Gurgaon APMC,2022,Storage cost doubled,Perfect foresight,11217.9370,11217.9370,0.0000,False
+Gurgaon APMC,2022,Quality loss 2% a month,March plan,7430.2413,11217.9370,-3787.6957,False
+Gurgaon APMC,2022,Quality loss 2% a month,Monthly re-plan,7546.4976,11217.9370,-3671.4394,False
+Gurgaon APMC,2022,Quality loss 2% a month,Perfect foresight,11217.9370,11217.9370,0.0000,False
+Gurgaon APMC,2022,Selling costs doubled,March plan,7399.7223,10599.5740,-3199.8517,False
+Gurgaon APMC,2022,Selling costs doubled,Monthly re-plan,7387.0347,10599.5740,-3212.5393,False
+Gurgaon APMC,2022,Selling costs doubled,Perfect foresight,10599.5740,10599.5740,0.0000,False
+Gurgaon APMC,2022,Half the harvest sold for cash,March plan,8864.8359,11217.9370,-2353.1011,False
+Gurgaon APMC,2022,Half the harvest sold for cash,Monthly re-plan,8864.8359,11217.9370,-2353.1011,False
+Gurgaon APMC,2022,Half the harvest sold for cash,Perfect foresight,11217.9370,11217.9370,0.0000,False
+Gurgaon APMC,2022,Curing takes 45 days,March plan,7975.9486,11217.9370,-3241.9884,False
+Gurgaon APMC,2022,Curing takes 45 days,Monthly re-plan,7963.0837,11217.9370,-3254.8533,False
+Gurgaon APMC,2022,Curing takes 45 days,Perfect foresight,11217.9370,11217.9370,0.0000,False
+Gurgaon APMC,2023,Base,March plan,12199.1536,7483.3600,4715.7936,False
+Gurgaon APMC,2023,Base,Monthly re-plan,9919.3964,7483.3600,2436.0364,False
+Gurgaon APMC,2023,Base,Perfect foresight,12240.0115,7483.3600,4756.6515,False
+Gurgaon APMC,2023,Storage loss 5% a month,March plan,9888.3417,7483.3600,2404.9817,False
+Gurgaon APMC,2023,Storage loss 5% a month,Monthly re-plan,8052.4781,7483.3600,569.1181,False
+Gurgaon APMC,2023,Storage loss 5% a month,Perfect foresight,10242.1406,7483.3600,2758.7806,False
+Gurgaon APMC,2023,Storage cost doubled,March plan,7816.9552,7483.3600,333.5952,False
+Gurgaon APMC,2023,Storage cost doubled,Monthly re-plan,7548.6253,7483.3600,65.2653,False
+Gurgaon APMC,2023,Storage cost doubled,Perfect foresight,9247.6045,7483.3600,1764.2445,False
+Gurgaon APMC,2023,Quality loss 2% a month,March plan,11279.0121,7483.3600,3795.6521,False
+Gurgaon APMC,2023,Quality loss 2% a month,Monthly re-plan,8804.4174,7483.3600,1321.0574,False
+Gurgaon APMC,2023,Quality loss 2% a month,Perfect foresight,11314.7315,7483.3600,3831.3715,False
+Gurgaon APMC,2023,Selling costs doubled,March plan,11580.2204,6902.7200,4677.5004,False
+Gurgaon APMC,2023,Selling costs doubled,Monthly re-plan,9322.2335,6902.7200,2419.5135,False
+Gurgaon APMC,2023,Selling costs doubled,Perfect foresight,11620.7139,6902.7200,4717.9939,False
+Gurgaon APMC,2023,Half the harvest sold for cash,March plan,10613.3051,7483.3600,3129.9451,False
+Gurgaon APMC,2023,Half the harvest sold for cash,Monthly re-plan,8917.6769,7483.3600,1434.3169,False
+Gurgaon APMC,2023,Half the harvest sold for cash,Perfect foresight,11285.5119,7483.3600,3802.1519,False
+Gurgaon APMC,2023,Curing takes 45 days,March plan,12199.1536,7483.3600,4715.7936,False
+Gurgaon APMC,2023,Curing takes 45 days,Monthly re-plan,9919.3964,7483.3600,2436.0364,False
+Gurgaon APMC,2023,Curing takes 45 days,Perfect foresight,12240.0115,7483.3600,4756.6515,False
+Gurgaon APMC,2024,Base,March plan,17743.0832,12394.7500,5348.3332,False
+Gurgaon APMC,2024,Base,Monthly re-plan,17287.5201,12394.7500,4892.7701,False
+Gurgaon APMC,2024,Base,Perfect foresight,20047.3733,12394.7500,7652.6233,False
+Gurgaon APMC,2024,Storage loss 5% a month,March plan,12394.7500,12394.7500,0.0000,False
+Gurgaon APMC,2024,Storage loss 5% a month,Monthly re-plan,12394.7500,12394.7500,0.0000,False
+Gurgaon APMC,2024,Storage loss 5% a month,Perfect foresight,17344.1481,12394.7500,4949.3981,False
+Gurgaon APMC,2024,Storage cost doubled,March plan,12394.7500,12394.7500,0.0000,False
+Gurgaon APMC,2024,Storage cost doubled,Monthly re-plan,12394.7500,12394.7500,0.0000,False
+Gurgaon APMC,2024,Storage cost doubled,Perfect foresight,17490.8946,12394.7500,5096.1446,False
+Gurgaon APMC,2024,Quality loss 2% a month,March plan,16784.8402,12394.7500,4390.0902,False
+Gurgaon APMC,2024,Quality loss 2% a month,Monthly re-plan,16205.0244,12394.7500,3810.2744,False
+Gurgaon APMC,2024,Quality loss 2% a month,Perfect foresight,18924.9678,12394.7500,6530.2178,False
+Gurgaon APMC,2024,Selling costs doubled,March plan,17065.4885,11764.5000,5300.9885,False
+Gurgaon APMC,2024,Selling costs doubled,Monthly re-plan,16615.0617,11764.5000,4850.5617,False
+Gurgaon APMC,2024,Selling costs doubled,Perfect foresight,19348.0471,11764.5000,7583.5471,False
+Gurgaon APMC,2024,Half the harvest sold for cash,March plan,16771.8943,12394.7500,4377.1443,False
+Gurgaon APMC,2024,Half the harvest sold for cash,Monthly re-plan,15441.4589,12394.7500,3046.7089,False
+Gurgaon APMC,2024,Half the harvest sold for cash,Perfect foresight,18109.4948,12394.7500,5714.7448,False
+Gurgaon APMC,2024,Curing takes 45 days,March plan,17743.0832,12394.7500,5348.3332,False
+Gurgaon APMC,2024,Curing takes 45 days,Monthly re-plan,17287.5201,12394.7500,4892.7701,False
+Gurgaon APMC,2024,Curing takes 45 days,Perfect foresight,20047.3733,12394.7500,7652.6233,False
+Gurgaon APMC,2025,Base,March plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Base,Monthly re-plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Base,Perfect foresight,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Storage loss 5% a month,March plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Storage loss 5% a month,Monthly re-plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Storage loss 5% a month,Perfect foresight,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Storage cost doubled,March plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Storage cost doubled,Monthly re-plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Storage cost doubled,Perfect foresight,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Quality loss 2% a month,March plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Quality loss 2% a month,Monthly re-plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Quality loss 2% a month,Perfect foresight,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Selling costs doubled,March plan,10820.2700,10820.2700,0.0000,False
+Gurgaon APMC,2025,Selling costs doubled,Monthly re-plan,10820.2700,10820.2700,0.0000,False
+Gurgaon APMC,2025,Selling costs doubled,Perfect foresight,10820.2700,10820.2700,0.0000,False
+Gurgaon APMC,2025,Half the harvest sold for cash,March plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Half the harvest sold for cash,Monthly re-plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Half the harvest sold for cash,Perfect foresight,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Curing takes 45 days,March plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Curing takes 45 days,Monthly re-plan,11440.8850,11440.8850,0.0000,False
+Gurgaon APMC,2025,Curing takes 45 days,Perfect foresight,11440.8850,11440.8850,0.0000,False

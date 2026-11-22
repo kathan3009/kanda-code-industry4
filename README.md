@@ -16,15 +16,13 @@ python -m unittest
 
 `markets.csv` lists Solapur (Maharashtra), Bara Bazar Kolkata (West Bengal), Hubballi (Karnataka), Gurgaon (Haryana) and Lasalgaon. For each state, the selection screens the three districts with the most 2024 arrivals and keeps the mandi with the most 2013-2025 arrivals among those that report every month. Andhra Pradesh, Bihar, Gujarat, Madhya Pradesh and Rajasthan have no mandi that meets this rule.
 
-To rebuild the PDF, edit `report.md` and run `python make_pdf.py`. This needs `reportlab==5.1.0`, `pypdf==7.1.1` and Times New Roman. On non-Mac systems, set `TNR_FONT_DIR` to the folder containing the regular and bold font files.
-
 ## Timeline
 
 Every market uses the same dates. Data run from January 2008 to December 2025. A season starts with the April harvest and ends in December. Forecasts are made at the end of March and again at the end of each later month. Seasons 2011-2013 only train the models, 2014-2019 choose one and 2020-2025 test it. Training always uses only data dated before the forecast.
 
 Every market must report every month from January 2013. Gaps of one or two months are interpolated in logs and never scored; a longer gap stops the run. Gaps before 2013 only remove those months from training.
 
-The forecast model is the one whose sales plans earned most in the validation seasons, averaged over both storage types and both plans.
+The forecast model is the one whose sales plans earned most at the four state mandis in the validation seasons, averaged over both storage types and both plans. Lasalgaon is forecast and planned like the others but kept out of model selection and averages; every results file has a `benchmark` column to filter it.
 
 ## Read the results
 

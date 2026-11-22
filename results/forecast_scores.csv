@@ -1,101 +1,101 @@
-split,market,model,mae_rs_q,mape_pct,origins
-test,APMC Hubballi,Last price,450.9702,32.4100,March
-test,APMC Hubballi,Same month last year,576.1741,48.6531,March
-test,APMC Hubballi,Seasonal + market signals,480.9857,44.5339,March
-test,APMC Hubballi,Seasonal + market signals + weather,516.7466,47.4081,March
-test,APMC Hubballi,Seasonal profile,546.4294,51.2885,March
-test,APMC Lasalgaon,Last price,795.4974,38.6346,March
-test,APMC Lasalgaon,Same month last year,915.7080,52.5776,March
-test,APMC Lasalgaon,Seasonal + market signals,677.8014,42.6397,March
-test,APMC Lasalgaon,Seasonal + market signals + weather,672.2533,43.5646,March
-test,APMC Lasalgaon,Seasonal profile,742.4244,50.4883,March
-test,APMC Solapur,Last price,604.0077,42.5370,March
-test,APMC Solapur,Same month last year,667.1558,52.0409,March
-test,APMC Solapur,Seasonal + market signals,569.9071,45.9770,March
-test,APMC Solapur,Seasonal + market signals + weather,583.4224,46.4206,March
-test,APMC Solapur,Seasonal profile,604.1097,54.2189,March
-test,Bara Bazar (Posta Bazar) APMC,Last price,978.0646,35.9522,March
-test,Bara Bazar (Posta Bazar) APMC,Same month last year,1015.5802,42.8312,March
-test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,1006.8013,48.4160,March
-test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,1053.2774,52.8252,March
-test,Bara Bazar (Posta Bazar) APMC,Seasonal profile,1235.9998,59.0884,March
-test,Gurgaon APMC,Last price,676.2513,43.4797,March
-test,Gurgaon APMC,Same month last year,672.3802,43.4836,March
-test,Gurgaon APMC,Seasonal + market signals,592.8677,40.4945,March
-test,Gurgaon APMC,Seasonal + market signals + weather,607.6817,42.0590,March
-test,Gurgaon APMC,Seasonal profile,705.4764,48.8111,March
-validation,APMC Hubballi,Last price,510.6843,32.2369,March
-validation,APMC Hubballi,Same month last year,691.0104,62.0015,March
-validation,APMC Hubballi,Seasonal + market signals,466.9515,36.8544,March
-validation,APMC Hubballi,Seasonal + market signals + weather,681.9891,53.1954,March
-validation,APMC Hubballi,Seasonal profile,424.3379,33.6863,March
-validation,APMC Lasalgaon,Last price,853.3430,37.9994,March
-validation,APMC Lasalgaon,Same month last year,1144.6631,93.6324,March
-validation,APMC Lasalgaon,Seasonal + market signals,823.1133,55.0723,March
-validation,APMC Lasalgaon,Seasonal + market signals + weather,936.1514,62.8747,March
-validation,APMC Lasalgaon,Seasonal profile,772.2768,50.5337,March
-validation,APMC Solapur,Last price,566.9917,36.3556,March
-validation,APMC Solapur,Same month last year,770.9099,79.9223,March
-validation,APMC Solapur,Seasonal + market signals,553.4673,42.8128,March
-validation,APMC Solapur,Seasonal + market signals + weather,656.8570,52.9487,March
-validation,APMC Solapur,Seasonal profile,509.9936,38.9304,March
-validation,Bara Bazar (Posta Bazar) APMC,Last price,960.9519,35.7952,March
-validation,Bara Bazar (Posta Bazar) APMC,Same month last year,1275.3906,69.5367,March
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,852.9139,45.1754,March
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,991.2900,54.7112,March
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal profile,894.3035,48.7513,March
-validation,Gurgaon APMC,Last price,540.3648,29.2544,March
-validation,Gurgaon APMC,Same month last year,857.5138,63.4316,March
-validation,Gurgaon APMC,Seasonal + market signals,518.1652,33.1415,March
-validation,Gurgaon APMC,Seasonal + market signals + weather,529.3779,35.3989,March
-validation,Gurgaon APMC,Seasonal profile,528.9098,33.6533,March
-test,APMC Hubballi,Last price,495.3284,34.5743,All
-test,APMC Hubballi,Same month last year,694.5321,56.7434,All
-test,APMC Hubballi,Seasonal + market signals,499.0961,39.8733,All
-test,APMC Hubballi,Seasonal + market signals + weather,549.9796,44.2216,All
-test,APMC Hubballi,Seasonal profile,497.1649,41.6049,All
-test,APMC Lasalgaon,Last price,852.3253,35.2549,All
-test,APMC Lasalgaon,Same month last year,1083.8314,57.9537,All
-test,APMC Lasalgaon,Seasonal + market signals,721.3109,36.0738,All
-test,APMC Lasalgaon,Seasonal + market signals + weather,745.4977,37.6144,All
-test,APMC Lasalgaon,Seasonal profile,734.0244,38.1876,All
-test,APMC Solapur,Last price,627.1942,36.4481,All
-test,APMC Solapur,Same month last year,740.4156,52.8646,All
-test,APMC Solapur,Seasonal + market signals,537.1769,35.1355,All
-test,APMC Solapur,Seasonal + market signals + weather,549.0869,36.2238,All
-test,APMC Solapur,Seasonal profile,566.6927,38.3432,All
-test,Bara Bazar (Posta Bazar) APMC,Last price,994.1417,30.2840,All
-test,Bara Bazar (Posta Bazar) APMC,Same month last year,1207.4937,48.2591,All
-test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,896.9844,34.2488,All
-test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,953.8837,37.0059,All
-test,Bara Bazar (Posta Bazar) APMC,Seasonal profile,847.0418,33.5499,All
-test,Gurgaon APMC,Last price,593.0181,31.1011,All
-test,Gurgaon APMC,Same month last year,772.6470,47.3149,All
-test,Gurgaon APMC,Seasonal + market signals,598.4003,35.9952,All
-test,Gurgaon APMC,Seasonal + market signals + weather,622.7289,37.4814,All
-test,Gurgaon APMC,Seasonal profile,548.5174,33.9807,All
-validation,APMC Hubballi,Last price,561.5946,32.1993,All
-validation,APMC Hubballi,Same month last year,911.0516,74.9753,All
-validation,APMC Hubballi,Seasonal + market signals,603.1623,41.3360,All
-validation,APMC Hubballi,Seasonal + market signals + weather,691.7408,48.5246,All
-validation,APMC Hubballi,Seasonal profile,506.4149,32.6010,All
-validation,APMC Lasalgaon,Last price,935.1236,41.6688,All
-validation,APMC Lasalgaon,Same month last year,1501.4770,114.8845,All
-validation,APMC Lasalgaon,Seasonal + market signals,1097.8971,71.5928,All
-validation,APMC Lasalgaon,Seasonal + market signals + weather,1077.0879,70.5125,All
-validation,APMC Lasalgaon,Seasonal profile,1012.3616,63.0496,All
-validation,APMC Solapur,Last price,590.8208,36.8680,All
-validation,APMC Solapur,Same month last year,960.5100,92.2499,All
-validation,APMC Solapur,Seasonal + market signals,661.8296,51.2547,All
-validation,APMC Solapur,Seasonal + market signals + weather,694.4073,54.5632,All
-validation,APMC Solapur,Seasonal profile,587.5291,44.3374,All
-validation,Bara Bazar (Posta Bazar) APMC,Last price,958.5148,33.8257,All
-validation,Bara Bazar (Posta Bazar) APMC,Same month last year,1654.7146,86.5403,All
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,1094.5303,52.2775,All
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,1172.9074,56.5799,All
-validation,Bara Bazar (Posta Bazar) APMC,Seasonal profile,983.0071,45.5609,All
-validation,Gurgaon APMC,Last price,599.1261,30.3610,All
-validation,Gurgaon APMC,Same month last year,1108.6215,78.4465,All
-validation,Gurgaon APMC,Seasonal + market signals,622.5135,41.5933,All
-validation,Gurgaon APMC,Seasonal + market signals + weather,681.7552,45.6154,All
-validation,Gurgaon APMC,Seasonal profile,559.1978,35.7958,All
+split,market,model,mae_rs_q,mape_pct,origins,benchmark
+test,APMC Hubballi,Last price,450.9702,32.4100,March,False
+test,APMC Hubballi,Same month last year,576.1741,48.6531,March,False
+test,APMC Hubballi,Seasonal + market signals,480.9857,44.5339,March,False
+test,APMC Hubballi,Seasonal + market signals + weather,516.7466,47.4081,March,False
+test,APMC Hubballi,Seasonal profile,546.4294,51.2885,March,False
+test,APMC Lasalgaon,Last price,795.4974,38.6346,March,True
+test,APMC Lasalgaon,Same month last year,915.7080,52.5776,March,True
+test,APMC Lasalgaon,Seasonal + market signals,677.8014,42.6397,March,True
+test,APMC Lasalgaon,Seasonal + market signals + weather,672.2533,43.5646,March,True
+test,APMC Lasalgaon,Seasonal profile,742.4244,50.4883,March,True
+test,APMC Solapur,Last price,604.0077,42.5370,March,False
+test,APMC Solapur,Same month last year,667.1558,52.0409,March,False
+test,APMC Solapur,Seasonal + market signals,569.9071,45.9770,March,False
+test,APMC Solapur,Seasonal + market signals + weather,583.4224,46.4206,March,False
+test,APMC Solapur,Seasonal profile,604.1097,54.2189,March,False
+test,Bara Bazar (Posta Bazar) APMC,Last price,978.0646,35.9522,March,False
+test,Bara Bazar (Posta Bazar) APMC,Same month last year,1015.5802,42.8312,March,False
+test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,1006.8013,48.4160,March,False
+test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,1053.2774,52.8252,March,False
+test,Bara Bazar (Posta Bazar) APMC,Seasonal profile,1235.9998,59.0884,March,False
+test,Gurgaon APMC,Last price,676.2513,43.4797,March,False
+test,Gurgaon APMC,Same month last year,672.3802,43.4836,March,False
+test,Gurgaon APMC,Seasonal + market signals,592.8677,40.4945,March,False
+test,Gurgaon APMC,Seasonal + market signals + weather,607.6817,42.0590,March,False
+test,Gurgaon APMC,Seasonal profile,705.4764,48.8111,March,False
+validation,APMC Hubballi,Last price,510.6843,32.2369,March,False
+validation,APMC Hubballi,Same month last year,691.0104,62.0015,March,False
+validation,APMC Hubballi,Seasonal + market signals,466.9515,36.8544,March,False
+validation,APMC Hubballi,Seasonal + market signals + weather,681.9891,53.1954,March,False
+validation,APMC Hubballi,Seasonal profile,424.3379,33.6863,March,False
+validation,APMC Lasalgaon,Last price,853.3430,37.9994,March,True
+validation,APMC Lasalgaon,Same month last year,1144.6631,93.6324,March,True
+validation,APMC Lasalgaon,Seasonal + market signals,823.1133,55.0723,March,True
+validation,APMC Lasalgaon,Seasonal + market signals + weather,936.1514,62.8747,March,True
+validation,APMC Lasalgaon,Seasonal profile,772.2768,50.5337,March,True
+validation,APMC Solapur,Last price,566.9917,36.3556,March,False
+validation,APMC Solapur,Same month last year,770.9099,79.9223,March,False
+validation,APMC Solapur,Seasonal + market signals,553.4673,42.8128,March,False
+validation,APMC Solapur,Seasonal + market signals + weather,656.8570,52.9487,March,False
+validation,APMC Solapur,Seasonal profile,509.9936,38.9304,March,False
+validation,Bara Bazar (Posta Bazar) APMC,Last price,960.9519,35.7952,March,False
+validation,Bara Bazar (Posta Bazar) APMC,Same month last year,1275.3906,69.5367,March,False
+validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,852.9139,45.1754,March,False
+validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,991.2900,54.7112,March,False
+validation,Bara Bazar (Posta Bazar) APMC,Seasonal profile,894.3035,48.7513,March,False
+validation,Gurgaon APMC,Last price,540.3648,29.2544,March,False
+validation,Gurgaon APMC,Same month last year,857.5138,63.4316,March,False
+validation,Gurgaon APMC,Seasonal + market signals,518.1652,33.1415,March,False
+validation,Gurgaon APMC,Seasonal + market signals + weather,529.3779,35.3989,March,False
+validation,Gurgaon APMC,Seasonal profile,528.9098,33.6533,March,False
+test,APMC Hubballi,Last price,495.3284,34.5743,All,False
+test,APMC Hubballi,Same month last year,694.5321,56.7434,All,False
+test,APMC Hubballi,Seasonal + market signals,499.0961,39.8733,All,False
+test,APMC Hubballi,Seasonal + market signals + weather,549.9796,44.2216,All,False
+test,APMC Hubballi,Seasonal profile,497.1649,41.6049,All,False
+test,APMC Lasalgaon,Last price,852.3253,35.2549,All,True
+test,APMC Lasalgaon,Same month last year,1083.8314,57.9537,All,True
+test,APMC Lasalgaon,Seasonal + market signals,721.3109,36.0738,All,True
+test,APMC Lasalgaon,Seasonal + market signals + weather,745.4977,37.6144,All,True
+test,APMC Lasalgaon,Seasonal profile,734.0244,38.1876,All,True
+test,APMC Solapur,Last price,627.1942,36.4481,All,False
+test,APMC Solapur,Same month last year,740.4156,52.8646,All,False
+test,APMC Solapur,Seasonal + market signals,537.1769,35.1355,All,False
+test,APMC Solapur,Seasonal + market signals + weather,549.0869,36.2238,All,False
+test,APMC Solapur,Seasonal profile,566.6927,38.3432,All,False
+test,Bara Bazar (Posta Bazar) APMC,Last price,994.1417,30.2840,All,False
+test,Bara Bazar (Posta Bazar) APMC,Same month last year,1207.4937,48.2591,All,False
+test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,896.9844,34.2488,All,False
+test,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,953.8837,37.0059,All,False
+test,Bara Bazar (Posta Bazar) APMC,Seasonal profile,847.0418,33.5499,All,False
+test,Gurgaon APMC,Last price,593.0181,31.1011,All,False
+test,Gurgaon APMC,Same month last year,772.6470,47.3149,All,False
+test,Gurgaon APMC,Seasonal + market signals,598.4003,35.9952,All,False
+test,Gurgaon APMC,Seasonal + market signals + weather,622.7289,37.4814,All,False
+test,Gurgaon APMC,Seasonal profile,548.5174,33.9807,All,False
+validation,APMC Hubballi,Last price,561.5946,32.1993,All,False
+validation,APMC Hubballi,Same month last year,911.0516,74.9753,All,False
+validation,APMC Hubballi,Seasonal + market signals,603.1623,41.3360,All,False
+validation,APMC Hubballi,Seasonal + market signals + weather,691.7408,48.5246,All,False
+validation,APMC Hubballi,Seasonal profile,506.4149,32.6010,All,False
+validation,APMC Lasalgaon,Last price,935.1236,41.6688,All,True
+validation,APMC Lasalgaon,Same month last year,1501.4770,114.8845,All,True
+validation,APMC Lasalgaon,Seasonal + market signals,1097.8971,71.5928,All,True
+validation,APMC Lasalgaon,Seasonal + market signals + weather,1077.0879,70.5125,All,True
+validation,APMC Lasalgaon,Seasonal profile,1012.3616,63.0496,All,True
+validation,APMC Solapur,Last price,590.8208,36.8680,All,False
+validation,APMC Solapur,Same month last year,960.5100,92.2499,All,False
+validation,APMC Solapur,Seasonal + market signals,661.8296,51.2547,All,False
+validation,APMC Solapur,Seasonal + market signals + weather,694.4073,54.5632,All,False
+validation,APMC Solapur,Seasonal profile,587.5291,44.3374,All,False
+validation,Bara Bazar (Posta Bazar) APMC,Last price,958.5148,33.8257,All,False
+validation,Bara Bazar (Posta Bazar) APMC,Same month last year,1654.7146,86.5403,All,False
+validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals,1094.5303,52.2775,All,False
+validation,Bara Bazar (Posta Bazar) APMC,Seasonal + market signals + weather,1172.9074,56.5799,All,False
+validation,Bara Bazar (Posta Bazar) APMC,Seasonal profile,983.0071,45.5609,All,False
+validation,Gurgaon APMC,Last price,599.1261,30.3610,All,False
+validation,Gurgaon APMC,Same month last year,1108.6215,78.4465,All,False
+validation,Gurgaon APMC,Seasonal + market signals,622.5135,41.5933,All,False
+validation,Gurgaon APMC,Seasonal + market signals + weather,681.7552,45.6154,All,False
+validation,Gurgaon APMC,Seasonal profile,559.1978,35.7958,All,False
