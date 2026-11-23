@@ -1,6 +1,6 @@
 # Kanda Code
 
-Kanda Code is our group project for Industry 4.0 (MS4001) at IIT Madras. It answers one question: when should onion farmers sell? Rabi onion, harvested in April when prices are lowest, is the part of India's crop that is stored, and Maharashtra grows about 30% of it. For a farmer group in each of the state's four main onion districts (Nashik, Ahilyanagar, Pune and Solapur), we forecast monthly mandi prices and plan how much to sell each month from April to December after storage loss, quality loss, storage cost, selling costs, interest, cash needs and handling limits.
+Kanda Code is the group project of team TEAM_I40_T3_2026 for Industry 4.0 (MS4001) at IIT Madras. It answers one question: when should onion farmers sell? Rabi onion, harvested in April when prices are lowest, is the part of India's crop that is stored, and Maharashtra grows about 30% of it. For a farmer group in each of the state's four main onion districts (Nashik, Ahilyanagar, Pune and Solapur), we forecast monthly mandi prices and plan how much to sell each month from April to December after storage loss, quality loss, storage cost, selling costs, interest, cash needs and handling limits.
 
 The analysis tests three hypotheses, one per research question:
 
@@ -43,7 +43,7 @@ python -m unittest
 | Step | Model | Why |
 | --- | --- | --- |
 | Fill missing months | Lasso regression on nearby mandis' prices | Uses what similar mandis were paid that month and keeps only the ones that help |
-| Data description | Least squares: log price on log arrivals, month dummies and a trend | Shows how prices move with arrivals, and that one group's sales cannot move the price |
+| Data description | Least squares: log price on log arrivals, month dummies and a trend | Shows how prices move with arrivals (an association, not a causal effect) |
 | Forecasting | No change, past-seasons average, Winters' exponential smoothing on log prices, ARIMA on 12-month log changes | Two simple benchmarks, a model of the yearly cycle and the standard time-series model |
 | Sales plan | Dynamic programming solved by backward induction over the tonnes in store | The best monthly plan under storage loss, costs and limits |
 | Value of the forecast | The same plan fed past seasons' average prices, and actual prices | Separates the seasonal calendar's value from the forecast's |
@@ -70,7 +70,7 @@ Start with `results/key_figures.csv`: it lists the headline numbers with plain l
 The results in `results/` show:
 
 - Winters has the lowest error over all forecast dates (34.0% of the price in testing), but its gap to no change is not significant season by season, and at the end-March forecast the two simple benchmarks did better in testing. Hypothesis 1 is not supported.
-- Storing pays with a low-loss store: the improved store's March plan gained Rs 4,116 per tonne in testing (48% over an April sale) and was positive in 10 of 12 seasons (p = 0.01). With a chawl, which loses over half its weight in four months, storing loses money. Hypothesis 2 holds for low-loss stores only.
+- Storing pays on average with a low-loss store: the improved store's March plan gained Rs 4,116 per tonne in testing (48% over an April sale) and was positive in 5 of 6 test seasons, but the test seasons alone are inconclusive at 5% (p = 0.08); with the validation seasons it was positive in 10 of 12 (p = 0.01). It lost money in 2025. With a chawl, which loses over half its weight in four months, storing loses money. Hypothesis 2 is supported on average for low-loss stores only.
 - The forecast plan earned Rs 173 per tonne more than the past-seasons plan in testing, but the difference is not significant (p = 0.40). Hypothesis 3 is not supported: the gain comes from the seasonal calendar.
 
 ## Column guide
@@ -118,7 +118,7 @@ Money is in rupees: `_rs_q` per quintal (100 kg), `_rs_t` per tonne. Shares are 
 - `peak_arrivals_month`, `lowest_arrivals_month`.
 - `arrivals_beta`: % change in price for 1% more arrivals, with month and trend held fixed; `arrivals_se`, `arrivals_t`, `arrivals_p`, `r2`, `adj_r2`, `f_stat`, `f_p`, `n_months`: the regression's statistics.
 - `arrivals_vif`: overlap between arrivals and the month effects (below 5 is fine); `residual_lag1_corr`: how much each month's error repeats the last (near 1 means the p-values are optimistic).
-- `aug_oct_arrivals_t`: mean monthly arrivals in August-October of the test years; `price_change_300t`: price change if a farmer group sold 300 t more in such a month.
+- `aug_oct_arrivals_t`: mean monthly arrivals in August-October of the test years; `price_change_300t`: price change that goes with 300 t more arrivals in such a month at the fitted coefficient (an association, not a causal estimate).
 - `adf_p_log_price`, `adf_p_12_month_change`: Augmented Dickey-Fuller p-values (below 0.05 means the series is stable enough to model).
 - `price_vs_mandi_mean`: price relative to the four-mandi average; `lowest_price_correlation`: lowest correlation with another study mandi.
 

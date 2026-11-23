@@ -1,7 +1,7 @@
 # When Should Onion Farmers Sell?
 Price Forecasting and Sell-or-Store Planning
 
-Kanda Code | MS4001 Industry 4.0 | IIT Madras BS
+TEAM_I40_T3_2026 | MS4001 Industry 4.0 | IIT Madras BS
 
 ## 1. Problem statement
 
@@ -33,7 +33,7 @@ The objective is the present value at harvest (10% a year) of sales net of 1% ma
 
 *Figure 1. Mean monthly price relative to the year's mean (left) and share of the year's arrivals (right), 2011-2025; April shaded.*
 
-The price cycle is shared (Figure 1): April prices are 0.53-0.58 times the annual mean and November is the peak at all four mandis (1.35-1.51), while arrivals peak in May at Pimpalgaon, February at Pune, July at Newasa and December at Solapur, so the districts differ in crop calendar, not price pattern. Regressing log price on log arrivals, month dummies and a trend gives -0.23 at Pimpalgaon, -0.18 at Pune, -0.15 at Newasa and +0.06 at Solapur: months with 10% more arrivals had 1.5-2.3% lower prices at three mandis. With autocorrelated residuals (lag-1 about 0.8) this is an association, not a demand curve, but it shows the group cannot move the price: 300 t is about 1% of a month's August-October arrivals, worth under 0.3%. Augmented Dickey-Fuller tests reject a unit root (random walk) in the 12-month change in log price at all four mandis (p ≤ 0.007) but not always in log price (Solapur p = 0.08), so ARIMA models the year-on-year change.
+The price cycle is shared (Figure 1): April prices are 0.53-0.58 times the annual mean and November is the peak at all four mandis (1.35-1.51), while arrivals peak in May at Pimpalgaon, February at Pune, July at Newasa and December at Solapur, so the districts differ in crop calendar, not price pattern. Regressing log price on log arrivals, month dummies and a trend gives -0.23 at Pimpalgaon, -0.18 at Pune, -0.15 at Newasa and +0.06 at Solapur: months with 10% more arrivals had 1.5-2.3% lower prices at three mandis. With autocorrelated residuals (lag-1 about 0.8) this is an association, not a causal price effect. We assume the group is a price taker, given its small share of arrivals: 300 t is about 1% of a month's August-October arrivals. Augmented Dickey-Fuller tests reject a unit root (random walk) in the 12-month change in log price at all four mandis (p ≤ 0.007) but not always in log price (Solapur p = 0.08), so ARIMA models the year-on-year change.
 
 ## 6. Methodology
 
@@ -69,7 +69,7 @@ with no stock after the holding limit; backward induction over every whole-tonne
 
 **RQ1: H1 not supported.** Winters had the lowest validation error, so it drives the plans, and the lowest test error over all dates (34.0%, a typical miss of Rs 658 per quintal), but season by season its gap to no change is not significant (p = 0.93 in testing, 0.77 over twelve seasons), and from March both simple benchmarks did better in testing. ARIMA, which carries last year's movement into this year, was worst.
 
-**RQ2: H2 supported for low-loss stores.** An April sale netted Rs 8,497 per tonne in the test seasons 2020-2025. The improved store's March plan gained Rs 4,116 per tonne (48%), positive in 5 of 6 test seasons (p = 0.08), 10 of all 12 (p = 0.01) and 19 of 24 test market-seasons; the cold store gained Rs 3,236. In 2025 all four districts lost (Rs 1,790 per tonne on average), as prices rose only 4-18% from April to August-October. The plans sold 300 t at harvest, then about 125 t in August, 235 t in September and 280 t in October, as the six-month limit empties the store before the November peak. With a chawl even perfect foresight gains only Rs 465 per tonne, and the forecast plan, storing in 16 of 24 market-seasons on expected prices that allow for a spike, lost Rs 1,702. Storing stops paying once a store loses about a third of its weight in four months (9.3% a month), the loss ICAR calls usual.
+**RQ2: H2 supported on average for low-loss stores; the test seasons alone are inconclusive.** An April sale netted Rs 8,497 per tonne in the test seasons 2020-2025. The improved store's March plan gained Rs 4,116 per tonne (48%) and the cold store Rs 3,236. The improved-store gain was positive in 5 of 6 test seasons and 19 of 24 test market-seasons, but six seasons do not establish it at 5% (p = 0.08); counting the validation seasons, it was positive in 10 of 12 (p = 0.01). In 2025 all four districts lost (Rs 1,790 per tonne on average), as prices rose only 4-18% from April to August-October. The plans sold 300 t at harvest, then about 125 t in August, 235 t in September and 280 t in October, as the six-month limit empties the store before the November peak. With a chawl even perfect foresight gains only Rs 465 per tonne, and the forecast plan, storing in 16 of 24 market-seasons on expected prices that allow for a spike, lost Rs 1,702. Storing stops paying once a store loses about a third of its weight in four months (9.3% a month), the loss ICAR calls usual.
 
 *Table 3. Gain over selling everything in April (Rs per tonne harvested), improved store unless noted, test seasons.*
 
@@ -81,17 +81,17 @@ with no stock after the holding limit; backward induction over every whole-tonne
 | Pune | 3,215 | 3,212 | 2,535 | 4,482 | 2,333 |
 | Four districts | 4,116 | 4,360 | 3,943 | 5,548 | 3,236 |
 
-The improved-store gain falls to Rs 2,954 if storage cost doubles, 2,815 if loss doubles, 3,233 with a 2% monthly quality discount, 3,066 if half the harvest is sold for cash and 3,477 at 20% interest, and rises to 5,521 if the store holds a seventh month; selling costs and curing barely matter. Without the three test market-seasons valued partly at filled prices it is Rs 4,237.
+The improved-store gain falls to Rs 2,954 if storage cost doubles, 2,815 if loss doubles, 3,233 with a 2% monthly quality discount, 3,066 if half the harvest is sold for cash and 3,477 at 20% interest, and rises to 5,521 if the store holds a seventh month. Without the three market-seasons valued at filled prices it is Rs 4,237.
 
-**RQ3: H3 not supported.** The forecast plan beat the past-seasons plan by Rs 173 per tonne in testing, but in only 4 of 6 seasons (p = 0.40; 0.59 over twelve). Monthly re-planning changed little (Rs 4,360 in testing, 4,366 vs 4,552 in validation), and ARIMA's plan, best in testing (Rs 4,503), trailed in validation (Rs 3,005 vs 4,552): the value is in seasonal timing, which past seasons reveal.
+**RQ3: H3 not supported.** The forecast plan beat the past-seasons plan by Rs 173 per tonne in testing, but in only 4 of 6 seasons (p = 0.40). Monthly re-planning changed little, and ARIMA's plan, best in testing (Rs 4,503), trailed in validation (Rs 3,005 vs 4,552): the value is in seasonal timing, which past seasons reveal.
 
 ## 8. Managerial implications
 
 **When to sell.** With an improved on-farm store, sell 300 t at harvest and the rest from August to October by the past-seasons calendar. With a chawl losing a third of its weight in four months, sell at harvest whatever the forecast says.
 
-**What to invest in.** The improved store beat the cold store by Rs 500-2,400 per tonne in three districts but not at Newasa; the cold store would match it at a rent below Rs 555 per tonne-month. Even with its whole Rs 11.7 lakh (1 lakh = 100,000) build cost for 700 t charged to one season, the improved store gains about Rs 39 lakh on 1,000 t, paying for itself in its first season. Weighing stock or temperature and humidity sensors would track actual loss, which decides whether storing pays.
+**What to invest in.** The improved store beat the cold store by Rs 500-2,400 per tonne in three districts but not at Newasa; the cold store would match it at a rent below Rs 555 per tonne-month. Even with its whole Rs 11.7 lakh (1 lakh = 100,000) build cost for 700 t charged to one season, the improved store would have gained about Rs 39 lakh on 1,000 t in an average test season; this is a modelled average, and in a year like 2025 storing lost money. Weighing stock or temperature and humidity sensors would track actual loss, which decides whether storing pays.
 
-**Risk and limits.** Storing lost money in 2025, so the harvest sale should leave cash to carry such a year. Policy acts in the selling window: in 2023-24 a 40% export duty, an export ban from December and a 5 lakh t buffer stock bought by NAFED and NCCF (PIB, 2024). One group's sales barely move prices, but many on one calendar would. Modal prices mix grades and, from October, fresh kharif onion; costs and the cold-store rent are assumptions.
+**Risk and limits.** Storing lost money in 2025, so the harvest sale should leave cash to carry such a year. Policy acts in the selling window: in 2023-24 a 40% export duty, an export ban from December and a 5 lakh t buffer stock bought by NAFED and NCCF (PIB, 2024). One group is a small share of arrivals, but many groups selling on one calendar could move prices. Modal prices mix grades and, from October, fresh kharif onion; costs and the cold-store rent are assumptions.
 
 ## 9. References
 
