@@ -1,5 +1,5 @@
-district,market,unreported_months,april_index,peak_month,peak_index,peak_arrivals_month,lowest_arrivals_month,arrivals_beta,arrivals_se,arrivals_t,arrivals_p,r2,adj_r2,f_stat,f_p,arrivals_vif,residual_lag1_corr,n_months,adf_p_log_price,adf_p_12_month_change,price_vs_mandi_mean,lowest_price_correlation
-Nashik,APMC Pimpalgaon Baswant,6,0.5804,11,1.5009,5,11,-0.2289,0.0502,-4.5555,0.0000,0.4481,0.4033,9.9928,0.0000,1.8473,0.7841,174,0.0450,0.0031,1.0764,0.9363
-Pune,APMC Pune,0,0.5702,11,1.5005,2,9,-0.1824,0.0660,-2.7630,0.0064,0.4142,0.3684,9.0300,0.0000,1.3607,0.8363,180,0.0168,0.0023,1.0158,0.9047
-Solapur,APMC Solapur,9,0.5338,11,1.3483,12,6,0.0567,0.0504,1.1247,0.2624,0.3753,0.3236,7.2565,0.0000,2.2756,0.8308,171,0.0804,0.0062,0.8193,0.9047
-Ahilyanagar,Newasa(Ghodegaon),4,0.5363,11,1.5080,7,3,-0.1528,0.0671,-2.2755,0.0242,0.3962,0.3477,8.1760,0.0000,1.7244,0.8313,176,0.0213,0.0064,1.0838,0.9326
+district,market,unreported_months,april_index,peak_month,peak_index,aug_oct_over_april,peak_arrivals_month,lowest_arrivals_month,arrivals_beta,arrivals_se,arrivals_t,arrivals_p,r2,adj_r2,f_stat,f_p,arrivals_vif,residual_lag1_corr,n_months,aug_oct_arrivals_t,price_change_300t,adf_p_log_price,adf_p_12_month_change,price_vs_mandi_mean,lowest_price_correlation
+Nashik,APMC Pimpalgaon Baswant,6,0.5804,11,1.5009,2.1630,5,11,-0.2289,0.0502,-4.5555,0.0000,0.4481,0.4033,9.9928,0.0000,1.8473,0.7841,174,34192.8556,-0.0020,0.0450,0.0031,1.0764,0.9363
+Pune,APMC Pune,0,0.5702,11,1.5005,2.1610,2,9,-0.1824,0.0660,-2.7630,0.0064,0.4142,0.3684,9.0300,0.0000,1.3607,0.8363,180,21799.8222,-0.0025,0.0168,0.0023,1.0158,0.9047
+Solapur,APMC Solapur,9,0.5338,11,1.3483,2.2600,12,6,0.0567,0.0504,1.1247,0.2624,0.3753,0.3236,7.2565,0.0000,2.2756,0.8308,171,30418.7056,0.0006,0.0804,0.0062,0.8193,0.9047
+Ahilyanagar,Newasa(Ghodegaon),4,0.5363,11,1.5080,2.2597,7,3,-0.1528,0.0671,-2.2755,0.0242,0.3962,0.3477,8.1760,0.0000,1.7244,0.8313,176,33459.1556,-0.0014,0.0213,0.0064,1.0838,0.9326

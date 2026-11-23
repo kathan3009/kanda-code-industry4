@@ -1,4 +1,4 @@
-"""Download monthly onion prices and arrivals for Maharashtra's four main onion districts from Agmarknet."""
+"""Download Agmarknet onion prices and arrivals for the four districts."""
 import argparse
 import json
 import time
@@ -18,7 +18,7 @@ DISTRICTS = {"Nashik": 361, "Ahilyanagar": 338, "Solapur": 369, "Pune": 364}
 RETRY_STATUS = {429, 500, 502, 503, 504}
 
 
-def request(url, cache, attempts=8, pause=1.0):
+def request(url, cache, required, attempts=8, pause=1.0):
     if cache.exists():
         return json.loads(cache.read_text())
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -31,20 +31,27 @@ def request(url, cache, attempts=8, pause=1.0):
         except urllib.error.HTTPError as error:
             if error.code not in RETRY_STATUS or attempt == attempts - 1:
                 raise RuntimeError(f"{url} failed with HTTP {error.code}") from error
-            time.sleep(min(300, 15 * 2 ** attempt))
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as error:
+            if attempt == attempts - 1:
+                raise RuntimeError(f"{url} failed: {error}") from error
+        time.sleep(min(300, 15 * 2 ** attempt))
+    if required not in data:
+        raise RuntimeError(f"{url} returned no {required!r}: {data}")
     cache.parent.mkdir(parents=True, exist_ok=True)
     cache.write_text(json.dumps(data))
     return data
 
 
 def monthly_report(kind, district_id, year, month):
-    """One district report: market values for this month, last month and a year ago."""
     query = {"report_mode": "Marketwise", "commodity": ONION, "year": year, "month": month,
              "state": STATE_ID, "district": district_id}
     url = AGMARKNET + f"price-trend/wholesale-{kind}-monthly?" + urllib.parse.urlencode(query)
-    data = request(url, RAW / "agmarknet" / kind / f"{STATE_ID}_{district_id}_{year}_{month:02d}.json")
-    if "rows" not in data:
-        raise RuntimeError(f"Agmarknet {kind} {district_id} {year}-{month}: {data}")
+    return request(url, RAW / "agmarknet" / kind / f"{STATE_ID}_{district_id}_{year}_{month:02d}.json",
+                   "rows")
+
+
+def monthly_rows(kind, district_id, year, month):
+    data = monthly_report(kind, district_id, year, month)
     rows = []
     for row in data["rows"]:
         for key, value in row.items():
@@ -56,15 +63,15 @@ def monthly_report(kind, district_id, year, month):
 
 
 def district_series(district_id):
-    """Every mandi in the district, monthly from DATA_START to DATA_END (each report covers two months)."""
+    # each report covers two months
     rows = []
     for month in pd.period_range(DATA_START, DATA_END, freq="M"):
         if month.month % 2 == 0 or month == DATA_END:
             for kind in ("prices", "arrivals"):
-                rows.extend(monthly_report(kind, district_id, month.year, month.month))
+                rows.extend(monthly_rows(kind, district_id, month.year, month.month))
     data = pd.DataFrame(rows)
     data = data[data.month.between(DATA_START, DATA_END)]
-    # Overlapping reports repeat the same month; they must agree.
+    # overlapping reports must agree
     spread = data.groupby(["market", "month"]).agg(["min", "max"])
     for kind in ("prices", "arrivals"):
         if not (spread[kind]["max"] - spread[kind]["min"]).fillna(0).le(.01).all():
@@ -73,8 +80,22 @@ def district_series(district_id):
     return data.rename(columns={"prices": "price_rs_q", "arrivals": "arrivals_t"})
 
 
+def state_share(year):
+    query = urllib.parse.urlencode({"commodity": ONION, "state": STATE_ID})
+    districts = request(AGMARKNET + "price-trend/district-filter?" + query,
+                        RAW / "agmarknet" / "districts" / f"{STATE_ID}.json", "data")["data"]
+    totals = {}
+    for district in districts:
+        # the year suffix drops the year-ago column
+        reports = [monthly_report("arrivals", district["district_id"], year, month).get("total") or {}
+                   for month in range(2, 13, 2)]
+        totals[district["district_id"]] = sum(value for total in reports for key, value in total.items()
+                                              if key.startswith("arrivals_") and key.endswith(f"_{year}")
+                                              and value is not None)
+    return sum(totals[i] for i in DISTRICTS.values()) / sum(totals.values())
+
+
 def select_market(data):
-    """The mandi with the most arrivals among those whose record is usable over the whole period."""
     months = pd.period_range(DATA_START, DATA_END, freq="M")
     totals = {}
     for market, rows in data.groupby("market"):
@@ -90,7 +111,15 @@ def select_market(data):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--select", action="store_true", help="Rewrite markets.csv from the arrivals ranking.")
+    parser.add_argument("--share", type=int, metavar="YEAR",
+                        help="Save the four districts' share of Maharashtra's onion arrivals and stop.")
     args = parser.parse_args()
+    if args.share:
+        share = state_share(args.share)
+        pd.DataFrame([{"year": args.share, "four_district_share": share}]).to_csv(
+            ROOT / "data" / "state_share.csv", index=False, float_format="%.4f")
+        print(f"{args.share}: {share:.1%} of Maharashtra's reported onion arrivals")
+        return
     series = {district: district_series(district_id) for district, district_id in DISTRICTS.items()}
     if args.select:
         chosen = [(district, *select_market(data)) for district, data in series.items()]
@@ -108,10 +137,10 @@ def main():
         frames.append(rows[["price_rs_q", "arrivals_t"]].rename_axis("month").reset_index().assign(
             state=m.state, district=m.district, market=m.market))
     columns = ["state", "district", "market", "month", "price_rs_q", "arrivals_t"]
-    # Months a mandi did not report stay blank; analysis.py fills prices and records which.
+    # unreported months stay blank
     pd.concat(frames)[columns].to_csv(ROOT / "data" / "mandi_monthly.csv", index=False, float_format="%.2f")
 
-    # Prices at every mandi in the four districts that reports most months, used to fill gaps.
+    # nearby mandis, for gap filling
     nearby = []
     for district, data in series.items():
         for market, rows in data.groupby("market"):

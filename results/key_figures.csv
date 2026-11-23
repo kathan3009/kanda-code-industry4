@@ -1,0 +1,160 @@
+section,quantity,value
+Data,Mandi-months,720.0000
+Data,Unreported mandi-months,19.0000
+Data,"April mean price, Rs/q",744.6204
+Data,"November mean price, Rs/q",2138.1982
+Data,"November / April price, 2011",1.4793
+Data,"November / April price, 2012",2.6602
+Data,"November / April price, 2013",3.6412
+Data,"November / April price, 2014",1.9114
+Data,"November / April price, 2015",2.3420
+Data,"November / April price, 2016",1.2248
+Data,"November / April price, 2017",5.5552
+Data,"November / April price, 2018",1.5330
+Data,"November / April price, 2019",5.6009
+Data,"November / April price, 2020",3.1391
+Data,"November / April price, 2021",2.6861
+Data,"November / April price, 2022",2.1738
+Data,"November / April price, 2023",5.7411
+Data,"November / April price, 2024",3.4027
+Data,"November / April price, 2025",1.1147
+Data,Price rise from April to August 2025,0.1750
+Data,Price rise from April to September 2025,0.0989
+Data,Price rise from April to October 2025,0.0387
+Data,"Monthly sale as share of Aug-Oct arrivals, APMC Pimpalgaon Baswant",0.0088
+Data,"Monthly sale as share of Aug-Oct arrivals, APMC Pune",0.0138
+Data,"Monthly sale as share of Aug-Oct arrivals, APMC Solapur",0.0099
+Data,"Monthly sale as share of Aug-Oct arrivals, Newasa(Ghodegaon)",0.0090
+Gap filling,"Mean error, Lasso on nearby mandis",0.0868
+Gap filling,"Mean error, Log interpolation",0.1861
+Gap filling,"Mean error, No change",0.3127
+Gap filling,"Mean error, Regression on the other study mandis",0.1059
+Gap filling,"Mean error, Winters",0.2877
+Forecasts,"Relative MAE, ARIMA, test, All origins",0.5592
+Forecasts,"MAE Rs/q, ARIMA, test, All origins",1084.3069
+Forecasts,"Relative MAE, No change, test, All origins",0.4062
+Forecasts,"MAE Rs/q, No change, test, All origins",794.8378
+Forecasts,"Relative MAE, Past-seasons average, test, All origins",0.3572
+Forecasts,"MAE Rs/q, Past-seasons average, test, All origins",697.7949
+Forecasts,"Relative MAE, Winters, test, All origins",0.3396
+Forecasts,"MAE Rs/q, Winters, test, All origins",658.1736
+Forecasts,"Relative MAE, ARIMA, validation, All origins",0.6662
+Forecasts,"MAE Rs/q, ARIMA, validation, All origins",1104.6984
+Forecasts,"Relative MAE, No change, validation, All origins",0.4823
+Forecasts,"MAE Rs/q, No change, validation, All origins",794.2862
+Forecasts,"Relative MAE, Past-seasons average, validation, All origins",0.5073
+Forecasts,"MAE Rs/q, Past-seasons average, validation, All origins",835.7178
+Forecasts,"Relative MAE, Winters, validation, All origins",0.4412
+Forecasts,"MAE Rs/q, Winters, validation, All origins",727.2244
+Forecasts,"Relative MAE, ARIMA, test, March origins",0.8349
+Forecasts,"MAE Rs/q, ARIMA, test, March origins",1400.1286
+Forecasts,"Relative MAE, No change, test, March origins",0.4364
+Forecasts,"MAE Rs/q, No change, test, March origins",736.8144
+Forecasts,"Relative MAE, Past-seasons average, test, March origins",0.3508
+Forecasts,"MAE Rs/q, Past-seasons average, test, March origins",591.1781
+Forecasts,"Relative MAE, Winters, test, March origins",0.4718
+Forecasts,"MAE Rs/q, Winters, test, March origins",787.4135
+Forecasts,"Relative MAE, ARIMA, validation, March origins",0.6803
+Forecasts,"MAE Rs/q, ARIMA, validation, March origins",967.7194
+Forecasts,"Relative MAE, No change, validation, March origins",0.5417
+Forecasts,"MAE Rs/q, No change, validation, March origins",769.6557
+Forecasts,"Relative MAE, Past-seasons average, validation, March origins",0.4719
+Forecasts,"MAE Rs/q, Past-seasons average, validation, March origins",668.5698
+Forecasts,"Relative MAE, Winters, validation, March origins",0.4577
+Forecasts,"MAE Rs/q, Winters, validation, March origins",649.0705
+Forecasts,"Winters mean correction factor, 1 months ahead",1.0416
+Forecasts,"Winters mean correction factor, 2 months ahead",1.0955
+Forecasts,"Winters mean correction factor, 3 months ahead",1.1486
+Forecasts,"Winters mean correction factor, 4 months ahead",1.2089
+Forecasts,"Winters mean correction factor, 5 months ahead",1.2691
+Forecasts,"Winters mean correction factor, 6 months ahead",1.2911
+Forecasts,"Winters mean correction factor, 7 months ahead",1.2934
+Forecasts,"Winters mean correction factor, 8 months ahead",1.3640
+Forecasts,"Winters mean correction factor, 9 months ahead",1.5678
+Storage,"April sale net, Rs/t, test",8496.8870
+Storage,"Gain Rs/t, Chawl, March plan (ARIMA), test",-1883.2096
+Storage,"Gain Rs/t, Chawl, March plan (Winters), test",-1701.5842
+Storage,"Gain Rs/t, Chawl, Monthly re-plan (ARIMA), test",-2092.6935
+Storage,"Gain Rs/t, Chawl, Monthly re-plan (Winters), test",-1700.2401
+Storage,"Gain Rs/t, Chawl, Past seasons, test",-757.1283
+Storage,"Gain Rs/t, Chawl, Perfect foresight, test",465.1815
+Storage,"Gain Rs/t, Cold, March plan (ARIMA), test",3419.5302
+Storage,"Gain Rs/t, Cold, March plan (Winters), test",3235.9141
+Storage,"Gain Rs/t, Cold, Monthly re-plan (ARIMA), test",3601.4855
+Storage,"Gain Rs/t, Cold, Monthly re-plan (Winters), test",3283.0063
+Storage,"Gain Rs/t, Cold, Past seasons, test",2424.7179
+Storage,"Gain Rs/t, Cold, Perfect foresight, test",5548.9570
+Storage,"Gain Rs/t, Improved, March plan (ARIMA), test",4503.3990
+Storage,"Gain Rs/t, Improved, March plan (Winters), test",4115.9300
+Storage,"Gain Rs/t, Improved, Monthly re-plan (ARIMA), test",4690.0260
+Storage,"Gain Rs/t, Improved, Monthly re-plan (Winters), test",4360.3290
+Storage,"Gain Rs/t, Improved, Past seasons, test",3943.1526
+Storage,"Gain Rs/t, Improved, Perfect foresight, test",5548.2393
+Storage,"Gain Rs/t, Chawl, March plan (ARIMA), validation",-951.4106
+Storage,"Gain Rs/t, Chawl, March plan (Winters), validation",-23.0982
+Storage,"Gain Rs/t, Chawl, Monthly re-plan (ARIMA), validation",-1059.8797
+Storage,"Gain Rs/t, Chawl, Monthly re-plan (Winters), validation",21.6847
+Storage,"Gain Rs/t, Chawl, Past seasons, validation",67.1675
+Storage,"Gain Rs/t, Chawl, Perfect foresight, validation",1358.5451
+Storage,"Gain Rs/t, Cold, March plan (ARIMA), validation",377.2083
+Storage,"Gain Rs/t, Cold, March plan (Winters), validation",3013.5433
+Storage,"Gain Rs/t, Cold, Monthly re-plan (ARIMA), validation",498.9479
+Storage,"Gain Rs/t, Cold, Monthly re-plan (Winters), validation",2407.0945
+Storage,"Gain Rs/t, Cold, Past seasons, validation",3148.6959
+Storage,"Gain Rs/t, Cold, Perfect foresight, validation",6556.3322
+Storage,"Gain Rs/t, Improved, March plan (ARIMA), validation",3004.9649
+Storage,"Gain Rs/t, Improved, March plan (Winters), validation",4552.4623
+Storage,"Gain Rs/t, Improved, Monthly re-plan (ARIMA), validation",2998.8811
+Storage,"Gain Rs/t, Improved, Monthly re-plan (Winters), validation",4365.6734
+Storage,"Gain Rs/t, Improved, Past seasons, validation",4606.5562
+Storage,"Gain Rs/t, Improved, Perfect foresight, validation",6016.3625
+Storage,Improved March plan gain as share of April sale,0.4844
+Storage,"Improved March plan, test market-seasons with a gain",19.0000
+Storage,"Improved March plan, test market-seasons",24.0000
+Storage,"Improved March plan gain Rs/t, 2025",-1790.2705
+Storage,"Improved March plan gain Rs/t, without filled months",4236.5285
+Storage,"Chawl March plan, test market-seasons that store",16.0000
+Storage,"Cold March plan, test market-seasons that store",24.0000
+Storage,"Improved March plan, test market-seasons that store",24.0000
+Storage,"Improved March plan, mean tonnes sold in month 4",300.0000
+Storage,"Improved March plan, mean tonnes sold in month 5",0.0000
+Storage,"Improved March plan, mean tonnes sold in month 6",0.0000
+Storage,"Improved March plan, mean tonnes sold in month 7",0.0000
+Storage,"Improved March plan, mean tonnes sold in month 8",124.6000
+Storage,"Improved March plan, mean tonnes sold in month 9",235.1685
+Storage,"Improved March plan, mean tonnes sold in month 10",278.6250
+Storage,"Improved March plan, mean tonnes sold in month 11",0.0000
+Storage,"Improved March plan, mean tonnes sold in month 12",0.0000
+Storage,"Improved minus cold store, Rs/t, APMC Pimpalgaon Baswant",501.3063
+Storage,"Improved minus cold store, Rs/t, APMC Pune",881.7236
+Storage,"Improved minus cold store, Rs/t, APMC Solapur",2369.7857
+Storage,"Improved minus cold store, Rs/t, Newasa(Ghodegaon)",-232.7522
+Storage,"Improved gain Rs/t, APMC Pimpalgaon Baswant, March plan",5421.5253
+Storage,"Improved gain Rs/t, APMC Pimpalgaon Baswant, Monthly re-plan",5421.5253
+Storage,"Improved gain Rs/t, APMC Pimpalgaon Baswant, Past seasons",5959.4974
+Storage,"Improved gain Rs/t, APMC Pimpalgaon Baswant, Perfect foresight",6799.4286
+Storage,"Improved gain Rs/t, APMC Pune, March plan",3215.0750
+Storage,"Improved gain Rs/t, APMC Pune, Monthly re-plan",3212.3708
+Storage,"Improved gain Rs/t, APMC Pune, Past seasons",2535.3419
+Storage,"Improved gain Rs/t, APMC Pune, Perfect foresight",4482.0410
+Storage,"Improved gain Rs/t, APMC Solapur, March plan",3240.9138
+Storage,"Improved gain Rs/t, APMC Solapur, Monthly re-plan",3240.9138
+Storage,"Improved gain Rs/t, APMC Solapur, Past seasons",2691.5652
+Storage,"Improved gain Rs/t, APMC Solapur, Perfect foresight",4493.9422
+Storage,"Improved gain Rs/t, Newasa(Ghodegaon), March plan",4586.2057
+Storage,"Improved gain Rs/t, Newasa(Ghodegaon), Monthly re-plan",5566.5061
+Storage,"Improved gain Rs/t, Newasa(Ghodegaon), Past seasons",4586.2057
+Storage,"Improved gain Rs/t, Newasa(Ghodegaon), Perfect foresight",6417.5455
+Investment,"Improved store build cost, Rs lakh",11.6900
+Investment,"Improved storage charge in the plans, Rs/t harvested",967.8528
+Investment,"Improved gain on the harvest with the whole build cost in one season, Rs lakh",39.1478
+Sensitivity,"Improved March plan gain Rs/t, Base",4115.9300
+Sensitivity,"Improved March plan gain Rs/t, Storage cost doubled",2953.6440
+Sensitivity,"Improved March plan gain Rs/t, Storage loss 20% over six months",2814.9128
+Sensitivity,"Improved March plan gain Rs/t, Store holds onion seven months",5520.9049
+Sensitivity,"Improved March plan gain Rs/t, Store holds onion eight months",5299.5319
+Sensitivity,"Improved March plan gain Rs/t, Quality discount 2% a month",3232.7541
+Sensitivity,"Improved March plan gain Rs/t, Selling costs doubled",4109.4104
+Sensitivity,"Improved March plan gain Rs/t, Interest 20% a year",3477.1053
+Sensitivity,"Improved March plan gain Rs/t, Half the harvest sold for cash",3066.4556
+Sensitivity,"Improved March plan gain Rs/t, Curing takes 45 days",4115.9300

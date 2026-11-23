@@ -7,15 +7,15 @@ import tempfile
 import numpy as np
 import pandas as pd
 
-from analysis import (DATA_END, DATA_START, SEASON_MONTHS, STORAGE, Farm, arrivals_regression,
-                      fill_prices, forecast_rows, load, plan_sales, proceeds, rolling_plan)
+from analysis import (DATA_END, DATA_START, PAST_SEASONS, SEASON_MONTHS, STORAGE, Farm,
+                      arrivals_regression, fill_prices, forecast_rows, load, mean_factors, plan_sales,
+                      proceeds, rolling_plan)
 
 COLD = STORAGE["Cold"]
 MONTHS = pd.period_range(DATA_START, DATA_END, freq="M")
 
 
 def synthetic_market(seed=0, beta=-.3):
-    """Seasonal prices that respond to arrivals with elasticity `beta`."""
     rng = np.random.default_rng(seed)
     season = np.sin(2 * np.pi * (MONTHS.month.to_numpy() - 4) / 12)
     log_arrivals = 9 - .5 * season + rng.normal(0, .2, len(MONTHS))
@@ -25,7 +25,6 @@ def synthetic_market(seed=0, beta=-.3):
 
 
 def synthetic_nearby(prices, seed=1):
-    """Log prices at two nearby mandis that follow mandi A closely."""
     rng = np.random.default_rng(seed)
     log_a = np.log(prices.set_index("month").price_rs_q.interpolate())
     return pd.DataFrame({"B": log_a + .10 + rng.normal(0, .03, len(log_a)),
@@ -72,7 +71,7 @@ class SalesPlanTest(unittest.TestCase):
         keep = 1 - COLD.monthly_loss
         left = keep ** np.arange(SEASON_MONTHS)
         best = -np.inf
-        # Stock in harvest tonnes can only fall; enumerate every falling path ending at zero.
+        # every non-increasing stock path that ends at zero
         for path in combinations_with_replacement(range(farm.harvest_t + 1), SEASON_MONTHS - 1):
             stock = np.r_[sorted(path, reverse=True), 0]
             sold_h = np.r_[farm.harvest_t, stock[:-1]] - stock
@@ -98,7 +97,6 @@ class ForecastTest(unittest.TestCase):
         return f[f.start.eq(0)].sort_values(["model", "target"]).forecast.to_numpy()
 
     def test_later_prices_do_not_change_march_forecasts(self):
-        # Unreported months before the origin are filled from data up to the origin only.
         prices = synthetic_market()
         nearby = synthetic_nearby(prices)
         prices.loc[prices.month.isin(pd.PeriodIndex(["2017-06", "2018-02"], freq="M")), "price_rs_q"] = np.nan
@@ -108,13 +106,33 @@ class ForecastTest(unittest.TestCase):
         np.testing.assert_allclose(self.march(prices, nearby), self.march(changed, changed_nearby))
 
     def test_arima_returns_prices_from_twelve_month_changes(self):
-        # Prices that repeat last year's shape about 5% higher: the 12-month change is nearly constant.
+        # same shape every year, ~5% higher
         shape = 1000 * (1.5 + np.sin(2 * np.pi * MONTHS.month.to_numpy() / 12))
         noise = np.exp(np.random.default_rng(2).normal(0, .02, len(MONTHS)))
         prices = pd.DataFrame({"market": "A", "month": MONTHS, "arrivals_t": 1.0,
                                "price_rs_q": shape * 1.05 ** (np.arange(len(MONTHS)) // 12) * noise})
         f, _ = forecast_rows(prices, NO_NEARBY, [2018], [(0, 0, 0)])
         np.testing.assert_allclose(f.forecast, f.actual, rtol=.1)
+
+
+    def test_past_seasons_forecast_averages_the_same_month_of_earlier_years(self):
+        prices = synthetic_market()
+        f, _ = forecast_rows(prices, NO_NEARBY, [2018], None)
+        march = f[f.model.eq(PAST_SEASONS) & f.start.eq(0)]
+        series = prices.set_index("month").price_rs_q
+        expected = [series[(series.index.month == t.month) & (series.index.year < 2018)].mean()
+                    for t in march.target]
+        np.testing.assert_allclose(march.forecast, expected)
+
+    def test_mean_factors_turn_median_forecasts_into_expected_prices(self):
+        errors = {1: [.2, -.2], 2: [.4, -.4]}
+        rows = [{"model": "Winters", "season": season, "horizon": h, "observed": True,
+                 "forecast": 100.0, "actual": 100 * np.exp(e)}
+                for h, values in errors.items() for season, e in zip((2014, 2015), values)]
+        rows.append({"model": "Winters", "season": 2016, "horizon": 1, "observed": True,
+                     "forecast": 100.0, "actual": 1e6})            # excluded season
+        factors = mean_factors(pd.DataFrame(rows), "Winters", [2014, 2015])
+        np.testing.assert_allclose(factors.loc[[1, 2]], np.exp([.04 / 2, .16 / 2]))
 
 
 class DataTest(unittest.TestCase):
@@ -145,9 +163,10 @@ class DataTest(unittest.TestCase):
         months = pd.period_range("2020-01", periods=6, freq="M")
         series = pd.Series([100, np.nan, np.nan, 800, 900, np.nan], index=months)
         filled = fill_prices(series, NO_NEARBY, "A")
-        np.testing.assert_allclose(filled.iloc[1:3], [200, 400])     # equal steps in log price
-        self.assertEqual(filled.iloc[-1], 900)                       # no later report to use
+        np.testing.assert_allclose(filled.iloc[1:3], [200, 400])
+        self.assertEqual(filled.iloc[-1], 900)
         pd.testing.assert_series_equal(filled.dropna().loc[series.notna()], series.dropna())
+
 
 if __name__ == "__main__":
     unittest.main()

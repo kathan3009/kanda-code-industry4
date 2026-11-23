@@ -1,769 +1,961 @@
-market,season,storage,strategy,model,net_rs_t,harvest_sale_rs_t,gain_rs_t,filled_months,split
-APMC Pimpalgaon Baswant,2020,Base,Past seasons,,17846.2676,9629.2840,8216.9836,0,test
-APMC Pimpalgaon Baswant,2020,Base,Perfect foresight,,17906.6324,9629.2840,8277.3484,0,test
-APMC Pimpalgaon Baswant,2020,Base,March plan,Winters,14618.4350,9629.2840,4989.1510,0,test
-APMC Pimpalgaon Baswant,2020,Base,Monthly re-plan,Winters,14618.4350,9629.2840,4989.1510,0,test
-APMC Pimpalgaon Baswant,2020,Storage cost doubled,Past seasons,,12332.8308,9629.2840,2703.5468,0,test
-APMC Pimpalgaon Baswant,2020,Storage cost doubled,Perfect foresight,,16952.4006,9629.2840,7323.1166,0,test
-APMC Pimpalgaon Baswant,2020,Storage cost doubled,March plan,Winters,13691.8724,9629.2840,4062.5884,0,test
-APMC Pimpalgaon Baswant,2020,Storage cost doubled,Monthly re-plan,Winters,13691.8724,9629.2840,4062.5884,0,test
-APMC Pimpalgaon Baswant,2020,Storage loss 20% over six months,Past seasons,,11805.9809,9629.2840,2176.6969,0,test
-APMC Pimpalgaon Baswant,2020,Storage loss 20% over six months,Perfect foresight,,16832.2286,9629.2840,7202.9446,0,test
-APMC Pimpalgaon Baswant,2020,Storage loss 20% over six months,March plan,Winters,13172.2466,9629.2840,3542.9626,0,test
-APMC Pimpalgaon Baswant,2020,Storage loss 20% over six months,Monthly re-plan,Winters,13172.2466,9629.2840,3542.9626,0,test
-APMC Pimpalgaon Baswant,2020,Quality discount 2% a month,Past seasons,,12605.3643,9629.2840,2976.0803,0,test
-APMC Pimpalgaon Baswant,2020,Quality discount 2% a month,Perfect foresight,,16971.7015,9629.2840,7342.4175,0,test
-APMC Pimpalgaon Baswant,2020,Quality discount 2% a month,March plan,Winters,13870.5707,9629.2840,4241.2867,0,test
-APMC Pimpalgaon Baswant,2020,Quality discount 2% a month,Monthly re-plan,Winters,13870.5707,9629.2840,4241.2867,0,test
-APMC Pimpalgaon Baswant,2020,Selling costs doubled,Past seasons,,17197.0662,9026.9680,8170.0982,0,test
-APMC Pimpalgaon Baswant,2020,Selling costs doubled,Perfect foresight,,17255.2689,9026.9680,8228.3009,0,test
-APMC Pimpalgaon Baswant,2020,Selling costs doubled,March plan,Winters,13999.2834,9026.9680,4972.3154,0,test
-APMC Pimpalgaon Baswant,2020,Selling costs doubled,Monthly re-plan,Winters,13999.2834,9026.9680,4972.3154,0,test
-APMC Pimpalgaon Baswant,2020,Interest 20% a year,Past seasons,,12765.9676,9629.2840,3136.6836,0,test
-APMC Pimpalgaon Baswant,2020,Interest 20% a year,Perfect foresight,,17226.5466,9629.2840,7597.2626,0,test
-APMC Pimpalgaon Baswant,2020,Interest 20% a year,March plan,Winters,14078.1366,9629.2840,4448.8526,0,test
-APMC Pimpalgaon Baswant,2020,Interest 20% a year,Monthly re-plan,Winters,14078.1366,9629.2840,4448.8526,0,test
-APMC Pimpalgaon Baswant,2020,Half the harvest sold for cash,Past seasons,,15497.2159,9629.2840,5867.9319,0,test
-APMC Pimpalgaon Baswant,2020,Half the harvest sold for cash,Perfect foresight,,16310.1796,9629.2840,6680.8956,0,test
-APMC Pimpalgaon Baswant,2020,Half the harvest sold for cash,March plan,Winters,11840.3914,9629.2840,2211.1074,0,test
-APMC Pimpalgaon Baswant,2020,Half the harvest sold for cash,Monthly re-plan,Winters,11840.3914,9629.2840,2211.1074,0,test
-APMC Pimpalgaon Baswant,2020,Curing takes 45 days,Past seasons,,17846.2676,9629.2840,8216.9836,0,test
-APMC Pimpalgaon Baswant,2020,Curing takes 45 days,Perfect foresight,,17906.6324,9629.2840,8277.3484,0,test
-APMC Pimpalgaon Baswant,2020,Curing takes 45 days,March plan,Winters,14618.4350,9629.2840,4989.1510,0,test
-APMC Pimpalgaon Baswant,2020,Curing takes 45 days,Monthly re-plan,Winters,14618.4350,9629.2840,4989.1510,0,test
-APMC Pimpalgaon Baswant,2021,Base,Past seasons,,14751.0886,9291.4960,5459.5926,0,test
-APMC Pimpalgaon Baswant,2021,Base,Perfect foresight,,15985.0256,9291.4960,6693.5296,0,test
-APMC Pimpalgaon Baswant,2021,Base,March plan,Winters,14719.1586,9291.4960,5427.6626,0,test
-APMC Pimpalgaon Baswant,2021,Base,Monthly re-plan,Winters,14719.1586,9291.4960,5427.6626,0,test
-APMC Pimpalgaon Baswant,2021,Storage cost doubled,Past seasons,,13753.9999,9291.4960,4462.5039,0,test
-APMC Pimpalgaon Baswant,2021,Storage cost doubled,Perfect foresight,,15246.4662,9291.4960,5954.9702,0,test
-APMC Pimpalgaon Baswant,2021,Storage cost doubled,March plan,Winters,13792.5960,9291.4960,4501.1000,0,test
-APMC Pimpalgaon Baswant,2021,Storage cost doubled,Monthly re-plan,Winters,13792.5960,9291.4960,4501.1000,0,test
-APMC Pimpalgaon Baswant,2021,Storage loss 20% over six months,Past seasons,,13497.1180,9291.4960,4205.6220,0,test
-APMC Pimpalgaon Baswant,2021,Storage loss 20% over six months,Perfect foresight,,15202.5607,9291.4960,5911.0647,0,test
-APMC Pimpalgaon Baswant,2021,Storage loss 20% over six months,March plan,Winters,13866.2035,9291.4960,4574.7075,0,test
-APMC Pimpalgaon Baswant,2021,Storage loss 20% over six months,Monthly re-plan,Winters,13866.2035,9291.4960,4574.7075,0,test
-APMC Pimpalgaon Baswant,2021,Quality discount 2% a month,Past seasons,,13967.3161,9291.4960,4675.8201,0,test
-APMC Pimpalgaon Baswant,2021,Quality discount 2% a month,Perfect foresight,,15330.1580,9291.4960,6038.6620,0,test
-APMC Pimpalgaon Baswant,2021,Quality discount 2% a month,March plan,Winters,13982.3625,9291.4960,4690.8665,0,test
-APMC Pimpalgaon Baswant,2021,Quality discount 2% a month,Monthly re-plan,Winters,13982.3625,9291.4960,4690.8665,0,test
-APMC Pimpalgaon Baswant,2021,Selling costs doubled,Past seasons,,14133.1515,8692.5920,5440.5595,0,test
-APMC Pimpalgaon Baswant,2021,Selling costs doubled,Perfect foresight,,15345.2607,8692.5920,6652.6687,0,test
-APMC Pimpalgaon Baswant,2021,Selling costs doubled,March plan,Winters,14098.9896,8692.5920,5406.3976,0,test
-APMC Pimpalgaon Baswant,2021,Selling costs doubled,Monthly re-plan,Winters,14098.9896,8692.5920,5406.3976,0,test
-APMC Pimpalgaon Baswant,2021,Interest 20% a year,Past seasons,,14187.1323,9291.4960,4895.6363,0,test
-APMC Pimpalgaon Baswant,2021,Interest 20% a year,Perfect foresight,,15506.2216,9291.4960,6214.7256,0,test
-APMC Pimpalgaon Baswant,2021,Interest 20% a year,March plan,Winters,14186.2462,9291.4960,4894.7502,0,test
-APMC Pimpalgaon Baswant,2021,Interest 20% a year,Monthly re-plan,Winters,14186.2462,9291.4960,4894.7502,0,test
-APMC Pimpalgaon Baswant,2021,Half the harvest sold for cash,Past seasons,,14185.3598,9291.4960,4893.8638,0,test
-APMC Pimpalgaon Baswant,2021,Half the harvest sold for cash,Perfect foresight,,14799.6296,9291.4960,5508.1336,0,test
-APMC Pimpalgaon Baswant,2021,Half the harvest sold for cash,March plan,Winters,14166.3836,9291.4960,4874.8876,0,test
-APMC Pimpalgaon Baswant,2021,Half the harvest sold for cash,Monthly re-plan,Winters,14166.3836,9291.4960,4874.8876,0,test
-APMC Pimpalgaon Baswant,2021,Curing takes 45 days,Past seasons,,14751.0886,9291.4960,5459.5926,0,test
-APMC Pimpalgaon Baswant,2021,Curing takes 45 days,Perfect foresight,,15985.0256,9291.4960,6693.5296,0,test
-APMC Pimpalgaon Baswant,2021,Curing takes 45 days,March plan,Winters,14719.1586,9291.4960,5427.6626,0,test
-APMC Pimpalgaon Baswant,2021,Curing takes 45 days,Monthly re-plan,Winters,14719.1586,9291.4960,5427.6626,0,test
-APMC Pimpalgaon Baswant,2022,Base,Past seasons,,10200.4205,7885.1020,2315.3185,0,test
-APMC Pimpalgaon Baswant,2022,Base,Perfect foresight,,11119.4197,7885.1020,3234.3177,0,test
-APMC Pimpalgaon Baswant,2022,Base,March plan,Winters,10393.5908,7885.1020,2508.4888,0,test
-APMC Pimpalgaon Baswant,2022,Base,Monthly re-plan,Winters,10393.5908,7885.1020,2508.4888,0,test
-APMC Pimpalgaon Baswant,2022,Storage cost doubled,Past seasons,,9203.3318,7885.1020,1318.2298,0,test
-APMC Pimpalgaon Baswant,2022,Storage cost doubled,Perfect foresight,,10380.8603,7885.1020,2495.7583,0,test
-APMC Pimpalgaon Baswant,2022,Storage cost doubled,March plan,Winters,9467.0283,7885.1020,1581.9263,0,test
-APMC Pimpalgaon Baswant,2022,Storage cost doubled,Monthly re-plan,Winters,9467.0283,7885.1020,1581.9263,0,test
-APMC Pimpalgaon Baswant,2022,Storage loss 20% over six months,Past seasons,,9500.3613,7885.1020,1615.2593,0,test
-APMC Pimpalgaon Baswant,2022,Storage loss 20% over six months,Perfect foresight,,10502.4092,7885.1020,2617.3072,0,test
-APMC Pimpalgaon Baswant,2022,Storage loss 20% over six months,March plan,Winters,9764.2343,7885.1020,1879.1323,0,test
-APMC Pimpalgaon Baswant,2022,Storage loss 20% over six months,Monthly re-plan,Winters,9764.2343,7885.1020,1879.1323,0,test
-APMC Pimpalgaon Baswant,2022,Quality discount 2% a month,Past seasons,,9664.2942,7885.1020,1779.1922,0,test
-APMC Pimpalgaon Baswant,2022,Quality discount 2% a month,Perfect foresight,,10679.6030,7885.1020,2794.5010,0,test
-APMC Pimpalgaon Baswant,2022,Quality discount 2% a month,March plan,Winters,9883.8158,7885.1020,1998.7138,0,test
-APMC Pimpalgaon Baswant,2022,Quality discount 2% a month,Monthly re-plan,Winters,9883.8158,7885.1020,1998.7138,0,test
-APMC Pimpalgaon Baswant,2022,Selling costs doubled,Past seasons,,9628.4498,7300.4040,2328.0458,0,test
-APMC Pimpalgaon Baswant,2022,Selling costs doubled,Perfect foresight,,10528.8023,7300.4040,3228.3983,0,test
-APMC Pimpalgaon Baswant,2022,Selling costs doubled,March plan,Winters,9817.1145,7300.4040,2516.7105,0,test
-APMC Pimpalgaon Baswant,2022,Selling costs doubled,Monthly re-plan,Winters,9817.1145,7300.4040,2516.7105,0,test
-APMC Pimpalgaon Baswant,2022,Interest 20% a year,Past seasons,,9824.2129,7885.1020,1939.1109,0,test
-APMC Pimpalgaon Baswant,2022,Interest 20% a year,Perfect foresight,,10804.4674,7885.1020,2919.3654,0,test
-APMC Pimpalgaon Baswant,2022,Interest 20% a year,March plan,Winters,10033.0026,7885.1020,2147.9006,0,test
-APMC Pimpalgaon Baswant,2022,Interest 20% a year,Monthly re-plan,Winters,10033.0026,7885.1020,2147.9006,0,test
-APMC Pimpalgaon Baswant,2022,Half the harvest sold for cash,Past seasons,,10051.3572,7885.1020,2166.2552,0,test
-APMC Pimpalgaon Baswant,2022,Half the harvest sold for cash,Perfect foresight,,10496.3733,7885.1020,2611.2713,0,test
-APMC Pimpalgaon Baswant,2022,Half the harvest sold for cash,March plan,Winters,10166.1595,7885.1020,2281.0575,0,test
-APMC Pimpalgaon Baswant,2022,Half the harvest sold for cash,Monthly re-plan,Winters,10166.1595,7885.1020,2281.0575,0,test
-APMC Pimpalgaon Baswant,2022,Curing takes 45 days,Past seasons,,10200.4205,7885.1020,2315.3185,0,test
-APMC Pimpalgaon Baswant,2022,Curing takes 45 days,Perfect foresight,,11119.4197,7885.1020,3234.3177,0,test
-APMC Pimpalgaon Baswant,2022,Curing takes 45 days,March plan,Winters,10393.5908,7885.1020,2508.4888,0,test
-APMC Pimpalgaon Baswant,2022,Curing takes 45 days,Monthly re-plan,Winters,10393.5908,7885.1020,2508.4888,0,test
-APMC Pimpalgaon Baswant,2023,Base,Past seasons,,15542.7841,7051.5220,8491.2621,0,test
-APMC Pimpalgaon Baswant,2023,Base,Perfect foresight,,15542.7841,7051.5220,8491.2621,0,test
-APMC Pimpalgaon Baswant,2023,Base,March plan,Winters,15410.9407,7051.5220,8359.4187,0,test
-APMC Pimpalgaon Baswant,2023,Base,Monthly re-plan,Winters,15410.9407,7051.5220,8359.4187,0,test
-APMC Pimpalgaon Baswant,2023,Storage cost doubled,Past seasons,,14545.6955,7051.5220,7494.1735,0,test
-APMC Pimpalgaon Baswant,2023,Storage cost doubled,Perfect foresight,,14545.6955,7051.5220,7494.1735,0,test
-APMC Pimpalgaon Baswant,2023,Storage cost doubled,March plan,Winters,14484.3782,7051.5220,7432.8562,0,test
-APMC Pimpalgaon Baswant,2023,Storage cost doubled,Monthly re-plan,Winters,14484.3782,7051.5220,7432.8562,0,test
-APMC Pimpalgaon Baswant,2023,Storage loss 20% over six months,Past seasons,,14331.1398,7051.5220,7279.6178,0,test
-APMC Pimpalgaon Baswant,2023,Storage loss 20% over six months,Perfect foresight,,14331.1398,7051.5220,7279.6178,0,test
-APMC Pimpalgaon Baswant,2023,Storage loss 20% over six months,March plan,Winters,14292.7332,7051.5220,7241.2112,0,test
-APMC Pimpalgaon Baswant,2023,Storage loss 20% over six months,Monthly re-plan,Winters,14292.7332,7051.5220,7241.2112,0,test
-APMC Pimpalgaon Baswant,2023,Quality discount 2% a month,Past seasons,,14683.8975,7051.5220,7632.3755,0,test
-APMC Pimpalgaon Baswant,2023,Quality discount 2% a month,Perfect foresight,,14683.8975,7051.5220,7632.3755,0,test
-APMC Pimpalgaon Baswant,2023,Quality discount 2% a month,March plan,Winters,14615.8125,7051.5220,7564.2905,0,test
-APMC Pimpalgaon Baswant,2023,Quality discount 2% a month,Monthly re-plan,Winters,14615.8125,7051.5220,7564.2905,0,test
-APMC Pimpalgaon Baswant,2023,Selling costs doubled,Past seasons,,14916.8502,6475.2440,8441.6062,0,test
-APMC Pimpalgaon Baswant,2023,Selling costs doubled,Perfect foresight,,14916.8502,6475.2440,8441.6062,0,test
-APMC Pimpalgaon Baswant,2023,Selling costs doubled,March plan,Winters,14783.7841,6475.2440,8308.5401,0,test
-APMC Pimpalgaon Baswant,2023,Selling costs doubled,Monthly re-plan,Winters,14783.7841,6475.2440,8308.5401,0,test
-APMC Pimpalgaon Baswant,2023,Interest 20% a year,Past seasons,,14921.2004,7051.5220,7869.6784,0,test
-APMC Pimpalgaon Baswant,2023,Interest 20% a year,Perfect foresight,,14921.2004,7051.5220,7869.6784,0,test
-APMC Pimpalgaon Baswant,2023,Interest 20% a year,March plan,Winters,14832.7644,7051.5220,7781.2424,0,test
-APMC Pimpalgaon Baswant,2023,Interest 20% a year,Monthly re-plan,Winters,14832.7644,7051.5220,7781.2424,0,test
-APMC Pimpalgaon Baswant,2023,Half the harvest sold for cash,Past seasons,,13724.1736,7051.5220,6672.6516,0,test
-APMC Pimpalgaon Baswant,2023,Half the harvest sold for cash,Perfect foresight,,13724.1736,7051.5220,6672.6516,0,test
-APMC Pimpalgaon Baswant,2023,Half the harvest sold for cash,March plan,Winters,13645.8183,7051.5220,6594.2963,0,test
-APMC Pimpalgaon Baswant,2023,Half the harvest sold for cash,Monthly re-plan,Winters,13645.8183,7051.5220,6594.2963,0,test
-APMC Pimpalgaon Baswant,2023,Curing takes 45 days,Past seasons,,15542.7841,7051.5220,8491.2621,0,test
-APMC Pimpalgaon Baswant,2023,Curing takes 45 days,Perfect foresight,,15542.7841,7051.5220,8491.2621,0,test
-APMC Pimpalgaon Baswant,2023,Curing takes 45 days,March plan,Winters,15410.9407,7051.5220,8359.4187,0,test
-APMC Pimpalgaon Baswant,2023,Curing takes 45 days,Monthly re-plan,Winters,15410.9407,7051.5220,8359.4187,0,test
-APMC Pimpalgaon Baswant,2024,Base,Past seasons,,26947.0114,13522.6570,13424.3544,0,test
-APMC Pimpalgaon Baswant,2024,Base,Perfect foresight,,26947.0114,13522.6570,13424.3544,0,test
-APMC Pimpalgaon Baswant,2024,Base,March plan,Winters,25340.0841,13522.6570,11817.4271,0,test
-APMC Pimpalgaon Baswant,2024,Base,Monthly re-plan,Winters,25340.0841,13522.6570,11817.4271,0,test
-APMC Pimpalgaon Baswant,2024,Storage cost doubled,Past seasons,,25949.9227,13522.6570,12427.2657,0,test
-APMC Pimpalgaon Baswant,2024,Storage cost doubled,Perfect foresight,,25949.9227,13522.6570,12427.2657,0,test
-APMC Pimpalgaon Baswant,2024,Storage cost doubled,March plan,Winters,24413.5215,13522.6570,10890.8645,0,test
-APMC Pimpalgaon Baswant,2024,Storage cost doubled,Monthly re-plan,Winters,24413.5215,13522.6570,10890.8645,0,test
-APMC Pimpalgaon Baswant,2024,Storage loss 20% over six months,Past seasons,,24715.3638,13522.6570,11192.7068,0,test
-APMC Pimpalgaon Baswant,2024,Storage loss 20% over six months,Perfect foresight,,24754.3549,13522.6570,11231.6979,0,test
-APMC Pimpalgaon Baswant,2024,Storage loss 20% over six months,March plan,Winters,23199.2599,13522.6570,9676.6029,0,test
-APMC Pimpalgaon Baswant,2024,Storage loss 20% over six months,Monthly re-plan,Winters,23199.2599,13522.6570,9676.6029,0,test
-APMC Pimpalgaon Baswant,2024,Quality discount 2% a month,Past seasons,,25556.9593,13522.6570,12034.3023,0,test
-APMC Pimpalgaon Baswant,2024,Quality discount 2% a month,Perfect foresight,,25556.9593,13522.6570,12034.3023,0,test
-APMC Pimpalgaon Baswant,2024,Quality discount 2% a month,March plan,Winters,24127.7539,13522.6570,10605.0969,0,test
-APMC Pimpalgaon Baswant,2024,Quality discount 2% a month,Monthly re-plan,Winters,24127.7539,13522.6570,10605.0969,0,test
-APMC Pimpalgaon Baswant,2024,Selling costs doubled,Past seasons,,26205.8833,12881.0140,13324.8693,0,test
-APMC Pimpalgaon Baswant,2024,Selling costs doubled,Perfect foresight,,26205.8833,12881.0140,13324.8693,0,test
-APMC Pimpalgaon Baswant,2024,Selling costs doubled,March plan,Winters,24612.6330,12881.0140,11731.6190,0,test
-APMC Pimpalgaon Baswant,2024,Selling costs doubled,Monthly re-plan,Winters,24612.6330,12881.0140,11731.6190,0,test
-APMC Pimpalgaon Baswant,2024,Interest 20% a year,Past seasons,,25920.7538,13522.6570,12398.0968,0,test
-APMC Pimpalgaon Baswant,2024,Interest 20% a year,Perfect foresight,,25920.7538,13522.6570,12398.0968,0,test
-APMC Pimpalgaon Baswant,2024,Interest 20% a year,March plan,Winters,24442.9820,13522.6570,10920.3250,0,test
-APMC Pimpalgaon Baswant,2024,Interest 20% a year,Monthly re-plan,Winters,24442.9820,13522.6570,10920.3250,0,test
-APMC Pimpalgaon Baswant,2024,Half the harvest sold for cash,Past seasons,,23224.6646,13522.6570,9702.0076,0,test
-APMC Pimpalgaon Baswant,2024,Half the harvest sold for cash,Perfect foresight,,23309.0945,13522.6570,9786.4375,0,test
-APMC Pimpalgaon Baswant,2024,Half the harvest sold for cash,March plan,Winters,22269.6580,13522.6570,8747.0010,0,test
-APMC Pimpalgaon Baswant,2024,Half the harvest sold for cash,Monthly re-plan,Winters,22269.6580,13522.6570,8747.0010,0,test
-APMC Pimpalgaon Baswant,2024,Curing takes 45 days,Past seasons,,26947.0114,13522.6570,13424.3544,0,test
-APMC Pimpalgaon Baswant,2024,Curing takes 45 days,Perfect foresight,,26947.0114,13522.6570,13424.3544,0,test
-APMC Pimpalgaon Baswant,2024,Curing takes 45 days,March plan,Winters,25340.0841,13522.6570,11817.4271,0,test
-APMC Pimpalgaon Baswant,2024,Curing takes 45 days,Monthly re-plan,Winters,25340.0841,13522.6570,11817.4271,0,test
-APMC Pimpalgaon Baswant,2025,Base,Past seasons,,9134.2354,11284.7620,-2150.5266,0,test
-APMC Pimpalgaon Baswant,2025,Base,Perfect foresight,,11960.5212,11284.7620,675.7592,0,test
-APMC Pimpalgaon Baswant,2025,Base,March plan,Winters,9134.2354,11284.7620,-2150.5266,0,test
-APMC Pimpalgaon Baswant,2025,Base,Monthly re-plan,Winters,9134.2354,11284.7620,-2150.5266,0,test
-APMC Pimpalgaon Baswant,2025,Storage cost doubled,Past seasons,,8137.1468,11284.7620,-3147.6152,0,test
-APMC Pimpalgaon Baswant,2025,Storage cost doubled,Perfect foresight,,11790.1572,11284.7620,505.3952,0,test
-APMC Pimpalgaon Baswant,2025,Storage cost doubled,March plan,Winters,8907.5751,11284.7620,-2377.1869,0,test
-APMC Pimpalgaon Baswant,2025,Storage cost doubled,Monthly re-plan,Winters,8907.5751,11284.7620,-2377.1869,0,test
-APMC Pimpalgaon Baswant,2025,Storage loss 20% over six months,Past seasons,,8371.1745,11284.7620,-2913.5875,0,test
-APMC Pimpalgaon Baswant,2025,Storage loss 20% over six months,Perfect foresight,,11816.2877,11284.7620,531.5257,0,test
-APMC Pimpalgaon Baswant,2025,Storage loss 20% over six months,March plan,Winters,9175.9592,11284.7620,-2108.8028,0,test
-APMC Pimpalgaon Baswant,2025,Storage loss 20% over six months,Monthly re-plan,Winters,9175.9592,11284.7620,-2108.8028,0,test
-APMC Pimpalgaon Baswant,2025,Quality discount 2% a month,Past seasons,,8732.1562,11284.7620,-2552.6058,0,test
-APMC Pimpalgaon Baswant,2025,Quality discount 2% a month,Perfect foresight,,11868.8562,11284.7620,584.0942,0,test
-APMC Pimpalgaon Baswant,2025,Quality discount 2% a month,March plan,Winters,9436.8176,11284.7620,-1847.9444,0,test
-APMC Pimpalgaon Baswant,2025,Quality discount 2% a month,Monthly re-plan,Winters,9436.8176,11284.7620,-1847.9444,0,test
-APMC Pimpalgaon Baswant,2025,Selling costs doubled,Past seasons,,8573.0343,10665.7240,-2092.6897,0,test
-APMC Pimpalgaon Baswant,2025,Selling costs doubled,Perfect foresight,,11340.8280,10665.7240,675.1040,0,test
-APMC Pimpalgaon Baswant,2025,Selling costs doubled,March plan,Winters,8573.0343,10665.7240,-2092.6897,0,test
-APMC Pimpalgaon Baswant,2025,Selling costs doubled,Monthly re-plan,Winters,8573.0343,10665.7240,-2092.6897,0,test
-APMC Pimpalgaon Baswant,2025,Interest 20% a year,Past seasons,,8859.1849,11284.7620,-2425.5771,0,test
-APMC Pimpalgaon Baswant,2025,Interest 20% a year,Perfect foresight,,11890.2827,11284.7620,605.5207,0,test
-APMC Pimpalgaon Baswant,2025,Interest 20% a year,March plan,Winters,9557.9495,11284.7620,-1726.8125,0,test
-APMC Pimpalgaon Baswant,2025,Interest 20% a year,Monthly re-plan,Winters,9557.9495,11284.7620,-1726.8125,0,test
-APMC Pimpalgaon Baswant,2025,Half the harvest sold for cash,Past seasons,,9624.0123,11284.7620,-1660.7497,0,test
-APMC Pimpalgaon Baswant,2025,Half the harvest sold for cash,Perfect foresight,,11960.5212,11284.7620,675.7592,0,test
-APMC Pimpalgaon Baswant,2025,Half the harvest sold for cash,March plan,Winters,9624.0123,11284.7620,-1660.7497,0,test
-APMC Pimpalgaon Baswant,2025,Half the harvest sold for cash,Monthly re-plan,Winters,9624.0123,11284.7620,-1660.7497,0,test
-APMC Pimpalgaon Baswant,2025,Curing takes 45 days,Past seasons,,9134.2354,11284.7620,-2150.5266,0,test
-APMC Pimpalgaon Baswant,2025,Curing takes 45 days,Perfect foresight,,11960.5212,11284.7620,675.7592,0,test
-APMC Pimpalgaon Baswant,2025,Curing takes 45 days,March plan,Winters,9134.2354,11284.7620,-2150.5266,0,test
-APMC Pimpalgaon Baswant,2025,Curing takes 45 days,Monthly re-plan,Winters,9134.2354,11284.7620,-2150.5266,0,test
-APMC Pune,2020,Base,Past seasons,,11558.5747,12228.5290,-669.9543,0,test
-APMC Pune,2020,Base,Perfect foresight,,15253.6151,12228.5290,3025.0861,0,test
-APMC Pune,2020,Base,March plan,Winters,11558.5747,12228.5290,-669.9543,0,test
-APMC Pune,2020,Base,Monthly re-plan,Winters,11558.5747,12228.5290,-669.9543,0,test
-APMC Pune,2020,Storage cost doubled,Past seasons,,10700.7379,12228.5290,-1527.7911,0,test
-APMC Pune,2020,Storage cost doubled,Perfect foresight,,14299.3834,12228.5290,2070.8544,0,test
-APMC Pune,2020,Storage cost doubled,March plan,Winters,10700.7379,12228.5290,-1527.7911,0,test
-APMC Pune,2020,Storage cost doubled,Monthly re-plan,Winters,9986.5613,12228.5290,-2241.9677,0,test
-APMC Pune,2020,Storage loss 20% over six months,Past seasons,,10407.2185,12228.5290,-1821.3105,0,test
-APMC Pune,2020,Storage loss 20% over six months,Perfect foresight,,14242.8841,12228.5290,2014.3551,0,test
-APMC Pune,2020,Storage loss 20% over six months,March plan,Winters,10407.2185,12228.5290,-1821.3105,0,test
-APMC Pune,2020,Storage loss 20% over six months,Monthly re-plan,Winters,10407.2185,12228.5290,-1821.3105,0,test
-APMC Pune,2020,Quality discount 2% a month,Past seasons,,11098.8474,12228.5290,-1129.6816,0,test
-APMC Pune,2020,Quality discount 2% a month,Perfect foresight,,14525.2722,12228.5290,2296.7432,0,test
-APMC Pune,2020,Quality discount 2% a month,March plan,Winters,11098.8474,12228.5290,-1129.6816,0,test
-APMC Pune,2020,Quality discount 2% a month,Monthly re-plan,Winters,11098.8474,12228.5290,-1129.6816,0,test
-APMC Pune,2020,Selling costs doubled,Past seasons,,10967.8416,11599.9580,-632.1164,0,test
-APMC Pune,2020,Selling costs doubled,Perfect foresight,,14629.0498,11599.9580,3029.0918,0,test
-APMC Pune,2020,Selling costs doubled,March plan,Winters,10967.8416,11599.9580,-632.1164,0,test
-APMC Pune,2020,Selling costs doubled,Monthly re-plan,Winters,10967.8416,11599.9580,-632.1164,0,test
-APMC Pune,2020,Interest 20% a year,Past seasons,,11230.0609,12228.5290,-998.4681,0,test
-APMC Pune,2020,Interest 20% a year,Perfect foresight,,14730.4818,12228.5290,2501.9528,0,test
-APMC Pune,2020,Interest 20% a year,March plan,Winters,11230.0609,12228.5290,-998.4681,0,test
-APMC Pune,2020,Interest 20% a year,Monthly re-plan,Winters,11230.0609,12228.5290,-998.4681,0,test
-APMC Pune,2020,Half the harvest sold for cash,Past seasons,,10878.2150,12228.5290,-1350.3140,0,test
-APMC Pune,2020,Half the harvest sold for cash,Perfect foresight,,14910.3424,12228.5290,2681.8134,0,test
-APMC Pune,2020,Half the harvest sold for cash,March plan,Winters,10878.2150,12228.5290,-1350.3140,0,test
-APMC Pune,2020,Half the harvest sold for cash,Monthly re-plan,Winters,10878.2150,12228.5290,-1350.3140,0,test
-APMC Pune,2020,Curing takes 45 days,Past seasons,,11558.5747,12228.5290,-669.9543,0,test
-APMC Pune,2020,Curing takes 45 days,Perfect foresight,,15253.6151,12228.5290,3025.0861,0,test
-APMC Pune,2020,Curing takes 45 days,March plan,Winters,11558.5747,12228.5290,-669.9543,0,test
-APMC Pune,2020,Curing takes 45 days,Monthly re-plan,Winters,11558.5747,12228.5290,-669.9543,0,test
-APMC Pune,2021,Base,Past seasons,,8871.4885,7763.0350,1108.4535,0,test
-APMC Pune,2021,Base,Perfect foresight,,11235.4400,7763.0350,3472.4050,0,test
-APMC Pune,2021,Base,March plan,Winters,8871.4885,7763.0350,1108.4535,0,test
-APMC Pune,2021,Base,Monthly re-plan,Winters,8871.4885,7763.0350,1108.4535,0,test
-APMC Pune,2021,Storage cost doubled,Past seasons,,8013.6518,7763.0350,250.6168,0,test
-APMC Pune,2021,Storage cost doubled,Perfect foresight,,10496.8806,7763.0350,2733.8456,0,test
-APMC Pune,2021,Storage cost doubled,March plan,Winters,8013.6518,7763.0350,250.6168,0,test
-APMC Pune,2021,Storage cost doubled,Monthly re-plan,Winters,8013.6518,7763.0350,250.6168,0,test
-APMC Pune,2021,Storage loss 20% over six months,Past seasons,,8029.5534,7763.0350,266.5184,0,test
-APMC Pune,2021,Storage loss 20% over six months,Perfect foresight,,10621.9716,7763.0350,2858.9366,0,test
-APMC Pune,2021,Storage loss 20% over six months,March plan,Winters,8029.5534,7763.0350,266.5184,0,test
-APMC Pune,2021,Storage loss 20% over six months,Monthly re-plan,Winters,8029.5534,7763.0350,266.5184,0,test
-APMC Pune,2021,Quality discount 2% a month,Past seasons,,8493.7302,7763.0350,730.6952,0,test
-APMC Pune,2021,Quality discount 2% a month,Perfect foresight,,10791.8282,7763.0350,3028.7932,0,test
-APMC Pune,2021,Quality discount 2% a month,March plan,Winters,8493.7302,7763.0350,730.6952,0,test
-APMC Pune,2021,Quality discount 2% a month,Monthly re-plan,Winters,8493.7302,7763.0350,730.6952,0,test
-APMC Pune,2021,Selling costs doubled,Past seasons,,8307.8977,7179.5700,1128.3277,0,test
-APMC Pune,2021,Selling costs doubled,Perfect foresight,,10643.6507,7179.5700,3464.0807,0,test
-APMC Pune,2021,Selling costs doubled,March plan,Winters,8307.8977,7179.5700,1128.3277,0,test
-APMC Pune,2021,Selling costs doubled,Monthly re-plan,Winters,8307.8977,7179.5700,1128.3277,0,test
-APMC Pune,2021,Interest 20% a year,Past seasons,,8605.2317,7763.0350,842.1967,0,test
-APMC Pune,2021,Interest 20% a year,Perfect foresight,,10917.4980,7763.0350,3154.4630,0,test
-APMC Pune,2021,Interest 20% a year,March plan,Winters,8605.2317,7763.0350,842.1967,0,test
-APMC Pune,2021,Interest 20% a year,Monthly re-plan,Winters,8605.2317,7763.0350,842.1967,0,test
-APMC Pune,2021,Half the harvest sold for cash,Past seasons,,8338.3700,7763.0350,575.3350,0,test
-APMC Pune,2021,Half the harvest sold for cash,Perfect foresight,,10526.9928,7763.0350,2763.9578,0,test
-APMC Pune,2021,Half the harvest sold for cash,March plan,Winters,8386.4979,7763.0350,623.4629,0,test
-APMC Pune,2021,Half the harvest sold for cash,Monthly re-plan,Winters,8386.4979,7763.0350,623.4629,0,test
-APMC Pune,2021,Curing takes 45 days,Past seasons,,8871.4885,7763.0350,1108.4535,0,test
-APMC Pune,2021,Curing takes 45 days,Perfect foresight,,11235.4400,7763.0350,3472.4050,0,test
-APMC Pune,2021,Curing takes 45 days,March plan,Winters,8871.4885,7763.0350,1108.4535,0,test
-APMC Pune,2021,Curing takes 45 days,Monthly re-plan,Winters,8871.4885,7763.0350,1108.4535,0,test
-APMC Pune,2022,Base,Past seasons,,7385.8418,7409.1100,-23.2682,0,test
-APMC Pune,2022,Base,Perfect foresight,,8953.6932,7409.1100,1544.5832,0,test
-APMC Pune,2022,Base,March plan,Winters,8265.0307,7409.1100,855.9207,0,test
-APMC Pune,2022,Base,Monthly re-plan,Winters,8265.0307,7409.1100,855.9207,0,test
-APMC Pune,2022,Storage cost doubled,Past seasons,,6528.0050,7409.1100,-881.1050,0,test
-APMC Pune,2022,Storage cost doubled,Perfect foresight,,8215.1338,7409.1100,806.0238,0,test
-APMC Pune,2022,Storage cost doubled,March plan,Winters,7338.4681,7409.1100,-70.6419,0,test
-APMC Pune,2022,Storage cost doubled,Monthly re-plan,Winters,6528.0050,7409.1100,-881.1050,0,test
-APMC Pune,2022,Storage loss 20% over six months,Past seasons,,6759.3872,7409.1100,-649.7228,0,test
-APMC Pune,2022,Storage loss 20% over six months,Perfect foresight,,8457.7538,7409.1100,1048.6438,0,test
-APMC Pune,2022,Storage loss 20% over six months,March plan,Winters,7684.6195,7409.1100,275.5095,0,test
-APMC Pune,2022,Storage loss 20% over six months,Monthly re-plan,Winters,6759.3872,7409.1100,-649.7228,0,test
-APMC Pune,2022,Quality discount 2% a month,Past seasons,,7076.1857,7409.1100,-332.9243,0,test
-APMC Pune,2022,Quality discount 2% a month,Perfect foresight,,8612.3400,7409.1100,1203.2300,0,test
-APMC Pune,2022,Quality discount 2% a month,March plan,Winters,7867.2004,7409.1100,458.0904,0,test
-APMC Pune,2022,Quality discount 2% a month,Monthly re-plan,Winters,7867.2004,7409.1100,458.0904,0,test
-APMC Pune,2022,Selling costs doubled,Past seasons,,6837.2575,6829.2200,8.0375,0,test
-APMC Pune,2022,Selling costs doubled,Perfect foresight,,8384.9518,6829.2200,1555.7318,0,test
-APMC Pune,2022,Selling costs doubled,March plan,Winters,7710.0549,6829.2200,880.8349,0,test
-APMC Pune,2022,Selling costs doubled,Monthly re-plan,Winters,7710.0549,6829.2200,880.8349,0,test
-APMC Pune,2022,Interest 20% a year,Past seasons,,7171.8978,7409.1100,-237.2122,0,test
-APMC Pune,2022,Interest 20% a year,Perfect foresight,,8713.7626,7409.1100,1304.6526,0,test
-APMC Pune,2022,Interest 20% a year,March plan,Winters,7989.5773,7409.1100,580.4673,0,test
-APMC Pune,2022,Interest 20% a year,Monthly re-plan,Winters,7989.5773,7409.1100,580.4673,0,test
-APMC Pune,2022,Half the harvest sold for cash,Past seasons,,7270.3544,7409.1100,-138.7556,0,test
-APMC Pune,2022,Half the harvest sold for cash,Perfect foresight,,8644.2199,7409.1100,1235.1099,0,test
-APMC Pune,2022,Half the harvest sold for cash,March plan,Winters,8311.6088,7409.1100,902.4988,0,test
-APMC Pune,2022,Half the harvest sold for cash,Monthly re-plan,Winters,8311.6088,7409.1100,902.4988,0,test
-APMC Pune,2022,Curing takes 45 days,Past seasons,,7385.8418,7409.1100,-23.2682,0,test
-APMC Pune,2022,Curing takes 45 days,Perfect foresight,,8953.6932,7409.1100,1544.5832,0,test
-APMC Pune,2022,Curing takes 45 days,March plan,Winters,8265.0307,7409.1100,855.9207,0,test
-APMC Pune,2022,Curing takes 45 days,Monthly re-plan,Winters,8265.0307,7409.1100,855.9207,0,test
-APMC Pune,2023,Base,Past seasons,,10313.1076,5768.3830,4544.7246,0,test
-APMC Pune,2023,Base,Perfect foresight,,12134.4574,5768.3830,6366.0744,0,test
-APMC Pune,2023,Base,March plan,Winters,12134.4574,5768.3830,6366.0744,0,test
-APMC Pune,2023,Base,Monthly re-plan,Winters,12134.4574,5768.3830,6366.0744,0,test
-APMC Pune,2023,Storage cost doubled,Past seasons,,9455.2708,5768.3830,3686.8878,0,test
-APMC Pune,2023,Storage cost doubled,Perfect foresight,,11207.8949,5768.3830,5439.5119,0,test
-APMC Pune,2023,Storage cost doubled,March plan,Winters,11207.8949,5768.3830,5439.5119,0,test
-APMC Pune,2023,Storage cost doubled,Monthly re-plan,Winters,11207.8949,5768.3830,5439.5119,0,test
-APMC Pune,2023,Storage loss 20% over six months,Past seasons,,9236.5867,5768.3830,3468.2037,0,test
-APMC Pune,2023,Storage loss 20% over six months,Perfect foresight,,11302.4923,5768.3830,5534.1093,0,test
-APMC Pune,2023,Storage loss 20% over six months,March plan,Winters,11182.0088,5768.3830,5413.6258,0,test
-APMC Pune,2023,Storage loss 20% over six months,Monthly re-plan,Winters,11182.0088,5768.3830,5413.6258,0,test
-APMC Pune,2023,Quality discount 2% a month,Past seasons,,9835.0407,5768.3830,4066.6577,0,test
-APMC Pune,2023,Quality discount 2% a month,Perfect foresight,,11493.4221,5768.3830,5725.0391,0,test
-APMC Pune,2023,Quality discount 2% a month,March plan,Winters,11493.4221,5768.3830,5725.0391,0,test
-APMC Pune,2023,Quality discount 2% a month,Monthly re-plan,Winters,11493.4221,5768.3830,5725.0391,0,test
-APMC Pune,2023,Selling costs doubled,Past seasons,,9734.9550,5205.0660,4529.8890,0,test
-APMC Pune,2023,Selling costs doubled,Perfect foresight,,11540.3966,5205.0660,6335.3306,0,test
-APMC Pune,2023,Selling costs doubled,March plan,Winters,11540.3966,5205.0660,6335.3306,0,test
-APMC Pune,2023,Selling costs doubled,Monthly re-plan,Winters,11540.3966,5205.0660,6335.3306,0,test
-APMC Pune,2023,Interest 20% a year,Past seasons,,9969.7600,5768.3830,4201.3770,0,test
-APMC Pune,2023,Interest 20% a year,Perfect foresight,,11673.9085,5768.3830,5905.5255,0,test
-APMC Pune,2023,Interest 20% a year,March plan,Winters,11673.9085,5768.3830,5905.5255,0,test
-APMC Pune,2023,Interest 20% a year,Monthly re-plan,Winters,11673.9085,5768.3830,5905.5255,0,test
-APMC Pune,2023,Half the harvest sold for cash,Past seasons,,8770.6171,5768.3830,3002.2341,0,test
-APMC Pune,2023,Half the harvest sold for cash,Perfect foresight,,10928.6674,5768.3830,5160.2844,0,test
-APMC Pune,2023,Half the harvest sold for cash,March plan,Winters,10928.6674,5768.3830,5160.2844,0,test
-APMC Pune,2023,Half the harvest sold for cash,Monthly re-plan,Winters,10928.6674,5768.3830,5160.2844,0,test
-APMC Pune,2023,Curing takes 45 days,Past seasons,,10313.1076,5768.3830,4544.7246,0,test
-APMC Pune,2023,Curing takes 45 days,Perfect foresight,,12134.4574,5768.3830,6366.0744,0,test
-APMC Pune,2023,Curing takes 45 days,March plan,Winters,12134.4574,5768.3830,6366.0744,0,test
-APMC Pune,2023,Curing takes 45 days,Monthly re-plan,Winters,12134.4574,5768.3830,6366.0744,0,test
-APMC Pune,2024,Base,Past seasons,,21851.7626,9896.8810,11954.8816,0,test
-APMC Pune,2024,Base,Perfect foresight,,21851.7626,9896.8810,11954.8816,0,test
-APMC Pune,2024,Base,March plan,Winters,19830.6708,9896.8810,9933.7898,0,test
-APMC Pune,2024,Base,Monthly re-plan,Winters,19830.6708,9896.8810,9933.7898,0,test
-APMC Pune,2024,Storage cost doubled,Past seasons,,18904.1082,9896.8810,9007.2272,0,test
-APMC Pune,2024,Storage cost doubled,Perfect foresight,,20854.6739,9896.8810,10957.7929,0,test
-APMC Pune,2024,Storage cost doubled,March plan,Winters,18904.1082,9896.8810,9007.2272,0,test
-APMC Pune,2024,Storage cost doubled,Monthly re-plan,Winters,18904.1082,9896.8810,9007.2272,0,test
-APMC Pune,2024,Storage loss 20% over six months,Past seasons,,17924.2858,9896.8810,8027.4048,0,test
-APMC Pune,2024,Storage loss 20% over six months,Perfect foresight,,20110.2118,9896.8810,10213.3308,0,test
-APMC Pune,2024,Storage loss 20% over six months,March plan,Winters,17946.0436,9896.8810,8049.1626,0,test
-APMC Pune,2024,Storage loss 20% over six months,Monthly re-plan,Winters,17946.0436,9896.8810,8049.1626,0,test
-APMC Pune,2024,Quality discount 2% a month,Past seasons,,18863.8788,9896.8810,8966.9978,0,test
-APMC Pune,2024,Quality discount 2% a month,Perfect foresight,,20700.5770,9896.8810,10803.6960,0,test
-APMC Pune,2024,Quality discount 2% a month,March plan,Winters,18863.8788,9896.8810,8966.9978,0,test
-APMC Pune,2024,Quality discount 2% a month,Monthly re-plan,Winters,18863.8788,9896.8810,8966.9978,0,test
-APMC Pune,2024,Selling costs doubled,Past seasons,,21162.1016,9291.8620,11870.2396,0,test
-APMC Pune,2024,Selling costs doubled,Perfect foresight,,21162.1016,9291.8620,11870.2396,0,test
-APMC Pune,2024,Selling costs doubled,March plan,Winters,19158.8704,9291.8620,9867.0084,0,test
-APMC Pune,2024,Selling costs doubled,Monthly re-plan,Winters,19158.8704,9291.8620,9867.0084,0,test
-APMC Pune,2024,Interest 20% a year,Past seasons,,19120.4821,9896.8810,9223.6011,0,test
-APMC Pune,2024,Interest 20% a year,Perfect foresight,,21006.6618,9896.8810,11109.7808,0,test
-APMC Pune,2024,Interest 20% a year,March plan,Winters,19120.4821,9896.8810,9223.6011,0,test
-APMC Pune,2024,Interest 20% a year,Monthly re-plan,Winters,19120.4821,9896.8810,9223.6011,0,test
-APMC Pune,2024,Half the harvest sold for cash,Past seasons,,18150.3116,9896.8810,8253.4306,0,test
-APMC Pune,2024,Half the harvest sold for cash,Perfect foresight,,18976.4721,9896.8810,9079.5911,0,test
-APMC Pune,2024,Half the harvest sold for cash,March plan,Winters,16949.1646,9896.8810,7052.2836,0,test
-APMC Pune,2024,Half the harvest sold for cash,Monthly re-plan,Winters,16949.1646,9896.8810,7052.2836,0,test
-APMC Pune,2024,Curing takes 45 days,Past seasons,,21851.7626,9896.8810,11954.8816,0,test
-APMC Pune,2024,Curing takes 45 days,Perfect foresight,,21851.7626,9896.8810,11954.8816,0,test
-APMC Pune,2024,Curing takes 45 days,March plan,Winters,19830.6708,9896.8810,9933.7898,0,test
-APMC Pune,2024,Curing takes 45 days,Monthly re-plan,Winters,19830.6708,9896.8810,9933.7898,0,test
-APMC Pune,2025,Base,Past seasons,,8650.8815,10353.6670,-1702.7855,0,test
-APMC Pune,2025,Base,Perfect foresight,,10882.8824,10353.6670,529.2154,0,test
-APMC Pune,2025,Base,March plan,Winters,8650.8815,10353.6670,-1702.7855,0,test
-APMC Pune,2025,Base,Monthly re-plan,Winters,8650.8815,10353.6670,-1702.7855,0,test
-APMC Pune,2025,Storage cost doubled,Past seasons,,7653.7928,10353.6670,-2699.8742,0,test
-APMC Pune,2025,Storage cost doubled,Perfect foresight,,10625.7008,10353.6670,272.0338,0,test
-APMC Pune,2025,Storage cost doubled,March plan,Winters,7236.7773,10353.6670,-3116.8897,0,test
-APMC Pune,2025,Storage cost doubled,Monthly re-plan,Winters,7236.7773,10353.6670,-3116.8897,0,test
-APMC Pune,2025,Storage loss 20% over six months,Past seasons,,8811.7703,10353.6670,-1541.8967,0,test
-APMC Pune,2025,Storage loss 20% over six months,Perfect foresight,,10673.8329,10353.6670,320.1659,0,test
-APMC Pune,2025,Storage loss 20% over six months,March plan,Winters,7492.5140,10353.6670,-2861.1530,0,test
-APMC Pune,2025,Storage loss 20% over six months,Monthly re-plan,Winters,7492.5140,10353.6670,-2861.1530,0,test
-APMC Pune,2025,Quality discount 2% a month,Past seasons,,8264.8374,10353.6670,-2088.8296,0,test
-APMC Pune,2025,Quality discount 2% a month,Perfect foresight,,10752.8506,10353.6670,399.1836,0,test
-APMC Pune,2025,Quality discount 2% a month,March plan,Winters,7836.1101,10353.6670,-2517.5569,0,test
-APMC Pune,2025,Quality discount 2% a month,Monthly re-plan,Winters,7836.1101,10353.6670,-2517.5569,0,test
-APMC Pune,2025,Selling costs doubled,Past seasons,,8094.5627,9744.0340,-1649.4713,0,test
-APMC Pune,2025,Selling costs doubled,Perfect foresight,,10277.2189,9744.0340,533.1849,0,test
-APMC Pune,2025,Selling costs doubled,March plan,Winters,8094.5627,9744.0340,-1649.4713,0,test
-APMC Pune,2025,Selling costs doubled,Monthly re-plan,Winters,8094.5627,9744.0340,-1649.4713,0,test
-APMC Pune,2025,Interest 20% a year,Past seasons,,8387.7525,10353.6670,-1965.9145,0,test
-APMC Pune,2025,Interest 20% a year,Perfect foresight,,10785.9735,10353.6670,432.3065,0,test
-APMC Pune,2025,Interest 20% a year,March plan,Winters,8387.7525,10353.6670,-1965.9145,0,test
-APMC Pune,2025,Interest 20% a year,Monthly re-plan,Winters,7940.8413,10353.6670,-2412.8257,0,test
-APMC Pune,2025,Half the harvest sold for cash,Past seasons,,9432.8314,10353.6670,-920.8356,0,test
-APMC Pune,2025,Half the harvest sold for cash,Perfect foresight,,10882.8824,10353.6670,529.2154,0,test
-APMC Pune,2025,Half the harvest sold for cash,March plan,Winters,8826.2857,10353.6670,-1527.3813,0,test
-APMC Pune,2025,Half the harvest sold for cash,Monthly re-plan,Winters,8826.2857,10353.6670,-1527.3813,0,test
-APMC Pune,2025,Curing takes 45 days,Past seasons,,8650.8815,10353.6670,-1702.7855,0,test
-APMC Pune,2025,Curing takes 45 days,Perfect foresight,,10882.8824,10353.6670,529.2154,0,test
-APMC Pune,2025,Curing takes 45 days,March plan,Winters,8650.8815,10353.6670,-1702.7855,0,test
-APMC Pune,2025,Curing takes 45 days,Monthly re-plan,Winters,8650.8815,10353.6670,-1702.7855,0,test
-APMC Solapur,2020,Base,Past seasons,,7046.5447,6648.5920,397.9527,1,test
-APMC Solapur,2020,Base,Perfect foresight,,9717.2290,6648.5920,3068.6370,1,test
-APMC Solapur,2020,Base,March plan,Winters,7046.5447,6648.5920,397.9527,1,test
-APMC Solapur,2020,Base,Monthly re-plan,Winters,6495.1667,6648.5920,-153.4253,1,test
-APMC Solapur,2020,Storage cost doubled,Past seasons,,6188.7079,6648.5920,-459.8841,1,test
-APMC Solapur,2020,Storage cost doubled,Perfect foresight,,8762.9972,6648.5920,2114.4052,1,test
-APMC Solapur,2020,Storage cost doubled,March plan,Winters,6188.7079,6648.5920,-459.8841,1,test
-APMC Solapur,2020,Storage cost doubled,Monthly re-plan,Winters,4045.7792,6648.5920,-2602.8128,1,test
-APMC Solapur,2020,Storage loss 20% over six months,Past seasons,,6243.4612,6648.5920,-405.1308,1,test
-APMC Solapur,2020,Storage loss 20% over six months,Perfect foresight,,9091.3340,6648.5920,2442.7420,1,test
-APMC Solapur,2020,Storage loss 20% over six months,March plan,Winters,6243.4612,6648.5920,-405.1308,1,test
-APMC Solapur,2020,Storage loss 20% over six months,Monthly re-plan,Winters,4259.7973,6648.5920,-2388.7947,1,test
-APMC Solapur,2020,Quality discount 2% a month,Past seasons,,6730.0628,6648.5920,81.4708,1,test
-APMC Solapur,2020,Quality discount 2% a month,Perfect foresight,,9202.6737,6648.5920,2554.0817,1,test
-APMC Solapur,2020,Quality discount 2% a month,March plan,Winters,6730.0628,6648.5920,81.4708,1,test
-APMC Solapur,2020,Quality discount 2% a month,Monthly re-plan,Winters,6222.9579,6648.5920,-425.6341,1,test
-APMC Solapur,2020,Selling costs doubled,Past seasons,,6501.3877,6076.3840,425.0037,1,test
-APMC Solapur,2020,Selling costs doubled,Perfect foresight,,9148.5867,6076.3840,3072.2027,1,test
-APMC Solapur,2020,Selling costs doubled,March plan,Winters,6501.3877,6076.3840,425.0037,1,test
-APMC Solapur,2020,Selling costs doubled,Monthly re-plan,Winters,6501.3877,6076.3840,425.0037,1,test
-APMC Solapur,2020,Interest 20% a year,Past seasons,,6827.9498,6648.5920,179.3578,1,test
-APMC Solapur,2020,Interest 20% a year,Perfect foresight,,9356.4483,6648.5920,2707.8563,1,test
-APMC Solapur,2020,Interest 20% a year,March plan,Winters,6827.9498,6648.5920,179.3578,1,test
-APMC Solapur,2020,Interest 20% a year,Monthly re-plan,Winters,6308.0323,6648.5920,-340.5597,1,test
-APMC Solapur,2020,Half the harvest sold for cash,Past seasons,,6308.2776,6648.5920,-340.3144,1,test
-APMC Solapur,2020,Half the harvest sold for cash,Perfect foresight,,9289.6016,6648.5920,2641.0096,1,test
-APMC Solapur,2020,Half the harvest sold for cash,March plan,Winters,6308.2776,6648.5920,-340.3144,1,test
-APMC Solapur,2020,Half the harvest sold for cash,Monthly re-plan,Winters,6308.2776,6648.5920,-340.3144,1,test
-APMC Solapur,2020,Curing takes 45 days,Past seasons,,7046.5447,6648.5920,397.9527,1,test
-APMC Solapur,2020,Curing takes 45 days,Perfect foresight,,9717.2290,6648.5920,3068.6370,1,test
-APMC Solapur,2020,Curing takes 45 days,March plan,Winters,7046.5447,6648.5920,397.9527,1,test
-APMC Solapur,2020,Curing takes 45 days,Monthly re-plan,Winters,6495.1667,6648.5920,-153.4253,1,test
-APMC Solapur,2021,Base,Past seasons,,6540.3117,4913.0230,1627.2887,0,test
-APMC Solapur,2021,Base,Perfect foresight,,8621.5773,4913.0230,3708.5543,0,test
-APMC Solapur,2021,Base,March plan,Winters,8403.3088,4913.0230,3490.2858,0,test
-APMC Solapur,2021,Base,Monthly re-plan,Winters,8403.3088,4913.0230,3490.2858,0,test
-APMC Solapur,2021,Storage cost doubled,Past seasons,,5682.4749,4913.0230,769.4519,0,test
-APMC Solapur,2021,Storage cost doubled,Perfect foresight,,7860.1830,4913.0230,2947.1600,0,test
-APMC Solapur,2021,Storage cost doubled,March plan,Winters,7476.7462,4913.0230,2563.7232,0,test
-APMC Solapur,2021,Storage cost doubled,Monthly re-plan,Winters,5682.4749,4913.0230,769.4519,0,test
-APMC Solapur,2021,Storage loss 20% over six months,Past seasons,,5771.8019,4913.0230,858.7789,0,test
-APMC Solapur,2021,Storage loss 20% over six months,Perfect foresight,,8142.7227,4913.0230,3229.6997,0,test
-APMC Solapur,2021,Storage loss 20% over six months,March plan,Winters,7796.6361,4913.0230,2883.6131,0,test
-APMC Solapur,2021,Storage loss 20% over six months,Monthly re-plan,Winters,5771.8019,4913.0230,858.7789,0,test
-APMC Solapur,2021,Quality discount 2% a month,Past seasons,,6233.8181,4913.0230,1320.7951,0,test
-APMC Solapur,2021,Quality discount 2% a month,Perfect foresight,,8208.8299,4913.0230,3295.8069,0,test
-APMC Solapur,2021,Quality discount 2% a month,March plan,Winters,7947.9489,4913.0230,3034.9259,0,test
-APMC Solapur,2021,Quality discount 2% a month,Monthly re-plan,Winters,7947.9489,4913.0230,3034.9259,0,test
-APMC Solapur,2021,Selling costs doubled,Past seasons,,6000.2681,4358.3460,1641.9221,0,test
-APMC Solapur,2021,Selling costs doubled,Perfect foresight,,8058.6700,4358.3460,3700.3240,0,test
-APMC Solapur,2021,Selling costs doubled,March plan,Winters,7846.9363,4358.3460,3488.5903,0,test
-APMC Solapur,2021,Selling costs doubled,Monthly re-plan,Winters,7846.9363,4358.3460,3488.5903,0,test
-APMC Solapur,2021,Interest 20% a year,Past seasons,,6328.9070,4913.0230,1415.8840,0,test
-APMC Solapur,2021,Interest 20% a year,Perfect foresight,,8327.4714,4913.0230,3414.4484,0,test
-APMC Solapur,2021,Interest 20% a year,March plan,Winters,8084.4694,4913.0230,3171.4464,0,test
-APMC Solapur,2021,Interest 20% a year,Monthly re-plan,Winters,8084.4694,4913.0230,3171.4464,0,test
-APMC Solapur,2021,Half the harvest sold for cash,Past seasons,,5892.8581,4913.0230,979.8351,0,test
-APMC Solapur,2021,Half the harvest sold for cash,Perfect foresight,,8080.4035,4913.0230,3167.3805,0,test
-APMC Solapur,2021,Half the harvest sold for cash,March plan,Winters,7079.6072,4913.0230,2166.5842,0,test
-APMC Solapur,2021,Half the harvest sold for cash,Monthly re-plan,Winters,7079.6072,4913.0230,2166.5842,0,test
-APMC Solapur,2021,Curing takes 45 days,Past seasons,,6540.3117,4913.0230,1627.2887,0,test
-APMC Solapur,2021,Curing takes 45 days,Perfect foresight,,8621.5773,4913.0230,3708.5543,0,test
-APMC Solapur,2021,Curing takes 45 days,March plan,Winters,8403.3088,4913.0230,3490.2858,0,test
-APMC Solapur,2021,Curing takes 45 days,Monthly re-plan,Winters,8403.3088,4913.0230,3490.2858,0,test
-APMC Solapur,2022,Base,Past seasons,,7350.9794,5959.3540,1391.6254,0,test
-APMC Solapur,2022,Base,Perfect foresight,,7859.2169,5959.3540,1899.8629,0,test
-APMC Solapur,2022,Base,March plan,Winters,7350.9794,5959.3540,1391.6254,0,test
-APMC Solapur,2022,Base,Monthly re-plan,Winters,7350.9794,5959.3540,1391.6254,0,test
-APMC Solapur,2022,Storage cost doubled,Past seasons,,5493.8163,5959.3540,-465.5377,0,test
-APMC Solapur,2022,Storage cost doubled,Perfect foresight,,7052.2026,5959.3540,1092.8486,0,test
-APMC Solapur,2022,Storage cost doubled,March plan,Winters,6424.4168,5959.3540,465.0628,0,test
-APMC Solapur,2022,Storage cost doubled,Monthly re-plan,Winters,6424.4168,5959.3540,465.0628,0,test
-APMC Solapur,2022,Storage loss 20% over six months,Past seasons,,5770.3391,5959.3540,-189.0149,0,test
-APMC Solapur,2022,Storage loss 20% over six months,Perfect foresight,,7354.6692,5959.3540,1395.3152,0,test
-APMC Solapur,2022,Storage loss 20% over six months,March plan,Winters,6836.3628,5959.3540,877.0088,0,test
-APMC Solapur,2022,Storage loss 20% over six months,Monthly re-plan,Winters,6836.3628,5959.3540,877.0088,0,test
-APMC Solapur,2022,Quality discount 2% a month,Past seasons,,6978.8812,5959.3540,1019.5272,0,test
-APMC Solapur,2022,Quality discount 2% a month,Perfect foresight,,7515.2191,5959.3540,1555.8651,0,test
-APMC Solapur,2022,Quality discount 2% a month,March plan,Winters,6978.8812,5959.3540,1019.5272,0,test
-APMC Solapur,2022,Quality discount 2% a month,Monthly re-plan,Winters,6978.8812,5959.3540,1019.5272,0,test
-APMC Solapur,2022,Selling costs doubled,Past seasons,,6805.2365,5394.1080,1411.1285,0,test
-APMC Solapur,2022,Selling costs doubled,Perfect foresight,,7304.0103,5394.1080,1909.9023,0,test
-APMC Solapur,2022,Selling costs doubled,March plan,Winters,6805.2365,5394.1080,1411.1285,0,test
-APMC Solapur,2022,Selling costs doubled,Monthly re-plan,Winters,6805.2365,5394.1080,1411.1285,0,test
-APMC Solapur,2022,Interest 20% a year,Past seasons,,7095.1607,5959.3540,1135.8067,0,test
-APMC Solapur,2022,Interest 20% a year,Perfect foresight,,7619.3646,5959.3540,1660.0106,0,test
-APMC Solapur,2022,Interest 20% a year,March plan,Winters,7095.1607,5959.3540,1135.8067,0,test
-APMC Solapur,2022,Interest 20% a year,Monthly re-plan,Winters,7095.1607,5959.3540,1135.8067,0,test
-APMC Solapur,2022,Half the harvest sold for cash,Past seasons,,6802.4989,5959.3540,843.1449,0,test
-APMC Solapur,2022,Half the harvest sold for cash,Perfect foresight,,7480.6835,5959.3540,1521.3295,0,test
-APMC Solapur,2022,Half the harvest sold for cash,March plan,Winters,7252.0413,5959.3540,1292.6873,0,test
-APMC Solapur,2022,Half the harvest sold for cash,Monthly re-plan,Winters,7252.0413,5959.3540,1292.6873,0,test
-APMC Solapur,2022,Curing takes 45 days,Past seasons,,7350.9794,5959.3540,1391.6254,0,test
-APMC Solapur,2022,Curing takes 45 days,Perfect foresight,,7859.2169,5959.3540,1899.8629,0,test
-APMC Solapur,2022,Curing takes 45 days,March plan,Winters,7350.9794,5959.3540,1391.6254,0,test
-APMC Solapur,2022,Curing takes 45 days,Monthly re-plan,Winters,7350.9794,5959.3540,1391.6254,0,test
-APMC Solapur,2023,Base,Past seasons,,10483.1712,3502.4710,6980.7002,0,test
-APMC Solapur,2023,Base,Perfect foresight,,11793.6835,3502.4710,8291.2125,0,test
-APMC Solapur,2023,Base,March plan,Winters,10483.1712,3502.4710,6980.7002,0,test
-APMC Solapur,2023,Base,Monthly re-plan,Winters,10483.1712,3502.4710,6980.7002,0,test
-APMC Solapur,2023,Storage cost doubled,Past seasons,,9556.6086,3502.4710,6054.1376,0,test
-APMC Solapur,2023,Storage cost doubled,Perfect foresight,,10796.5948,3502.4710,7294.1238,0,test
-APMC Solapur,2023,Storage cost doubled,March plan,Winters,9556.6086,3502.4710,6054.1376,0,test
-APMC Solapur,2023,Storage cost doubled,Monthly re-plan,Winters,9556.6086,3502.4710,6054.1376,0,test
-APMC Solapur,2023,Storage loss 20% over six months,Past seasons,,9450.4335,3502.4710,5947.9625,0,test
-APMC Solapur,2023,Storage loss 20% over six months,Perfect foresight,,10935.0514,3502.4710,7432.5804,0,test
-APMC Solapur,2023,Storage loss 20% over six months,March plan,Winters,9450.4335,3502.4710,5947.9625,0,test
-APMC Solapur,2023,Storage loss 20% over six months,Monthly re-plan,Winters,9621.2917,3502.4710,6118.8207,0,test
-APMC Solapur,2023,Quality discount 2% a month,Past seasons,,9885.0899,3502.4710,6382.6189,0,test
-APMC Solapur,2023,Quality discount 2% a month,Perfect foresight,,11090.6841,3502.4710,7588.2131,0,test
-APMC Solapur,2023,Quality discount 2% a month,March plan,Winters,9885.0899,3502.4710,6382.6189,0,test
-APMC Solapur,2023,Quality discount 2% a month,Monthly re-plan,Winters,9885.0899,3502.4710,6382.6189,0,test
-APMC Solapur,2023,Selling costs doubled,Past seasons,,9905.7900,2962.0420,6943.7480,0,test
-APMC Solapur,2023,Selling costs doubled,Perfect foresight,,11205.6192,2962.0420,8243.5772,0,test
-APMC Solapur,2023,Selling costs doubled,March plan,Winters,9905.7900,2962.0420,6943.7480,0,test
-APMC Solapur,2023,Selling costs doubled,Monthly re-plan,Winters,9905.7900,2962.0420,6943.7480,0,test
-APMC Solapur,2023,Interest 20% a year,Past seasons,,10055.8392,3502.4710,6553.3682,0,test
-APMC Solapur,2023,Interest 20% a year,Perfect foresight,,11290.5233,3502.4710,7788.0523,0,test
-APMC Solapur,2023,Interest 20% a year,March plan,Winters,10055.8392,3502.4710,6553.3682,0,test
-APMC Solapur,2023,Interest 20% a year,Monthly re-plan,Winters,10055.8392,3502.4710,6553.3682,0,test
-APMC Solapur,2023,Half the harvest sold for cash,Past seasons,,7818.9690,3502.4710,4316.4980,0,test
-APMC Solapur,2023,Half the harvest sold for cash,Perfect foresight,,9949.1844,3502.4710,6446.7134,0,test
-APMC Solapur,2023,Half the harvest sold for cash,March plan,Winters,9170.3390,3502.4710,5667.8680,0,test
-APMC Solapur,2023,Half the harvest sold for cash,Monthly re-plan,Winters,9170.3390,3502.4710,5667.8680,0,test
-APMC Solapur,2023,Curing takes 45 days,Past seasons,,10483.1712,3502.4710,6980.7002,0,test
-APMC Solapur,2023,Curing takes 45 days,Perfect foresight,,11793.6835,3502.4710,8291.2125,0,test
-APMC Solapur,2023,Curing takes 45 days,March plan,Winters,10483.1712,3502.4710,6980.7002,0,test
-APMC Solapur,2023,Curing takes 45 days,Monthly re-plan,Winters,10483.1712,3502.4710,6980.7002,0,test
-APMC Solapur,2024,Base,Past seasons,,17716.6267,11286.3460,6430.2807,0,test
-APMC Solapur,2024,Base,Perfect foresight,,21067.8043,11286.3460,9781.4583,0,test
-APMC Solapur,2024,Base,March plan,Winters,17716.6267,11286.3460,6430.2807,0,test
-APMC Solapur,2024,Base,Monthly re-plan,Winters,17716.6267,11286.3460,6430.2807,0,test
-APMC Solapur,2024,Storage cost doubled,Past seasons,,16790.0642,11286.3460,5503.7182,0,test
-APMC Solapur,2024,Storage cost doubled,Perfect foresight,,20249.1296,11286.3460,8962.7836,0,test
-APMC Solapur,2024,Storage cost doubled,March plan,Winters,16790.0642,11286.3460,5503.7182,0,test
-APMC Solapur,2024,Storage cost doubled,Monthly re-plan,Winters,16790.0642,11286.3460,5503.7182,0,test
-APMC Solapur,2024,Storage loss 20% over six months,Past seasons,,16147.4873,11286.3460,4861.1413,0,test
-APMC Solapur,2024,Storage loss 20% over six months,Perfect foresight,,19732.0657,11286.3460,8445.7197,0,test
-APMC Solapur,2024,Storage loss 20% over six months,March plan,Winters,15942.1970,11286.3460,4655.8510,0,test
-APMC Solapur,2024,Storage loss 20% over six months,Monthly re-plan,Winters,15942.1970,11286.3460,4655.8510,0,test
-APMC Solapur,2024,Quality discount 2% a month,Past seasons,,16923.7421,11286.3460,5637.3961,0,test
-APMC Solapur,2024,Quality discount 2% a month,Perfect foresight,,20195.2487,11286.3460,8908.9027,0,test
-APMC Solapur,2024,Quality discount 2% a month,March plan,Winters,16923.7421,11286.3460,5637.3961,0,test
-APMC Solapur,2024,Quality discount 2% a month,Monthly re-plan,Winters,16923.7421,11286.3460,5637.3961,0,test
-APMC Solapur,2024,Selling costs doubled,Past seasons,,17066.1803,10667.2920,6398.8883,0,test
-APMC Solapur,2024,Selling costs doubled,Perfect foresight,,20379.6000,10667.2920,9712.3080,0,test
-APMC Solapur,2024,Selling costs doubled,March plan,Winters,17066.1803,10667.2920,6398.8883,0,test
-APMC Solapur,2024,Selling costs doubled,Monthly re-plan,Winters,17066.1803,10667.2920,6398.8883,0,test
-APMC Solapur,2024,Interest 20% a year,Past seasons,,17137.2138,11286.3460,5850.8678,0,test
-APMC Solapur,2024,Interest 20% a year,Perfect foresight,,20417.0229,11286.3460,9130.6769,0,test
-APMC Solapur,2024,Interest 20% a year,March plan,Winters,17137.2138,11286.3460,5850.8678,0,test
-APMC Solapur,2024,Interest 20% a year,Monthly re-plan,Winters,17137.2138,11286.3460,5850.8678,0,test
-APMC Solapur,2024,Half the harvest sold for cash,Past seasons,,14962.0126,11286.3460,3675.6666,0,test
-APMC Solapur,2024,Half the harvest sold for cash,Perfect foresight,,18568.7723,11286.3460,7282.4263,0,test
-APMC Solapur,2024,Half the harvest sold for cash,March plan,Winters,14962.0126,11286.3460,3675.6666,0,test
-APMC Solapur,2024,Half the harvest sold for cash,Monthly re-plan,Winters,14962.0126,11286.3460,3675.6666,0,test
-APMC Solapur,2024,Curing takes 45 days,Past seasons,,17716.6267,11286.3460,6430.2807,0,test
-APMC Solapur,2024,Curing takes 45 days,Perfect foresight,,21067.8043,11286.3460,9781.4583,0,test
-APMC Solapur,2024,Curing takes 45 days,March plan,Winters,17716.6267,11286.3460,6430.2807,0,test
-APMC Solapur,2024,Curing takes 45 days,Monthly re-plan,Winters,17716.6267,11286.3460,6430.2807,0,test
-APMC Solapur,2025,Base,Past seasons,,7493.3498,8171.8060,-678.4562,0,test
-APMC Solapur,2025,Base,Perfect foresight,,8385.7345,8171.8060,213.9285,0,test
-APMC Solapur,2025,Base,March plan,Winters,7610.5197,8171.8060,-561.2863,0,test
-APMC Solapur,2025,Base,Monthly re-plan,Winters,7610.5197,8171.8060,-561.2863,0,test
-APMC Solapur,2025,Storage cost doubled,Past seasons,,6635.5130,8171.8060,-1536.2930,0,test
-APMC Solapur,2025,Storage cost doubled,Perfect foresight,,8171.8060,8171.8060,0.0000,0,test
-APMC Solapur,2025,Storage cost doubled,March plan,Winters,6683.9572,8171.8060,-1487.8488,0,test
-APMC Solapur,2025,Storage cost doubled,Monthly re-plan,Winters,6683.9572,8171.8060,-1487.8488,0,test
-APMC Solapur,2025,Storage loss 20% over six months,Past seasons,,7034.0238,8171.8060,-1137.7822,0,test
-APMC Solapur,2025,Storage loss 20% over six months,Perfect foresight,,8199.0046,8171.8060,27.1986,0,test
-APMC Solapur,2025,Storage loss 20% over six months,March plan,Winters,7091.8688,8171.8060,-1079.9372,0,test
-APMC Solapur,2025,Storage loss 20% over six months,Monthly re-plan,Winters,7091.8688,8171.8060,-1079.9372,0,test
-APMC Solapur,2025,Quality discount 2% a month,Past seasons,,7193.9062,8171.8060,-977.8998,0,test
-APMC Solapur,2025,Quality discount 2% a month,Perfect foresight,,8244.6050,8171.8060,72.7990,0,test
-APMC Solapur,2025,Quality discount 2% a month,March plan,Winters,7272.8917,8171.8060,-898.9143,0,test
-APMC Solapur,2025,Quality discount 2% a month,Monthly re-plan,Winters,7272.8917,8171.8060,-898.9143,0,test
-APMC Solapur,2025,Selling costs doubled,Past seasons,,6943.6796,7584.2120,-640.5324,0,test
-APMC Solapur,2025,Selling costs doubled,Perfect foresight,,7811.4652,7584.2120,227.2532,0,test
-APMC Solapur,2025,Selling costs doubled,March plan,Winters,7062.1552,7584.2120,-522.0568,0,test
-APMC Solapur,2025,Selling costs doubled,Monthly re-plan,Winters,7062.1552,7584.2120,-522.0568,0,test
-APMC Solapur,2025,Interest 20% a year,Past seasons,,7287.0273,8171.8060,-884.7787,0,test
-APMC Solapur,2025,Interest 20% a year,Perfect foresight,,8270.9579,8171.8060,99.1519,0,test
-APMC Solapur,2025,Interest 20% a year,March plan,Winters,7380.3530,8171.8060,-791.4530,0,test
-APMC Solapur,2025,Interest 20% a year,Monthly re-plan,Winters,7380.3530,8171.8060,-791.4530,0,test
-APMC Solapur,2025,Half the harvest sold for cash,Past seasons,,7772.8076,8171.8060,-398.9984,0,test
-APMC Solapur,2025,Half the harvest sold for cash,Perfect foresight,,8353.7477,8171.8060,181.9417,0,test
-APMC Solapur,2025,Half the harvest sold for cash,March plan,Winters,7741.8991,8171.8060,-429.9069,0,test
-APMC Solapur,2025,Half the harvest sold for cash,Monthly re-plan,Winters,7741.8991,8171.8060,-429.9069,0,test
-APMC Solapur,2025,Curing takes 45 days,Past seasons,,7493.3498,8171.8060,-678.4562,0,test
-APMC Solapur,2025,Curing takes 45 days,Perfect foresight,,8385.7345,8171.8060,213.9285,0,test
-APMC Solapur,2025,Curing takes 45 days,March plan,Winters,7610.5197,8171.8060,-561.2863,0,test
-APMC Solapur,2025,Curing takes 45 days,Monthly re-plan,Winters,7610.5197,8171.8060,-561.2863,0,test
-Newasa(Ghodegaon),2020,Base,Past seasons,,12347.0477,9831.3946,2515.6531,2,test
-Newasa(Ghodegaon),2020,Base,Perfect foresight,,18375.0231,9831.3946,8543.6285,2,test
-Newasa(Ghodegaon),2020,Base,March plan,Winters,12347.0477,9831.3946,2515.6531,2,test
-Newasa(Ghodegaon),2020,Base,Monthly re-plan,Winters,12347.0477,9831.3946,2515.6531,2,test
-Newasa(Ghodegaon),2020,Storage cost doubled,Past seasons,,11489.2109,9831.3946,1657.8164,2,test
-Newasa(Ghodegaon),2020,Storage cost doubled,Perfect foresight,,17420.7913,9831.3946,7589.3968,2,test
-Newasa(Ghodegaon),2020,Storage cost doubled,March plan,Winters,11489.2109,9831.3946,1657.8164,2,test
-Newasa(Ghodegaon),2020,Storage cost doubled,Monthly re-plan,Winters,11489.2109,9831.3946,1657.8164,2,test
-Newasa(Ghodegaon),2020,Storage loss 20% over six months,Past seasons,,10850.9468,9831.3946,1019.5523,2,test
-Newasa(Ghodegaon),2020,Storage loss 20% over six months,Perfect foresight,,17333.5882,9831.3946,7502.1937,2,test
-Newasa(Ghodegaon),2020,Storage loss 20% over six months,March plan,Winters,10752.7289,9831.3946,921.3344,2,test
-Newasa(Ghodegaon),2020,Storage loss 20% over six months,Monthly re-plan,Winters,10752.7289,9831.3946,921.3344,2,test
-Newasa(Ghodegaon),2020,Quality discount 2% a month,Past seasons,,11801.0880,9831.3946,1969.6935,2,test
-Newasa(Ghodegaon),2020,Quality discount 2% a month,Perfect foresight,,17410.0303,9831.3946,7578.6358,2,test
-Newasa(Ghodegaon),2020,Quality discount 2% a month,March plan,Winters,11801.0880,9831.3946,1969.6935,2,test
-Newasa(Ghodegaon),2020,Quality discount 2% a month,Monthly re-plan,Winters,11801.0880,9831.3946,1969.6935,2,test
-Newasa(Ghodegaon),2020,Selling costs doubled,Past seasons,,11748.3502,9227.0370,2521.3132,2,test
-Newasa(Ghodegaon),2020,Selling costs doubled,Perfect foresight,,17718.9284,9227.0370,8491.8913,2,test
-Newasa(Ghodegaon),2020,Selling costs doubled,March plan,Winters,11748.3502,9227.0370,2521.3132,2,test
-Newasa(Ghodegaon),2020,Selling costs doubled,Monthly re-plan,Winters,11748.3502,9227.0370,2521.3132,2,test
-Newasa(Ghodegaon),2020,Interest 20% a year,Past seasons,,11952.8676,9831.3946,2121.4730,2,test
-Newasa(Ghodegaon),2020,Interest 20% a year,Perfect foresight,,17672.4829,9831.3946,7841.0883,2,test
-Newasa(Ghodegaon),2020,Interest 20% a year,March plan,Winters,11952.8676,9831.3946,2121.4730,2,test
-Newasa(Ghodegaon),2020,Interest 20% a year,Monthly re-plan,Winters,11952.8676,9831.3946,2121.4730,2,test
-Newasa(Ghodegaon),2020,Half the harvest sold for cash,Past seasons,,11989.4651,9831.3946,2158.0705,2,test
-Newasa(Ghodegaon),2020,Half the harvest sold for cash,Perfect foresight,,17009.7540,9831.3946,7178.3595,2,test
-Newasa(Ghodegaon),2020,Half the harvest sold for cash,March plan,Winters,10185.7513,9831.3946,354.3567,2,test
-Newasa(Ghodegaon),2020,Half the harvest sold for cash,Monthly re-plan,Winters,10185.7513,9831.3946,354.3567,2,test
-Newasa(Ghodegaon),2020,Curing takes 45 days,Past seasons,,12347.0477,9831.3946,2515.6531,2,test
-Newasa(Ghodegaon),2020,Curing takes 45 days,Perfect foresight,,18375.0231,9831.3946,8543.6285,2,test
-Newasa(Ghodegaon),2020,Curing takes 45 days,March plan,Winters,12347.0477,9831.3946,2515.6531,2,test
-Newasa(Ghodegaon),2020,Curing takes 45 days,Monthly re-plan,Winters,12347.0477,9831.3946,2515.6531,2,test
-Newasa(Ghodegaon),2021,Base,Past seasons,,13220.6741,7420.0000,5800.6741,1,test
-Newasa(Ghodegaon),2021,Base,Perfect foresight,,14071.3093,7420.0000,6651.3093,1,test
-Newasa(Ghodegaon),2021,Base,March plan,Winters,13220.6741,7420.0000,5800.6741,1,test
-Newasa(Ghodegaon),2021,Base,Monthly re-plan,Winters,13220.6741,7420.0000,5800.6741,1,test
-Newasa(Ghodegaon),2021,Storage cost doubled,Past seasons,,12223.5854,7420.0000,4803.5854,1,test
-Newasa(Ghodegaon),2021,Storage cost doubled,Perfect foresight,,13332.7499,7420.0000,5912.7499,1,test
-Newasa(Ghodegaon),2021,Storage cost doubled,March plan,Winters,12223.5854,7420.0000,4803.5854,1,test
-Newasa(Ghodegaon),2021,Storage cost doubled,Monthly re-plan,Winters,12223.5854,7420.0000,4803.5854,1,test
-Newasa(Ghodegaon),2021,Storage loss 20% over six months,Past seasons,,12048.9262,7420.0000,4628.9262,1,test
-Newasa(Ghodegaon),2021,Storage loss 20% over six months,Perfect foresight,,13324.6420,7420.0000,5904.6420,1,test
-Newasa(Ghodegaon),2021,Storage loss 20% over six months,March plan,Winters,12048.9262,7420.0000,4628.9262,1,test
-Newasa(Ghodegaon),2021,Storage loss 20% over six months,Monthly re-plan,Winters,12048.9262,7420.0000,4628.9262,1,test
-Newasa(Ghodegaon),2021,Quality discount 2% a month,Past seasons,,12495.0022,7420.0000,5075.0022,1,test
-Newasa(Ghodegaon),2021,Quality discount 2% a month,Perfect foresight,,13472.8494,7420.0000,6052.8494,1,test
-Newasa(Ghodegaon),2021,Quality discount 2% a month,March plan,Winters,12495.0022,7420.0000,5075.0022,1,test
-Newasa(Ghodegaon),2021,Quality discount 2% a month,Monthly re-plan,Winters,12495.0022,7420.0000,5075.0022,1,test
-Newasa(Ghodegaon),2021,Selling costs doubled,Past seasons,,12618.1958,6840.0000,5778.1958,1,test
-Newasa(Ghodegaon),2021,Selling costs doubled,Perfect foresight,,13450.8749,6840.0000,6610.8749,1,test
-Newasa(Ghodegaon),2021,Selling costs doubled,March plan,Winters,12618.1958,6840.0000,5778.1958,1,test
-Newasa(Ghodegaon),2021,Selling costs doubled,Monthly re-plan,Winters,12618.1958,6840.0000,5778.1958,1,test
-Newasa(Ghodegaon),2021,Interest 20% a year,Past seasons,,12700.7683,7420.0000,5280.7683,1,test
-Newasa(Ghodegaon),2021,Interest 20% a year,Perfect foresight,,13635.7337,7420.0000,6215.7337,1,test
-Newasa(Ghodegaon),2021,Interest 20% a year,March plan,Winters,12700.7683,7420.0000,5280.7683,1,test
-Newasa(Ghodegaon),2021,Interest 20% a year,Monthly re-plan,Winters,12700.7683,7420.0000,5280.7683,1,test
-Newasa(Ghodegaon),2021,Half the harvest sold for cash,Past seasons,,10948.7712,7420.0000,3528.7712,1,test
-Newasa(Ghodegaon),2021,Half the harvest sold for cash,Perfect foresight,,12854.6636,7420.0000,5434.6636,1,test
-Newasa(Ghodegaon),2021,Half the harvest sold for cash,March plan,Winters,12445.0648,7420.0000,5025.0648,1,test
-Newasa(Ghodegaon),2021,Half the harvest sold for cash,Monthly re-plan,Winters,12445.0648,7420.0000,5025.0648,1,test
-Newasa(Ghodegaon),2021,Curing takes 45 days,Past seasons,,13220.6741,7420.0000,5800.6741,1,test
-Newasa(Ghodegaon),2021,Curing takes 45 days,Perfect foresight,,14071.3093,7420.0000,6651.3093,1,test
-Newasa(Ghodegaon),2021,Curing takes 45 days,March plan,Winters,13220.6741,7420.0000,5800.6741,1,test
-Newasa(Ghodegaon),2021,Curing takes 45 days,Monthly re-plan,Winters,13220.6741,7420.0000,5800.6741,1,test
-Newasa(Ghodegaon),2022,Base,Past seasons,,9110.3071,8390.1010,720.2061,0,test
-Newasa(Ghodegaon),2022,Base,Perfect foresight,,9993.8059,8390.1010,1603.7049,0,test
-Newasa(Ghodegaon),2022,Base,March plan,Winters,9110.3071,8390.1010,720.2061,0,test
-Newasa(Ghodegaon),2022,Base,Monthly re-plan,Winters,9110.3071,8390.1010,720.2061,0,test
-Newasa(Ghodegaon),2022,Storage cost doubled,Past seasons,,8113.2184,8390.1010,-276.8826,0,test
-Newasa(Ghodegaon),2022,Storage cost doubled,Perfect foresight,,9186.7917,8390.1010,796.6907,0,test
-Newasa(Ghodegaon),2022,Storage cost doubled,March plan,Winters,8113.2184,8390.1010,-276.8826,0,test
-Newasa(Ghodegaon),2022,Storage cost doubled,Monthly re-plan,Winters,8113.2184,8390.1010,-276.8826,0,test
-Newasa(Ghodegaon),2022,Storage loss 20% over six months,Past seasons,,8447.9388,8390.1010,57.8378,0,test
-Newasa(Ghodegaon),2022,Storage loss 20% over six months,Perfect foresight,,9341.8613,8390.1010,951.7603,0,test
-Newasa(Ghodegaon),2022,Storage loss 20% over six months,March plan,Winters,8447.9388,8390.1010,57.8378,0,test
-Newasa(Ghodegaon),2022,Storage loss 20% over six months,Monthly re-plan,Winters,8447.9388,8390.1010,57.8378,0,test
-Newasa(Ghodegaon),2022,Quality discount 2% a month,Past seasons,,8650.4565,8390.1010,260.3555,0,test
-Newasa(Ghodegaon),2022,Quality discount 2% a month,Perfect foresight,,9590.2369,8390.1010,1200.1359,0,test
-Newasa(Ghodegaon),2022,Quality discount 2% a month,March plan,Winters,8650.4565,8390.1010,260.3555,0,test
-Newasa(Ghodegaon),2022,Quality discount 2% a month,Monthly re-plan,Winters,8650.4565,8390.1010,260.3555,0,test
-Newasa(Ghodegaon),2022,Selling costs doubled,Past seasons,,8549.3477,7800.3020,749.0457,0,test
-Newasa(Ghodegaon),2022,Selling costs doubled,Perfect foresight,,9417.0378,7800.3020,1616.7358,0,test
-Newasa(Ghodegaon),2022,Selling costs doubled,March plan,Winters,8549.3477,7800.3020,749.0457,0,test
-Newasa(Ghodegaon),2022,Selling costs doubled,Monthly re-plan,Winters,8549.3477,7800.3020,749.0457,0,test
-Newasa(Ghodegaon),2022,Interest 20% a year,Past seasons,,8791.8306,8390.1010,401.7296,0,test
-Newasa(Ghodegaon),2022,Interest 20% a year,Perfect foresight,,9708.0870,8390.1010,1317.9860,0,test
-Newasa(Ghodegaon),2022,Interest 20% a year,March plan,Winters,8791.8306,8390.1010,401.7296,0,test
-Newasa(Ghodegaon),2022,Interest 20% a year,Monthly re-plan,Winters,8791.8306,8390.1010,401.7296,0,test
-Newasa(Ghodegaon),2022,Half the harvest sold for cash,Past seasons,,9192.7766,8390.1010,802.6756,0,test
-Newasa(Ghodegaon),2022,Half the harvest sold for cash,Perfect foresight,,9622.3130,8390.1010,1232.2120,0,test
-Newasa(Ghodegaon),2022,Half the harvest sold for cash,March plan,Winters,9192.7766,8390.1010,802.6756,0,test
-Newasa(Ghodegaon),2022,Half the harvest sold for cash,Monthly re-plan,Winters,9192.7766,8390.1010,802.6756,0,test
-Newasa(Ghodegaon),2022,Curing takes 45 days,Past seasons,,9110.3071,8390.1010,720.2061,0,test
-Newasa(Ghodegaon),2022,Curing takes 45 days,Perfect foresight,,9993.8059,8390.1010,1603.7049,0,test
-Newasa(Ghodegaon),2022,Curing takes 45 days,March plan,Winters,9110.3071,8390.1010,720.2061,0,test
-Newasa(Ghodegaon),2022,Curing takes 45 days,Monthly re-plan,Winters,9110.3071,8390.1010,720.2061,0,test
-Newasa(Ghodegaon),2023,Base,Past seasons,,14396.2429,5594.6380,8801.6049,0,test
-Newasa(Ghodegaon),2023,Base,Perfect foresight,,14396.2429,5594.6380,8801.6049,0,test
-Newasa(Ghodegaon),2023,Base,March plan,Winters,14396.2429,5594.6380,8801.6049,0,test
-Newasa(Ghodegaon),2023,Base,Monthly re-plan,Winters,14396.2429,5594.6380,8801.6049,0,test
-Newasa(Ghodegaon),2023,Storage cost doubled,Past seasons,,13399.1542,5594.6380,7804.5162,0,test
-Newasa(Ghodegaon),2023,Storage cost doubled,Perfect foresight,,13399.1542,5594.6380,7804.5162,0,test
-Newasa(Ghodegaon),2023,Storage cost doubled,March plan,Winters,13399.1542,5594.6380,7804.5162,0,test
-Newasa(Ghodegaon),2023,Storage cost doubled,Monthly re-plan,Winters,13399.1542,5594.6380,7804.5162,0,test
-Newasa(Ghodegaon),2023,Storage loss 20% over six months,Past seasons,,13346.0410,5594.6380,7751.4030,0,test
-Newasa(Ghodegaon),2023,Storage loss 20% over six months,Perfect foresight,,13346.0410,5594.6380,7751.4030,0,test
-Newasa(Ghodegaon),2023,Storage loss 20% over six months,March plan,Winters,13346.0410,5594.6380,7751.4030,0,test
-Newasa(Ghodegaon),2023,Storage loss 20% over six months,Monthly re-plan,Winters,13346.0410,5594.6380,7751.4030,0,test
-Newasa(Ghodegaon),2023,Quality discount 2% a month,Past seasons,,13573.6555,5594.6380,7979.0175,0,test
-Newasa(Ghodegaon),2023,Quality discount 2% a month,Perfect foresight,,13573.6555,5594.6380,7979.0175,0,test
-Newasa(Ghodegaon),2023,Quality discount 2% a month,March plan,Winters,13573.6555,5594.6380,7979.0175,0,test
-Newasa(Ghodegaon),2023,Quality discount 2% a month,Monthly re-plan,Winters,13573.6555,5594.6380,7979.0175,0,test
-Newasa(Ghodegaon),2023,Selling costs doubled,Past seasons,,13781.8902,5033.0760,8748.8142,0,test
-Newasa(Ghodegaon),2023,Selling costs doubled,Perfect foresight,,13781.8902,5033.0760,8748.8142,0,test
-Newasa(Ghodegaon),2023,Selling costs doubled,March plan,Winters,13781.8902,5033.0760,8748.8142,0,test
-Newasa(Ghodegaon),2023,Selling costs doubled,Monthly re-plan,Winters,13781.8902,5033.0760,8748.8142,0,test
-Newasa(Ghodegaon),2023,Interest 20% a year,Past seasons,,13802.5083,5594.6380,8207.8703,0,test
-Newasa(Ghodegaon),2023,Interest 20% a year,Perfect foresight,,13802.5083,5594.6380,8207.8703,0,test
-Newasa(Ghodegaon),2023,Interest 20% a year,March plan,Winters,13802.5083,5594.6380,8207.8703,0,test
-Newasa(Ghodegaon),2023,Interest 20% a year,Monthly re-plan,Winters,13802.5083,5594.6380,8207.8703,0,test
-Newasa(Ghodegaon),2023,Half the harvest sold for cash,Past seasons,,12682.1343,5594.6380,7087.4963,0,test
-Newasa(Ghodegaon),2023,Half the harvest sold for cash,Perfect foresight,,12682.1343,5594.6380,7087.4963,0,test
-Newasa(Ghodegaon),2023,Half the harvest sold for cash,March plan,Winters,12682.1343,5594.6380,7087.4963,0,test
-Newasa(Ghodegaon),2023,Half the harvest sold for cash,Monthly re-plan,Winters,12682.1343,5594.6380,7087.4963,0,test
-Newasa(Ghodegaon),2023,Curing takes 45 days,Past seasons,,14396.2429,5594.6380,8801.6049,0,test
-Newasa(Ghodegaon),2023,Curing takes 45 days,Perfect foresight,,14396.2429,5594.6380,8801.6049,0,test
-Newasa(Ghodegaon),2023,Curing takes 45 days,March plan,Winters,14396.2429,5594.6380,8801.6049,0,test
-Newasa(Ghodegaon),2023,Curing takes 45 days,Monthly re-plan,Winters,14396.2429,5594.6380,8801.6049,0,test
-Newasa(Ghodegaon),2024,Base,Past seasons,,22597.9892,10482.1690,12115.8202,0,test
-Newasa(Ghodegaon),2024,Base,Perfect foresight,,22597.9892,10482.1690,12115.8202,0,test
-Newasa(Ghodegaon),2024,Base,March plan,Winters,22597.9892,10482.1690,12115.8202,0,test
-Newasa(Ghodegaon),2024,Base,Monthly re-plan,Winters,22597.9892,10482.1690,12115.8202,0,test
-Newasa(Ghodegaon),2024,Storage cost doubled,Past seasons,,21600.9006,10482.1690,11118.7316,0,test
-Newasa(Ghodegaon),2024,Storage cost doubled,Perfect foresight,,21600.9006,10482.1690,11118.7316,0,test
-Newasa(Ghodegaon),2024,Storage cost doubled,March plan,Winters,21600.9006,10482.1690,11118.7316,0,test
-Newasa(Ghodegaon),2024,Storage cost doubled,Monthly re-plan,Winters,21600.9006,10482.1690,11118.7316,0,test
-Newasa(Ghodegaon),2024,Storage loss 20% over six months,Past seasons,,20749.1890,10482.1690,10267.0200,0,test
-Newasa(Ghodegaon),2024,Storage loss 20% over six months,Perfect foresight,,20749.1890,10482.1690,10267.0200,0,test
-Newasa(Ghodegaon),2024,Storage loss 20% over six months,March plan,Winters,20749.1890,10482.1690,10267.0200,0,test
-Newasa(Ghodegaon),2024,Storage loss 20% over six months,Monthly re-plan,Winters,20749.1890,10482.1690,10267.0200,0,test
-Newasa(Ghodegaon),2024,Quality discount 2% a month,Past seasons,,21399.2175,10482.1690,10917.0485,0,test
-Newasa(Ghodegaon),2024,Quality discount 2% a month,Perfect foresight,,21399.2175,10482.1690,10917.0485,0,test
-Newasa(Ghodegaon),2024,Quality discount 2% a month,March plan,Winters,21399.2175,10482.1690,10917.0485,0,test
-Newasa(Ghodegaon),2024,Quality discount 2% a month,Monthly re-plan,Winters,21399.2175,10482.1690,10917.0485,0,test
-Newasa(Ghodegaon),2024,Selling costs doubled,Past seasons,,21900.7906,9871.2380,12029.5526,0,test
-Newasa(Ghodegaon),2024,Selling costs doubled,Perfect foresight,,21900.7906,9871.2380,12029.5526,0,test
-Newasa(Ghodegaon),2024,Selling costs doubled,March plan,Winters,21900.7906,9871.2380,12029.5526,0,test
-Newasa(Ghodegaon),2024,Selling costs doubled,Monthly re-plan,Winters,21900.7906,9871.2380,12029.5526,0,test
-Newasa(Ghodegaon),2024,Interest 20% a year,Past seasons,,21717.5584,10482.1690,11235.3894,0,test
-Newasa(Ghodegaon),2024,Interest 20% a year,Perfect foresight,,21717.5584,10482.1690,11235.3894,0,test
-Newasa(Ghodegaon),2024,Interest 20% a year,March plan,Winters,21717.5584,10482.1690,11235.3894,0,test
-Newasa(Ghodegaon),2024,Interest 20% a year,Monthly re-plan,Winters,21717.5584,10482.1690,11235.3894,0,test
-Newasa(Ghodegaon),2024,Half the harvest sold for cash,Past seasons,,19500.4443,10482.1690,9018.2753,0,test
-Newasa(Ghodegaon),2024,Half the harvest sold for cash,Perfect foresight,,19500.4443,10482.1690,9018.2753,0,test
-Newasa(Ghodegaon),2024,Half the harvest sold for cash,March plan,Winters,19500.4443,10482.1690,9018.2753,0,test
-Newasa(Ghodegaon),2024,Half the harvest sold for cash,Monthly re-plan,Winters,19500.4443,10482.1690,9018.2753,0,test
-Newasa(Ghodegaon),2024,Curing takes 45 days,Past seasons,,22597.9892,10482.1690,12115.8202,0,test
-Newasa(Ghodegaon),2024,Curing takes 45 days,Perfect foresight,,22597.9892,10482.1690,12115.8202,0,test
-Newasa(Ghodegaon),2024,Curing takes 45 days,March plan,Winters,22597.9892,10482.1690,12115.8202,0,test
-Newasa(Ghodegaon),2024,Curing takes 45 days,Monthly re-plan,Winters,22597.9892,10482.1690,12115.8202,0,test
-Newasa(Ghodegaon),2025,Base,Past seasons,,7204.2415,9640.9660,-2436.7245,0,test
-Newasa(Ghodegaon),2025,Base,Perfect foresight,,10430.1711,9640.9660,789.2051,0,test
-Newasa(Ghodegaon),2025,Base,March plan,Winters,7204.2415,9640.9660,-2436.7245,0,test
-Newasa(Ghodegaon),2025,Base,Monthly re-plan,Winters,7204.2415,9640.9660,-2436.7245,0,test
-Newasa(Ghodegaon),2025,Storage cost doubled,Past seasons,,6207.1528,9640.9660,-3433.8132,0,test
-Newasa(Ghodegaon),2025,Storage cost doubled,Perfect foresight,,10259.8071,9640.9660,618.8411,0,test
-Newasa(Ghodegaon),2025,Storage cost doubled,March plan,Winters,6207.1528,9640.9660,-3433.8132,0,test
-Newasa(Ghodegaon),2025,Storage cost doubled,Monthly re-plan,Winters,6207.1528,9640.9660,-3433.8132,0,test
-Newasa(Ghodegaon),2025,Storage loss 20% over six months,Past seasons,,6568.9671,9640.9660,-3071.9989,0,test
-Newasa(Ghodegaon),2025,Storage loss 20% over six months,Perfect foresight,,10306.5858,9640.9660,665.6198,0,test
-Newasa(Ghodegaon),2025,Storage loss 20% over six months,March plan,Winters,6568.9671,9640.9660,-3071.9989,0,test
-Newasa(Ghodegaon),2025,Storage loss 20% over six months,Monthly re-plan,Winters,6568.9671,9640.9660,-3071.9989,0,test
-Newasa(Ghodegaon),2025,Quality discount 2% a month,Past seasons,,6884.5861,9640.9660,-2756.3799,0,test
-Newasa(Ghodegaon),2025,Quality discount 2% a month,Perfect foresight,,10346.5904,9640.9660,705.6244,0,test
-Newasa(Ghodegaon),2025,Quality discount 2% a month,March plan,Winters,6884.5861,9640.9660,-2756.3799,0,test
-Newasa(Ghodegaon),2025,Quality discount 2% a month,Monthly re-plan,Winters,6884.5861,9640.9660,-2756.3799,0,test
-Newasa(Ghodegaon),2025,Selling costs doubled,Past seasons,,6662.5353,9038.5320,-2375.9967,0,test
-Newasa(Ghodegaon),2025,Selling costs doubled,Perfect foresight,,9825.9359,9038.5320,787.4039,0,test
-Newasa(Ghodegaon),2025,Selling costs doubled,March plan,Winters,6662.5353,9038.5320,-2375.9967,0,test
-Newasa(Ghodegaon),2025,Selling costs doubled,Monthly re-plan,Winters,6662.5353,9038.5320,-2375.9967,0,test
-Newasa(Ghodegaon),2025,Interest 20% a year,Past seasons,,6991.8844,9640.9660,-2649.0816,0,test
-Newasa(Ghodegaon),2025,Interest 20% a year,Perfect foresight,,10366.3999,9640.9660,725.4339,0,test
-Newasa(Ghodegaon),2025,Interest 20% a year,March plan,Winters,6991.8844,9640.9660,-2649.0816,0,test
-Newasa(Ghodegaon),2025,Interest 20% a year,Monthly re-plan,Winters,6991.8844,9640.9660,-2649.0816,0,test
-Newasa(Ghodegaon),2025,Half the harvest sold for cash,Past seasons,,7773.0152,9640.9660,-1867.9508,0,test
-Newasa(Ghodegaon),2025,Half the harvest sold for cash,Perfect foresight,,10430.1711,9640.9660,789.2051,0,test
-Newasa(Ghodegaon),2025,Half the harvest sold for cash,March plan,Winters,7773.0152,9640.9660,-1867.9508,0,test
-Newasa(Ghodegaon),2025,Half the harvest sold for cash,Monthly re-plan,Winters,7773.0152,9640.9660,-1867.9508,0,test
-Newasa(Ghodegaon),2025,Curing takes 45 days,Past seasons,,7204.2415,9640.9660,-2436.7245,0,test
-Newasa(Ghodegaon),2025,Curing takes 45 days,Perfect foresight,,10430.1711,9640.9660,789.2051,0,test
-Newasa(Ghodegaon),2025,Curing takes 45 days,March plan,Winters,7204.2415,9640.9660,-2436.7245,0,test
-Newasa(Ghodegaon),2025,Curing takes 45 days,Monthly re-plan,Winters,7204.2415,9640.9660,-2436.7245,0,test
+market,season,scenario,strategy,model,net_rs_t,harvest_sale_rs_t,gain_rs_t,storage_charge_rs_t,filled_months,split
+APMC Pimpalgaon Baswant,2020,Base,Past seasons,,17846.2676,9629.2840,8216.9836,997.0887,0,test
+APMC Pimpalgaon Baswant,2020,Base,Perfect foresight,,17906.6324,9629.2840,8277.3484,954.2317,0,test
+APMC Pimpalgaon Baswant,2020,Base,March plan,Winters,14618.4350,9629.2840,4989.1510,926.5625,0,test
+APMC Pimpalgaon Baswant,2020,Base,Monthly re-plan,Winters,14618.4350,9629.2840,4989.1510,926.5625,0,test
+APMC Pimpalgaon Baswant,2020,Storage cost doubled,Past seasons,,12332.8308,9629.2840,2703.5468,1715.6735,0,test
+APMC Pimpalgaon Baswant,2020,Storage cost doubled,Perfect foresight,,16952.4006,9629.2840,7323.1166,1908.4635,0,test
+APMC Pimpalgaon Baswant,2020,Storage cost doubled,March plan,Winters,13691.8724,9629.2840,4062.5884,1853.1251,0,test
+APMC Pimpalgaon Baswant,2020,Storage cost doubled,Monthly re-plan,Winters,13691.8724,9629.2840,4062.5884,1853.1251,0,test
+APMC Pimpalgaon Baswant,2020,Storage loss 20% over six months,Past seasons,,11805.9809,9629.2840,2176.6969,812.6341,0,test
+APMC Pimpalgaon Baswant,2020,Storage loss 20% over six months,Perfect foresight,,16832.2286,9629.2840,7202.9446,974.4333,0,test
+APMC Pimpalgaon Baswant,2020,Storage loss 20% over six months,March plan,Winters,13172.2466,9629.2840,3542.9626,888.5879,0,test
+APMC Pimpalgaon Baswant,2020,Storage loss 20% over six months,Monthly re-plan,Winters,13503.1404,9629.2840,3873.8564,899.0239,0,test
+APMC Pimpalgaon Baswant,2020,Store holds onion seven months,Past seasons,,17846.2676,9629.2840,8216.9836,997.0887,0,test
+APMC Pimpalgaon Baswant,2020,Store holds onion seven months,Perfect foresight,,20707.1535,9629.2840,11077.8695,1170.8338,0,test
+APMC Pimpalgaon Baswant,2020,Store holds onion seven months,March plan,Winters,20385.5189,9629.2840,10756.2349,1163.8063,0,test
+APMC Pimpalgaon Baswant,2020,Store holds onion seven months,Monthly re-plan,Winters,20385.5189,9629.2840,10756.2349,1163.8063,0,test
+APMC Pimpalgaon Baswant,2020,Store holds onion eight months,Past seasons,,17846.2676,9629.2840,8216.9836,997.0887,0,test
+APMC Pimpalgaon Baswant,2020,Store holds onion eight months,Perfect foresight,,20707.1535,9629.2840,11077.8695,1170.8338,0,test
+APMC Pimpalgaon Baswant,2020,Store holds onion eight months,March plan,Winters,20385.5189,9629.2840,10756.2349,1163.8063,0,test
+APMC Pimpalgaon Baswant,2020,Store holds onion eight months,Monthly re-plan,Winters,20385.5189,9629.2840,10756.2349,1163.8063,0,test
+APMC Pimpalgaon Baswant,2020,Quality discount 2% a month,Past seasons,,12605.3643,9629.2840,2976.0803,857.8368,0,test
+APMC Pimpalgaon Baswant,2020,Quality discount 2% a month,Perfect foresight,,16971.7015,9629.2840,7342.4175,954.2317,0,test
+APMC Pimpalgaon Baswant,2020,Quality discount 2% a month,March plan,Winters,13870.5707,9629.2840,4241.2867,926.5625,0,test
+APMC Pimpalgaon Baswant,2020,Quality discount 2% a month,Monthly re-plan,Winters,13870.5707,9629.2840,4241.2867,926.5625,0,test
+APMC Pimpalgaon Baswant,2020,Selling costs doubled,Past seasons,,17197.0662,9026.9680,8170.0982,997.0887,0,test
+APMC Pimpalgaon Baswant,2020,Selling costs doubled,Perfect foresight,,17255.2689,9026.9680,8228.3009,954.2317,0,test
+APMC Pimpalgaon Baswant,2020,Selling costs doubled,March plan,Winters,13999.2834,9026.9680,4972.3154,926.5625,0,test
+APMC Pimpalgaon Baswant,2020,Selling costs doubled,Monthly re-plan,Winters,13999.2834,9026.9680,4972.3154,926.5625,0,test
+APMC Pimpalgaon Baswant,2020,Interest 20% a year,Past seasons,,12765.9676,9629.2840,3136.6836,845.2695,0,test
+APMC Pimpalgaon Baswant,2020,Interest 20% a year,Perfect foresight,,17226.5466,9629.2840,7597.2626,937.1223,0,test
+APMC Pimpalgaon Baswant,2020,Interest 20% a year,March plan,Winters,14078.1366,9629.2840,4448.8526,911.2244,0,test
+APMC Pimpalgaon Baswant,2020,Interest 20% a year,Monthly re-plan,Winters,14078.1366,9629.2840,4448.8526,911.2244,0,test
+APMC Pimpalgaon Baswant,2020,Half the harvest sold for cash,Past seasons,,15497.2159,9629.2840,5867.9319,703.5146,0,test
+APMC Pimpalgaon Baswant,2020,Half the harvest sold for cash,Perfect foresight,,16310.1796,9629.2840,6680.8956,742.6468,0,test
+APMC Pimpalgaon Baswant,2020,Half the harvest sold for cash,March plan,Winters,14391.8591,9629.2840,4762.5751,700.7327,0,test
+APMC Pimpalgaon Baswant,2020,Half the harvest sold for cash,Monthly re-plan,Winters,14391.8591,9629.2840,4762.5751,700.7327,0,test
+APMC Pimpalgaon Baswant,2020,Curing takes 45 days,Past seasons,,17846.2676,9629.2840,8216.9836,997.0887,0,test
+APMC Pimpalgaon Baswant,2020,Curing takes 45 days,Perfect foresight,,17906.6324,9629.2840,8277.3484,954.2317,0,test
+APMC Pimpalgaon Baswant,2020,Curing takes 45 days,March plan,Winters,14618.4350,9629.2840,4989.1510,926.5625,0,test
+APMC Pimpalgaon Baswant,2020,Curing takes 45 days,Monthly re-plan,Winters,14618.4350,9629.2840,4989.1510,926.5625,0,test
+APMC Pimpalgaon Baswant,2021,Base,Past seasons,,14751.0886,9291.4960,5459.5926,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Base,Perfect foresight,,15985.0256,9291.4960,6693.5296,738.5594,0,test
+APMC Pimpalgaon Baswant,2021,Base,March plan,Winters,14751.0886,9291.4960,5459.5926,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Base,Monthly re-plan,Winters,14751.0886,9291.4960,5459.5926,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Storage cost doubled,Past seasons,,13753.9999,9291.4960,4462.5039,1994.1774,0,test
+APMC Pimpalgaon Baswant,2021,Storage cost doubled,Perfect foresight,,15246.4662,9291.4960,5954.9702,1477.1188,0,test
+APMC Pimpalgaon Baswant,2021,Storage cost doubled,March plan,Winters,13753.9999,9291.4960,4462.5039,1994.1774,0,test
+APMC Pimpalgaon Baswant,2021,Storage cost doubled,Monthly re-plan,Winters,13753.9999,9291.4960,4462.5039,1994.1774,0,test
+APMC Pimpalgaon Baswant,2021,Storage loss 20% over six months,Past seasons,,13497.1180,9291.4960,4205.6220,966.4517,0,test
+APMC Pimpalgaon Baswant,2021,Storage loss 20% over six months,Perfect foresight,,15202.5607,9291.4960,5911.0647,738.0215,0,test
+APMC Pimpalgaon Baswant,2021,Storage loss 20% over six months,March plan,Winters,13866.2035,9291.4960,4574.7075,899.0239,0,test
+APMC Pimpalgaon Baswant,2021,Storage loss 20% over six months,Monthly re-plan,Winters,13821.6991,9291.4960,4530.2031,974.4333,0,test
+APMC Pimpalgaon Baswant,2021,Store holds onion seven months,Past seasons,,14884.7061,9291.4960,5593.2101,1026.4443,0,test
+APMC Pimpalgaon Baswant,2021,Store holds onion seven months,Perfect foresight,,16079.8232,9291.4960,6788.3272,795.0719,0,test
+APMC Pimpalgaon Baswant,2021,Store holds onion seven months,March plan,Winters,15849.5214,9291.4960,6558.0254,1170.8338,0,test
+APMC Pimpalgaon Baswant,2021,Store holds onion seven months,Monthly re-plan,Winters,15849.5214,9291.4960,6558.0254,1170.8338,0,test
+APMC Pimpalgaon Baswant,2021,Store holds onion eight months,Past seasons,,14884.7061,9291.4960,5593.2101,1026.4443,0,test
+APMC Pimpalgaon Baswant,2021,Store holds onion eight months,Perfect foresight,,16079.8232,9291.4960,6788.3272,795.0719,0,test
+APMC Pimpalgaon Baswant,2021,Store holds onion eight months,March plan,Winters,15849.5214,9291.4960,6558.0254,1170.8338,0,test
+APMC Pimpalgaon Baswant,2021,Store holds onion eight months,Monthly re-plan,Winters,15849.5214,9291.4960,6558.0254,1170.8338,0,test
+APMC Pimpalgaon Baswant,2021,Quality discount 2% a month,Past seasons,,13967.3161,9291.4960,4675.8201,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Quality discount 2% a month,Perfect foresight,,15330.1580,9291.4960,6038.6620,738.5594,0,test
+APMC Pimpalgaon Baswant,2021,Quality discount 2% a month,March plan,Winters,13982.3625,9291.4960,4690.8665,926.5625,0,test
+APMC Pimpalgaon Baswant,2021,Quality discount 2% a month,Monthly re-plan,Winters,13967.3161,9291.4960,4675.8201,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Selling costs doubled,Past seasons,,14133.1515,8692.5920,5440.5595,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Selling costs doubled,Perfect foresight,,15345.2607,8692.5920,6652.6687,738.5594,0,test
+APMC Pimpalgaon Baswant,2021,Selling costs doubled,March plan,Winters,14133.1515,8692.5920,5440.5595,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Selling costs doubled,Monthly re-plan,Winters,14133.1515,8692.5920,5440.5595,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Interest 20% a year,Past seasons,,14187.1323,9291.4960,4895.6363,979.4665,0,test
+APMC Pimpalgaon Baswant,2021,Interest 20% a year,Perfect foresight,,15506.2216,9291.4960,6214.7256,727.2382,0,test
+APMC Pimpalgaon Baswant,2021,Interest 20% a year,March plan,Winters,14187.1323,9291.4960,4895.6363,979.4665,0,test
+APMC Pimpalgaon Baswant,2021,Interest 20% a year,Monthly re-plan,Winters,14187.1323,9291.4960,4895.6363,979.4665,0,test
+APMC Pimpalgaon Baswant,2021,Half the harvest sold for cash,Past seasons,,14185.3598,9291.4960,4893.8638,742.6468,0,test
+APMC Pimpalgaon Baswant,2021,Half the harvest sold for cash,Perfect foresight,,14799.6296,9291.4960,5508.1336,613.5817,0,test
+APMC Pimpalgaon Baswant,2021,Half the harvest sold for cash,March plan,Winters,14185.3598,9291.4960,4893.8638,742.6468,0,test
+APMC Pimpalgaon Baswant,2021,Half the harvest sold for cash,Monthly re-plan,Winters,14185.3598,9291.4960,4893.8638,742.6468,0,test
+APMC Pimpalgaon Baswant,2021,Curing takes 45 days,Past seasons,,14751.0886,9291.4960,5459.5926,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Curing takes 45 days,Perfect foresight,,15985.0256,9291.4960,6693.5296,738.5594,0,test
+APMC Pimpalgaon Baswant,2021,Curing takes 45 days,March plan,Winters,14751.0886,9291.4960,5459.5926,997.0887,0,test
+APMC Pimpalgaon Baswant,2021,Curing takes 45 days,Monthly re-plan,Winters,14751.0886,9291.4960,5459.5926,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Base,Past seasons,,10200.4205,7885.1020,2315.3185,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Base,Perfect foresight,,11119.4197,7885.1020,3234.3177,738.5594,0,test
+APMC Pimpalgaon Baswant,2022,Base,March plan,Winters,10200.4205,7885.1020,2315.3185,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Base,Monthly re-plan,Winters,10200.4205,7885.1020,2315.3185,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Storage cost doubled,Past seasons,,9203.3318,7885.1020,1318.2298,1994.1774,0,test
+APMC Pimpalgaon Baswant,2022,Storage cost doubled,Perfect foresight,,10380.8603,7885.1020,2495.7583,1477.1188,0,test
+APMC Pimpalgaon Baswant,2022,Storage cost doubled,March plan,Winters,9203.3318,7885.1020,1318.2298,1994.1774,0,test
+APMC Pimpalgaon Baswant,2022,Storage cost doubled,Monthly re-plan,Winters,9203.3318,7885.1020,1318.2298,1994.1774,0,test
+APMC Pimpalgaon Baswant,2022,Storage loss 20% over six months,Past seasons,,9500.3613,7885.1020,1615.2593,974.4333,0,test
+APMC Pimpalgaon Baswant,2022,Storage loss 20% over six months,Perfect foresight,,10502.4092,7885.1020,2617.3072,738.0215,0,test
+APMC Pimpalgaon Baswant,2022,Storage loss 20% over six months,March plan,Winters,9764.2343,7885.1020,1879.1323,899.0239,0,test
+APMC Pimpalgaon Baswant,2022,Storage loss 20% over six months,Monthly re-plan,Winters,9500.3613,7885.1020,1615.2593,974.4333,0,test
+APMC Pimpalgaon Baswant,2022,Store holds onion seven months,Past seasons,,10372.4854,7885.1020,2487.3834,1026.4443,0,test
+APMC Pimpalgaon Baswant,2022,Store holds onion seven months,Perfect foresight,,11938.8286,7885.1020,4053.7266,1149.1942,0,test
+APMC Pimpalgaon Baswant,2022,Store holds onion seven months,March plan,Winters,11864.2151,7885.1020,3979.1131,1170.8338,0,test
+APMC Pimpalgaon Baswant,2022,Store holds onion seven months,Monthly re-plan,Winters,11864.2151,7885.1020,3979.1131,1170.8338,0,test
+APMC Pimpalgaon Baswant,2022,Store holds onion eight months,Past seasons,,10372.4854,7885.1020,2487.3834,1026.4443,0,test
+APMC Pimpalgaon Baswant,2022,Store holds onion eight months,Perfect foresight,,11938.8286,7885.1020,4053.7266,1149.1942,0,test
+APMC Pimpalgaon Baswant,2022,Store holds onion eight months,March plan,Winters,11864.2151,7885.1020,3979.1131,1170.8338,0,test
+APMC Pimpalgaon Baswant,2022,Store holds onion eight months,Monthly re-plan,Winters,11864.2151,7885.1020,3979.1131,1170.8338,0,test
+APMC Pimpalgaon Baswant,2022,Quality discount 2% a month,Past seasons,,9664.2942,7885.1020,1779.1922,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Quality discount 2% a month,Perfect foresight,,10679.6030,7885.1020,2794.5010,738.5594,0,test
+APMC Pimpalgaon Baswant,2022,Quality discount 2% a month,March plan,Winters,9883.8158,7885.1020,1998.7138,926.5625,0,test
+APMC Pimpalgaon Baswant,2022,Quality discount 2% a month,Monthly re-plan,Winters,9664.2942,7885.1020,1779.1922,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Selling costs doubled,Past seasons,,9628.4498,7300.4040,2328.0458,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Selling costs doubled,Perfect foresight,,10528.8023,7300.4040,3228.3983,738.5594,0,test
+APMC Pimpalgaon Baswant,2022,Selling costs doubled,March plan,Winters,9628.4498,7300.4040,2328.0458,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Selling costs doubled,Monthly re-plan,Winters,9628.4498,7300.4040,2328.0458,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Interest 20% a year,Past seasons,,9824.2129,7885.1020,1939.1109,979.4665,0,test
+APMC Pimpalgaon Baswant,2022,Interest 20% a year,Perfect foresight,,10804.4674,7885.1020,2919.3654,727.2382,0,test
+APMC Pimpalgaon Baswant,2022,Interest 20% a year,March plan,Winters,9824.2129,7885.1020,1939.1109,979.4665,0,test
+APMC Pimpalgaon Baswant,2022,Interest 20% a year,Monthly re-plan,Winters,9824.2129,7885.1020,1939.1109,979.4665,0,test
+APMC Pimpalgaon Baswant,2022,Half the harvest sold for cash,Past seasons,,10051.3572,7885.1020,2166.2552,742.6468,0,test
+APMC Pimpalgaon Baswant,2022,Half the harvest sold for cash,Perfect foresight,,10496.3733,7885.1020,2611.2713,613.5817,0,test
+APMC Pimpalgaon Baswant,2022,Half the harvest sold for cash,March plan,Winters,10051.3572,7885.1020,2166.2552,742.6468,0,test
+APMC Pimpalgaon Baswant,2022,Half the harvest sold for cash,Monthly re-plan,Winters,10051.3572,7885.1020,2166.2552,742.6468,0,test
+APMC Pimpalgaon Baswant,2022,Curing takes 45 days,Past seasons,,10200.4205,7885.1020,2315.3185,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Curing takes 45 days,Perfect foresight,,11119.4197,7885.1020,3234.3177,738.5594,0,test
+APMC Pimpalgaon Baswant,2022,Curing takes 45 days,March plan,Winters,10200.4205,7885.1020,2315.3185,997.0887,0,test
+APMC Pimpalgaon Baswant,2022,Curing takes 45 days,Monthly re-plan,Winters,10200.4205,7885.1020,2315.3185,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Base,Past seasons,,15542.7841,7051.5220,8491.2621,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Base,Perfect foresight,,15542.7841,7051.5220,8491.2621,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Base,March plan,Winters,15542.7841,7051.5220,8491.2621,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Base,Monthly re-plan,Winters,15542.7841,7051.5220,8491.2621,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Storage cost doubled,Past seasons,,14545.6955,7051.5220,7494.1735,1994.1774,0,test
+APMC Pimpalgaon Baswant,2023,Storage cost doubled,Perfect foresight,,14545.6955,7051.5220,7494.1735,1994.1774,0,test
+APMC Pimpalgaon Baswant,2023,Storage cost doubled,March plan,Winters,14484.3782,7051.5220,7432.8562,1853.1251,0,test
+APMC Pimpalgaon Baswant,2023,Storage cost doubled,Monthly re-plan,Winters,14545.6955,7051.5220,7494.1735,1994.1774,0,test
+APMC Pimpalgaon Baswant,2023,Storage loss 20% over six months,Past seasons,,14331.1398,7051.5220,7279.6178,974.4333,0,test
+APMC Pimpalgaon Baswant,2023,Storage loss 20% over six months,Perfect foresight,,14331.1398,7051.5220,7279.6178,974.4333,0,test
+APMC Pimpalgaon Baswant,2023,Storage loss 20% over six months,March plan,Winters,14292.7332,7051.5220,7241.2112,899.0239,0,test
+APMC Pimpalgaon Baswant,2023,Storage loss 20% over six months,Monthly re-plan,Winters,14331.1398,7051.5220,7279.6178,974.4333,0,test
+APMC Pimpalgaon Baswant,2023,Store holds onion seven months,Past seasons,,18995.8777,7051.5220,11944.3557,1170.8338,0,test
+APMC Pimpalgaon Baswant,2023,Store holds onion seven months,Perfect foresight,,18995.8777,7051.5220,11944.3557,1170.8338,0,test
+APMC Pimpalgaon Baswant,2023,Store holds onion seven months,March plan,Winters,18995.8777,7051.5220,11944.3557,1170.8338,0,test
+APMC Pimpalgaon Baswant,2023,Store holds onion seven months,Monthly re-plan,Winters,18995.8777,7051.5220,11944.3557,1170.8338,0,test
+APMC Pimpalgaon Baswant,2023,Store holds onion eight months,Past seasons,,18995.8777,7051.5220,11944.3557,1170.8338,0,test
+APMC Pimpalgaon Baswant,2023,Store holds onion eight months,Perfect foresight,,18995.8777,7051.5220,11944.3557,1170.8338,0,test
+APMC Pimpalgaon Baswant,2023,Store holds onion eight months,March plan,Winters,18995.8777,7051.5220,11944.3557,1170.8338,0,test
+APMC Pimpalgaon Baswant,2023,Store holds onion eight months,Monthly re-plan,Winters,18995.8777,7051.5220,11944.3557,1170.8338,0,test
+APMC Pimpalgaon Baswant,2023,Quality discount 2% a month,Past seasons,,14683.8975,7051.5220,7632.3755,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Quality discount 2% a month,Perfect foresight,,14683.8975,7051.5220,7632.3755,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Quality discount 2% a month,March plan,Winters,14615.8125,7051.5220,7564.2905,926.5625,0,test
+APMC Pimpalgaon Baswant,2023,Quality discount 2% a month,Monthly re-plan,Winters,14683.8975,7051.5220,7632.3755,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Selling costs doubled,Past seasons,,14916.8502,6475.2440,8441.6062,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Selling costs doubled,Perfect foresight,,14916.8502,6475.2440,8441.6062,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Selling costs doubled,March plan,Winters,14916.8502,6475.2440,8441.6062,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Selling costs doubled,Monthly re-plan,Winters,14916.8502,6475.2440,8441.6062,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Interest 20% a year,Past seasons,,14921.2004,7051.5220,7869.6784,979.4665,0,test
+APMC Pimpalgaon Baswant,2023,Interest 20% a year,Perfect foresight,,14921.2004,7051.5220,7869.6784,979.4665,0,test
+APMC Pimpalgaon Baswant,2023,Interest 20% a year,March plan,Winters,14832.7644,7051.5220,7781.2424,911.2244,0,test
+APMC Pimpalgaon Baswant,2023,Interest 20% a year,Monthly re-plan,Winters,14921.2004,7051.5220,7869.6784,979.4665,0,test
+APMC Pimpalgaon Baswant,2023,Half the harvest sold for cash,Past seasons,,13724.1736,7051.5220,6672.6516,742.6468,0,test
+APMC Pimpalgaon Baswant,2023,Half the harvest sold for cash,Perfect foresight,,13724.1736,7051.5220,6672.6516,742.6468,0,test
+APMC Pimpalgaon Baswant,2023,Half the harvest sold for cash,March plan,Winters,13724.1736,7051.5220,6672.6516,742.6468,0,test
+APMC Pimpalgaon Baswant,2023,Half the harvest sold for cash,Monthly re-plan,Winters,13724.1736,7051.5220,6672.6516,742.6468,0,test
+APMC Pimpalgaon Baswant,2023,Curing takes 45 days,Past seasons,,15542.7841,7051.5220,8491.2621,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Curing takes 45 days,Perfect foresight,,15542.7841,7051.5220,8491.2621,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Curing takes 45 days,March plan,Winters,15542.7841,7051.5220,8491.2621,997.0887,0,test
+APMC Pimpalgaon Baswant,2023,Curing takes 45 days,Monthly re-plan,Winters,15542.7841,7051.5220,8491.2621,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Base,Past seasons,,26947.0114,13522.6570,13424.3544,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Base,Perfect foresight,,26947.0114,13522.6570,13424.3544,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Base,March plan,Winters,26947.0114,13522.6570,13424.3544,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Base,Monthly re-plan,Winters,26947.0114,13522.6570,13424.3544,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Storage cost doubled,Past seasons,,25949.9227,13522.6570,12427.2657,1994.1774,0,test
+APMC Pimpalgaon Baswant,2024,Storage cost doubled,Perfect foresight,,25949.9227,13522.6570,12427.2657,1994.1774,0,test
+APMC Pimpalgaon Baswant,2024,Storage cost doubled,March plan,Winters,25949.9227,13522.6570,12427.2657,1994.1774,0,test
+APMC Pimpalgaon Baswant,2024,Storage cost doubled,Monthly re-plan,Winters,25949.9227,13522.6570,12427.2657,1994.1774,0,test
+APMC Pimpalgaon Baswant,2024,Storage loss 20% over six months,Past seasons,,24715.3638,13522.6570,11192.7068,974.4333,0,test
+APMC Pimpalgaon Baswant,2024,Storage loss 20% over six months,Perfect foresight,,24754.3549,13522.6570,11231.6979,966.4517,0,test
+APMC Pimpalgaon Baswant,2024,Storage loss 20% over six months,March plan,Winters,23199.2599,13522.6570,9676.6029,899.0239,0,test
+APMC Pimpalgaon Baswant,2024,Storage loss 20% over six months,Monthly re-plan,Winters,24715.3638,13522.6570,11192.7068,974.4333,0,test
+APMC Pimpalgaon Baswant,2024,Store holds onion seven months,Past seasons,,27728.3979,13522.6570,14205.7409,1170.8338,0,test
+APMC Pimpalgaon Baswant,2024,Store holds onion seven months,Perfect foresight,,27886.1761,13522.6570,14363.5191,1097.7057,0,test
+APMC Pimpalgaon Baswant,2024,Store holds onion seven months,March plan,Winters,27728.3979,13522.6570,14205.7409,1170.8338,0,test
+APMC Pimpalgaon Baswant,2024,Store holds onion seven months,Monthly re-plan,Winters,27728.3979,13522.6570,14205.7409,1170.8338,0,test
+APMC Pimpalgaon Baswant,2024,Store holds onion eight months,Past seasons,,27728.3979,13522.6570,14205.7409,1170.8338,0,test
+APMC Pimpalgaon Baswant,2024,Store holds onion eight months,Perfect foresight,,27886.1761,13522.6570,14363.5191,1097.7057,0,test
+APMC Pimpalgaon Baswant,2024,Store holds onion eight months,March plan,Winters,27300.7466,13522.6570,13778.0896,1190.8582,0,test
+APMC Pimpalgaon Baswant,2024,Store holds onion eight months,Monthly re-plan,Winters,27728.3979,13522.6570,14205.7409,1170.8338,0,test
+APMC Pimpalgaon Baswant,2024,Quality discount 2% a month,Past seasons,,25556.9593,13522.6570,12034.3023,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Quality discount 2% a month,Perfect foresight,,25556.9593,13522.6570,12034.3023,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Quality discount 2% a month,March plan,Winters,24127.7539,13522.6570,10605.0969,926.5625,0,test
+APMC Pimpalgaon Baswant,2024,Quality discount 2% a month,Monthly re-plan,Winters,25556.9593,13522.6570,12034.3023,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Selling costs doubled,Past seasons,,26205.8833,12881.0140,13324.8693,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Selling costs doubled,Perfect foresight,,26205.8833,12881.0140,13324.8693,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Selling costs doubled,March plan,Winters,26205.8833,12881.0140,13324.8693,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Selling costs doubled,Monthly re-plan,Winters,26205.8833,12881.0140,13324.8693,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Interest 20% a year,Past seasons,,25920.7538,13522.6570,12398.0968,979.4665,0,test
+APMC Pimpalgaon Baswant,2024,Interest 20% a year,Perfect foresight,,25920.7538,13522.6570,12398.0968,979.4665,0,test
+APMC Pimpalgaon Baswant,2024,Interest 20% a year,March plan,Winters,25920.7538,13522.6570,12398.0968,979.4665,0,test
+APMC Pimpalgaon Baswant,2024,Interest 20% a year,Monthly re-plan,Winters,25920.7538,13522.6570,12398.0968,979.4665,0,test
+APMC Pimpalgaon Baswant,2024,Half the harvest sold for cash,Past seasons,,23224.6646,13522.6570,9702.0076,742.6468,0,test
+APMC Pimpalgaon Baswant,2024,Half the harvest sold for cash,Perfect foresight,,23309.0945,13522.6570,9786.4375,703.5146,0,test
+APMC Pimpalgaon Baswant,2024,Half the harvest sold for cash,March plan,Winters,23224.6646,13522.6570,9702.0076,742.6468,0,test
+APMC Pimpalgaon Baswant,2024,Half the harvest sold for cash,Monthly re-plan,Winters,23224.6646,13522.6570,9702.0076,742.6468,0,test
+APMC Pimpalgaon Baswant,2024,Curing takes 45 days,Past seasons,,26947.0114,13522.6570,13424.3544,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Curing takes 45 days,Perfect foresight,,26947.0114,13522.6570,13424.3544,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Curing takes 45 days,March plan,Winters,26947.0114,13522.6570,13424.3544,997.0887,0,test
+APMC Pimpalgaon Baswant,2024,Curing takes 45 days,Monthly re-plan,Winters,26947.0114,13522.6570,13424.3544,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Base,Past seasons,,9134.2354,11284.7620,-2150.5266,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Base,Perfect foresight,,11960.5212,11284.7620,675.7592,170.3641,0,test
+APMC Pimpalgaon Baswant,2025,Base,March plan,Winters,9134.2354,11284.7620,-2150.5266,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Base,Monthly re-plan,Winters,9134.2354,11284.7620,-2150.5266,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Storage cost doubled,Past seasons,,8137.1468,11284.7620,-3147.6152,1994.1774,0,test
+APMC Pimpalgaon Baswant,2025,Storage cost doubled,Perfect foresight,,11790.1572,11284.7620,505.3952,340.7282,0,test
+APMC Pimpalgaon Baswant,2025,Storage cost doubled,March plan,Winters,8137.1468,11284.7620,-3147.6152,1994.1774,0,test
+APMC Pimpalgaon Baswant,2025,Storage cost doubled,Monthly re-plan,Winters,8137.1468,11284.7620,-3147.6152,1994.1774,0,test
+APMC Pimpalgaon Baswant,2025,Storage loss 20% over six months,Past seasons,,8371.1745,11284.7620,-2913.5875,974.4333,0,test
+APMC Pimpalgaon Baswant,2025,Storage loss 20% over six months,Perfect foresight,,11816.2877,11284.7620,531.5257,175.8054,0,test
+APMC Pimpalgaon Baswant,2025,Storage loss 20% over six months,March plan,Winters,8371.1745,11284.7620,-2913.5875,974.4333,0,test
+APMC Pimpalgaon Baswant,2025,Storage loss 20% over six months,Monthly re-plan,Winters,8371.1745,11284.7620,-2913.5875,974.4333,0,test
+APMC Pimpalgaon Baswant,2025,Store holds onion seven months,Past seasons,,9182.5703,11284.7620,-2102.1917,1170.8338,0,test
+APMC Pimpalgaon Baswant,2025,Store holds onion seven months,Perfect foresight,,11960.5212,11284.7620,675.7592,170.3641,0,test
+APMC Pimpalgaon Baswant,2025,Store holds onion seven months,March plan,Winters,9182.5703,11284.7620,-2102.1917,1170.8338,0,test
+APMC Pimpalgaon Baswant,2025,Store holds onion seven months,Monthly re-plan,Winters,9182.5703,11284.7620,-2102.1917,1170.8338,0,test
+APMC Pimpalgaon Baswant,2025,Store holds onion eight months,Past seasons,,9182.5703,11284.7620,-2102.1917,1170.8338,0,test
+APMC Pimpalgaon Baswant,2025,Store holds onion eight months,Perfect foresight,,11960.5212,11284.7620,675.7592,170.3641,0,test
+APMC Pimpalgaon Baswant,2025,Store holds onion eight months,March plan,Winters,9182.5703,11284.7620,-2102.1917,1170.8338,0,test
+APMC Pimpalgaon Baswant,2025,Store holds onion eight months,Monthly re-plan,Winters,9182.5703,11284.7620,-2102.1917,1170.8338,0,test
+APMC Pimpalgaon Baswant,2025,Quality discount 2% a month,Past seasons,,8732.1562,11284.7620,-2552.6058,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Quality discount 2% a month,Perfect foresight,,11868.8562,11284.7620,584.0942,170.3641,0,test
+APMC Pimpalgaon Baswant,2025,Quality discount 2% a month,March plan,Winters,8732.1562,11284.7620,-2552.6058,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Quality discount 2% a month,Monthly re-plan,Winters,8732.1562,11284.7620,-2552.6058,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Selling costs doubled,Past seasons,,8573.0343,10665.7240,-2092.6897,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Selling costs doubled,Perfect foresight,,11340.8280,10665.7240,675.1040,170.3641,0,test
+APMC Pimpalgaon Baswant,2025,Selling costs doubled,March plan,Winters,8573.0343,10665.7240,-2092.6897,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Selling costs doubled,Monthly re-plan,Winters,8573.0343,10665.7240,-2092.6897,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Interest 20% a year,Past seasons,,8859.1849,11284.7620,-2425.5771,979.4665,0,test
+APMC Pimpalgaon Baswant,2025,Interest 20% a year,Perfect foresight,,11890.2827,11284.7620,605.5207,169.6749,0,test
+APMC Pimpalgaon Baswant,2025,Interest 20% a year,March plan,Winters,8859.1849,11284.7620,-2425.5771,979.4665,0,test
+APMC Pimpalgaon Baswant,2025,Interest 20% a year,Monthly re-plan,Winters,8859.1849,11284.7620,-2425.5771,979.4665,0,test
+APMC Pimpalgaon Baswant,2025,Half the harvest sold for cash,Past seasons,,9624.0123,11284.7620,-1660.7497,742.6468,0,test
+APMC Pimpalgaon Baswant,2025,Half the harvest sold for cash,Perfect foresight,,11960.5212,11284.7620,675.7592,170.3641,0,test
+APMC Pimpalgaon Baswant,2025,Half the harvest sold for cash,March plan,Winters,9624.0123,11284.7620,-1660.7497,742.6468,0,test
+APMC Pimpalgaon Baswant,2025,Half the harvest sold for cash,Monthly re-plan,Winters,9624.0123,11284.7620,-1660.7497,742.6468,0,test
+APMC Pimpalgaon Baswant,2025,Curing takes 45 days,Past seasons,,9134.2354,11284.7620,-2150.5266,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Curing takes 45 days,Perfect foresight,,11960.5212,11284.7620,675.7592,170.3641,0,test
+APMC Pimpalgaon Baswant,2025,Curing takes 45 days,March plan,Winters,9134.2354,11284.7620,-2150.5266,997.0887,0,test
+APMC Pimpalgaon Baswant,2025,Curing takes 45 days,Monthly re-plan,Winters,9134.2354,11284.7620,-2150.5266,997.0887,0,test
+APMC Pune,2020,Base,Past seasons,,11558.5747,12228.5290,-669.9543,857.8368,0,test
+APMC Pune,2020,Base,Perfect foresight,,15253.6151,12228.5290,3025.0861,954.2317,0,test
+APMC Pune,2020,Base,March plan,Winters,11558.5747,12228.5290,-669.9543,857.8368,0,test
+APMC Pune,2020,Base,Monthly re-plan,Winters,11558.5747,12228.5290,-669.9543,857.8368,0,test
+APMC Pune,2020,Storage cost doubled,Past seasons,,10700.7379,12228.5290,-1527.7911,1715.6735,0,test
+APMC Pune,2020,Storage cost doubled,Perfect foresight,,14299.3834,12228.5290,2070.8544,1908.4635,0,test
+APMC Pune,2020,Storage cost doubled,March plan,Winters,10700.7379,12228.5290,-1527.7911,1715.6735,0,test
+APMC Pune,2020,Storage cost doubled,Monthly re-plan,Winters,10700.7379,12228.5290,-1527.7911,1715.6735,0,test
+APMC Pune,2020,Storage loss 20% over six months,Past seasons,,10407.2185,12228.5290,-1821.3105,810.5458,0,test
+APMC Pune,2020,Storage loss 20% over six months,Perfect foresight,,14242.8841,12228.5290,2014.3551,974.4333,0,test
+APMC Pune,2020,Storage loss 20% over six months,March plan,Winters,10407.2185,12228.5290,-1821.3105,810.5458,0,test
+APMC Pune,2020,Storage loss 20% over six months,Monthly re-plan,Winters,10407.2185,12228.5290,-1821.3105,810.5458,0,test
+APMC Pune,2020,Store holds onion seven months,Past seasons,,11629.9978,12228.5290,-598.5312,870.2301,0,test
+APMC Pune,2020,Store holds onion seven months,Perfect foresight,,17443.1360,12228.5290,5214.6070,1170.8338,0,test
+APMC Pune,2020,Store holds onion seven months,March plan,Winters,13411.0087,12228.5290,1182.4797,1008.8247,0,test
+APMC Pune,2020,Store holds onion seven months,Monthly re-plan,Winters,13411.0087,12228.5290,1182.4797,1008.8247,0,test
+APMC Pune,2020,Store holds onion eight months,Past seasons,,11629.9978,12228.5290,-598.5312,870.2301,0,test
+APMC Pune,2020,Store holds onion eight months,Perfect foresight,,17443.1360,12228.5290,5214.6070,1170.8338,0,test
+APMC Pune,2020,Store holds onion eight months,March plan,Winters,13411.0087,12228.5290,1182.4797,1008.8247,0,test
+APMC Pune,2020,Store holds onion eight months,Monthly re-plan,Winters,13411.0087,12228.5290,1182.4797,1008.8247,0,test
+APMC Pune,2020,Quality discount 2% a month,Past seasons,,11098.8474,12228.5290,-1129.6816,857.8368,0,test
+APMC Pune,2020,Quality discount 2% a month,Perfect foresight,,14525.2722,12228.5290,2296.7432,954.2317,0,test
+APMC Pune,2020,Quality discount 2% a month,March plan,Winters,11098.8474,12228.5290,-1129.6816,857.8368,0,test
+APMC Pune,2020,Quality discount 2% a month,Monthly re-plan,Winters,11098.8474,12228.5290,-1129.6816,857.8368,0,test
+APMC Pune,2020,Selling costs doubled,Past seasons,,10967.8416,11599.9580,-632.1164,857.8368,0,test
+APMC Pune,2020,Selling costs doubled,Perfect foresight,,14629.0498,11599.9580,3029.0918,954.2317,0,test
+APMC Pune,2020,Selling costs doubled,March plan,Winters,10967.8416,11599.9580,-632.1164,857.8368,0,test
+APMC Pune,2020,Selling costs doubled,Monthly re-plan,Winters,10967.8416,11599.9580,-632.1164,857.8368,0,test
+APMC Pune,2020,Interest 20% a year,Past seasons,,11230.0609,12228.5290,-998.4681,845.2695,0,test
+APMC Pune,2020,Interest 20% a year,Perfect foresight,,14730.4818,12228.5290,2501.9528,937.1223,0,test
+APMC Pune,2020,Interest 20% a year,March plan,Winters,11230.0609,12228.5290,-998.4681,845.2695,0,test
+APMC Pune,2020,Interest 20% a year,Monthly re-plan,Winters,11230.0609,12228.5290,-998.4681,845.2695,0,test
+APMC Pune,2020,Half the harvest sold for cash,Past seasons,,10878.2150,12228.5290,-1350.3140,580.6376,0,test
+APMC Pune,2020,Half the harvest sold for cash,Perfect foresight,,14910.3424,12228.5290,2681.8134,742.6468,0,test
+APMC Pune,2020,Half the harvest sold for cash,March plan,Winters,10878.2150,12228.5290,-1350.3140,580.6376,0,test
+APMC Pune,2020,Half the harvest sold for cash,Monthly re-plan,Winters,10878.2150,12228.5290,-1350.3140,580.6376,0,test
+APMC Pune,2020,Curing takes 45 days,Past seasons,,11558.5747,12228.5290,-669.9543,857.8368,0,test
+APMC Pune,2020,Curing takes 45 days,Perfect foresight,,15253.6151,12228.5290,3025.0861,954.2317,0,test
+APMC Pune,2020,Curing takes 45 days,March plan,Winters,11558.5747,12228.5290,-669.9543,857.8368,0,test
+APMC Pune,2020,Curing takes 45 days,Monthly re-plan,Winters,11558.5747,12228.5290,-669.9543,857.8368,0,test
+APMC Pune,2021,Base,Past seasons,,8871.4885,7763.0350,1108.4535,857.8368,0,test
+APMC Pune,2021,Base,Perfect foresight,,11235.4400,7763.0350,3472.4050,738.5594,0,test
+APMC Pune,2021,Base,March plan,Winters,10278.9198,7763.0350,2515.8848,997.0887,0,test
+APMC Pune,2021,Base,Monthly re-plan,Winters,10278.9198,7763.0350,2515.8848,997.0887,0,test
+APMC Pune,2021,Storage cost doubled,Past seasons,,8013.6518,7763.0350,250.6168,1715.6735,0,test
+APMC Pune,2021,Storage cost doubled,Perfect foresight,,10496.8806,7763.0350,2733.8456,1477.1188,0,test
+APMC Pune,2021,Storage cost doubled,March plan,Winters,8013.6518,7763.0350,250.6168,1715.6735,0,test
+APMC Pune,2021,Storage cost doubled,Monthly re-plan,Winters,9281.8312,7763.0350,1518.7962,1994.1774,0,test
+APMC Pune,2021,Storage loss 20% over six months,Past seasons,,8029.5534,7763.0350,266.5184,810.5458,0,test
+APMC Pune,2021,Storage loss 20% over six months,Perfect foresight,,10621.9716,7763.0350,2858.9366,738.0215,0,test
+APMC Pune,2021,Storage loss 20% over six months,March plan,Winters,8029.5534,7763.0350,266.5184,810.5458,0,test
+APMC Pune,2021,Storage loss 20% over six months,Monthly re-plan,Winters,9571.0541,7763.0350,1808.0191,974.4333,0,test
+APMC Pune,2021,Store holds onion seven months,Past seasons,,8718.3299,7763.0350,955.2949,870.2301,0,test
+APMC Pune,2021,Store holds onion seven months,Perfect foresight,,11272.1190,7763.0350,3509.0840,795.0719,0,test
+APMC Pune,2021,Store holds onion seven months,March plan,Winters,9480.7898,7763.0350,1717.7548,1097.7057,0,test
+APMC Pune,2021,Store holds onion seven months,Monthly re-plan,Winters,11075.6083,7763.0350,3312.5733,1170.8338,0,test
+APMC Pune,2021,Store holds onion eight months,Past seasons,,8718.3299,7763.0350,955.2949,870.2301,0,test
+APMC Pune,2021,Store holds onion eight months,Perfect foresight,,11289.3768,7763.0350,3526.3418,808.3101,0,test
+APMC Pune,2021,Store holds onion eight months,March plan,Winters,9480.7898,7763.0350,1717.7548,1097.7057,0,test
+APMC Pune,2021,Store holds onion eight months,Monthly re-plan,Winters,11075.6083,7763.0350,3312.5733,1170.8338,0,test
+APMC Pune,2021,Quality discount 2% a month,Past seasons,,8493.7302,7763.0350,730.6952,857.8368,0,test
+APMC Pune,2021,Quality discount 2% a month,Perfect foresight,,10791.8282,7763.0350,3028.7932,738.5594,0,test
+APMC Pune,2021,Quality discount 2% a month,March plan,Winters,8493.7302,7763.0350,730.6952,857.8368,0,test
+APMC Pune,2021,Quality discount 2% a month,Monthly re-plan,Winters,9736.5265,7763.0350,1973.4915,997.0887,0,test
+APMC Pune,2021,Selling costs doubled,Past seasons,,8307.8977,7179.5700,1128.3277,857.8368,0,test
+APMC Pune,2021,Selling costs doubled,Perfect foresight,,10643.6507,7179.5700,3464.0807,738.5594,0,test
+APMC Pune,2021,Selling costs doubled,March plan,Winters,9706.1562,7179.5700,2526.5862,997.0887,0,test
+APMC Pune,2021,Selling costs doubled,Monthly re-plan,Winters,9706.1562,7179.5700,2526.5862,997.0887,0,test
+APMC Pune,2021,Interest 20% a year,Past seasons,,8605.2317,7763.0350,842.1967,845.2695,0,test
+APMC Pune,2021,Interest 20% a year,Perfect foresight,,10917.4980,7763.0350,3154.4630,727.2382,0,test
+APMC Pune,2021,Interest 20% a year,March plan,Winters,8605.2317,7763.0350,842.1967,845.2695,0,test
+APMC Pune,2021,Interest 20% a year,Monthly re-plan,Winters,9897.9243,7763.0350,2134.8893,979.4665,0,test
+APMC Pune,2021,Half the harvest sold for cash,Past seasons,,8338.3700,7763.0350,575.3350,617.7830,0,test
+APMC Pune,2021,Half the harvest sold for cash,Perfect foresight,,10526.9928,7763.0350,2763.9578,613.5817,0,test
+APMC Pune,2021,Half the harvest sold for cash,March plan,Winters,9204.8668,7763.0350,1441.8318,703.5146,0,test
+APMC Pune,2021,Half the harvest sold for cash,Monthly re-plan,Winters,10058.2814,7763.0350,2295.2464,742.6468,0,test
+APMC Pune,2021,Curing takes 45 days,Past seasons,,8871.4885,7763.0350,1108.4535,857.8368,0,test
+APMC Pune,2021,Curing takes 45 days,Perfect foresight,,11235.4400,7763.0350,3472.4050,738.5594,0,test
+APMC Pune,2021,Curing takes 45 days,March plan,Winters,10278.9198,7763.0350,2515.8848,997.0887,0,test
+APMC Pune,2021,Curing takes 45 days,Monthly re-plan,Winters,10278.9198,7763.0350,2515.8848,997.0887,0,test
+APMC Pune,2022,Base,Past seasons,,7385.8418,7409.1100,-23.2682,857.8368,0,test
+APMC Pune,2022,Base,Perfect foresight,,8953.6932,7409.1100,1544.5832,738.5594,0,test
+APMC Pune,2022,Base,March plan,Winters,8235.4591,7409.1100,826.3491,997.0887,0,test
+APMC Pune,2022,Base,Monthly re-plan,Winters,8235.4591,7409.1100,826.3491,997.0887,0,test
+APMC Pune,2022,Storage cost doubled,Past seasons,,6528.0050,7409.1100,-881.1050,1715.6735,0,test
+APMC Pune,2022,Storage cost doubled,Perfect foresight,,8215.1338,7409.1100,806.0238,1477.1188,0,test
+APMC Pune,2022,Storage cost doubled,March plan,Winters,7338.4681,7409.1100,-70.6419,1853.1251,0,test
+APMC Pune,2022,Storage cost doubled,Monthly re-plan,Winters,7238.3704,7409.1100,-170.7396,1994.1774,0,test
+APMC Pune,2022,Storage loss 20% over six months,Past seasons,,6759.3872,7409.1100,-649.7228,810.5458,0,test
+APMC Pune,2022,Storage loss 20% over six months,Perfect foresight,,8457.7538,7409.1100,1048.6438,738.0215,0,test
+APMC Pune,2022,Storage loss 20% over six months,March plan,Winters,7684.6195,7409.1100,275.5095,888.5879,0,test
+APMC Pune,2022,Storage loss 20% over six months,Monthly re-plan,Winters,7658.5751,7409.1100,249.4651,974.4333,0,test
+APMC Pune,2022,Store holds onion seven months,Past seasons,,8273.4209,7409.1100,864.3109,1080.8567,0,test
+APMC Pune,2022,Store holds onion seven months,Perfect foresight,,9370.4424,7409.1100,1961.3324,1149.1942,0,test
+APMC Pune,2022,Store holds onion seven months,March plan,Winters,9311.7286,7409.1100,1902.6186,1170.8338,0,test
+APMC Pune,2022,Store holds onion seven months,Monthly re-plan,Winters,9311.7286,7409.1100,1902.6186,1170.8338,0,test
+APMC Pune,2022,Store holds onion eight months,Past seasons,,8273.4209,7409.1100,864.3109,1080.8567,0,test
+APMC Pune,2022,Store holds onion eight months,Perfect foresight,,9370.4424,7409.1100,1961.3324,1149.1942,0,test
+APMC Pune,2022,Store holds onion eight months,March plan,Winters,9274.3482,7409.1100,1865.2382,1190.8582,0,test
+APMC Pune,2022,Store holds onion eight months,Monthly re-plan,Winters,9311.7286,7409.1100,1902.6186,1170.8338,0,test
+APMC Pune,2022,Quality discount 2% a month,Past seasons,,7076.1857,7409.1100,-332.9243,857.8368,0,test
+APMC Pune,2022,Quality discount 2% a month,Perfect foresight,,8612.3400,7409.1100,1203.2300,738.5594,0,test
+APMC Pune,2022,Quality discount 2% a month,March plan,Winters,7867.2004,7409.1100,458.0904,926.5625,0,test
+APMC Pune,2022,Quality discount 2% a month,Monthly re-plan,Winters,7808.7676,7409.1100,399.6576,997.0887,0,test
+APMC Pune,2022,Selling costs doubled,Past seasons,,6837.2575,6829.2200,8.0375,857.8368,0,test
+APMC Pune,2022,Selling costs doubled,Perfect foresight,,8384.9518,6829.2200,1555.7318,738.5594,0,test
+APMC Pune,2022,Selling costs doubled,March plan,Winters,7683.3365,6829.2200,854.1165,997.0887,0,test
+APMC Pune,2022,Selling costs doubled,Monthly re-plan,Winters,7683.3365,6829.2200,854.1165,997.0887,0,test
+APMC Pune,2022,Interest 20% a year,Past seasons,,7171.8978,7409.1100,-237.2122,845.2695,0,test
+APMC Pune,2022,Interest 20% a year,Perfect foresight,,8713.7626,7409.1100,1304.6526,727.2382,0,test
+APMC Pune,2022,Interest 20% a year,March plan,Winters,7989.5773,7409.1100,580.4673,911.2244,0,test
+APMC Pune,2022,Interest 20% a year,Monthly re-plan,Winters,7942.2032,7409.1100,533.0932,979.4665,0,test
+APMC Pune,2022,Half the harvest sold for cash,Past seasons,,7270.3544,7409.1100,-138.7556,617.7830,0,test
+APMC Pune,2022,Half the harvest sold for cash,Perfect foresight,,8644.2199,7409.1100,1235.1099,613.5817,0,test
+APMC Pune,2022,Half the harvest sold for cash,March plan,Winters,8294.0342,7409.1100,884.9242,742.6468,0,test
+APMC Pune,2022,Half the harvest sold for cash,Monthly re-plan,Winters,8294.0342,7409.1100,884.9242,742.6468,0,test
+APMC Pune,2022,Curing takes 45 days,Past seasons,,7385.8418,7409.1100,-23.2682,857.8368,0,test
+APMC Pune,2022,Curing takes 45 days,Perfect foresight,,8953.6932,7409.1100,1544.5832,738.5594,0,test
+APMC Pune,2022,Curing takes 45 days,March plan,Winters,8235.4591,7409.1100,826.3491,997.0887,0,test
+APMC Pune,2022,Curing takes 45 days,Monthly re-plan,Winters,8235.4591,7409.1100,826.3491,997.0887,0,test
+APMC Pune,2023,Base,Past seasons,,10313.1076,5768.3830,4544.7246,857.8368,0,test
+APMC Pune,2023,Base,Perfect foresight,,12134.4574,5768.3830,6366.0744,926.5625,0,test
+APMC Pune,2023,Base,March plan,Winters,12134.4574,5768.3830,6366.0744,926.5625,0,test
+APMC Pune,2023,Base,Monthly re-plan,Winters,12118.2324,5768.3830,6349.8494,997.0887,0,test
+APMC Pune,2023,Storage cost doubled,Past seasons,,9455.2708,5768.3830,3686.8878,1715.6735,0,test
+APMC Pune,2023,Storage cost doubled,Perfect foresight,,11207.8949,5768.3830,5439.5119,1853.1251,0,test
+APMC Pune,2023,Storage cost doubled,March plan,Winters,11207.8949,5768.3830,5439.5119,1853.1251,0,test
+APMC Pune,2023,Storage cost doubled,Monthly re-plan,Winters,11121.1437,5768.3830,5352.7607,1994.1774,0,test
+APMC Pune,2023,Storage loss 20% over six months,Past seasons,,9236.5867,5768.3830,3468.2037,810.5458,0,test
+APMC Pune,2023,Storage loss 20% over six months,Perfect foresight,,11302.4923,5768.3830,5534.1093,899.0239,0,test
+APMC Pune,2023,Storage loss 20% over six months,March plan,Winters,11302.4923,5768.3830,5534.1093,899.0239,0,test
+APMC Pune,2023,Storage loss 20% over six months,Monthly re-plan,Winters,11208.7763,5768.3830,5440.3933,974.4333,0,test
+APMC Pune,2023,Store holds onion seven months,Past seasons,,14017.4107,5768.3830,8249.0277,1080.8567,0,test
+APMC Pune,2023,Store holds onion seven months,Perfect foresight,,16175.4611,5768.3830,10407.0781,1163.8063,0,test
+APMC Pune,2023,Store holds onion seven months,March plan,Winters,16175.4611,5768.3830,10407.0781,1163.8063,0,test
+APMC Pune,2023,Store holds onion seven months,Monthly re-plan,Winters,16173.8444,5768.3830,10405.4614,1170.8338,0,test
+APMC Pune,2023,Store holds onion eight months,Past seasons,,14017.4107,5768.3830,8249.0277,1080.8567,0,test
+APMC Pune,2023,Store holds onion eight months,Perfect foresight,,16278.0801,5768.3830,10509.6971,1190.8582,0,test
+APMC Pune,2023,Store holds onion eight months,March plan,Winters,16278.0801,5768.3830,10509.6971,1190.8582,0,test
+APMC Pune,2023,Store holds onion eight months,Monthly re-plan,Winters,16173.8444,5768.3830,10405.4614,1170.8338,0,test
+APMC Pune,2023,Quality discount 2% a month,Past seasons,,9835.0407,5768.3830,4066.6577,857.8368,0,test
+APMC Pune,2023,Quality discount 2% a month,Perfect foresight,,11493.4221,5768.3830,5725.0391,926.5625,0,test
+APMC Pune,2023,Quality discount 2% a month,March plan,Winters,11493.4221,5768.3830,5725.0391,926.5625,0,test
+APMC Pune,2023,Quality discount 2% a month,Monthly re-plan,Winters,11433.4288,5768.3830,5665.0458,997.0887,0,test
+APMC Pune,2023,Selling costs doubled,Past seasons,,9734.9550,5205.0660,4529.8890,857.8368,0,test
+APMC Pune,2023,Selling costs doubled,Perfect foresight,,11540.3966,5205.0660,6335.3306,926.5625,0,test
+APMC Pune,2023,Selling costs doubled,March plan,Winters,11540.3966,5205.0660,6335.3306,926.5625,0,test
+APMC Pune,2023,Selling costs doubled,Monthly re-plan,Winters,11526.8899,5205.0660,6321.8239,997.0887,0,test
+APMC Pune,2023,Interest 20% a year,Past seasons,,9969.7600,5768.3830,4201.3770,845.2695,0,test
+APMC Pune,2023,Interest 20% a year,Perfect foresight,,11673.9085,5768.3830,5905.5255,911.2244,0,test
+APMC Pune,2023,Interest 20% a year,March plan,Winters,11673.9085,5768.3830,5905.5255,911.2244,0,test
+APMC Pune,2023,Interest 20% a year,Monthly re-plan,Winters,11629.0682,5768.3830,5860.6852,979.4665,0,test
+APMC Pune,2023,Half the harvest sold for cash,Past seasons,,8770.6171,5768.3830,3002.2341,617.7830,0,test
+APMC Pune,2023,Half the harvest sold for cash,Perfect foresight,,10928.6674,5768.3830,5160.2844,700.7327,0,test
+APMC Pune,2023,Half the harvest sold for cash,March plan,Winters,10928.6674,5768.3830,5160.2844,700.7327,0,test
+APMC Pune,2023,Half the harvest sold for cash,Monthly re-plan,Winters,10919.0248,5768.3830,5150.6418,742.6468,0,test
+APMC Pune,2023,Curing takes 45 days,Past seasons,,10313.1076,5768.3830,4544.7246,857.8368,0,test
+APMC Pune,2023,Curing takes 45 days,Perfect foresight,,12134.4574,5768.3830,6366.0744,926.5625,0,test
+APMC Pune,2023,Curing takes 45 days,March plan,Winters,12134.4574,5768.3830,6366.0744,926.5625,0,test
+APMC Pune,2023,Curing takes 45 days,Monthly re-plan,Winters,12118.2324,5768.3830,6349.8494,997.0887,0,test
+APMC Pune,2024,Base,Past seasons,,21851.7626,9896.8810,11954.8816,997.0887,0,test
+APMC Pune,2024,Base,Perfect foresight,,21851.7626,9896.8810,11954.8816,997.0887,0,test
+APMC Pune,2024,Base,March plan,Winters,21851.7626,9896.8810,11954.8816,997.0887,0,test
+APMC Pune,2024,Base,Monthly re-plan,Winters,21851.7626,9896.8810,11954.8816,997.0887,0,test
+APMC Pune,2024,Storage cost doubled,Past seasons,,18904.1082,9896.8810,9007.2272,1853.1251,0,test
+APMC Pune,2024,Storage cost doubled,Perfect foresight,,20854.6739,9896.8810,10957.7929,1994.1774,0,test
+APMC Pune,2024,Storage cost doubled,March plan,Winters,18904.1082,9896.8810,9007.2272,1853.1251,0,test
+APMC Pune,2024,Storage cost doubled,Monthly re-plan,Winters,20854.6739,9896.8810,10957.7929,1994.1774,0,test
+APMC Pune,2024,Storage loss 20% over six months,Past seasons,,17924.2858,9896.8810,8027.4048,888.5879,0,test
+APMC Pune,2024,Storage loss 20% over six months,Perfect foresight,,20110.2118,9896.8810,10213.3308,966.4517,0,test
+APMC Pune,2024,Storage loss 20% over six months,March plan,Winters,17946.0436,9896.8810,8049.1626,899.0239,0,test
+APMC Pune,2024,Storage loss 20% over six months,Monthly re-plan,Winters,19925.0540,9896.8810,10028.1730,974.4333,0,test
+APMC Pune,2024,Store holds onion seven months,Past seasons,,22350.2767,9896.8810,12453.3957,1170.8338,0,test
+APMC Pune,2024,Store holds onion seven months,Perfect foresight,,23894.1640,9896.8810,13997.2830,1097.7057,0,test
+APMC Pune,2024,Store holds onion seven months,March plan,Winters,22350.2767,9896.8810,12453.3957,1170.8338,0,test
+APMC Pune,2024,Store holds onion seven months,Monthly re-plan,Winters,22350.2767,9896.8810,12453.3957,1170.8338,0,test
+APMC Pune,2024,Store holds onion eight months,Past seasons,,22350.2767,9896.8810,12453.3957,1170.8338,0,test
+APMC Pune,2024,Store holds onion eight months,Perfect foresight,,23894.1640,9896.8810,13997.2830,1097.7057,0,test
+APMC Pune,2024,Store holds onion eight months,March plan,Winters,22142.4091,9896.8810,12245.5281,1190.8582,0,test
+APMC Pune,2024,Store holds onion eight months,Monthly re-plan,Winters,22142.4091,9896.8810,12245.5281,1190.8582,0,test
+APMC Pune,2024,Quality discount 2% a month,Past seasons,,18863.8788,9896.8810,8966.9978,926.5625,0,test
+APMC Pune,2024,Quality discount 2% a month,Perfect foresight,,20700.5770,9896.8810,10803.6960,997.0887,0,test
+APMC Pune,2024,Quality discount 2% a month,March plan,Winters,18863.8788,9896.8810,8966.9978,926.5625,0,test
+APMC Pune,2024,Quality discount 2% a month,Monthly re-plan,Winters,20700.5770,9896.8810,10803.6960,997.0887,0,test
+APMC Pune,2024,Selling costs doubled,Past seasons,,21162.1016,9291.8620,11870.2396,997.0887,0,test
+APMC Pune,2024,Selling costs doubled,Perfect foresight,,21162.1016,9291.8620,11870.2396,997.0887,0,test
+APMC Pune,2024,Selling costs doubled,March plan,Winters,21162.1016,9291.8620,11870.2396,997.0887,0,test
+APMC Pune,2024,Selling costs doubled,Monthly re-plan,Winters,21162.1016,9291.8620,11870.2396,997.0887,0,test
+APMC Pune,2024,Interest 20% a year,Past seasons,,19120.4821,9896.8810,9223.6011,911.2244,0,test
+APMC Pune,2024,Interest 20% a year,Perfect foresight,,21006.6618,9896.8810,11109.7808,979.4665,0,test
+APMC Pune,2024,Interest 20% a year,March plan,Winters,19120.4821,9896.8810,9223.6011,911.2244,0,test
+APMC Pune,2024,Interest 20% a year,Monthly re-plan,Winters,21006.6618,9896.8810,11109.7808,979.4665,0,test
+APMC Pune,2024,Half the harvest sold for cash,Past seasons,,18150.3116,9896.8810,8253.4306,742.6468,0,test
+APMC Pune,2024,Half the harvest sold for cash,Perfect foresight,,18976.4721,9896.8810,9079.5911,703.5146,0,test
+APMC Pune,2024,Half the harvest sold for cash,March plan,Winters,18150.3116,9896.8810,8253.4306,742.6468,0,test
+APMC Pune,2024,Half the harvest sold for cash,Monthly re-plan,Winters,18150.3116,9896.8810,8253.4306,742.6468,0,test
+APMC Pune,2024,Curing takes 45 days,Past seasons,,21851.7626,9896.8810,11954.8816,997.0887,0,test
+APMC Pune,2024,Curing takes 45 days,Perfect foresight,,21851.7626,9896.8810,11954.8816,997.0887,0,test
+APMC Pune,2024,Curing takes 45 days,March plan,Winters,21851.7626,9896.8810,11954.8816,997.0887,0,test
+APMC Pune,2024,Curing takes 45 days,Monthly re-plan,Winters,21851.7626,9896.8810,11954.8816,997.0887,0,test
+APMC Pune,2025,Base,Past seasons,,8650.8815,10353.6670,-1702.7855,997.0887,0,test
+APMC Pune,2025,Base,Perfect foresight,,10882.8824,10353.6670,529.2154,257.1817,0,test
+APMC Pune,2025,Base,March plan,Winters,8650.8815,10353.6670,-1702.7855,997.0887,0,test
+APMC Pune,2025,Base,Monthly re-plan,Winters,8650.8815,10353.6670,-1702.7855,997.0887,0,test
+APMC Pune,2025,Storage cost doubled,Past seasons,,7653.7928,10353.6670,-2699.8742,1994.1774,0,test
+APMC Pune,2025,Storage cost doubled,Perfect foresight,,10625.7008,10353.6670,272.0338,514.3633,0,test
+APMC Pune,2025,Storage cost doubled,March plan,Winters,7653.7928,10353.6670,-2699.8742,1994.1774,0,test
+APMC Pune,2025,Storage cost doubled,Monthly re-plan,Winters,7653.7928,10353.6670,-2699.8742,1994.1774,0,test
+APMC Pune,2025,Storage loss 20% over six months,Past seasons,,8811.7703,10353.6670,-1541.8967,812.6341,0,test
+APMC Pune,2025,Storage loss 20% over six months,Perfect foresight,,10673.8329,10353.6670,320.1659,267.4700,0,test
+APMC Pune,2025,Storage loss 20% over six months,March plan,Winters,7948.7136,10353.6670,-2404.9534,974.4333,0,test
+APMC Pune,2025,Storage loss 20% over six months,Monthly re-plan,Winters,7948.7136,10353.6670,-2404.9534,974.4333,0,test
+APMC Pune,2025,Store holds onion seven months,Past seasons,,8669.6508,10353.6670,-1684.0162,1097.7057,0,test
+APMC Pune,2025,Store holds onion seven months,Perfect foresight,,10882.8824,10353.6670,529.2154,257.1817,0,test
+APMC Pune,2025,Store holds onion seven months,March plan,Winters,7536.1685,10353.6670,-2817.4985,1170.8338,0,test
+APMC Pune,2025,Store holds onion seven months,Monthly re-plan,Winters,7536.1685,10353.6670,-2817.4985,1170.8338,0,test
+APMC Pune,2025,Store holds onion eight months,Past seasons,,8669.6508,10353.6670,-1684.0162,1097.7057,0,test
+APMC Pune,2025,Store holds onion eight months,Perfect foresight,,10882.8824,10353.6670,529.2154,257.1817,0,test
+APMC Pune,2025,Store holds onion eight months,March plan,Winters,7480.2048,10353.6670,-2873.4622,1190.8582,0,test
+APMC Pune,2025,Store holds onion eight months,Monthly re-plan,Winters,7536.1685,10353.6670,-2817.4985,1170.8338,0,test
+APMC Pune,2025,Quality discount 2% a month,Past seasons,,8264.8374,10353.6670,-2088.8296,997.0887,0,test
+APMC Pune,2025,Quality discount 2% a month,Perfect foresight,,10752.8506,10353.6670,399.1836,257.1817,0,test
+APMC Pune,2025,Quality discount 2% a month,March plan,Winters,8264.8374,10353.6670,-2088.8296,997.0887,0,test
+APMC Pune,2025,Quality discount 2% a month,Monthly re-plan,Winters,8264.8374,10353.6670,-2088.8296,997.0887,0,test
+APMC Pune,2025,Selling costs doubled,Past seasons,,8094.5627,9744.0340,-1649.4713,997.0887,0,test
+APMC Pune,2025,Selling costs doubled,Perfect foresight,,10277.2189,9744.0340,533.1849,257.1817,0,test
+APMC Pune,2025,Selling costs doubled,March plan,Winters,8094.5627,9744.0340,-1649.4713,997.0887,0,test
+APMC Pune,2025,Selling costs doubled,Monthly re-plan,Winters,8094.5627,9744.0340,-1649.4713,997.0887,0,test
+APMC Pune,2025,Interest 20% a year,Past seasons,,8387.7525,10353.6670,-1965.9145,979.4665,0,test
+APMC Pune,2025,Interest 20% a year,Perfect foresight,,10785.9735,10353.6670,432.3065,255.1156,0,test
+APMC Pune,2025,Interest 20% a year,March plan,Winters,8387.7525,10353.6670,-1965.9145,979.4665,0,test
+APMC Pune,2025,Interest 20% a year,Monthly re-plan,Winters,8387.7525,10353.6670,-1965.9145,979.4665,0,test
+APMC Pune,2025,Half the harvest sold for cash,Past seasons,,9432.8314,10353.6670,-920.8356,703.5146,0,test
+APMC Pune,2025,Half the harvest sold for cash,Perfect foresight,,10882.8824,10353.6670,529.2154,257.1817,0,test
+APMC Pune,2025,Half the harvest sold for cash,March plan,Winters,8826.2857,10353.6670,-1527.3813,742.6468,0,test
+APMC Pune,2025,Half the harvest sold for cash,Monthly re-plan,Winters,8826.2857,10353.6670,-1527.3813,742.6468,0,test
+APMC Pune,2025,Curing takes 45 days,Past seasons,,8650.8815,10353.6670,-1702.7855,997.0887,0,test
+APMC Pune,2025,Curing takes 45 days,Perfect foresight,,10882.8824,10353.6670,529.2154,257.1817,0,test
+APMC Pune,2025,Curing takes 45 days,March plan,Winters,8650.8815,10353.6670,-1702.7855,997.0887,0,test
+APMC Pune,2025,Curing takes 45 days,Monthly re-plan,Winters,8650.8815,10353.6670,-1702.7855,997.0887,0,test
+APMC Solapur,2020,Base,Past seasons,,7046.5447,6648.5920,397.9527,857.8368,1,test
+APMC Solapur,2020,Base,Perfect foresight,,9717.2290,6648.5920,3068.6370,954.2317,1,test
+APMC Solapur,2020,Base,March plan,Winters,8147.4858,6648.5920,1498.8938,926.5625,1,test
+APMC Solapur,2020,Base,Monthly re-plan,Winters,8147.4858,6648.5920,1498.8938,926.5625,1,test
+APMC Solapur,2020,Storage cost doubled,Past seasons,,6188.7079,6648.5920,-459.8841,1715.6735,1,test
+APMC Solapur,2020,Storage cost doubled,Perfect foresight,,8762.9972,6648.5920,2114.4052,1908.4635,1,test
+APMC Solapur,2020,Storage cost doubled,March plan,Winters,6188.7079,6648.5920,-459.8841,1715.6735,1,test
+APMC Solapur,2020,Storage cost doubled,Monthly re-plan,Winters,6188.7079,6648.5920,-459.8841,1715.6735,1,test
+APMC Solapur,2020,Storage loss 20% over six months,Past seasons,,6243.4612,6648.5920,-405.1308,810.5458,1,test
+APMC Solapur,2020,Storage loss 20% over six months,Perfect foresight,,9091.3340,6648.5920,2442.7420,974.4333,1,test
+APMC Solapur,2020,Storage loss 20% over six months,March plan,Winters,6243.4612,6648.5920,-405.1308,810.5458,1,test
+APMC Solapur,2020,Storage loss 20% over six months,Monthly re-plan,Winters,6243.4612,6648.5920,-405.1308,810.5458,1,test
+APMC Solapur,2020,Store holds onion seven months,Past seasons,,7046.5447,6648.5920,397.9527,857.8368,1,test
+APMC Solapur,2020,Store holds onion seven months,Perfect foresight,,11525.6634,6648.5920,4877.0714,1170.8338,1,test
+APMC Solapur,2020,Store holds onion seven months,March plan,Winters,8147.4858,6648.5920,1498.8938,926.5625,1,test
+APMC Solapur,2020,Store holds onion seven months,Monthly re-plan,Winters,8147.4858,6648.5920,1498.8938,926.5625,1,test
+APMC Solapur,2020,Store holds onion eight months,Past seasons,,7046.5447,6648.5920,397.9527,857.8368,1,test
+APMC Solapur,2020,Store holds onion eight months,Perfect foresight,,11563.9136,6648.5920,4915.3216,1190.8582,1,test
+APMC Solapur,2020,Store holds onion eight months,March plan,Winters,7447.3193,6648.5920,798.7273,1100.1634,1,test
+APMC Solapur,2020,Store holds onion eight months,Monthly re-plan,Winters,8147.4858,6648.5920,1498.8938,926.5625,1,test
+APMC Solapur,2020,Quality discount 2% a month,Past seasons,,6730.0628,6648.5920,81.4708,857.8368,1,test
+APMC Solapur,2020,Quality discount 2% a month,Perfect foresight,,9202.6737,6648.5920,2554.0817,954.2317,1,test
+APMC Solapur,2020,Quality discount 2% a month,March plan,Winters,6730.0628,6648.5920,81.4708,857.8368,1,test
+APMC Solapur,2020,Quality discount 2% a month,Monthly re-plan,Winters,7721.6706,6648.5920,1073.0786,926.5625,1,test
+APMC Solapur,2020,Selling costs doubled,Past seasons,,6501.3877,6076.3840,425.0037,857.8368,1,test
+APMC Solapur,2020,Selling costs doubled,Perfect foresight,,9148.5867,6076.3840,3072.2027,954.2317,1,test
+APMC Solapur,2020,Selling costs doubled,March plan,Winters,7593.6974,6076.3840,1517.3134,926.5625,1,test
+APMC Solapur,2020,Selling costs doubled,Monthly re-plan,Winters,7593.6974,6076.3840,1517.3134,926.5625,1,test
+APMC Solapur,2020,Interest 20% a year,Past seasons,,6827.9498,6648.5920,179.3578,845.2695,1,test
+APMC Solapur,2020,Interest 20% a year,Perfect foresight,,9356.4483,6648.5920,2707.8563,937.1223,1,test
+APMC Solapur,2020,Interest 20% a year,March plan,Winters,6827.9498,6648.5920,179.3578,845.2695,1,test
+APMC Solapur,2020,Interest 20% a year,Monthly re-plan,Winters,7851.7762,6648.5920,1203.1842,911.2244,1,test
+APMC Solapur,2020,Half the harvest sold for cash,Past seasons,,6308.2776,6648.5920,-340.3144,580.6376,1,test
+APMC Solapur,2020,Half the harvest sold for cash,Perfect foresight,,9289.6016,6648.5920,2641.0096,742.6468,1,test
+APMC Solapur,2020,Half the harvest sold for cash,March plan,Winters,7009.5888,6648.5920,360.9968,624.4167,1,test
+APMC Solapur,2020,Half the harvest sold for cash,Monthly re-plan,Winters,7009.5888,6648.5920,360.9968,624.4167,1,test
+APMC Solapur,2020,Curing takes 45 days,Past seasons,,7046.5447,6648.5920,397.9527,857.8368,1,test
+APMC Solapur,2020,Curing takes 45 days,Perfect foresight,,9717.2290,6648.5920,3068.6370,954.2317,1,test
+APMC Solapur,2020,Curing takes 45 days,March plan,Winters,8147.4858,6648.5920,1498.8938,926.5625,1,test
+APMC Solapur,2020,Curing takes 45 days,Monthly re-plan,Winters,8147.4858,6648.5920,1498.8938,926.5625,1,test
+APMC Solapur,2021,Base,Past seasons,,6540.3117,4913.0230,1627.2887,857.8368,0,test
+APMC Solapur,2021,Base,Perfect foresight,,8621.5773,4913.0230,3708.5543,807.0142,0,test
+APMC Solapur,2021,Base,March plan,Winters,8403.3088,4913.0230,3490.2858,926.5625,0,test
+APMC Solapur,2021,Base,Monthly re-plan,Winters,8403.3088,4913.0230,3490.2858,926.5625,0,test
+APMC Solapur,2021,Storage cost doubled,Past seasons,,5682.4749,4913.0230,769.4519,1715.6735,0,test
+APMC Solapur,2021,Storage cost doubled,Perfect foresight,,7860.1830,4913.0230,2947.1600,1477.1188,0,test
+APMC Solapur,2021,Storage cost doubled,March plan,Winters,7476.7462,4913.0230,2563.7232,1853.1251,0,test
+APMC Solapur,2021,Storage cost doubled,Monthly re-plan,Winters,7476.7462,4913.0230,2563.7232,1853.1251,0,test
+APMC Solapur,2021,Storage loss 20% over six months,Past seasons,,5771.8019,4913.0230,858.7789,810.5458,0,test
+APMC Solapur,2021,Storage loss 20% over six months,Perfect foresight,,8142.7227,4913.0230,3229.6997,738.0215,0,test
+APMC Solapur,2021,Storage loss 20% over six months,March plan,Winters,7796.6361,4913.0230,2883.6131,888.5879,0,test
+APMC Solapur,2021,Storage loss 20% over six months,Monthly re-plan,Winters,7910.9604,4913.0230,2997.9374,899.0239,0,test
+APMC Solapur,2021,Store holds onion seven months,Past seasons,,6540.3117,4913.0230,1627.2887,857.8368,0,test
+APMC Solapur,2021,Store holds onion seven months,Perfect foresight,,10696.9888,4913.0230,5783.9658,1156.5947,0,test
+APMC Solapur,2021,Store holds onion seven months,March plan,Winters,10682.4321,4913.0230,5769.4091,1163.8063,0,test
+APMC Solapur,2021,Store holds onion seven months,Monthly re-plan,Winters,10682.4321,4913.0230,5769.4091,1163.8063,0,test
+APMC Solapur,2021,Store holds onion eight months,Past seasons,,6540.3117,4913.0230,1627.2887,857.8368,0,test
+APMC Solapur,2021,Store holds onion eight months,Perfect foresight,,10762.8353,4913.0230,5849.8123,1190.8582,0,test
+APMC Solapur,2021,Store holds onion eight months,March plan,Winters,9791.7478,4913.0230,4878.7248,1340.0323,0,test
+APMC Solapur,2021,Store holds onion eight months,Monthly re-plan,Winters,10682.4321,4913.0230,5769.4091,1163.8063,0,test
+APMC Solapur,2021,Quality discount 2% a month,Past seasons,,6233.8181,4913.0230,1320.7951,857.8368,0,test
+APMC Solapur,2021,Quality discount 2% a month,Perfect foresight,,8208.8299,4913.0230,3295.8069,738.5594,0,test
+APMC Solapur,2021,Quality discount 2% a month,March plan,Winters,7947.9489,4913.0230,3034.9259,926.5625,0,test
+APMC Solapur,2021,Quality discount 2% a month,Monthly re-plan,Winters,7947.9489,4913.0230,3034.9259,926.5625,0,test
+APMC Solapur,2021,Selling costs doubled,Past seasons,,6000.2681,4358.3460,1641.9221,857.8368,0,test
+APMC Solapur,2021,Selling costs doubled,Perfect foresight,,8058.6700,4358.3460,3700.3240,807.0142,0,test
+APMC Solapur,2021,Selling costs doubled,March plan,Winters,7846.9363,4358.3460,3488.5903,926.5625,0,test
+APMC Solapur,2021,Selling costs doubled,Monthly re-plan,Winters,7656.1761,4358.3460,3297.8301,997.0887,0,test
+APMC Solapur,2021,Interest 20% a year,Past seasons,,6328.9070,4913.0230,1415.8840,845.2695,0,test
+APMC Solapur,2021,Interest 20% a year,Perfect foresight,,8327.4714,4913.0230,3414.4484,794.5754,0,test
+APMC Solapur,2021,Interest 20% a year,March plan,Winters,8084.4694,4913.0230,3171.4464,911.2244,0,test
+APMC Solapur,2021,Interest 20% a year,Monthly re-plan,Winters,8084.4694,4913.0230,3171.4464,911.2244,0,test
+APMC Solapur,2021,Half the harvest sold for cash,Past seasons,,5892.8581,4913.0230,979.8351,580.6376,0,test
+APMC Solapur,2021,Half the harvest sold for cash,Perfect foresight,,8080.4035,4913.0230,3167.3805,657.7206,0,test
+APMC Solapur,2021,Half the harvest sold for cash,March plan,Winters,7993.5834,4913.0230,3080.5604,700.7327,0,test
+APMC Solapur,2021,Half the harvest sold for cash,Monthly re-plan,Winters,7993.5834,4913.0230,3080.5604,700.7327,0,test
+APMC Solapur,2021,Curing takes 45 days,Past seasons,,6540.3117,4913.0230,1627.2887,857.8368,0,test
+APMC Solapur,2021,Curing takes 45 days,Perfect foresight,,8621.5773,4913.0230,3708.5543,807.0142,0,test
+APMC Solapur,2021,Curing takes 45 days,March plan,Winters,8403.3088,4913.0230,3490.2858,926.5625,0,test
+APMC Solapur,2021,Curing takes 45 days,Monthly re-plan,Winters,8403.3088,4913.0230,3490.2858,926.5625,0,test
+APMC Solapur,2022,Base,Past seasons,,7350.9794,5959.3540,1391.6254,926.5625,0,test
+APMC Solapur,2022,Base,Perfect foresight,,7859.2169,5959.3540,1899.8629,807.0142,0,test
+APMC Solapur,2022,Base,March plan,Winters,7350.9794,5959.3540,1391.6254,926.5625,0,test
+APMC Solapur,2022,Base,Monthly re-plan,Winters,7350.9794,5959.3540,1391.6254,926.5625,0,test
+APMC Solapur,2022,Storage cost doubled,Past seasons,,5493.8163,5959.3540,-465.5377,1715.6735,0,test
+APMC Solapur,2022,Storage cost doubled,Perfect foresight,,7052.2026,5959.3540,1092.8486,1614.0285,0,test
+APMC Solapur,2022,Storage cost doubled,March plan,Winters,6424.4168,5959.3540,465.0628,1853.1251,0,test
+APMC Solapur,2022,Storage cost doubled,Monthly re-plan,Winters,6424.4168,5959.3540,465.0628,1853.1251,0,test
+APMC Solapur,2022,Storage loss 20% over six months,Past seasons,,5770.3391,5959.3540,-189.0149,810.5458,0,test
+APMC Solapur,2022,Storage loss 20% over six months,Perfect foresight,,7354.6692,5959.3540,1395.3152,820.1050,0,test
+APMC Solapur,2022,Storage loss 20% over six months,March plan,Winters,6889.4571,5959.3540,930.1031,899.0239,0,test
+APMC Solapur,2022,Storage loss 20% over six months,Monthly re-plan,Winters,6889.4571,5959.3540,930.1031,899.0239,0,test
+APMC Solapur,2022,Store holds onion seven months,Past seasons,,7350.9794,5959.3540,1391.6254,926.5625,0,test
+APMC Solapur,2022,Store holds onion seven months,Perfect foresight,,8104.7689,5959.3540,2145.4149,1156.5947,0,test
+APMC Solapur,2022,Store holds onion seven months,March plan,Winters,8066.4337,5959.3540,2107.0797,1163.8063,0,test
+APMC Solapur,2022,Store holds onion seven months,Monthly re-plan,Winters,8066.4337,5959.3540,2107.0797,1163.8063,0,test
+APMC Solapur,2022,Store holds onion eight months,Past seasons,,7350.9794,5959.3540,1391.6254,926.5625,0,test
+APMC Solapur,2022,Store holds onion eight months,Perfect foresight,,8104.7689,5959.3540,2145.4149,1156.5947,0,test
+APMC Solapur,2022,Store holds onion eight months,March plan,Winters,7531.7421,5959.3540,1572.3881,1340.0323,0,test
+APMC Solapur,2022,Store holds onion eight months,Monthly re-plan,Winters,8098.1398,5959.3540,2138.7858,1190.8582,0,test
+APMC Solapur,2022,Quality discount 2% a month,Past seasons,,6978.8812,5959.3540,1019.5272,926.5625,0,test
+APMC Solapur,2022,Quality discount 2% a month,Perfect foresight,,7515.2191,5959.3540,1555.8651,807.0142,0,test
+APMC Solapur,2022,Quality discount 2% a month,March plan,Winters,6978.8812,5959.3540,1019.5272,926.5625,0,test
+APMC Solapur,2022,Quality discount 2% a month,Monthly re-plan,Winters,6978.8812,5959.3540,1019.5272,926.5625,0,test
+APMC Solapur,2022,Selling costs doubled,Past seasons,,6805.2365,5394.1080,1411.1285,926.5625,0,test
+APMC Solapur,2022,Selling costs doubled,Perfect foresight,,7304.0103,5394.1080,1909.9023,807.0142,0,test
+APMC Solapur,2022,Selling costs doubled,March plan,Winters,6805.2365,5394.1080,1411.1285,926.5625,0,test
+APMC Solapur,2022,Selling costs doubled,Monthly re-plan,Winters,6630.5421,5394.1080,1236.4341,997.0887,0,test
+APMC Solapur,2022,Interest 20% a year,Past seasons,,7095.1607,5959.3540,1135.8067,911.2244,0,test
+APMC Solapur,2022,Interest 20% a year,Perfect foresight,,7619.3646,5959.3540,1660.0106,794.5754,0,test
+APMC Solapur,2022,Interest 20% a year,March plan,Winters,7095.1607,5959.3540,1135.8067,911.2244,0,test
+APMC Solapur,2022,Interest 20% a year,Monthly re-plan,Winters,7095.1607,5959.3540,1135.8067,911.2244,0,test
+APMC Solapur,2022,Half the harvest sold for cash,Past seasons,,6802.4989,5959.3540,843.1449,624.4167,0,test
+APMC Solapur,2022,Half the harvest sold for cash,Perfect foresight,,7480.6835,5959.3540,1521.3295,657.7206,0,test
+APMC Solapur,2022,Half the harvest sold for cash,March plan,Winters,7252.0413,5959.3540,1292.6873,700.7327,0,test
+APMC Solapur,2022,Half the harvest sold for cash,Monthly re-plan,Winters,7252.0413,5959.3540,1292.6873,700.7327,0,test
+APMC Solapur,2022,Curing takes 45 days,Past seasons,,7350.9794,5959.3540,1391.6254,926.5625,0,test
+APMC Solapur,2022,Curing takes 45 days,Perfect foresight,,7859.2169,5959.3540,1899.8629,807.0142,0,test
+APMC Solapur,2022,Curing takes 45 days,March plan,Winters,7350.9794,5959.3540,1391.6254,926.5625,0,test
+APMC Solapur,2022,Curing takes 45 days,Monthly re-plan,Winters,7350.9794,5959.3540,1391.6254,926.5625,0,test
+APMC Solapur,2023,Base,Past seasons,,10483.1712,3502.4710,6980.7002,926.5625,0,test
+APMC Solapur,2023,Base,Perfect foresight,,11793.6835,3502.4710,8291.2125,997.0887,0,test
+APMC Solapur,2023,Base,March plan,Winters,10483.1712,3502.4710,6980.7002,926.5625,0,test
+APMC Solapur,2023,Base,Monthly re-plan,Winters,10483.1712,3502.4710,6980.7002,926.5625,0,test
+APMC Solapur,2023,Storage cost doubled,Past seasons,,9556.6086,3502.4710,6054.1376,1853.1251,0,test
+APMC Solapur,2023,Storage cost doubled,Perfect foresight,,10796.5948,3502.4710,7294.1238,1994.1774,0,test
+APMC Solapur,2023,Storage cost doubled,March plan,Winters,9556.6086,3502.4710,6054.1376,1853.1251,0,test
+APMC Solapur,2023,Storage cost doubled,Monthly re-plan,Winters,9556.6086,3502.4710,6054.1376,1853.1251,0,test
+APMC Solapur,2023,Storage loss 20% over six months,Past seasons,,9450.4335,3502.4710,5947.9625,888.5879,0,test
+APMC Solapur,2023,Storage loss 20% over six months,Perfect foresight,,10935.0514,3502.4710,7432.5804,974.4333,0,test
+APMC Solapur,2023,Storage loss 20% over six months,March plan,Winters,9621.2917,3502.4710,6118.8207,899.0239,0,test
+APMC Solapur,2023,Storage loss 20% over six months,Monthly re-plan,Winters,9621.2917,3502.4710,6118.8207,899.0239,0,test
+APMC Solapur,2023,Store holds onion seven months,Past seasons,,10792.3045,3502.4710,7289.8335,948.7763,0,test
+APMC Solapur,2023,Store holds onion seven months,Perfect foresight,,14258.4118,3502.4710,10755.9408,1170.8338,0,test
+APMC Solapur,2023,Store holds onion seven months,March plan,Winters,14127.8270,3502.4710,10625.3560,1163.8063,0,test
+APMC Solapur,2023,Store holds onion seven months,Monthly re-plan,Winters,14127.8270,3502.4710,10625.3560,1163.8063,0,test
+APMC Solapur,2023,Store holds onion eight months,Past seasons,,10792.3045,3502.4710,7289.8335,948.7763,0,test
+APMC Solapur,2023,Store holds onion eight months,Perfect foresight,,14258.4118,3502.4710,10755.9408,1170.8338,0,test
+APMC Solapur,2023,Store holds onion eight months,March plan,Winters,12149.4708,3502.4710,8646.9998,1340.0323,0,test
+APMC Solapur,2023,Store holds onion eight months,Monthly re-plan,Winters,14193.0272,3502.4710,10690.5562,1190.8582,0,test
+APMC Solapur,2023,Quality discount 2% a month,Past seasons,,9885.0899,3502.4710,6382.6189,926.5625,0,test
+APMC Solapur,2023,Quality discount 2% a month,Perfect foresight,,11090.6841,3502.4710,7588.2131,997.0887,0,test
+APMC Solapur,2023,Quality discount 2% a month,March plan,Winters,9885.0899,3502.4710,6382.6189,926.5625,0,test
+APMC Solapur,2023,Quality discount 2% a month,Monthly re-plan,Winters,9885.0899,3502.4710,6382.6189,926.5625,0,test
+APMC Solapur,2023,Selling costs doubled,Past seasons,,9905.7900,2962.0420,6943.7480,926.5625,0,test
+APMC Solapur,2023,Selling costs doubled,Perfect foresight,,11205.6192,2962.0420,8243.5772,997.0887,0,test
+APMC Solapur,2023,Selling costs doubled,March plan,Winters,9905.7900,2962.0420,6943.7480,926.5625,0,test
+APMC Solapur,2023,Selling costs doubled,Monthly re-plan,Winters,9905.7900,2962.0420,6943.7480,926.5625,0,test
+APMC Solapur,2023,Interest 20% a year,Past seasons,,10055.8392,3502.4710,6553.3682,911.2244,0,test
+APMC Solapur,2023,Interest 20% a year,Perfect foresight,,11290.5233,3502.4710,7788.0523,979.4665,0,test
+APMC Solapur,2023,Interest 20% a year,March plan,Winters,10055.8392,3502.4710,6553.3682,911.2244,0,test
+APMC Solapur,2023,Interest 20% a year,Monthly re-plan,Winters,10055.8392,3502.4710,6553.3682,911.2244,0,test
+APMC Solapur,2023,Half the harvest sold for cash,Past seasons,,7818.9690,3502.4710,4316.4980,624.4167,0,test
+APMC Solapur,2023,Half the harvest sold for cash,Perfect foresight,,9949.1844,3502.4710,6446.7134,742.6468,0,test
+APMC Solapur,2023,Half the harvest sold for cash,March plan,Winters,9170.3390,3502.4710,5667.8680,700.7327,0,test
+APMC Solapur,2023,Half the harvest sold for cash,Monthly re-plan,Winters,9170.3390,3502.4710,5667.8680,700.7327,0,test
+APMC Solapur,2023,Curing takes 45 days,Past seasons,,10483.1712,3502.4710,6980.7002,926.5625,0,test
+APMC Solapur,2023,Curing takes 45 days,Perfect foresight,,11793.6835,3502.4710,8291.2125,997.0887,0,test
+APMC Solapur,2023,Curing takes 45 days,March plan,Winters,10483.1712,3502.4710,6980.7002,926.5625,0,test
+APMC Solapur,2023,Curing takes 45 days,Monthly re-plan,Winters,10483.1712,3502.4710,6980.7002,926.5625,0,test
+APMC Solapur,2024,Base,Past seasons,,17716.6267,11286.3460,6430.2807,926.5625,0,test
+APMC Solapur,2024,Base,Perfect foresight,,21067.8043,11286.3460,9781.4583,818.6747,0,test
+APMC Solapur,2024,Base,March plan,Winters,18241.3690,11286.3460,6955.0230,997.0887,0,test
+APMC Solapur,2024,Base,Monthly re-plan,Winters,18241.3690,11286.3460,6955.0230,997.0887,0,test
+APMC Solapur,2024,Storage cost doubled,Past seasons,,16790.0642,11286.3460,5503.7182,1853.1251,0,test
+APMC Solapur,2024,Storage cost doubled,Perfect foresight,,20249.1296,11286.3460,8962.7836,1637.3495,0,test
+APMC Solapur,2024,Storage cost doubled,March plan,Winters,16790.0642,11286.3460,5503.7182,1853.1251,0,test
+APMC Solapur,2024,Storage cost doubled,Monthly re-plan,Winters,17244.2803,11286.3460,5957.9343,1994.1774,0,test
+APMC Solapur,2024,Storage loss 20% over six months,Past seasons,,16147.4873,11286.3460,4861.1413,888.5879,0,test
+APMC Solapur,2024,Storage loss 20% over six months,Perfect foresight,,19732.0657,11286.3460,8445.7197,812.6341,0,test
+APMC Solapur,2024,Storage loss 20% over six months,March plan,Winters,15942.1970,11286.3460,4655.8510,899.0239,0,test
+APMC Solapur,2024,Storage loss 20% over six months,Monthly re-plan,Winters,16340.7887,11286.3460,5054.4427,974.4333,0,test
+APMC Solapur,2024,Store holds onion seven months,Past seasons,,14997.3286,11286.3460,3710.9826,1163.8063,0,test
+APMC Solapur,2024,Store holds onion seven months,Perfect foresight,,21067.8043,11286.3460,9781.4583,818.6747,0,test
+APMC Solapur,2024,Store holds onion seven months,March plan,Winters,15049.6161,11286.3460,3763.2701,1170.8338,0,test
+APMC Solapur,2024,Store holds onion seven months,Monthly re-plan,Winters,15049.6161,11286.3460,3763.2701,1170.8338,0,test
+APMC Solapur,2024,Store holds onion eight months,Past seasons,,14997.3286,11286.3460,3710.9826,1163.8063,0,test
+APMC Solapur,2024,Store holds onion eight months,Perfect foresight,,21067.8043,11286.3460,9781.4583,818.6747,0,test
+APMC Solapur,2024,Store holds onion eight months,March plan,Winters,14661.4503,11286.3460,3375.1043,1340.0323,0,test
+APMC Solapur,2024,Store holds onion eight months,Monthly re-plan,Winters,14738.5893,11286.3460,3452.2433,1190.8582,0,test
+APMC Solapur,2024,Quality discount 2% a month,Past seasons,,16923.7421,11286.3460,5637.3961,926.5625,0,test
+APMC Solapur,2024,Quality discount 2% a month,Perfect foresight,,20195.2487,11286.3460,8908.9027,818.6747,0,test
+APMC Solapur,2024,Quality discount 2% a month,March plan,Winters,16923.7421,11286.3460,5637.3961,926.5625,0,test
+APMC Solapur,2024,Quality discount 2% a month,Monthly re-plan,Winters,17336.7461,11286.3460,6050.4001,997.0887,0,test
+APMC Solapur,2024,Selling costs doubled,Past seasons,,17066.1803,10667.2920,6398.8883,926.5625,0,test
+APMC Solapur,2024,Selling costs doubled,Perfect foresight,,20379.6000,10667.2920,9712.3080,818.6747,0,test
+APMC Solapur,2024,Selling costs doubled,March plan,Winters,17588.1766,10667.2920,6920.8846,997.0887,0,test
+APMC Solapur,2024,Selling costs doubled,Monthly re-plan,Winters,17588.1766,10667.2920,6920.8846,997.0887,0,test
+APMC Solapur,2024,Interest 20% a year,Past seasons,,17137.2138,11286.3460,5850.8678,911.2244,0,test
+APMC Solapur,2024,Interest 20% a year,Perfect foresight,,20417.0229,11286.3460,9130.6769,807.3695,0,test
+APMC Solapur,2024,Interest 20% a year,March plan,Winters,17582.9604,11286.3460,6296.6144,979.4665,0,test
+APMC Solapur,2024,Interest 20% a year,Monthly re-plan,Winters,17582.9604,11286.3460,6296.6144,979.4665,0,test
+APMC Solapur,2024,Half the harvest sold for cash,Past seasons,,14962.0126,11286.3460,3675.6666,700.7327,0,test
+APMC Solapur,2024,Half the harvest sold for cash,Perfect foresight,,18568.7723,11286.3460,7282.4263,617.7830,0,test
+APMC Solapur,2024,Half the harvest sold for cash,March plan,Winters,15273.8701,11286.3460,3987.5241,742.6468,0,test
+APMC Solapur,2024,Half the harvest sold for cash,Monthly re-plan,Winters,15273.8701,11286.3460,3987.5241,742.6468,0,test
+APMC Solapur,2024,Curing takes 45 days,Past seasons,,17716.6267,11286.3460,6430.2807,926.5625,0,test
+APMC Solapur,2024,Curing takes 45 days,Perfect foresight,,21067.8043,11286.3460,9781.4583,818.6747,0,test
+APMC Solapur,2024,Curing takes 45 days,March plan,Winters,18241.3690,11286.3460,6955.0230,997.0887,0,test
+APMC Solapur,2024,Curing takes 45 days,Monthly re-plan,Winters,18241.3690,11286.3460,6955.0230,997.0887,0,test
+APMC Solapur,2025,Base,Past seasons,,7493.3498,8171.8060,-678.4562,857.8368,0,test
+APMC Solapur,2025,Base,Perfect foresight,,8385.7345,8171.8060,213.9285,427.5457,0,test
+APMC Solapur,2025,Base,March plan,Winters,7300.7607,8171.8060,-871.0453,997.0887,0,test
+APMC Solapur,2025,Base,Monthly re-plan,Winters,7300.7607,8171.8060,-871.0453,997.0887,0,test
+APMC Solapur,2025,Storage cost doubled,Past seasons,,6635.5130,8171.8060,-1536.2930,1715.6735,0,test
+APMC Solapur,2025,Storage cost doubled,Perfect foresight,,8171.8060,8171.8060,0.0000,0.0000,0,test
+APMC Solapur,2025,Storage cost doubled,March plan,Winters,6303.6720,8171.8060,-1868.1340,1994.1774,0,test
+APMC Solapur,2025,Storage cost doubled,Monthly re-plan,Winters,6303.6720,8171.8060,-1868.1340,1994.1774,0,test
+APMC Solapur,2025,Storage loss 20% over six months,Past seasons,,7034.0238,8171.8060,-1137.7822,810.5458,0,test
+APMC Solapur,2025,Storage loss 20% over six months,Perfect foresight,,8199.0046,8171.8060,27.1986,175.8054,0,test
+APMC Solapur,2025,Storage loss 20% over six months,March plan,Winters,7091.8688,8171.8060,-1079.9372,899.0239,0,test
+APMC Solapur,2025,Storage loss 20% over six months,Monthly re-plan,Winters,6714.0043,8171.8060,-1457.8017,974.4333,0,test
+APMC Solapur,2025,Store holds onion seven months,Past seasons,,7421.4352,8171.8060,-750.3708,870.2301,0,test
+APMC Solapur,2025,Store holds onion seven months,Perfect foresight,,8385.7345,8171.8060,213.9285,427.5457,0,test
+APMC Solapur,2025,Store holds onion seven months,March plan,Winters,6929.1936,8171.8060,-1242.6124,1170.8338,0,test
+APMC Solapur,2025,Store holds onion seven months,Monthly re-plan,Winters,6929.1936,8171.8060,-1242.6124,1170.8338,0,test
+APMC Solapur,2025,Store holds onion eight months,Past seasons,,7421.4352,8171.8060,-750.3708,870.2301,0,test
+APMC Solapur,2025,Store holds onion eight months,Perfect foresight,,8385.7345,8171.8060,213.9285,427.5457,0,test
+APMC Solapur,2025,Store holds onion eight months,March plan,Winters,6731.8718,8171.8060,-1439.9342,1340.0323,0,test
+APMC Solapur,2025,Store holds onion eight months,Monthly re-plan,Winters,6923.9068,8171.8060,-1247.8992,1190.8582,0,test
+APMC Solapur,2025,Quality discount 2% a month,Past seasons,,7193.9062,8171.8060,-977.8998,857.8368,0,test
+APMC Solapur,2025,Quality discount 2% a month,Perfect foresight,,8244.6050,8171.8060,72.7990,170.3641,0,test
+APMC Solapur,2025,Quality discount 2% a month,March plan,Winters,6947.2680,8171.8060,-1224.5380,997.0887,0,test
+APMC Solapur,2025,Quality discount 2% a month,Monthly re-plan,Winters,6947.2680,8171.8060,-1224.5380,997.0887,0,test
+APMC Solapur,2025,Selling costs doubled,Past seasons,,6943.6796,7584.2120,-640.5324,857.8368,0,test
+APMC Solapur,2025,Selling costs doubled,Perfect foresight,,7811.4652,7584.2120,227.2532,427.5457,0,test
+APMC Solapur,2025,Selling costs doubled,March plan,Winters,6758.0795,7584.2120,-826.1325,997.0887,0,test
+APMC Solapur,2025,Selling costs doubled,Monthly re-plan,Winters,6758.0795,7584.2120,-826.1325,997.0887,0,test
+APMC Solapur,2025,Interest 20% a year,Past seasons,,7287.0273,8171.8060,-884.7787,845.2695,0,test
+APMC Solapur,2025,Interest 20% a year,Perfect foresight,,8270.9579,8171.8060,99.1519,424.7904,0,test
+APMC Solapur,2025,Interest 20% a year,March plan,Winters,7062.8219,8171.8060,-1108.9841,979.4665,0,test
+APMC Solapur,2025,Interest 20% a year,Monthly re-plan,Winters,7062.8219,8171.8060,-1108.9841,979.4665,0,test
+APMC Solapur,2025,Half the harvest sold for cash,Past seasons,,7772.8076,8171.8060,-398.9984,580.6376,0,test
+APMC Solapur,2025,Half the harvest sold for cash,Perfect foresight,,8353.7477,8171.8060,181.9417,324.9986,0,test
+APMC Solapur,2025,Half the harvest sold for cash,March plan,Winters,7557.8074,8171.8060,-613.9986,742.6468,0,test
+APMC Solapur,2025,Half the harvest sold for cash,Monthly re-plan,Winters,7557.8074,8171.8060,-613.9986,742.6468,0,test
+APMC Solapur,2025,Curing takes 45 days,Past seasons,,7493.3498,8171.8060,-678.4562,857.8368,0,test
+APMC Solapur,2025,Curing takes 45 days,Perfect foresight,,8385.7345,8171.8060,213.9285,427.5457,0,test
+APMC Solapur,2025,Curing takes 45 days,March plan,Winters,7300.7607,8171.8060,-871.0453,997.0887,0,test
+APMC Solapur,2025,Curing takes 45 days,Monthly re-plan,Winters,7300.7607,8171.8060,-871.0453,997.0887,0,test
+Newasa(Ghodegaon),2020,Base,Past seasons,,12347.0477,9831.3946,2515.6531,857.8368,2,test
+Newasa(Ghodegaon),2020,Base,Perfect foresight,,18375.0231,9831.3946,8543.6285,954.2317,2,test
+Newasa(Ghodegaon),2020,Base,March plan,Winters,12347.0477,9831.3946,2515.6531,857.8368,2,test
+Newasa(Ghodegaon),2020,Base,Monthly re-plan,Winters,18228.8501,9831.3946,8397.4556,997.0887,2,test
+Newasa(Ghodegaon),2020,Storage cost doubled,Past seasons,,11489.2109,9831.3946,1657.8164,1715.6735,2,test
+Newasa(Ghodegaon),2020,Storage cost doubled,Perfect foresight,,17420.7913,9831.3946,7589.3968,1908.4635,2,test
+Newasa(Ghodegaon),2020,Storage cost doubled,March plan,Winters,11489.2109,9831.3946,1657.8164,1715.6735,2,test
+Newasa(Ghodegaon),2020,Storage cost doubled,Monthly re-plan,Winters,11489.2109,9831.3946,1657.8164,1715.6735,2,test
+Newasa(Ghodegaon),2020,Storage loss 20% over six months,Past seasons,,10850.9468,9831.3946,1019.5523,812.6341,2,test
+Newasa(Ghodegaon),2020,Storage loss 20% over six months,Perfect foresight,,17333.5882,9831.3946,7502.1937,974.4333,2,test
+Newasa(Ghodegaon),2020,Storage loss 20% over six months,March plan,Winters,10752.7289,9831.3946,921.3344,810.5458,2,test
+Newasa(Ghodegaon),2020,Storage loss 20% over six months,Monthly re-plan,Winters,10752.7289,9831.3946,921.3344,810.5458,2,test
+Newasa(Ghodegaon),2020,Store holds onion seven months,Past seasons,,12339.2264,9831.3946,2507.8319,870.2301,2,test
+Newasa(Ghodegaon),2020,Store holds onion seven months,Perfect foresight,,21629.7120,9831.3946,11798.3174,1170.8338,2,test
+Newasa(Ghodegaon),2020,Store holds onion seven months,March plan,Winters,14805.7092,9831.3946,4974.3147,1008.8247,2,test
+Newasa(Ghodegaon),2020,Store holds onion seven months,Monthly re-plan,Winters,21629.7120,9831.3946,11798.3174,1170.8338,2,test
+Newasa(Ghodegaon),2020,Store holds onion eight months,Past seasons,,12339.2264,9831.3946,2507.8319,870.2301,2,test
+Newasa(Ghodegaon),2020,Store holds onion eight months,Perfect foresight,,21629.7120,9831.3946,11798.3174,1170.8338,2,test
+Newasa(Ghodegaon),2020,Store holds onion eight months,March plan,Winters,14805.7092,9831.3946,4974.3147,1008.8247,2,test
+Newasa(Ghodegaon),2020,Store holds onion eight months,Monthly re-plan,Winters,21629.7120,9831.3946,11798.3174,1170.8338,2,test
+Newasa(Ghodegaon),2020,Quality discount 2% a month,Past seasons,,11801.0880,9831.3946,1969.6935,857.8368,2,test
+Newasa(Ghodegaon),2020,Quality discount 2% a month,Perfect foresight,,17410.0303,9831.3946,7578.6358,954.2317,2,test
+Newasa(Ghodegaon),2020,Quality discount 2% a month,March plan,Winters,11801.0880,9831.3946,1969.6935,857.8368,2,test
+Newasa(Ghodegaon),2020,Quality discount 2% a month,Monthly re-plan,Winters,11801.0880,9831.3946,1969.6935,857.8368,2,test
+Newasa(Ghodegaon),2020,Selling costs doubled,Past seasons,,11748.3502,9227.0370,2521.3132,857.8368,2,test
+Newasa(Ghodegaon),2020,Selling costs doubled,Perfect foresight,,17718.9284,9227.0370,8491.8913,954.2317,2,test
+Newasa(Ghodegaon),2020,Selling costs doubled,March plan,Winters,11748.3502,9227.0370,2521.3132,857.8368,2,test
+Newasa(Ghodegaon),2020,Selling costs doubled,Monthly re-plan,Winters,17575.7842,9227.0370,8348.7471,997.0887,2,test
+Newasa(Ghodegaon),2020,Interest 20% a year,Past seasons,,11952.8676,9831.3946,2121.4730,845.2695,2,test
+Newasa(Ghodegaon),2020,Interest 20% a year,Perfect foresight,,17672.4829,9831.3946,7841.0883,937.1223,2,test
+Newasa(Ghodegaon),2020,Interest 20% a year,March plan,Winters,11952.8676,9831.3946,2121.4730,845.2695,2,test
+Newasa(Ghodegaon),2020,Interest 20% a year,Monthly re-plan,Winters,11952.8676,9831.3946,2121.4730,845.2695,2,test
+Newasa(Ghodegaon),2020,Half the harvest sold for cash,Past seasons,,11989.4651,9831.3946,2158.0705,617.7830,2,test
+Newasa(Ghodegaon),2020,Half the harvest sold for cash,Perfect foresight,,17009.7540,9831.3946,7178.3595,742.6468,2,test
+Newasa(Ghodegaon),2020,Half the harvest sold for cash,March plan,Winters,10185.7513,9831.3946,354.3567,580.6376,2,test
+Newasa(Ghodegaon),2020,Half the harvest sold for cash,Monthly re-plan,Winters,17009.7540,9831.3946,7178.3595,742.6468,2,test
+Newasa(Ghodegaon),2020,Curing takes 45 days,Past seasons,,12347.0477,9831.3946,2515.6531,857.8368,2,test
+Newasa(Ghodegaon),2020,Curing takes 45 days,Perfect foresight,,18375.0231,9831.3946,8543.6285,954.2317,2,test
+Newasa(Ghodegaon),2020,Curing takes 45 days,March plan,Winters,12347.0477,9831.3946,2515.6531,857.8368,2,test
+Newasa(Ghodegaon),2020,Curing takes 45 days,Monthly re-plan,Winters,18228.8501,9831.3946,8397.4556,997.0887,2,test
+Newasa(Ghodegaon),2021,Base,Past seasons,,13220.6741,7420.0000,5800.6741,997.0887,1,test
+Newasa(Ghodegaon),2021,Base,Perfect foresight,,14071.3093,7420.0000,6651.3093,738.5594,1,test
+Newasa(Ghodegaon),2021,Base,March plan,Winters,13220.6741,7420.0000,5800.6741,997.0887,1,test
+Newasa(Ghodegaon),2021,Base,Monthly re-plan,Winters,13220.6741,7420.0000,5800.6741,997.0887,1,test
+Newasa(Ghodegaon),2021,Storage cost doubled,Past seasons,,12223.5854,7420.0000,4803.5854,1994.1774,1,test
+Newasa(Ghodegaon),2021,Storage cost doubled,Perfect foresight,,13332.7499,7420.0000,5912.7499,1477.1188,1,test
+Newasa(Ghodegaon),2021,Storage cost doubled,March plan,Winters,12223.5854,7420.0000,4803.5854,1994.1774,1,test
+Newasa(Ghodegaon),2021,Storage cost doubled,Monthly re-plan,Winters,12223.5854,7420.0000,4803.5854,1994.1774,1,test
+Newasa(Ghodegaon),2021,Storage loss 20% over six months,Past seasons,,12048.9262,7420.0000,4628.9262,966.4517,1,test
+Newasa(Ghodegaon),2021,Storage loss 20% over six months,Perfect foresight,,13324.6420,7420.0000,5904.6420,738.0215,1,test
+Newasa(Ghodegaon),2021,Storage loss 20% over six months,March plan,Winters,12048.9262,7420.0000,4628.9262,966.4517,1,test
+Newasa(Ghodegaon),2021,Storage loss 20% over six months,Monthly re-plan,Winters,12340.0592,7420.0000,4920.0592,974.4333,1,test
+Newasa(Ghodegaon),2021,Store holds onion seven months,Past seasons,,12103.0152,7420.0000,4683.0152,1097.7057,1,test
+Newasa(Ghodegaon),2021,Store holds onion seven months,Perfect foresight,,14967.8891,7420.0000,7547.8891,1149.1942,1,test
+Newasa(Ghodegaon),2021,Store holds onion seven months,March plan,Winters,14899.2139,7420.0000,7479.2139,1170.8338,1,test
+Newasa(Ghodegaon),2021,Store holds onion seven months,Monthly re-plan,Winters,14899.2139,7420.0000,7479.2139,1170.8338,1,test
+Newasa(Ghodegaon),2021,Store holds onion eight months,Past seasons,,12103.0152,7420.0000,4683.0152,1097.7057,1,test
+Newasa(Ghodegaon),2021,Store holds onion eight months,Perfect foresight,,15197.8469,7420.0000,7777.8469,1264.4809,1,test
+Newasa(Ghodegaon),2021,Store holds onion eight months,March plan,Winters,14899.2139,7420.0000,7479.2139,1170.8338,1,test
+Newasa(Ghodegaon),2021,Store holds onion eight months,Monthly re-plan,Winters,14899.2139,7420.0000,7479.2139,1170.8338,1,test
+Newasa(Ghodegaon),2021,Quality discount 2% a month,Past seasons,,12495.0022,7420.0000,5075.0022,997.0887,1,test
+Newasa(Ghodegaon),2021,Quality discount 2% a month,Perfect foresight,,13472.8494,7420.0000,6052.8494,738.5594,1,test
+Newasa(Ghodegaon),2021,Quality discount 2% a month,March plan,Winters,12495.0022,7420.0000,5075.0022,997.0887,1,test
+Newasa(Ghodegaon),2021,Quality discount 2% a month,Monthly re-plan,Winters,12495.0022,7420.0000,5075.0022,997.0887,1,test
+Newasa(Ghodegaon),2021,Selling costs doubled,Past seasons,,12618.1958,6840.0000,5778.1958,997.0887,1,test
+Newasa(Ghodegaon),2021,Selling costs doubled,Perfect foresight,,13450.8749,6840.0000,6610.8749,738.5594,1,test
+Newasa(Ghodegaon),2021,Selling costs doubled,March plan,Winters,12618.1958,6840.0000,5778.1958,997.0887,1,test
+Newasa(Ghodegaon),2021,Selling costs doubled,Monthly re-plan,Winters,12618.1958,6840.0000,5778.1958,997.0887,1,test
+Newasa(Ghodegaon),2021,Interest 20% a year,Past seasons,,12700.7683,7420.0000,5280.7683,979.4665,1,test
+Newasa(Ghodegaon),2021,Interest 20% a year,Perfect foresight,,13635.7337,7420.0000,6215.7337,727.2382,1,test
+Newasa(Ghodegaon),2021,Interest 20% a year,March plan,Winters,12700.7683,7420.0000,5280.7683,979.4665,1,test
+Newasa(Ghodegaon),2021,Interest 20% a year,Monthly re-plan,Winters,12700.7683,7420.0000,5280.7683,979.4665,1,test
+Newasa(Ghodegaon),2021,Half the harvest sold for cash,Past seasons,,10948.7712,7420.0000,3528.7712,703.5146,1,test
+Newasa(Ghodegaon),2021,Half the harvest sold for cash,Perfect foresight,,12854.6636,7420.0000,5434.6636,613.5817,1,test
+Newasa(Ghodegaon),2021,Half the harvest sold for cash,March plan,Winters,12445.0648,7420.0000,5025.0648,742.6468,1,test
+Newasa(Ghodegaon),2021,Half the harvest sold for cash,Monthly re-plan,Winters,12445.0648,7420.0000,5025.0648,742.6468,1,test
+Newasa(Ghodegaon),2021,Curing takes 45 days,Past seasons,,13220.6741,7420.0000,5800.6741,997.0887,1,test
+Newasa(Ghodegaon),2021,Curing takes 45 days,Perfect foresight,,14071.3093,7420.0000,6651.3093,738.5594,1,test
+Newasa(Ghodegaon),2021,Curing takes 45 days,March plan,Winters,13220.6741,7420.0000,5800.6741,997.0887,1,test
+Newasa(Ghodegaon),2021,Curing takes 45 days,Monthly re-plan,Winters,13220.6741,7420.0000,5800.6741,997.0887,1,test
+Newasa(Ghodegaon),2022,Base,Past seasons,,9110.3071,8390.1010,720.2061,997.0887,0,test
+Newasa(Ghodegaon),2022,Base,Perfect foresight,,9993.8059,8390.1010,1603.7049,807.0142,0,test
+Newasa(Ghodegaon),2022,Base,March plan,Winters,9110.3071,8390.1010,720.2061,997.0887,0,test
+Newasa(Ghodegaon),2022,Base,Monthly re-plan,Winters,9110.3071,8390.1010,720.2061,997.0887,0,test
+Newasa(Ghodegaon),2022,Storage cost doubled,Past seasons,,8113.2184,8390.1010,-276.8826,1994.1774,0,test
+Newasa(Ghodegaon),2022,Storage cost doubled,Perfect foresight,,9186.7917,8390.1010,796.6907,1614.0285,0,test
+Newasa(Ghodegaon),2022,Storage cost doubled,March plan,Winters,8113.2184,8390.1010,-276.8826,1994.1774,0,test
+Newasa(Ghodegaon),2022,Storage cost doubled,Monthly re-plan,Winters,8113.2184,8390.1010,-276.8826,1994.1774,0,test
+Newasa(Ghodegaon),2022,Storage loss 20% over six months,Past seasons,,8447.9388,8390.1010,57.8378,974.4333,0,test
+Newasa(Ghodegaon),2022,Storage loss 20% over six months,Perfect foresight,,9341.8613,8390.1010,951.7603,820.1050,0,test
+Newasa(Ghodegaon),2022,Storage loss 20% over six months,March plan,Winters,8447.9388,8390.1010,57.8378,974.4333,0,test
+Newasa(Ghodegaon),2022,Storage loss 20% over six months,Monthly re-plan,Winters,8447.9388,8390.1010,57.8378,974.4333,0,test
+Newasa(Ghodegaon),2022,Store holds onion seven months,Past seasons,,10536.2799,8390.1010,2146.1789,1170.8338,0,test
+Newasa(Ghodegaon),2022,Store holds onion seven months,Perfect foresight,,10608.2980,8390.1010,2218.1970,1156.5947,0,test
+Newasa(Ghodegaon),2022,Store holds onion seven months,March plan,Winters,10536.2799,8390.1010,2146.1789,1170.8338,0,test
+Newasa(Ghodegaon),2022,Store holds onion seven months,Monthly re-plan,Winters,10536.2799,8390.1010,2146.1789,1170.8338,0,test
+Newasa(Ghodegaon),2022,Store holds onion eight months,Past seasons,,10536.2799,8390.1010,2146.1789,1170.8338,0,test
+Newasa(Ghodegaon),2022,Store holds onion eight months,Perfect foresight,,10608.2980,8390.1010,2218.1970,1156.5947,0,test
+Newasa(Ghodegaon),2022,Store holds onion eight months,March plan,Winters,10604.8805,8390.1010,2214.7795,1190.8582,0,test
+Newasa(Ghodegaon),2022,Store holds onion eight months,Monthly re-plan,Winters,10536.2799,8390.1010,2146.1789,1170.8338,0,test
+Newasa(Ghodegaon),2022,Quality discount 2% a month,Past seasons,,8650.4565,8390.1010,260.3555,997.0887,0,test
+Newasa(Ghodegaon),2022,Quality discount 2% a month,Perfect foresight,,9590.2369,8390.1010,1200.1359,807.0142,0,test
+Newasa(Ghodegaon),2022,Quality discount 2% a month,March plan,Winters,8650.4565,8390.1010,260.3555,997.0887,0,test
+Newasa(Ghodegaon),2022,Quality discount 2% a month,Monthly re-plan,Winters,8650.4565,8390.1010,260.3555,997.0887,0,test
+Newasa(Ghodegaon),2022,Selling costs doubled,Past seasons,,8549.3477,7800.3020,749.0457,997.0887,0,test
+Newasa(Ghodegaon),2022,Selling costs doubled,Perfect foresight,,9417.0378,7800.3020,1616.7358,807.0142,0,test
+Newasa(Ghodegaon),2022,Selling costs doubled,March plan,Winters,8549.3477,7800.3020,749.0457,997.0887,0,test
+Newasa(Ghodegaon),2022,Selling costs doubled,Monthly re-plan,Winters,8549.3477,7800.3020,749.0457,997.0887,0,test
+Newasa(Ghodegaon),2022,Interest 20% a year,Past seasons,,8791.8306,8390.1010,401.7296,979.4665,0,test
+Newasa(Ghodegaon),2022,Interest 20% a year,Perfect foresight,,9708.0870,8390.1010,1317.9860,794.5754,0,test
+Newasa(Ghodegaon),2022,Interest 20% a year,March plan,Winters,8791.8306,8390.1010,401.7296,979.4665,0,test
+Newasa(Ghodegaon),2022,Interest 20% a year,Monthly re-plan,Winters,8791.8306,8390.1010,401.7296,979.4665,0,test
+Newasa(Ghodegaon),2022,Half the harvest sold for cash,Past seasons,,9192.7766,8390.1010,802.6756,742.6468,0,test
+Newasa(Ghodegaon),2022,Half the harvest sold for cash,Perfect foresight,,9622.3130,8390.1010,1232.2120,657.7206,0,test
+Newasa(Ghodegaon),2022,Half the harvest sold for cash,March plan,Winters,9192.7766,8390.1010,802.6756,742.6468,0,test
+Newasa(Ghodegaon),2022,Half the harvest sold for cash,Monthly re-plan,Winters,9192.7766,8390.1010,802.6756,742.6468,0,test
+Newasa(Ghodegaon),2022,Curing takes 45 days,Past seasons,,9110.3071,8390.1010,720.2061,997.0887,0,test
+Newasa(Ghodegaon),2022,Curing takes 45 days,Perfect foresight,,9993.8059,8390.1010,1603.7049,807.0142,0,test
+Newasa(Ghodegaon),2022,Curing takes 45 days,March plan,Winters,9110.3071,8390.1010,720.2061,997.0887,0,test
+Newasa(Ghodegaon),2022,Curing takes 45 days,Monthly re-plan,Winters,9110.3071,8390.1010,720.2061,997.0887,0,test
+Newasa(Ghodegaon),2023,Base,Past seasons,,14396.2429,5594.6380,8801.6049,997.0887,0,test
+Newasa(Ghodegaon),2023,Base,Perfect foresight,,14396.2429,5594.6380,8801.6049,997.0887,0,test
+Newasa(Ghodegaon),2023,Base,March plan,Winters,14396.2429,5594.6380,8801.6049,997.0887,0,test
+Newasa(Ghodegaon),2023,Base,Monthly re-plan,Winters,14396.2429,5594.6380,8801.6049,997.0887,0,test
+Newasa(Ghodegaon),2023,Storage cost doubled,Past seasons,,13399.1542,5594.6380,7804.5162,1994.1774,0,test
+Newasa(Ghodegaon),2023,Storage cost doubled,Perfect foresight,,13399.1542,5594.6380,7804.5162,1994.1774,0,test
+Newasa(Ghodegaon),2023,Storage cost doubled,March plan,Winters,13399.1542,5594.6380,7804.5162,1994.1774,0,test
+Newasa(Ghodegaon),2023,Storage cost doubled,Monthly re-plan,Winters,13399.1542,5594.6380,7804.5162,1994.1774,0,test
+Newasa(Ghodegaon),2023,Storage loss 20% over six months,Past seasons,,13346.0410,5594.6380,7751.4030,974.4333,0,test
+Newasa(Ghodegaon),2023,Storage loss 20% over six months,Perfect foresight,,13346.0410,5594.6380,7751.4030,974.4333,0,test
+Newasa(Ghodegaon),2023,Storage loss 20% over six months,March plan,Winters,13346.0410,5594.6380,7751.4030,974.4333,0,test
+Newasa(Ghodegaon),2023,Storage loss 20% over six months,Monthly re-plan,Winters,13346.0410,5594.6380,7751.4030,974.4333,0,test
+Newasa(Ghodegaon),2023,Store holds onion seven months,Past seasons,,18780.0076,5594.6380,13185.3696,1170.8338,0,test
+Newasa(Ghodegaon),2023,Store holds onion seven months,Perfect foresight,,18780.0076,5594.6380,13185.3696,1170.8338,0,test
+Newasa(Ghodegaon),2023,Store holds onion seven months,March plan,Winters,18780.0076,5594.6380,13185.3696,1170.8338,0,test
+Newasa(Ghodegaon),2023,Store holds onion seven months,Monthly re-plan,Winters,18780.0076,5594.6380,13185.3696,1170.8338,0,test
+Newasa(Ghodegaon),2023,Store holds onion eight months,Past seasons,,18780.0076,5594.6380,13185.3696,1170.8338,0,test
+Newasa(Ghodegaon),2023,Store holds onion eight months,Perfect foresight,,18780.0076,5594.6380,13185.3696,1170.8338,0,test
+Newasa(Ghodegaon),2023,Store holds onion eight months,March plan,Winters,18767.8311,5594.6380,13173.1931,1190.8582,0,test
+Newasa(Ghodegaon),2023,Store holds onion eight months,Monthly re-plan,Winters,18780.0076,5594.6380,13185.3696,1170.8338,0,test
+Newasa(Ghodegaon),2023,Quality discount 2% a month,Past seasons,,13573.6555,5594.6380,7979.0175,997.0887,0,test
+Newasa(Ghodegaon),2023,Quality discount 2% a month,Perfect foresight,,13573.6555,5594.6380,7979.0175,997.0887,0,test
+Newasa(Ghodegaon),2023,Quality discount 2% a month,March plan,Winters,13573.6555,5594.6380,7979.0175,997.0887,0,test
+Newasa(Ghodegaon),2023,Quality discount 2% a month,Monthly re-plan,Winters,13573.6555,5594.6380,7979.0175,997.0887,0,test
+Newasa(Ghodegaon),2023,Selling costs doubled,Past seasons,,13781.8902,5033.0760,8748.8142,997.0887,0,test
+Newasa(Ghodegaon),2023,Selling costs doubled,Perfect foresight,,13781.8902,5033.0760,8748.8142,997.0887,0,test
+Newasa(Ghodegaon),2023,Selling costs doubled,March plan,Winters,13781.8902,5033.0760,8748.8142,997.0887,0,test
+Newasa(Ghodegaon),2023,Selling costs doubled,Monthly re-plan,Winters,13781.8902,5033.0760,8748.8142,997.0887,0,test
+Newasa(Ghodegaon),2023,Interest 20% a year,Past seasons,,13802.5083,5594.6380,8207.8703,979.4665,0,test
+Newasa(Ghodegaon),2023,Interest 20% a year,Perfect foresight,,13802.5083,5594.6380,8207.8703,979.4665,0,test
+Newasa(Ghodegaon),2023,Interest 20% a year,March plan,Winters,13802.5083,5594.6380,8207.8703,979.4665,0,test
+Newasa(Ghodegaon),2023,Interest 20% a year,Monthly re-plan,Winters,13802.5083,5594.6380,8207.8703,979.4665,0,test
+Newasa(Ghodegaon),2023,Half the harvest sold for cash,Past seasons,,12682.1343,5594.6380,7087.4963,742.6468,0,test
+Newasa(Ghodegaon),2023,Half the harvest sold for cash,Perfect foresight,,12682.1343,5594.6380,7087.4963,742.6468,0,test
+Newasa(Ghodegaon),2023,Half the harvest sold for cash,March plan,Winters,12682.1343,5594.6380,7087.4963,742.6468,0,test
+Newasa(Ghodegaon),2023,Half the harvest sold for cash,Monthly re-plan,Winters,12682.1343,5594.6380,7087.4963,742.6468,0,test
+Newasa(Ghodegaon),2023,Curing takes 45 days,Past seasons,,14396.2429,5594.6380,8801.6049,997.0887,0,test
+Newasa(Ghodegaon),2023,Curing takes 45 days,Perfect foresight,,14396.2429,5594.6380,8801.6049,997.0887,0,test
+Newasa(Ghodegaon),2023,Curing takes 45 days,March plan,Winters,14396.2429,5594.6380,8801.6049,997.0887,0,test
+Newasa(Ghodegaon),2023,Curing takes 45 days,Monthly re-plan,Winters,14396.2429,5594.6380,8801.6049,997.0887,0,test
+Newasa(Ghodegaon),2024,Base,Past seasons,,22597.9892,10482.1690,12115.8202,997.0887,0,test
+Newasa(Ghodegaon),2024,Base,Perfect foresight,,22597.9892,10482.1690,12115.8202,997.0887,0,test
+Newasa(Ghodegaon),2024,Base,March plan,Winters,22597.9892,10482.1690,12115.8202,997.0887,0,test
+Newasa(Ghodegaon),2024,Base,Monthly re-plan,Winters,22597.9892,10482.1690,12115.8202,997.0887,0,test
+Newasa(Ghodegaon),2024,Storage cost doubled,Past seasons,,21600.9006,10482.1690,11118.7316,1994.1774,0,test
+Newasa(Ghodegaon),2024,Storage cost doubled,Perfect foresight,,21600.9006,10482.1690,11118.7316,1994.1774,0,test
+Newasa(Ghodegaon),2024,Storage cost doubled,March plan,Winters,21600.9006,10482.1690,11118.7316,1994.1774,0,test
+Newasa(Ghodegaon),2024,Storage cost doubled,Monthly re-plan,Winters,21600.9006,10482.1690,11118.7316,1994.1774,0,test
+Newasa(Ghodegaon),2024,Storage loss 20% over six months,Past seasons,,20749.1890,10482.1690,10267.0200,974.4333,0,test
+Newasa(Ghodegaon),2024,Storage loss 20% over six months,Perfect foresight,,20749.1890,10482.1690,10267.0200,974.4333,0,test
+Newasa(Ghodegaon),2024,Storage loss 20% over six months,March plan,Winters,20749.1890,10482.1690,10267.0200,974.4333,0,test
+Newasa(Ghodegaon),2024,Storage loss 20% over six months,Monthly re-plan,Winters,20749.1890,10482.1690,10267.0200,974.4333,0,test
+Newasa(Ghodegaon),2024,Store holds onion seven months,Past seasons,,25052.4190,10482.1690,14570.2500,1170.8338,0,test
+Newasa(Ghodegaon),2024,Store holds onion seven months,Perfect foresight,,25052.4190,10482.1690,14570.2500,1170.8338,0,test
+Newasa(Ghodegaon),2024,Store holds onion seven months,March plan,Winters,25052.4190,10482.1690,14570.2500,1170.8338,0,test
+Newasa(Ghodegaon),2024,Store holds onion seven months,Monthly re-plan,Winters,25052.4190,10482.1690,14570.2500,1170.8338,0,test
+Newasa(Ghodegaon),2024,Store holds onion eight months,Past seasons,,25052.4190,10482.1690,14570.2500,1170.8338,0,test
+Newasa(Ghodegaon),2024,Store holds onion eight months,Perfect foresight,,25052.4190,10482.1690,14570.2500,1170.8338,0,test
+Newasa(Ghodegaon),2024,Store holds onion eight months,March plan,Winters,24935.5700,10482.1690,14453.4010,1190.8582,0,test
+Newasa(Ghodegaon),2024,Store holds onion eight months,Monthly re-plan,Winters,24935.5700,10482.1690,14453.4010,1190.8582,0,test
+Newasa(Ghodegaon),2024,Quality discount 2% a month,Past seasons,,21399.2175,10482.1690,10917.0485,997.0887,0,test
+Newasa(Ghodegaon),2024,Quality discount 2% a month,Perfect foresight,,21399.2175,10482.1690,10917.0485,997.0887,0,test
+Newasa(Ghodegaon),2024,Quality discount 2% a month,March plan,Winters,21399.2175,10482.1690,10917.0485,997.0887,0,test
+Newasa(Ghodegaon),2024,Quality discount 2% a month,Monthly re-plan,Winters,21399.2175,10482.1690,10917.0485,997.0887,0,test
+Newasa(Ghodegaon),2024,Selling costs doubled,Past seasons,,21900.7906,9871.2380,12029.5526,997.0887,0,test
+Newasa(Ghodegaon),2024,Selling costs doubled,Perfect foresight,,21900.7906,9871.2380,12029.5526,997.0887,0,test
+Newasa(Ghodegaon),2024,Selling costs doubled,March plan,Winters,21900.7906,9871.2380,12029.5526,997.0887,0,test
+Newasa(Ghodegaon),2024,Selling costs doubled,Monthly re-plan,Winters,21900.7906,9871.2380,12029.5526,997.0887,0,test
+Newasa(Ghodegaon),2024,Interest 20% a year,Past seasons,,21717.5584,10482.1690,11235.3894,979.4665,0,test
+Newasa(Ghodegaon),2024,Interest 20% a year,Perfect foresight,,21717.5584,10482.1690,11235.3894,979.4665,0,test
+Newasa(Ghodegaon),2024,Interest 20% a year,March plan,Winters,21717.5584,10482.1690,11235.3894,979.4665,0,test
+Newasa(Ghodegaon),2024,Interest 20% a year,Monthly re-plan,Winters,21717.5584,10482.1690,11235.3894,979.4665,0,test
+Newasa(Ghodegaon),2024,Half the harvest sold for cash,Past seasons,,19500.4443,10482.1690,9018.2753,742.6468,0,test
+Newasa(Ghodegaon),2024,Half the harvest sold for cash,Perfect foresight,,19500.4443,10482.1690,9018.2753,742.6468,0,test
+Newasa(Ghodegaon),2024,Half the harvest sold for cash,March plan,Winters,19500.4443,10482.1690,9018.2753,742.6468,0,test
+Newasa(Ghodegaon),2024,Half the harvest sold for cash,Monthly re-plan,Winters,19500.4443,10482.1690,9018.2753,742.6468,0,test
+Newasa(Ghodegaon),2024,Curing takes 45 days,Past seasons,,22597.9892,10482.1690,12115.8202,997.0887,0,test
+Newasa(Ghodegaon),2024,Curing takes 45 days,Perfect foresight,,22597.9892,10482.1690,12115.8202,997.0887,0,test
+Newasa(Ghodegaon),2024,Curing takes 45 days,March plan,Winters,22597.9892,10482.1690,12115.8202,997.0887,0,test
+Newasa(Ghodegaon),2024,Curing takes 45 days,Monthly re-plan,Winters,22597.9892,10482.1690,12115.8202,997.0887,0,test
+Newasa(Ghodegaon),2025,Base,Past seasons,,7204.2415,9640.9660,-2436.7245,997.0887,0,test
+Newasa(Ghodegaon),2025,Base,Perfect foresight,,10430.1711,9640.9660,789.2051,170.3641,0,test
+Newasa(Ghodegaon),2025,Base,March plan,Winters,7204.2415,9640.9660,-2436.7245,997.0887,0,test
+Newasa(Ghodegaon),2025,Base,Monthly re-plan,Winters,7204.2415,9640.9660,-2436.7245,997.0887,0,test
+Newasa(Ghodegaon),2025,Storage cost doubled,Past seasons,,6207.1528,9640.9660,-3433.8132,1994.1774,0,test
+Newasa(Ghodegaon),2025,Storage cost doubled,Perfect foresight,,10259.8071,9640.9660,618.8411,340.7282,0,test
+Newasa(Ghodegaon),2025,Storage cost doubled,March plan,Winters,6207.1528,9640.9660,-3433.8132,1994.1774,0,test
+Newasa(Ghodegaon),2025,Storage cost doubled,Monthly re-plan,Winters,6207.1528,9640.9660,-3433.8132,1994.1774,0,test
+Newasa(Ghodegaon),2025,Storage loss 20% over six months,Past seasons,,6568.9671,9640.9660,-3071.9989,974.4333,0,test
+Newasa(Ghodegaon),2025,Storage loss 20% over six months,Perfect foresight,,10306.5858,9640.9660,665.6198,175.8054,0,test
+Newasa(Ghodegaon),2025,Storage loss 20% over six months,March plan,Winters,6568.9671,9640.9660,-3071.9989,974.4333,0,test
+Newasa(Ghodegaon),2025,Storage loss 20% over six months,Monthly re-plan,Winters,6568.9671,9640.9660,-3071.9989,974.4333,0,test
+Newasa(Ghodegaon),2025,Store holds onion seven months,Past seasons,,7078.8539,9640.9660,-2562.1121,1170.8338,0,test
+Newasa(Ghodegaon),2025,Store holds onion seven months,Perfect foresight,,10430.1711,9640.9660,789.2051,170.3641,0,test
+Newasa(Ghodegaon),2025,Store holds onion seven months,March plan,Winters,7078.8539,9640.9660,-2562.1121,1170.8338,0,test
+Newasa(Ghodegaon),2025,Store holds onion seven months,Monthly re-plan,Winters,7078.8539,9640.9660,-2562.1121,1170.8338,0,test
+Newasa(Ghodegaon),2025,Store holds onion eight months,Past seasons,,7078.8539,9640.9660,-2562.1121,1170.8338,0,test
+Newasa(Ghodegaon),2025,Store holds onion eight months,Perfect foresight,,10430.1711,9640.9660,789.2051,170.3641,0,test
+Newasa(Ghodegaon),2025,Store holds onion eight months,March plan,Winters,7141.9567,9640.9660,-2499.0093,1190.8582,0,test
+Newasa(Ghodegaon),2025,Store holds onion eight months,Monthly re-plan,Winters,7078.8539,9640.9660,-2562.1121,1170.8338,0,test
+Newasa(Ghodegaon),2025,Quality discount 2% a month,Past seasons,,6884.5861,9640.9660,-2756.3799,997.0887,0,test
+Newasa(Ghodegaon),2025,Quality discount 2% a month,Perfect foresight,,10346.5904,9640.9660,705.6244,170.3641,0,test
+Newasa(Ghodegaon),2025,Quality discount 2% a month,March plan,Winters,6884.5861,9640.9660,-2756.3799,997.0887,0,test
+Newasa(Ghodegaon),2025,Quality discount 2% a month,Monthly re-plan,Winters,6884.5861,9640.9660,-2756.3799,997.0887,0,test
+Newasa(Ghodegaon),2025,Selling costs doubled,Past seasons,,6662.5353,9038.5320,-2375.9967,997.0887,0,test
+Newasa(Ghodegaon),2025,Selling costs doubled,Perfect foresight,,9825.9359,9038.5320,787.4039,170.3641,0,test
+Newasa(Ghodegaon),2025,Selling costs doubled,March plan,Winters,6662.5353,9038.5320,-2375.9967,997.0887,0,test
+Newasa(Ghodegaon),2025,Selling costs doubled,Monthly re-plan,Winters,6662.5353,9038.5320,-2375.9967,997.0887,0,test
+Newasa(Ghodegaon),2025,Interest 20% a year,Past seasons,,6991.8844,9640.9660,-2649.0816,979.4665,0,test
+Newasa(Ghodegaon),2025,Interest 20% a year,Perfect foresight,,10366.3999,9640.9660,725.4339,169.6749,0,test
+Newasa(Ghodegaon),2025,Interest 20% a year,March plan,Winters,6991.8844,9640.9660,-2649.0816,979.4665,0,test
+Newasa(Ghodegaon),2025,Interest 20% a year,Monthly re-plan,Winters,6991.8844,9640.9660,-2649.0816,979.4665,0,test
+Newasa(Ghodegaon),2025,Half the harvest sold for cash,Past seasons,,7773.0152,9640.9660,-1867.9508,742.6468,0,test
+Newasa(Ghodegaon),2025,Half the harvest sold for cash,Perfect foresight,,10430.1711,9640.9660,789.2051,170.3641,0,test
+Newasa(Ghodegaon),2025,Half the harvest sold for cash,March plan,Winters,7773.0152,9640.9660,-1867.9508,742.6468,0,test
+Newasa(Ghodegaon),2025,Half the harvest sold for cash,Monthly re-plan,Winters,7773.0152,9640.9660,-1867.9508,742.6468,0,test
+Newasa(Ghodegaon),2025,Curing takes 45 days,Past seasons,,7204.2415,9640.9660,-2436.7245,997.0887,0,test
+Newasa(Ghodegaon),2025,Curing takes 45 days,Perfect foresight,,10430.1711,9640.9660,789.2051,170.3641,0,test
+Newasa(Ghodegaon),2025,Curing takes 45 days,March plan,Winters,7204.2415,9640.9660,-2436.7245,997.0887,0,test
+Newasa(Ghodegaon),2025,Curing takes 45 days,Monthly re-plan,Winters,7204.2415,9640.9660,-2436.7245,997.0887,0,test

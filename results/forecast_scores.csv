@@ -1,49 +1,65 @@
 split,market,model,mae_rs_q,mean_price_rs_q,origins,relative_mae
 test,APMC Pimpalgaon Baswant,ARIMA,1433.6087,1920.6452,March,0.7464
 test,APMC Pimpalgaon Baswant,No change,827.4996,1920.6452,March,0.4308
+test,APMC Pimpalgaon Baswant,Past-seasons average,659.0269,1920.6452,March,0.3431
 test,APMC Pimpalgaon Baswant,Winters,738.2433,1920.6452,March,0.3844
 test,APMC Pune,ARIMA,1391.1063,1609.1407,March,0.8645
 test,APMC Pune,No change,665.9831,1609.1407,March,0.4139
+test,APMC Pune,Past-seasons average,555.2770,1609.1407,March,0.3451
 test,APMC Pune,Winters,864.6748,1609.1407,March,0.5374
 test,APMC Solapur,ARIMA,1199.5804,1381.0940,March,0.8686
 test,APMC Solapur,No change,604.0077,1381.0940,March,0.4373
+test,APMC Solapur,Past-seasons average,489.6500,1381.0940,March,0.3545
 test,APMC Solapur,Winters,679.5755,1381.0940,March,0.4921
 test,Newasa(Ghodegaon),ARIMA,1576.2188,1832.4653,March,0.8602
 test,Newasa(Ghodegaon),No change,849.7673,1832.4653,March,0.4637
+test,Newasa(Ghodegaon),Past-seasons average,660.7586,1832.4653,March,0.3606
 test,Newasa(Ghodegaon),Winters,867.1604,1832.4653,March,0.4732
 validation,APMC Pimpalgaon Baswant,ARIMA,1120.6692,1512.3763,March,0.7410
 validation,APMC Pimpalgaon Baswant,No change,824.6957,1512.3763,March,0.5453
+validation,APMC Pimpalgaon Baswant,Past-seasons average,758.3064,1512.3763,March,0.5014
 validation,APMC Pimpalgaon Baswant,Winters,785.9452,1512.3763,March,0.5197
 validation,APMC Pune,ARIMA,1013.2028,1508.3356,March,0.6717
 validation,APMC Pune,No change,857.2957,1508.3356,March,0.5684
+validation,APMC Pune,Past-seasons average,706.5856,1508.3356,March,0.4685
 validation,APMC Pune,Winters,609.9288,1508.3356,March,0.4044
 validation,APMC Solapur,ARIMA,699.7595,1116.7668,March,0.6266
 validation,APMC Solapur,No change,566.9917,1116.7668,March,0.5077
+validation,APMC Solapur,Past-seasons average,515.7277,1116.7668,March,0.4618
 validation,APMC Solapur,Winters,493.8319,1116.7668,March,0.4422
 validation,Newasa(Ghodegaon),ARIMA,1037.2459,1521.2404,March,0.6818
 validation,Newasa(Ghodegaon),No change,829.6398,1521.2404,March,0.5454
+validation,Newasa(Ghodegaon),Past-seasons average,693.6595,1521.2404,March,0.4560
 validation,Newasa(Ghodegaon),Winters,706.5762,1521.2404,March,0.4645
 test,APMC Pimpalgaon Baswant,ARIMA,1127.1681,2218.9744,All,0.5080
 test,APMC Pimpalgaon Baswant,No change,891.1142,2218.9744,All,0.4016
+test,APMC Pimpalgaon Baswant,Past-seasons average,766.1585,2218.9744,All,0.3453
 test,APMC Pimpalgaon Baswant,Winters,680.3620,2218.9744,All,0.3066
 test,APMC Pune,ARIMA,1056.2478,1861.9278,All,0.5673
 test,APMC Pune,No change,727.0356,1861.9278,All,0.3905
+test,APMC Pune,Past-seasons average,673.0535,1861.9278,All,0.3615
 test,APMC Pune,Winters,639.8732,1861.9278,All,0.3437
 test,APMC Solapur,ARIMA,945.2186,1586.1015,All,0.5959
 test,APMC Solapur,No change,628.3985,1586.1015,All,0.3962
+test,APMC Solapur,Past-seasons average,550.7490,1586.1015,All,0.3472
 test,APMC Solapur,Winters,578.9048,1586.1015,All,0.3650
 test,Newasa(Ghodegaon),ARIMA,1208.5933,2137.3718,All,0.5655
 test,Newasa(Ghodegaon),No change,932.8029,2137.3718,All,0.4364
+test,Newasa(Ghodegaon),Past-seasons average,801.2185,2137.3718,All,0.3749
 test,Newasa(Ghodegaon),Winters,733.5544,2137.3718,All,0.3432
 validation,APMC Pimpalgaon Baswant,ARIMA,1305.3095,1759.3354,All,0.7419
 validation,APMC Pimpalgaon Baswant,No change,888.9001,1759.3354,All,0.5052
+validation,APMC Pimpalgaon Baswant,Past-seasons average,949.6597,1759.3354,All,0.5398
 validation,APMC Pimpalgaon Baswant,Winters,868.0825,1759.3354,All,0.4934
 validation,APMC Pune,ARIMA,1143.4662,1751.7825,All,0.6527
 validation,APMC Pune,No change,834.3226,1751.7825,All,0.4763
+validation,APMC Pune,Past-seasons average,873.4304,1751.7825,All,0.4986
 validation,APMC Pune,Winters,722.4824,1751.7825,All,0.4124
 validation,APMC Solapur,ARIMA,745.1522,1277.4485,All,0.5833
 validation,APMC Solapur,No change,595.9606,1277.4485,All,0.4665
+validation,APMC Solapur,Past-seasons average,624.3671,1277.4485,All,0.4888
 validation,APMC Solapur,Winters,538.4304,1277.4485,All,0.4215
 validation,Newasa(Ghodegaon),ARIMA,1224.8657,1783.3054,All,0.6869
 validation,Newasa(Ghodegaon),No change,857.9614,1783.3054,All,0.4811
+validation,Newasa(Ghodegaon),Past-seasons average,895.4139,1783.3054,All,0.5021
 validation,Newasa(Ghodegaon),Winters,779.9023,1783.3054,All,0.4373
