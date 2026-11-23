@@ -1,7 +1,7 @@
 # When Should Onion Farmers Sell?
 Price Forecasting and Sell-or-Store Planning
 
-TEAM_I40_T3_2026 | MS4001 Industry 4.0 | IIT Madras BS
+Kanda Code | MS4001 Industry 4.0 | IIT Madras BS
 
 ## 1. Problem statement
 

@@ -23,7 +23,7 @@ from reportlab.platypus import (Image, KeepTogether, PageBreak, Paragraph, Simpl
 root = Path(__file__).resolve().parent
 parser = argparse.ArgumentParser()
 parser.add_argument("--report", type=Path, default=root / "report.md")
-parser.add_argument("--output", type=Path, default=root / "TEAM_I40_T3_2026.pdf")
+parser.add_argument("--output", type=Path, default=root / "Kanda Code.pdf")
 args = parser.parse_args()
 fonts = Path(os.environ.get("TNR_FONT_DIR", "/System/Library/Fonts/Supplemental"))
 for name, file in (("TNR", "Times New Roman"), ("TNR-Bold", "Times New Roman Bold"),
@@ -98,7 +98,7 @@ for line in args.report.read_text().replace("–", "-").splitlines() + [""]:
 
 def footer(canvas, doc):
     canvas.setFont("TNR", 11)
-    canvas.drawString(MARGIN, 26, "TEAM_I40_T3_2026 | MS4001")
+    canvas.drawString(MARGIN, 26, "Kanda Code | MS4001")
     canvas.drawRightString(A4[0] - MARGIN, 26, f"{doc.page} / 3")
 
 

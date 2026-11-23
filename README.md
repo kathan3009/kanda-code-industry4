@@ -1,6 +1,6 @@
 # Kanda Code
 
-Kanda Code is the group project of team TEAM_I40_T3_2026 for Industry 4.0 (MS4001) at IIT Madras. It answers one question: when should onion farmers sell? Rabi onion, harvested in April when prices are lowest, is the part of India's crop that is stored, and Maharashtra grows about 30% of it. For a farmer group in each of the state's four main onion districts (Nashik, Ahilyanagar, Pune and Solapur), we forecast monthly mandi prices and plan how much to sell each month from April to December after storage loss, quality loss, storage cost, selling costs, interest, cash needs and handling limits.
+Kanda Code is our group project for Industry 4.0 (MS4001) at IIT Madras. It answers one question: when should onion farmers sell? Rabi onion, harvested in April when prices are lowest, is the part of India's crop that is stored, and Maharashtra grows about 30% of it. For a farmer group in each of the state's four main onion districts (Nashik, Ahilyanagar, Pune and Solapur), we forecast monthly mandi prices and plan how much to sell each month from April to December after storage loss, quality loss, storage cost, selling costs, interest, cash needs and handling limits.
 
 The analysis tests three hypotheses, one per research question:
 
